@@ -12,8 +12,10 @@ class EntireCorpus(object):
 	def __iter__(self):
 		for bookfile_name in os.listdir(self.root_dir):
 			bookfile_dir = os.path.join(self.root_dir, bookfile_name)
+			if not os.path.isdir(bookfile_dir):
+				continue
 			for textfile_name in os.listdir(bookfile_dir):
-				# only use the .txt files, not the csv metadata
+				# only use the .txt files, not the csv metadata)
 				if textfile_name[-3:] == "txt":
 					textfile = os.path.join(bookfile_dir, textfile_name)
 					# this is used to 
