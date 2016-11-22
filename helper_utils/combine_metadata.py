@@ -11,6 +11,8 @@ with open(final_file, 'wb') as final_obj:
 	writer = csv.writer(final_obj)
 	writer.writerow(['book','characterName','listFile', 'analysisFile'])
 	for bookfile_name in os.listdir(book_dir):
+		if bookfile_name == '.DS_Store':
+			continue
 		bookfile_dir = os.path.join(book_dir, bookfile_name)
 		metadata_file = os.path.join(bookfile_dir, 'meta_data.csv')
 		print metadata_file
