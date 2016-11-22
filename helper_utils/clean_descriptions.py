@@ -86,6 +86,8 @@ def generate_cleaned_descriptions(root_dir, write_cleaned_versions=False):
 					char_string = row[0]
 					char_list_file = row[1] 
 					char_analysis_file = row[2]
+					print metadata_file
+					print char_list_file
 					with codecs.open(char_list_file, mode='r', encoding='utf-8', errors='ignore') as fp:
 						text = fp.read()
 						cleaned_list = remove_name_from_description(char_string, text)
