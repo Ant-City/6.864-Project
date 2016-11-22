@@ -1,0 +1,6 @@
+
+
+[CHARACTER]([CHARACTER]) - 
+a german mathematician. riemann's geometrical studies
+were foundational to einstein's theory of relativity.
+                

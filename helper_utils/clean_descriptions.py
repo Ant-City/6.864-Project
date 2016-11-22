@@ -66,6 +66,8 @@ character_0_analysis.txt -> character_0_analysis_cleaned.txt
 """
 def generate_cleaned_descriptions(root_dir, write_cleaned_versions=False):
 	for bookfile_name in os.listdir(root_dir):
+		if bookfile_name == '.DS_Store':
+			continue
 		bookfile_dir = os.path.join(root_dir, bookfile_name)
 		metadata_file = os.path.join(bookfile_dir, 'meta_data.csv')
 		#print metadata_file

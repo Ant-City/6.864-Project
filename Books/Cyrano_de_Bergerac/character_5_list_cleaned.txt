@@ -1,0 +1,8 @@
+
+
+[CHARACTER]  - 
+                	cyrano's
+friend and closest confidant. he is a fellow soldier and guardsman.
+[CHARACTER] worries that cyrano's principles will ruin his career, but
+cyrano ignores [CHARACTER]'s concerns.
+            

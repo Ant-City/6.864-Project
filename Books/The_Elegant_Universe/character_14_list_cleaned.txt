@@ -1,0 +1,9 @@
+
+
+[CHARACTER]([CHARACTER]) - 
+a german mathematician. in 1919, kaluza proposed
+that the universe might contain more than three spatial dimensions.
+kaluza's theory was considered outlandish, and it took einstein
+several years to consider kaluza's theory seriously, but string theorists
+today find it remarkably prescient.
+                

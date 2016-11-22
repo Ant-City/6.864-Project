@@ -1,0 +1,12 @@
+
+
+[CHARACTER]([CHARACTER]) - 
+a scottish physicist. maxwell developed the set of
+four equations that became the basis of electromagnetic theory,
+the single force unifying electricity and magnetism. maxwell's work had
+a huge influence on twentieth-century physics, and he is ranked
+alongside isaac newton and albert einstein for the scope of his
+contributions. maxwell's field equations prompted max planck to
+formulate the quantum hypothesis--the theory that radiant-heat energy
+is emitted only in finite quantities, or quanta.
+                

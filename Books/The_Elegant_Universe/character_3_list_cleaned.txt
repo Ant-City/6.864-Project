@@ -1,0 +1,9 @@
+
+
+sir[CHARACTER]([CHARACTER]) - 
+an english physicist. eddington tested einstein's
+theory of general relativity during a 1919 total solar eclipse and
+found that the bending of light rays that einstein predicted actually occurred.
+(eddington's conclusions were later called into question, but at
+the time they turned einstein into an international celebrity.) 
+                

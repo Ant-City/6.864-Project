@@ -1,0 +1,10 @@
+
+
+
+[CHARACTER]([CHARACTER]) - 
+a german physicist. in 1926, born introduced one
+of the most bizarre--but still experimentally verifiable--aspects
+of quantum theory: the idea that an electron wave must be interpreted
+from the standpoint of probability. born's reinterpretation of schrodinger's
+wave equation led to a new theory of quantum mechanics.
+                

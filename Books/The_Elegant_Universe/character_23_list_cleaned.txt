@@ -1,0 +1,8 @@
+
+
+[CHARACTER]([CHARACTER]) - 
+a dutch physicist. uhlenbeck, along with samuel goudsmit,
+proposed the concept of electron spin, which posits that electrons
+rotate on an axis. this insight led to many revisions in theories about
+atomic structure and quantum mechanics.
+                

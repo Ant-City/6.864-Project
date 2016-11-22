@@ -1,0 +1,8 @@
+
+
+[CHARACTER] - 
+a machine that speeds up the movement of particles
+and then either shoots them out at a fixed target or makes them
+collide. [CHARACTER]s allow physicists to study the movement
+of particles in extreme conditions. 
+                

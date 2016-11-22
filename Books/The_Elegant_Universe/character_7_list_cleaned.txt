@@ -1,0 +1,10 @@
+
+
+[CHARACTER]([CHARACTER]) - 
+an american physicist. in 1969, gell-mann won the
+nobel prize for his classification systems of atomic and subatomic
+particles, and the ways in which they interact. it was gell-mann
+who coined the term quark, which he borrowed from
+james joyce's finnegans wake, to describe the building
+blocks of matter.
+                

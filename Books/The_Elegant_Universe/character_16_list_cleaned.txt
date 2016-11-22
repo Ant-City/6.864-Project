@@ -1,0 +1,7 @@
+
+
+[CHARACTER]([CHARACTER]) - 
+a french mathematician, astronomer, and physicist.
+laplace is best known for applying newton's theory of gravitation
+to the solar system.
+                

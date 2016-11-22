@@ -1,0 +1,7 @@
+
+
+[CHARACTER]  - 
+                	a
+character who stands outside the story, providing narration and
+commentary. the [CHARACTER] was customary in greek tragedy.
+            

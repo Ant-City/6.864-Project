@@ -1,0 +1,8 @@
+
+
+[CHARACTER]([CHARACTER]) - 
+a german physicist. in 1887, hertz found that when
+electromagnetic radiation (light) shines on certain metals, they
+release electrons. from his studies of james clerk maxwell's electromagnetic theory,
+hertz established that light and heat are both electromagnetic forces.
+                
