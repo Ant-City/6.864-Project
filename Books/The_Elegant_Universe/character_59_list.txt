@@ -1,0 +1,8 @@
+
+
+Quantum field theory - 
+Also known as relativistic quantum field theory.
+Quantum field theory describes particles in terms of fields, as
+well as how particles can be created or annihilated, and how they
+scatter.
+                

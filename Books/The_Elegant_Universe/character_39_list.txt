@@ -1,0 +1,10 @@
+
+
+Equivalence principle - 
+The basic tenet of general relativity. The equivalence
+principle states that accelerated motion is indistinguishable from
+gravity. It generalizes the theory of relativity by showing that
+all observers, regardless of their state of motion, can say that
+they are at rest, provided they take the presence of a gravitational
+field into account.
+                

@@ -1,0 +1,7 @@
+
+
+Flop transitions - 
+Also called topography-changing transitions.
+Flop transitions are the act of Calabi-Yau space ripping and repairing
+itself.
+                

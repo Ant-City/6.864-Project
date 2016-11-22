@@ -1,0 +1,8 @@
+
+
+Uncertainty principle - 
+Heisenberg's uncertainty principle is the crux of
+quantum mechanics. It proclaims that you can never know both the
+position and the velocity of a particle simultaneously. To isolate
+one, you must somehow blur the other. 
+                

@@ -1,0 +1,8 @@
+
+
+Perturbation theory - 
+A formal framework for making approximate calculations.
+Perturbation theory is a linchpin of string theory in its current
+form. The approximate solution will be refined later as more details
+fall into place.
+                

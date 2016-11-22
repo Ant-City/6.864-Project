@@ -1,0 +1,8 @@
+
+
+Particle accelerator - 
+A machine that speeds up the movement of particles
+and then either shoots them out at a fixed target or makes them
+collide. Particle accelerators allow physicists to study the movement
+of particles in extreme conditions. 
+                
