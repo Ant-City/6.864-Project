@@ -1,0 +1,3369 @@
+
+preface
+
+
+the sense of difficulty, and indeed of awe, with which a scholar
+approaches the task of translating the _agamemnon_ depends directly on its
+greatness as poetry. it is in part a matter of diction. the language of
+aeschylus is an extraordinary thing, the syntax stiff and simple, the
+vocabulary obscure, unexpected, and steeped in splendour. its
+peculiarities cannot be disregarded, or the translation will be false in
+character. yet not milton himself could produce in english the same great
+music, and a translator who should strive ambitiously to represent the
+complex effect of the original would clog his own powers of expression and
+strain his instrument to breaking. but, apart from the diction in this
+narrower sense, there is a quality of atmosphere surrounding the
+_agamemnon_ which seems almost to defy reproduction in another setting,
+because it depends in large measure on the position of the play in the
+historical development of greek literature.
+
+if we accept the view that all art to some extent, and greek tragedy in a
+very special degree, moves in its course of development from religion to
+entertainment, from a service to a performance, the _agamemnon_ seems to
+stand at a critical point where the balance of the two elements is near
+perfection. the drama has come fully to life, but the religion has not yet
+faded to a formality. the _agamemnon_ is not, like aeschylus' _suppliant
+women_, a statue half-hewn out of the rock. it is a real play, showing
+clash of character and situation, suspense and movement, psychological
+depth and subtlety. yet it still remains something more than a play. its
+atmosphere is not quite of this world. in the long lyrics especially one
+feels that the guiding emotion is not the entertainer's wish to thrill an
+audience, not even perhaps the pure artist's wish to create beauty, but
+something deeper and more prophetic, a passionate contemplation and
+expression of truth; though of course the truth in question is something
+felt rather than stated, something that pervades life, an eternal and
+majestic rhythm like the movement of the stars.
+
+thus, if longinus is right in defining sublimity as "the ring, or
+resonance, of greatness of soul," one sees in part where the sublimity of
+the _agamemnon_ comes from. and it is worth noting that the faults which
+some critics have found in the play are in harmony with this conclusion.
+for the sublimity that is rooted in religion tolerates some faults and
+utterly refuses to tolerate others. the _agamemnon_ may be slow in getting
+to work; it may be stiff with antique conventions. it never approaches to
+being cheap or insincere or shallow or sentimental or showy. it never
+ceases to be genuinely a "criticism of life." the theme which it treats,
+for instance, is a great theme in its own right; it is not a made-up story
+ingeniously handled.
+
+the trilogy of the _oresteia_, of which this play is the first part,
+centres on the old and everlastingly unsolved problem of
+
+  the ancient blinded vengeance and the wrong that amendeth wrong.
+
+every wrong is justly punished; yet, as the world goes, every punishment
+becomes a new wrong, calling for fresh vengeance. and more; every wrong
+turns out to be itself rooted in some wrong of old. it is never
+gratuitous, never untempted by the working of peitho (persuasion), never
+merely wicked. the _oresteia_ first shows the cycle of crime punished by
+crime which must be repunished, and then seeks for some gleam of escape,
+some breaking of the endless chain of "evil duty." in the old order of
+earth and heaven there was no such escape. each blow called for the return
+blow and must do so _ad infinitum_. but, according to aeschylus, there is
+a new ruler now in heaven, one who has both sinned and suffered and
+thereby grown wise. he is zeus the third power, zeus the saviour, and his
+gift to mankind is the ability through suffering to learn (pp. 7 f.)
+
+at the opening of the _agamemnon_ we find clytemnestra alienated from her
+husband and secretly befriended with his ancestral enemy, aigisthos. the
+air is heavy and throbbing with hate; hate which is evil but has its due
+cause. agamemnon, obeying the prophet calchas, when the fleet lay
+storm-bound at aulis, had given his own daughter, iphigenîa, as a human
+sacrifice. and if we ask how a sane man had consented to such an act, we
+are told of his gradual temptation; the deadly excuse offered by ancient
+superstition; and above all, the fact that he had already inwardly
+accepted the great whole of which this horror was a part. at the first
+outset of his expedition against troy there had appeared an omen, the
+bloody sign of two eagles devouring a mother-hare with her unborn
+young.... the question was thus put to the kings and their prophet: did
+they or did they not accept the sign, and wish to be those eagles? and
+they had answered yes. they would have their vengeance, their full and
+extreme victory, and were ready to pay the price. the sign once accepted,
+the prophet recoils from the consequences which, in prophetic vision, he
+sees following therefrom: but the decision has been taken, and the long
+tale of cruelty rolls on, culminating in the triumphant sack of troy,
+which itself becomes not an assertion of justice but a whirlwind of
+godless destruction. and through all these doings of fierce beasts and
+angry men the unseen pity has been alive and watching, the artemis who
+"abhors the eagles' feast," the "apollo or pan or zeus" who hears the
+crying of the robbed vulture; nay, if even the gods were deaf, the mere
+"wrong of the dead" at troy might waken, groping for some retribution upon
+the "slayer of many men" (pp. 15, 20).
+
+if we ask why men are so blind, seeking their welfare thus through
+incessant evil, aeschylus will tell us that the cause lies in the
+infection of old sin, old cruelty. there is no doubt somewhere a
+_[greek: prôtarchos hatê ]_, a "first blind deed of wrong," but in
+practice every wrong is the result of another. and the children of atreus
+are steeped to the lips in them. when the prophetess cassandra, out of her
+first vague horror at the evil house, begins to grope towards some
+definite image, first and most haunting comes the sound of the weeping of
+two little children, murdered long ago, in a feud that was not theirs.
+from that point, more than any other, the daemon or genius of the
+house--more than its "luck," a little less than its guardian
+angel--becomes an alastor or embodied curse, a "red slayer" which cries
+ever for peace and cleansing, but can seek them only in the same blind
+way, through vengeance, and, when that fails, then through more vengeance
+(p. 69).
+
+this awful conception of a race intent upon its own wrongs, and blindly
+groping towards the very terror it is trying to avoid, is typified, as it
+were, in the cassandra story. that daughter of priam was beloved by
+apollo, who gave her the power of true prophecy. in some way that we know
+not, she broke her promise to the god; and, since his gift could not be
+recalled, he added to it the curse that, while she should always foresee
+and foretell the truth, none should believe her. the cassandra scene is a
+creation beyond praise or criticism. the old scholiast speaks of the "pity
+and amazement" which it causes. the elders who talk with her wish to
+believe, they try to understand, they are really convinced of cassandra's
+powers. but the curse is too strong. the special thing which cassandra
+tries again and again to say always eludes them, and they can raise no
+finger to prevent the disaster happening. and when it does happen they
+are, as they have described themselves, weak and very old, "dreams
+wandering in the daylight."
+
+the characters of this play seem, in a sense, to arise out of the theme
+and consequently to have, amid all their dramatic solidity, a further
+significance which is almost symbolic. cassandra is, as it were, the
+incarnation of that knowledge which herodotus describes as the crown of
+sorrow, the knowledge which sees and warns and cannot help (hdt. ix. 16).
+agamemnon himself, the king of kings, triumphant and doomed, is a symbol
+of pride and the fall of pride. we must not think of him as bad or
+specially cruel. the watchman loved him (ll. 34 f.), and the lamentations
+of the elders over his death have a note of personal affection (pp. 66
+ff.). but i suspect that aeschylus, a believer in the mystic meaning of
+names, took the name agamemnon to be a warning that [greek: aga mimnei],
+"the unseen wrath abides." _agâ_, of course, is not exactly wrath; it is
+more like nemesis, the feeling that something is [greek: agan], "too
+much," the condemnation of _hubris_ (pride or overgrowth) and of all
+things that are in excess. _agâ_ is sometimes called "the jealousy of
+god," but such a translation is not happy. it is not the jealousy, nor
+even the indignation, of a personal god, but the profound repudiation and
+reversal of hubris which is the very law of the cosmos. through all the
+triumph of the conqueror, this _agâ_ abides.
+
+the greatest and most human character of the whole play is clytemnestra.
+she is conceived on the grand aeschylean scale, a scale which makes even
+lady macbeth and beatrice cenci seem small; she is more the kinswoman of
+brynhild. yet she is full not only of character, but of subtle psychology.
+she is the first and leading example of that time-honoured ornament of the
+tragic stage, the sympathetic, or semi-sympathetic, heroine-criminal.
+aeschylus employs none of the devices of later playwrights to make her
+interesting. he admits, of course, no approach to a love-scene; he uses no
+sophisms; but he does make us see through clytemnestra's eyes and feel
+through her passions. the agony of silent prayer in which, if my
+conception is right, we first see her, helps to interpret her speeches
+when they come; but every speech needs close study. she dare not speak
+sincerely or show her real feelings until agamemnon is dead; and then she
+is practically a mad woman.
+
+for i think here that there is a point which has not been observed. it is
+that clytemnestra is conceived as being really "possessed" by the daemon
+of the house when she commits her crime. her statements on p. 69 are not
+empty metaphor. a careful study of the scene after the murder will show
+that she appears first "possessed" and almost insane with triumph, utterly
+dominating the elders and leaving them no power to answer. then gradually
+the unnatural force dies out from her. the deed that was first an ecstasy
+of delight becomes an "affliction" (pp. 72, 76). the strength that defied
+the world flags and changes into a longing for peace. she has done her
+work. she has purified the house of its madness; now let her go away and
+live out her life in quiet. when aigisthos appears, and the scene suddenly
+becomes filled with the wrangling of common men, clytemnestra fades into a
+long silence, from which she only emerges at the very end of the drama to
+pray again for peace, and, strangest of all, to utter the entreaty: "let
+us not stain ourselves with blood!" the splash of her husband's blood was
+visible on her face at the time. had she in her trance-like state actually
+forgotten, or did she, even then, not feel that particular blood to be a
+stain?
+
+to some readers it will seem a sort of irrelevance, or at least a blurring
+of the dramatic edge of this tragedy, to observe that the theme on which
+it is founded was itself the central theme both of greek tragedy and of
+greek religion. the fall of pride, the avenging of wrong by wrong, is no
+new subject selected by aeschylus. it forms both the commonest burden of
+the moralising lyrics in greek tragedy and even of the tragic myths
+themselves; and recent writers have shown how the same idea touches the
+very heart of the traditional greek religion. "the life of the
+year-daemon, who lies at the root of so many greek gods and heroes, is
+normally a story of pride and punishment. each year arrives, waxes great,
+commits the sin of hubris and must therefore die. it is the way of all
+life. as an early philosopher expresses it, "all things pay retribution
+for their injustice one to another according to the ordinance of time."[1]
+
+[footnote 1: see my _four stages of greek religion_, p. 47. cornford,
+_from religion to philosophy_, chapter i. see also the fine pages on the
+agamemnon in the same writer's _thucydides mythistoricus_, pp. 144, ff.
+(e. arnold 1907). g. m.]
+
+to me this consideration actually increases the interest and beauty of the
+_oresteia_, because it increases its greatness. the majestic art, the
+creative genius, the instinctive eloquence of these plays--that eloquence
+which is the mere despair of a translator--are all devoted to the
+expression of something which aeschylus felt to be of tremendous import.
+it was not his discovery; but it was a truth of which he had an intense
+realization. it had become something which he must with all his strength
+bring to expression before he died, not in a spirit of self-assertion or
+of argument, like a discoverer, but as one devoted to something higher and
+greater than himself, in the spirit of an interpreter or prophet.
+
+
+
+
+agamemnon
+
+
+characters in the play
+
+
+agamemnon, _son of atreus and king of argos and mycenae;
+commander-in-chief of the greek armies in the war against troy._
+
+clytemnestra, _daughter of tyndareus, sister of helen; wife to agamemnon._
+
+aigisthos, _son of thyestes, cousin and blood-enemy to agamemnon
+lover to clytemnestra._
+
+cassandra, _daughter of priam, king of troy, a prophetess;
+now slave to agamemnon._
+
+a watchman.
+
+a herald.
+
+chorus of argive elders, faithful to agamemnon.
+
+
+characters mentioned in the play
+
+menelâüs, _brother to agamemnon, husband of helen, and king of sparta.
+the two sons of atreus are called the atreidae._
+
+helen, _most beautiful of women; daughter of tyndareus, wife to
+_menelâüs_; beloved and carried off by paris._
+
+paris, _son of priam, king of troy, lover of helen.
+also called_ alexander.
+
+priam, _the aged king of troy._
+
+_the greeks are also referred to as achaians, argives, danaans;
+troy is also called ilion._
+
+_the play was produced in the archonship if philocles_ (458 b.c.).
+_the first prize was won by aeschylus with the "agamemnon",
+"libation-bearers", "eumenides", and the satyr play "proteus"_.
+
+
+
+
+the agamemnon
+
+
+_the scene represents a space in front of the palace of agamemnon in
+argos, with an altar of zeus in the centre and many other altars at the
+sides. on a high terrace of the roof stands a_ watchman. _it is night_.
+
+watchman.
+
+this waste of year-long vigil i have prayed
+god for some respite, watching elbow-stayed,
+as sleuthhounds watch, above the atreidae's hall,
+till well i know yon midnight festival
+of swarming stars, and them that lonely go,
+bearers to man of summer and of snow,
+great lords and shining, throned in heavenly fire.
+  and still i await the sign, the beacon pyre
+that bears troy's capture on a voice of flame
+shouting o'erseas. so surely to her aim
+cleaveth a woman's heart, man-passioned!
+and when i turn me to my bed--my bed
+dew-drenched and dark and stumbling, to which near
+cometh no dream nor sleep, but alway fear
+breathes round it, warning, lest an eye once fain
+to close may close too well to wake again;
+think i perchance to sing or troll a tune
+for medicine against sleep, the music soon
+changes to sighing for the tale untold
+of this house, not well mastered as of old.
+  howbeit, may god yet send us rest, and light
+the flame of good news flashed across the night.
+
+  [_he is silent, watching.  suddenly at a distance in the night there is
+a glimmer of fire, increasing presently to a blaze._
+
+ha!
+0 kindler of the dark, o daylight birth
+of dawn and dancing upon argive earth
+for this great end! all hail!--what ho, within!
+what ho! bear word to agamemnon's queen
+to rise, like dawn, and lift in answer strong
+to this glad lamp her women's triumph-song,
+if verily, verily, ilion's citadel
+is fallen, as yon beacons flaming tell.
+  and i myself will tread the dance before
+all others; for my master's dice i score
+good, and mine own to-night three sixes plain.
+
+  [_lights begin to show in the palace_.
+
+oh, good or ill, my hand shall clasp again
+my dear lord's hand, returning! beyond that
+i speak not. a great ox hath laid his weight
+across my tongue. but these stone walls know well,
+if stones had speech, what tale were theirs to tell.
+for me, to him that knoweth i can yet
+speak; if another questions i forget.
+
+  [_exit into the palace. the women's "ololûgê" or triumph-cry, is heard
+within and then repeated again and again further off in the city.
+handmaids and attendants come from the palace, bearing torches, with which
+they kindle incense on the altars. among them comes_ clytemnestra, _who
+throws herself on her knees at the central altar in an agony of prayer._
+
+_presently from the further side of the open space appear the_ chorus _of_
+elders _and move gradually into position in front of the palace.
+the day begins to dawn._
+
+chorus.
+
+ten years since ilion's righteous foes,
+  the atreidae strong,
+menelaüs and eke agamemnon arose,
+two thrones, two sceptres, yoked of god;
+and a thousand galleys of argos trod
+  the seas for the righting of wrong;
+and wrath of battle about them cried,
+    as vultures cry,
+whose nest is plundered, and up they fly
+in anguish lonely, eddying wide,
+great wings like oars in the waste of sky,
+their task gone from them, no more to keep
+watch o'er the vulture babes asleep.
+but one there is who heareth on high
+some pan or zeus, some lost apollo--
+that keen bird-throated suffering cry
+of the stranger wronged in god's own sky;
+and sendeth down, for the law transgressed,
+  the wrath of the feet that follow.
+
+  so zeus the watcher of friend and friend,
+zeus who prevaileth, in after quest
+for one belovèd by many men
+on paris sent the atreidae twain;
+yea, sent him dances before the end
+    for his bridal cheer,
+wrestlings heavy and limbs forespent
+for greek and trojan, the knee earth-bent,
+the bloody dust and the broken spear.
+he knoweth, that which is here is here,
+and that which shall be followeth near;
+he seeketh god with a great desire,
+he heaps his gifts, he essays his pyre
+with torch below and with oil above,
+with tears, but never the wrath shall move
+of the altar cold that rejects his fire.
+
+  we saw the avengers go that day,
+and they left us here; for our flesh is old
+and serveth not; and these staves uphold
+a strength like the strength of a child at play.
+for the sap that springs in the young man's hand
+and the valour of age, they have left the land.
+and the passing old, while the dead leaf blows
+and the old staff gropeth his three-foot way,
+weak as a babe and alone he goes,
+a dream left wandering in the day.
+
+  [_coming near the central altar they see_ clytemnestra, _who is still
+rapt in prayer_.
+
+but thou, o daughter of tyndareus,
+queen clytemnestra, what need? what news?
+what tale or tiding hath stirred thy mood
+to send forth word upon all our ways
+for incensed worship? of every god
+that guards the city, the deep, the high,
+gods of the mart, gods of the sky,
+    the altars blaze.
+    one here, one there,
+to the skyey night the firebrands flare,
+drunk with the soft and guileless spell
+of balm of kings from the inmost cell.
+tell, o queen, and reject us not,
+all that can or that may be told,
+and healer be to this aching thought,
+which one time hovereth, evil-cold,
+and then from the fires thou kindlest
+will hope be kindled, and hungry care
+fall back for a little while, nor tear
+the heart that beateth below my breast.
+
+  [clytemnestra _rises silently, as though unconscious of their presence,
+and goes into the house. the_ chorus _take position and begin their first
+stasimon, or standing-song,_
+
+chorus.
+
+(_the sign seen on the way; eagles tearing a hare with young_.)
+
+it is ours to tell of the sign of the war-way given,
+    to men more strong,
+(for a life that is kin unto ours yet breathes from heaven
+    a spell, a strength of song:)
+how the twin-throned might of achaia, one crown divided
+    above all greeks that are,
+with avenging hand and spear upon troy was guided
+    by the bird of war.
+'twas a king among birds to each of the kings of the sea,
+    one eagle black, one black but of fire-white tail,
+by the house, on the spear-hand, in station that all might see;
+and they tore a hare, and the life in her womb that grew,
+yea, the life unlived and the races unrun they slew.
+    _sorrow, sing sorrow: but good prevail, prevail_!
+
+(_how calchas read the sign; his vision of the future_.)
+
+and the war-seer wise, as he looked on the atreid yoke
+    twain-tempered, knew
+those fierce hare-renders the lords of his host; and spoke,
+    reading the omen true.
+"at the last, the last, this hunt hunteth ilion down,
+      yea, and before the wall
+violent division the fulness of land and town
+      shall waste withal;
+if only god's eye gloom not against our gates,
+  and the great war-curb of troy, fore-smitten, fail.
+for pity lives, and those wingèd hounds she hates,
+  which tore in the trembler's body the unborn beast.
+and artemis abhorreth the eagles' feast."
+    _sorrow, sing sorrow: but good prevail, prevail_!
+
+ (_he prays to artemis to grant the fulfilment of the sign, but, as his
+vision increases, he is afraid and calls on paian, the healer, to hold her
+back_.)
+
+   "thou beautiful one, thou tender lover
+      of the dewy breath of the lion's child;
+    thou the delight, through den and cover,
+      of the young life at the breast of the wild,
+yet, oh, fulfill, fulfill the sign of the eagles' kill!
+be the vision accepted, albeit horrible....
+but i-ê, i-ê! stay her, o paian, stay!
+for lo, upon other evil her heart she setteth,
+  long wastes of wind, held ship and unventured sea,
+on, on, till another shedding of blood be wrought:
+they kill but feast not; they pray not; the law is broken;
+strife in the flesh, and the bride she obeyeth not,
+and beyond, beyond, there abideth in wrath reawoken--
+it plotteth, it haunteth the house, yea, it never forgetteth--
+      wrath for a child to be."
+so calchas, reading the wayside eagles' sign,
+  spake to the kings, blessings and words of bale;
+      and like his song be thine,
+_sorrow, sing sorrow: but good prevail, prevail_!
+
+(_such religion belongs to old and barbarous gods, and brings no peace.
+i turn to zeus, who has shown man how to learn by suffering_.)
+
+zeus! zeus, whate'er he be,
+if this name he love to hear
+this he shall be called of me.
+searching earth and sea and air
+
+refuge nowhere can i find
+save him only, if my mind
+will cast off before it die
+the burden of this vanity.
+
+one there was who reigned of old,
+big with wrath to brave and blast,
+lo, his name is no more told!
+and who followed met at last
+his third-thrower, and is gone.
+only they whose hearts have known
+zeus, the conqueror and the friend,
+they shall win their vision's end;
+
+zeus the guide, who made man turn
+thought-ward, zeus, who did ordain
+man by suffering shall learn.
+so the heart of him, again
+aching with remembered pain,
+bleeds and sleepeth not, until
+wisdom comes against his will.
+'tis the gift of one by strife
+lifted to the throne of life.
+
+(agamemnon _accepted the sign. then came long delay, and storm while the
+fleet lay at aulis._)
+
+so that day the elder lord,
+marshal of the achaian ships,
+strove not with the prophet's word,
+bowed him to his fate's eclipse,
+when with empty jars and lips
+parched and seas impassable
+fate on that greek army fell,
+fronting chalcis as it lay,
+by aulis in the swirling bay.
+
+(_till at last calchas answered that artemis was wroth and demanded the
+death of_ agamemnon's _daughter. the king's doubt and grief_.)
+
+and winds, winds blew from strymon river,
+unharboured, starving, winds of waste endeavour,
+man-blinding, pitiless to cord and bulwark,
+  and the waste of days was made long, more long,
+till the flower of argos was aghast and withered;
+  then through the storm rose the war-seer's song,
+and told of medicine that should tame the tempest,
+  but bow the princes to a direr wrong.
+then "artemis" he whispered, he named the name;
+and the brother kings they shook in the hearts of them,
+and smote on the earth their staves, and the tears came.
+
+but the king, the elder, hath found voice and spoken:
+"a heavy doom, sure, if god's will were broken;
+but to slay mine own child, who my house delighteth,
+  is that not heavy? that her blood should flow
+on her father's hand, hard beside an altar?
+  my path is sorrow wheresoe'er i go.
+shall agamemnon fail his ships and people,
+  and the hosts of hellas melt as melts the snow?
+they cry, they thirst, for a death that shall break the spell,
+for a virgin's blood: 'tis a rite of old, men tell.
+and they burn with longing.--o god may the end be well!"
+
+(_but ambition drove him, till he consented to the sin of slaying his
+daughter, iphigenia, as a sacrifice._)
+
+to the yoke of must-be he bowed him slowly,
+  and a strange wind within his bosom tossed,
+a wind of dark thought, unclean, unholy;
+  and he rose up, daring to the uttermost.
+for men are boldened by a blindness, straying
+  toward base desire, which brings grief hereafter,
+    yea, and itself is grief;
+so this man hardened to his own child's slaying,
+  as help to avenge him for a woman's laughter
+    and bring his ships relief!
+
+her "father, father," her sad cry that lingered,
+  her virgin heart's breath they held all as naught,
+those bronze-clad witnesses and battle-hungered;
+  and there they prayed, and when the prayer was wrought
+he charged the young men to uplift and bind her,
+  as ye lift a wild kid, high above the altar,
+    fierce-huddling forward, fallen, clinging sore
+to the robe that wrapt her; yea, he bids them hinder
+  the sweet mouth's utterance, the cries that falter,
+    --his curse for evermore!--
+
+with violence and a curb's voiceless wrath.
+  her stole of saffron then to the ground she threw,
+and her eye with an arrow of pity found its path
+    to each man's heart that slew:
+a face in a picture, striving amazedly;
+  the little maid who danced at her father's board,
+the innocent voice man's love came never nigh,
+who joined to his her little paean-cry
+    when the third cup was poured....
+
+what came thereafter i saw not neither tell.
+  but the craft of calchas failed not.--'tis written, he
+who suffereth shall learn; the law holdeth well.
+    and that which is to be,
+ye will know at last; why weep before the hour?
+  for come it shall, as out of darkness dawn.
+only may good from all this evil flower;
+so prays this heart of argos, this frail tower
+    guarding the land alone.
+
+  [_as they cease,_ clytemnestra _comes from the palace with attendants.
+she has finished her prayer and sacrifice, and is now wrought up to face
+the meeting with her husband. the leader approaches her_.
+
+leader.
+
+before thy state, o queen, i bow mine eyes.
+'tis written, when the man's throne empty lies,
+the woman shall be honoured.--hast thou heard
+some tiding sure?  or is it hope, hath stirred
+to fire these altars?  dearly though we seek
+to learn, 'tis thine to speak or not to speak.
+
+clytemnestra.
+
+glad-voiced, the old saw telleth, comes this morn,
+the star-child of a dancing midnight born,
+and beareth to thine ear a word of joy
+beyond all hope: the greek hath taken troy.
+
+leader.
+
+how?
+thy word flies past me, being incredible.
+
+clytemnestra.
+
+ilion is ours. no riddling tale i tell.
+
+leader.
+
+such joy comes knocking at the gate of tears.
+
+clytemnestra.
+
+aye, 'tis a faithful heart that eye declares.
+
+leader.
+
+what warrant hast thou? is there proof of this?
+
+clytemnestra.
+
+there is; unless a god hath lied there is.
+
+leader.
+
+some dream-shape came to thee in speaking guise?
+
+clytemnestra.
+
+who deemeth me a dupe of drowsing eyes?
+
+leader.
+
+some word within that hovereth without wings?
+
+clytemnestra.
+
+am i a child to hearken to such things?
+
+leader.
+
+troy fallen?--but how long? when fell she, say?
+
+clytemnestra.
+
+the very night that mothered this new day.
+
+leader.
+
+and who of heralds with such fury came?
+
+clytemnestra.
+
+a fire-god, from mount ida scattering flame.
+whence starting, beacon after beacon burst
+in flaming message hitherward. ida first
+told hermes' lemnian rock, whose answering sign
+was caught by towering athos, the divine,
+with pines immense--yea, fishes of the night
+swam skyward, drunken with that leaping light,
+which swelled like some strange sun, till dim and far
+makistos' watchmen marked a glimmering star;
+they, nowise loath nor idly slumber-won,
+spring up to hurl the fiery message on,
+and a far light beyond the eurîpus tells
+that word hath reached messapion's sentinels.
+they beaconed back, then onward with a high
+heap of dead heather flaming to the sky.
+and onward still, not failing nor aswoon,
+across the asôpus like a beaming moon
+the great word leapt, and on kithairon's height
+uproused a new relay of racing light.
+his watchers knew the wandering flame, nor hid
+their welcome, burning higher than was bid.
+out over lake gorgôpis then it floats,
+to aigiplanctos, waking the wild goats,
+crying for "fire, more fire!" and fire was reared,
+stintless and high, a stormy streaming beard,
+that waved in flame beyond the promontory
+rock-ridged, that watches the saronian sea,
+kindling the night: then one short swoop to catch
+the spider's crag, our city's tower of watch;
+whence hither to the atreidae's roof it came,
+a light true-fathered of idaean flame.
+torch-bearer after torch-bearer, behold
+the tale thereof in stations manifold,
+each one by each made perfect ere it passed,
+and victory in the first as in the last.
+these be my proofs and tokens that my lord
+from troy hath spoke to me a burning word.
+
+leader.
+
+woman, speak on. hereafter shall my prayer
+be raised to god; now let me only hear,
+again and full, the marvel and the joy.
+
+clytemnestra.
+
+now, even now, the achaian holdeth troy!
+methinks there is a crying in her streets
+that makes no concord. when sweet unguent meets
+with vinegar in one phial, i warrant none
+shall lay those wranglers lovingly at one.
+so conquerors and conquered shalt thou hear,
+two sundered tones, two lives of joy or fear.
+  here women in the dust about their slain,
+husbands or brethren, and by dead old men
+pale children who shall never more be free,
+for all they loved on earth cry desolately.
+and hard beside them war-stained greeks, whom stark
+battle and then long searching through the dark
+hath gathered, ravenous, in the dawn, to feast
+at last on all the plenty troy possessed,
+no portion in that feast nor ordinance,
+but each man clutching at the prize of chance.
+aye, there at last under good roofs they lie
+of men spear-quelled, no frosts beneath the sky,
+no watches more, no bitter moony dew....
+how blessèd they will sleep the whole night through!
+oh, if these days they keep them free from sin
+toward ilion's conquered shrines and them within
+who watch unconquered, maybe not again
+the smiter shall be smit, the taker ta'en.
+may god but grant there fall not on that host
+the greed of gold that maddeneth and the lust
+to spoil inviolate things! but half the race
+is run which windeth back to home and peace.
+yea, though of god they pass unchallengèd,
+methinks the wound of all those desolate dead
+might waken, groping for its will....
+                                  ye hear
+a woman's word, belike a woman's fear.
+may good but conquer in the last incline
+of the balance! of all prayers that prayer is mine.
+
+leader.
+
+o woman, like a man faithful and wise
+thou speakest. i accept thy testimonies
+and turn to god with praising, for a gain
+is won this day that pays for all our pain.
+
+  [clytemnestra _returns to the palace. the_ chorus _take up their
+position for the second stasimon._
+
+an elder.
+
+0 zeus, all-ruler, and night the aid,
+gainer of glories, and hast thou thrown
+over the towers of ilion
+  thy net close-laid,
+that none so nimble and none so tall
+shall escape withal
+the snare of the slaver that claspeth all?
+
+another.
+
+and zeus the watcher of friend and friend
+i also praise, who hath wrought this end.
+long since on paris his shaft he drew,
+  and hath aimèd true,
+not too soon falling nor yet too far,
+the fire of the avenging star.
+
+chorus.
+
+(_this is god's judgement upon troy. may it not be too fierce! gold cannot
+save one who spurneth justice_.)
+
+the stroke of zeus hath found them! clear this day
+  the tale, and plain to trace.
+he judged, and troy hath fallen.--and have men said
+that god not deigns to mark man's hardihead,
+  trampling to earth the grace
+of holy and delicate things?--sin lies that way.
+for visibly pride doth breed its own return
+  on prideful men, who, when their houses swell
+    with happy wealth, breathe ever wrath and blood.
+yet not too fierce let the due vengeance burn;
+  only as deemeth well
+    one wise of mood.
+
+    never shall state nor gold
+      shelter his heart from aching
+    whoso the altar of justice old
+      spurneth to night unwaking.
+
+(_the sinner suffers in his longing till at last temptation overcomes him;
+as longing for helen overcame paris._)
+
+the tempting of misery forceth him, the dread
+  child of fore-scheming woe!
+and help is vain; the fell desire within
+is veilèd not, but shineth bright like sin:
+  and as false gold will show
+black where the touchstone trieth, so doth fade
+his honour in god's ordeal. like a child,
+  forgetting all, he hath chased his wingèd bird,
+    and planted amid his people a sharp thorn.
+  and no god hears his prayer, or, have they heard,
+    the man so base-beguiled
+      they cast to scorn.
+
+      paris to argos came;
+        love of a woman led him;
+      so god's altar he brought to shame,
+        robbing the hand that fed him.
+
+(_helen's flight; the visions seen by the king's seers; the phantom of
+helen and the king's grief._)
+
+she hath left among her people a noise of shield and sword,
+a tramp of men armed where the long ships are moored;
+she hath ta'en in her goings desolation as a dower;
+she hath stept, stept quickly, through the great gated tower,
+    and the thing that could not be, it hath been!
+and the seers they saw visions, and they spoke of strange ill:
+  "a palace, a palace; and a great king thereof:
+  a bed, a bed empty, that was once pressed in love:
+and thou, thou, what art thou?  let us be, thou so still,
+  beyond wrath, beyond beseeching, to the lips reft of thee!"
+  for she whom he desireth is beyond the deep sea,
+    and a ghost in his castle shall be queen.
+
+images in sweet guise
+  carven shall move him never,
+where is love amid empty eyes?
+  gone, gone for ever!
+
+(_his dreams and his suffering; but the war that he made caused greater
+and wider suffering._)
+
+but a shape that is a dream, 'mid the phantoms of the night,
+cometh near, full of tears, bringing vain vain delight:
+for in vain when, desiring, he can feel the joy's breath
+--nevermore! nevermore!--from his arms it vanisheth,
+    on wings down the pathways of sleep.
+
+in the mid castle hall, on the hearthstone of the kings,
+these griefs there be, and griefs passing these,
+but in each man's dwelling of the host that sailed the seas,
+a sad woman waits; she has thoughts of many things,
+    and patience in her heart lieth deep.
+
+knoweth she them she sent,
+  knoweth she? lo, returning,
+comes in stead of the man that went
+  armour and dust of burning.
+
+(_the return of the funeral urns; the murmurs of the people._)
+
+and the gold-changer, ares, who changeth quick for dead,
+who poiseth his scale in the striving of the spears,
+back from troy sendeth dust, heavy dust, wet with tears,
+sendeth ashes with men's names in his urns neatly spread.
+and they weep over the men, and they praise them one by one,
+how this was a wise fighter, and this nobly-slain--
+    "fighting to win back another's wife!"
+till a murmur is begun,
+  and there steals an angry pain
+    against kings too forward in the strife.
+
+      there by ilion's gate
+        many a soldier sleepeth,
+      young men beautiful; fast in hate
+        troy her conqueror keepeth.
+
+(_for the shedder of blood is in great peril, and not unmarked by god. may
+i never be a sacker of cities!_)
+
+but the rumour of the people, it is heavy, it is chill;
+and tho' no curse be spoken, like a curse doth it brood;
+and my heart waits some tiding which the dark holdeth still,
+for of god not unmarked is the shedder of much blood.
+and who conquers beyond right ... lo, the life of man decays;
+  there be watchers dim his light in the wasting of the years;
+    he falls, he is forgotten, and hope dies.
+there is peril in the praise
+  over-praised that he hears;
+    for the thunder it is hurled from god's eyes.
+
+      glory that breedeth strife,
+        pride of the sacker of cities;
+      yea, and the conquered captive's life,
+        spare me, o god of pities!
+
+divers elders.
+
+--the fire of good tidings it hath sped the city through,
+but who knows if a god mocketh? or who knows if all be true?
+    'twere the fashion of a child,
+    or a brain dream-beguiled,
+    to be kindled by the first
+    torch's message as it burst,
+and thereafter, as it dies, to die too.
+
+--'tis like a woman's sceptre, to ordain
+welcome to joy before the end is plain!
+
+--too lightly opened are a woman's ears;
+her fence downtrod by many trespassers,
+  and quickly crossed; but quickly lost
+the burden of a woman's hopes or fears.
+
+[_here a break occurs in the action, like the descent of the curtain in a
+modern theatre. a space of some days is assumed to have passed and we find
+the elders again assembled_.
+
+leader.
+
+soon surely shall we read the message right;
+were fire and beacon-call and lamps of light
+true speakers, or but happy lights, that seem
+and are not, like sweet voices in a dream.
+i see a herald yonder by the shore,
+shadowed with olive sprays. and from his sore
+rent raiment cries a witness from afar,
+dry dust, born brother to the mire of war,
+that mute he comes not, neither through the smoke
+of mountain forests shall his tale be spoke;
+but either shouting for a joyful day,
+or else.... but other thoughts i cast away.
+as good hath dawned, may good shine on, we pray!
+
+--and whoso for this city prayeth aught
+  else, let him reap the harvest of his thought!
+
+  [_enter the_ herald, _running. his garments are torn and war-stained. he
+falls upon his knees and kisses the earth, and salutes each altar in
+turn._
+
+herald.
+
+land of my fathers! argos! am i here ...
+home, home at this tenth shining of the year,
+and all hope's anchors broken save this one!
+for scarcely dared i dream, here in mine own
+argos at last to fold me to my rest....
+but now--all hail, o earth! o sunlight blest!
+and zeus most high!
+    [_checking himself as he sees the altar of apollo._
+                  and thou, o pythian lord;
+no more on us be thy swift arrows poured!
+beside scamander well we learned how true
+thy hate is. oh, as thou art healer too,
+heal us! as thou art saviour of the lost,
+save also us, apollo, being so tossed
+with tempest! ... all ye daemons of the pale!
+and hermes! hermes, mine own guardian, hail!
+herald beloved, to whom all heralds bow....
+ye blessèd dead that sent us, receive now
+in love your children whom the spear hath spared.
+  o house of kings, o roof-tree thrice-endeared,
+o solemn thrones! o gods that face the sun!
+now, now, if ever in the days foregone,
+after these many years, with eyes that burn,
+give hail and glory to your king's return!
+for agamemnon cometh! a great light
+cometh to men and gods out of the night.
+  grand greeting give him--aye, it need be grand--
+who, god's avenging mattock in his hand,
+hath wrecked troy's towers and digged her soil beneath,
+till her gods' houses, they are things of death;
+her altars waste, and blasted every seed
+whence life might rise! so perfect is his deed,
+so dire the yoke on ilion he hath cast,
+the first atreides, king of kings at last,
+and happy among men! to whom we give
+honour most high above all things that live.
+  for paris nor his guilty land can score
+the deed they wrought above the pain they bore.
+"spoiler and thief," he heard god's judgement pass;
+whereby he lost his plunder, and like grass
+mowed down his father's house and all his land;
+and troy pays twofold for the sin she planned.
+
+leader.
+
+be glad, thou herald of the greek from troy!
+
+herald.
+
+so glad, i am ready, if god will, to die!
+
+leader.
+
+did love of this land work thee such distress?
+
+herald.
+
+the tears stand in mine eyes for happiness.
+
+leader.
+
+sweet sorrow was it, then, that on you fell.
+
+herald.
+
+how sweet? i cannot read thy parable.
+
+leader.
+
+to pine again for them that loved you true.
+
+herald.
+
+did ye then pine for us, as we for you?
+
+leader.
+
+the whole land's heart was dark, and groaned for thee.
+
+herald.
+
+dark? for what cause? why should such darkness be?
+
+leader.
+
+silence in wrong is our best medicine here.
+
+herald.
+
+your kings were gone. what others need you fear?
+
+leader.
+
+'tis past! like thee now, i could gladly die.
+
+herald.
+
+even so! 'tis past, and all is victory.
+and, for our life in those long years, there were
+doubtless some grievous days, and some were fair.
+who but a god goes woundless all his way?....
+  oh, could i tell the sick toil of the day,
+the evil nights, scant decks ill-blanketed;
+the rage and cursing when our daily bread
+came not! and then on land 'twas worse than all.
+our quarters close beneath the enemy's wall;
+and rain--and from the ground the river dew--wet,
+always wet! into our clothes it grew,
+plague-like, and bred foul beasts in every hair.
+  would i could tell how ghastly midwinter
+stole down from ida till the birds dropped dead!
+or the still heat, when on his noonday bed
+the breathless blue sea sank without a wave!....
+  why think of it? they are past and in the grave,
+all those long troubles. for i think the slain
+care little if they sleep or rise again;
+and we, the living, wherefore should we ache
+with counting all our lost ones, till we wake
+the old malignant fortunes? if good-bye
+comes from their side, why, let them go, say i.
+surely for us, who live, good doth prevail
+unchallenged, with no wavering of the scale;
+wherefore we vaunt unto these shining skies,
+as wide o'er sea and land our glory flies:
+"by men of argolis who conquered troy,
+these spoils, a memory and an ancient joy,
+are nailed in the gods' houses throughout greece."
+which whoso readeth shall with praise increase
+our land, our kings, and god's grace manifold
+which made these marvels be.--my tale is told.
+
+leader.
+
+indeed thou conquerest me. men say, the light
+in old men's eyes yet serves to learn aright.
+but clytemnestra and the house should hear
+these tidings first, though i their health may share.
+
+  [_during the last words_ clytemnestra _has entered from the palace_.
+
+clytemnestra.
+
+long since i lifted up my voice in joy,
+when the first messenger from flaming troy
+spake through the dark of sack and overthrow.
+and mockers chid me: "because beacons show
+on the hills, must troy be fallen? quickly born
+are women's hopes!" aye, many did me scorn;
+yet gave i sacrifice; and by my word
+through all the city our woman's cry was heard,
+lifted in blessing round the seats of god,
+and slumbrous incense o'er the altars glowed
+in fragrance.
+              and for thee, what need to tell
+thy further tale? my lord himself shall well
+instruct me. yet, to give my lord and king
+all reverent greeting at his homecoming--
+what dearer dawn on woman's eyes can flame
+than this, which casteth wide her gate to acclaim
+the husband whom god leadeth safe from war?--
+go, bear my lord this prayer: that fast and far
+he haste him to this town which loves his name;
+and in his castle may he find the same
+wife that he left, a watchdog of the hall,
+true to one voice and fierce to others all;
+a body and soul unchanged, no seal of his
+broke in the waiting years.--no thought of ease
+nor joy from other men hath touched my soul,
+nor shall touch, until bronze be dyed like wool.
+  a boast so faithful and so plain, i wot,
+spoke by a royal queen doth shame her not.
+
+  [_exit_ clytemnestra.
+
+leader.
+
+let thine ear mark her message. 'tis of fair
+seeming, and craves a clear interpreter....
+but, herald, i would ask thee; tell me true
+of menelaus. shall he come with you,
+our land's belovèd crown, untouched of ill?
+
+herald.
+
+i know not how to speak false words of weal
+for friends to reap thereof a harvest true.
+
+leader.
+
+canst speak of truth with comfort joined? those two
+once parted, 'tis a gulf not lightly crossed.
+
+herald.
+
+your king is vanished from the achaian host,
+he and his ship! such comfort have i brought.
+
+leader.
+
+sailed he alone from troy? or was he caught
+by storms in the midst of you, and swept away?
+
+herald.
+
+thou hast hit the truth; good marksman, as men say!
+and long to suffer is but brief to tell.
+
+leader.
+
+how ran the sailors' talk? did there prevail
+one rumour, showing him alive or dead?
+
+herald.
+
+none knoweth, none hath tiding, save the head
+of helios, ward and watcher of the world.
+
+leader.
+
+then tell us of the storm. how, when god hurled
+his anger, did it rise? how did it die?
+
+herald.
+
+it likes me not, a day of presage high
+with dolorous tongue to stain. those twain, i vow,
+stand best apart. when one with shuddering brow,
+from armies lost, back beareth to his home
+word that the terror of her prayers is come;
+one wound in her great heart, and many a fate
+for many a home of men cast out to sate
+the two-fold scourge that worketh ares' lust,
+spear crossed with spear, dust wed with bloody dust;
+who walketh laden with such weight of wrong,
+why, let him, if he will, uplift the song
+that is hell's triumph. but to come as i
+am now come, laden with deliverance high,
+home to a land of peace and laughing eyes,
+and mar all with that fury of the skies
+which made our greeks curse god--how should this be?
+  two enemies most ancient, fire and sea,
+a sudden friendship swore, and proved their plight
+by war on us poor sailors through that night
+of misery, when the horror of the wave
+towered over us, and winds from strymon drave
+hull against hull, till good ships, by the horn
+of the mad whirlwind gored and overborne,
+one here, one there, 'mid rain and blinding spray,
+like sheep by a devil herded, passed away.
+and when the blessèd sun upraised his head,
+we saw the aegean waste a-foam with dead,
+dead men, dead ships, and spars disasterful.
+howbeit for us, our one unwounded hull
+out of that wrath was stolen or begged free
+by some good spirit--sure no man was he!--
+who guided clear our helm; and on till now
+hath saviour fortune throned her on the prow.
+no surge to mar our mooring, and no floor
+of rock to tear us when we made for shore.
+till, fled from that sea-hell, with the clear sun
+above us and all trust in fortune gone,
+we drove like sheep about our brain the thoughts
+of that lost army, broken and scourged with knouts
+of evil. and, methinks, if there is breath
+in them, they talk of us as gone to death--
+how else?--and so say we of them! for thee,
+since menelaüs thy first care must be,
+if by some word of zeus, who wills not yet
+to leave the old house for ever desolate,
+some ray of sunlight on a far-off sea
+lights him, yet green and living ... we may see
+his ship some day in the harbour!--'twas the word
+of truth ye asked me for, and truth ye have heard!
+
+  [_exit_ herald. _the_ chorus _take position for the third stasimon_.
+
+chorus.
+
+(_surely there was mystic meaning in the name_ helena, _meaning which was
+fulfilled when she fled to troy._)
+
+  who was he who found for thee
+  that name, truthful utterly--
+was it one beyond our vision
+moving sure in pre-decision
+  of man's doom his mystic lips?--
+  calling thee, the battle-wed,
+  thee, the strife-encompassèd,
+helen? yea, in fate's derision,
+  hell in cities, hell in ships,
+hell in hearts of men they knew her,
+  when the dim and delicate fold
+  of her curtains backward rolled,
+and to sea, to sea, she threw her
+  in the west wind's giant hold;
+and with spear and sword behind her
+  came the hunters in a flood,
+down the oarblade's viewless trail
+tracking, till in simoïs' vale
+through the leaves they crept to find her,
+  a wrath, a seed of blood.
+
+(_the trojans welcomed her with triumph and praised alexander till at last
+their song changed and they saw another meaning in alexander's name
+also._)
+
+  so the name to ilion came
+  on god's thought-fulfilling flame,
+she a vengeance and a token
+of the unfaith to bread broken,
+  of the hearth of god betrayed,
+    against them whose voices swelled
+    glorying in the prize they held
+and the spoiler's vaunt outspoken
+  and the song his brethren made
+'mid the bridal torches burning;
+  till, behold, the ancient city
+of king priam turned, and turning
+took a new song for her learning,
+  a song changed and full of pity,
+  with the cry of a lost nation;
+    and she changed the bridegroom's name:
+  called him paris ghastly-wed;
+  for her sons were with the dead,
+  and her life one lamentation,
+    'mid blood and burning flame.
+
+(_like a lion's whelp reared as a pet and turning afterwards to a great
+beast of prey,_)
+
+  lo, once there was a herdsman reared
+    in his own house, so stories tell,
+  a lion's whelp, a milk-fed thing
+  and soft in life's first opening
+  among the sucklings of the herd;
+    the happy children loved him well,
+  and old men smiled, and oft, they say,
+  in men's arms, like a babe, he lay,
+bright-eyed, and toward the hand that teased him
+  eagerly fawning for food or play.
+
+  then on a day outflashed the sudden
+    rage of the lion brood of yore;
+  he paid his debt to them that fed
+  with wrack of herds and carnage red,
+  yea, wrought him a great feast unbidden,
+    till all the house-ways ran with gore;
+  a sight the thralls fled weeping from,
+    a great red slayer, beard a-foam,
+high-priest of some blood-cursèd altar
+  god had uplifted against that home.
+
+(_so was it with helen in troy._)
+
+  and how shall i call the thing that came
+    at the first hour to ilion city?
+  call it a dream of peace untold,
+  a secret joy in a mist of gold,
+  a woman's eye that was soft, like flame,
+    a flower which ate a man's heart with pity.
+
+but she swerved aside and wrought to her kiss a bitter ending,
+and a wrath was on her harbouring, a wrath upon her friending,
+when to priam and his sons she fled quickly o'er the deep,
+with the god to whom she sinned for her watcher on the wind,
+a death-bride, whom brides long shall weep.
+
+(_men say that good fortune wakes the envy of god; not so; good fortune
+may be innocent, and then there is no vengeance_.)
+
+  a grey word liveth, from the morn
+    of old time among mortals spoken,
+  that man's wealth waxen full shall fall
+  not childless, but get sons withal;
+  and ever of great bliss is born
+     a tear unstanched and a heart broken.
+
+but i hold my thought alone and by others unbeguiled;
+'tis the deed that is unholy shall have issue, child on child,
+sin on sin, like his begetters; and they shall be as they were.
+
+but the man who walketh straight, and the house thereof, tho' fate
+  exalt him, the children shall be fair.
+
+_(it is sin, it is pride and ruthlessness, that beget children
+like themselves till justice is fulfilled upon them.)_
+
+but old sin loves, when comes the hour again,
+   to bring forth new,
+which laugheth lusty amid the tears of men;
+yea, and unruth, his comrade, wherewith none
+may plead nor strive, which dareth on and on,
+  knowing not fear nor any holy thing;
+two fires of darkness in a house, born true,
+  like to their ancient spring.
+
+but justice shineth in a house low-wrought
+  with smoke-stained wall,
+and honoureth him who filleth his own lot;
+but the unclean hand upon the golden stair
+with eyes averse she flieth, seeking where
+  things innocent are; and, recking not the power
+of wealth by man misgloried, guideth all
+  to her own destined hour.
+
+  [_here amid a great procession enter_ agamemnon _on a chariot. behind
+him on another chariot is_ cassandra. _the_ chorus _approach and make
+obeisance. some of_ agamemnon's _men have on their shields a white horse,
+some a lion. their arms are rich and partly barbaric_.
+
+leader.
+
+all hail, o king! hail, atreus' son!
+sacker of cities! ilion's bane!
+with what high word shall i greet thee again,
+how give thee worship, and neither outrun
+the point of pleasure, nor stint too soon?
+for many will cling. to fair seeming
+the faster because they have sinned erewhile;
+and a man may sigh with never a sting
+of grief in his heart, and a man may smile
+with eyes unlit and a lip that strains.
+but the wise shepherd knoweth his sheep,
+   and his eyes pierce deep
+the faith like water that fawns and feigns.
+
+but i hide nothing, o king. that day
+when in quest of helen our battle array
+hurled forth, thy name upon my heart's scroll
+was deep in letters of discord writ;
+   and the ship of thy soul,
+ill-helmed and blindly steered was it,
+pursuing ever, through men that die,
+one wild heart that was fain to fly.
+   but on this new day,
+from the deep of my thought and in love, i say
+  "sweet is a grief well ended;"
+and in time's flow thou wilt learn and know
+   the true from the false,
+of them that were left to guard the walls
+  of thine empty hall unfriended.
+
+  [_during the above_ clytemnestra _has appeared on the palace steps, with
+a train of attendants, to receive her husband_.
+
+agamemnon.
+
+to argos and the gods of argolis
+all hail, who share with me the glory of this
+home-coming and the vengeance i did wreak
+on priam's city! yea, though none should speak,
+the great gods heard our cause, and in one mood
+uprising, in the urn of bitter blood,
+that men should shriek and die and towers should burn,
+cast their great vote; while over mercy's urn
+hope waved her empty hands and nothing fell.
+   even now in smoke that city tells her tale;
+the wrack-wind liveth, and where ilion died
+the reek of the old fatness of her pride
+from hot and writhing ashes rolls afar.
+   for which let thanks, wide as our glories are,
+be uplifted; seeing the beast of argos hath
+round ilion's towers piled high his fence of wrath
+and, for one woman ravished, wrecked by force
+a city. lo, the leap of the wild horse
+in darkness when the pleiades were dead;
+a mailed multitude, a lion unfed,
+which leapt the tower and lapt the blood of kings!
+
+  lo, to the gods i make these thanksgivings.
+but for thy words: i marked them, and i mind
+their meaning, and my voice shall be behind
+thine. for not many men, the proverb saith,
+can love a friend whom fortune prospereth
+unenvying; and about the envious brain
+cold poison clings, and doubles all the pain
+life brings him. his own woundings he must nurse,
+and feels another's gladness like a curse.
+
+  well can i speak. i know the mirrored glass
+called friendship, and the shadow shapes that pass
+and feign them a king's friends. i have known but one--
+odysseus, him we trapped against his own
+will!--who once harnessed bore his yoke right well ...
+be he alive or dead of whom i tell
+the tale. and for the rest, touching our state
+and gods, we will assemble in debate
+a concourse of all argos, taking sure
+counsel, that what is well now may endure
+well, and if aught needs healing medicine, still
+by cutting and by fire, with all good will,
+i will essay to avert the after-wrack
+such sickness breeds.
+
+                      aye, heaven hath led me back;
+and on this hearth where still my fire doth burn
+i will go pay to heaven my due return,
+which guides me here, which saved me far away.
+  o victory, now mine own, be mine alway!
+
+  [clytemnestra, _at the head of her retinue, steps forward. she controls
+her suspense with difficulty but gradually gains courage as she proceeds._
+
+clytemnestra.
+
+ye elders, council of the argive name
+here present, i will no more hold it shame
+to lay my passion bare before men's eyes.
+there comes a time to a woman when fear dies
+for ever. none hath taught me. none could tell,
+save me, the weight of years intolerable
+i lived while this man lay at ilion.
+that any woman thus should sit alone
+in a half-empty house, with no man near,
+makes her half-blind with dread! and in her ear
+alway some voice of wrath; now messengers
+of evil; now not so; then others worse,
+crying calamity against mine and me.
+  oh, had he half the wounds that variously
+came rumoured home, his flesh must be a net,
+all holes from heel to crown! and if he met
+as many deaths as i met tales thereon,
+is he some monstrous thing, some gêryon
+three-souled, that will not die, till o'er his head,
+three robes of earth be piled, to hold him dead?
+  aye, many a time my heart broke, and the noose
+of death had got me; but they cut me loose.
+it was those voices alway in mine ear.
+
+  for that, too, young orestes is not here
+beside me, as were meet, seeing he above
+all else doth hold the surety of our love;
+let not thy heart be troubled. it fell thus:
+our loving spear-friend took him, strophius
+the phocian, who forewarned me of annoy
+two-fronted, thine own peril under troy,
+and ours here, if the rebel multitude
+should cast the council down. it is men's mood
+alway, to spurn the fallen. so spake he,
+and sure no guile was in him.
+
+                              but for me,
+the old stormy rivers of my grief are dead
+now at the spring; not one tear left unshed.
+mine eyes are sick with vigil, endlessly
+weeping the beacon-piles that watched for thee
+for ever answerless. and did i dream,
+a gnat's thin whirr would start me, like a scream
+of battle, and show me thee by terrors swept,
+crowding, too many for the time i slept.
+
+  from all which stress delivered and free-souled,
+i greet my lord: o watchdog of the fold,
+o forestay sure that fails not in the squall,
+o strong-based pillar of a towering hall;
+o single son to a father age-ridden;
+o land unhoped for seen by shipwrecked men;
+sunshine more beautiful when storms are fled;
+spring of quick water in a desert dead ....
+how sweet to be set free from any chain!
+
+these be my words to greet him home again.
+no god shall grudge them. surely i and thou
+have suffered in time past enough! and now
+dismount, o head with love and glory crowned,
+from this high car; yet plant not on bare ground
+thy foot, great king, the foot that trampled troy.
+  ho, bondmaids, up! forget not your employ,
+a floor of crimson broideries to spread
+for the king's path. let all the ground be red
+where those feet pass; and justice, dark of yore,
+home light him to the hearth he looks not for!
+  what followeth next, our sleepless care shall see
+ordered as god's good pleasure may decree.
+
+  [_the attendants spread tapestries of crimson and gold from the chariot
+to the door of the palace._ agamemnon _does not move_.
+
+agamemnon.
+
+daughter of leda, watcher of my fold,
+in sooth thy welcome, grave and amply told,
+fitteth mine absent years. though it had been
+seemlier, methinks, some other, not my queen,
+had spoke these honours. for the rest, i say,
+seek not to make me soft in woman's way;
+cry not thy praise to me wide-mouthed, nor fling
+thy body down, as to some barbarous king.
+nor yet with broidered hangings strew my path,
+to awake the unseen ire. 'tis god that hath
+such worship; and for mortal man to press
+rude feet upon this broidered loveliness ...
+i vow there is danger in it. let my road
+be honoured, surely; but as man, not god.
+rugs for the feet and yonder broidered pall ...
+the names ring diverse!... aye, and not to fall
+suddenly blind is of all gifts the best
+god giveth, for i reckon no man blest
+ere to the utmost goal his race be run.
+  so be it; and if, as this day i have done,
+i shall do always, then i fear no ill.
+
+clytemnestra.
+
+tell me but this, nowise against thy will ...
+
+agamemnon.
+
+my will, be sure, shall falter not nor fade.
+
+clytemnestra.
+
+was this a vow in some great peril made?
+
+agamemnon.
+
+enough! i have spoke my purpose, fixed and plain.
+
+clytemnestra.
+
+were priam the conqueror ... think, would he refrain?
+
+agamemnon.
+
+oh, stores of broideries would be trampled then!
+
+clytemnestra.
+
+lord, care not for the cavillings of men!
+
+agamemnon.
+
+the murmur of a people hath strange weight.
+
+clytemnestra.
+
+who feareth envy, feareth to be great.
+
+agamemnon.
+
+'tis graceless when a woman strives to lead.
+
+clytemnestra.
+
+when a great conqueror yields, 'tis grace indeed,
+
+agamemnon.
+
+so in this war thou must my conqueror be?
+
+clytemnestra.
+
+yield! with good will to yield is victory!
+
+agamemnon.
+
+well, if i needs must ... be it as thou hast said!
+  quick! loose me these bound slaves on which i tread,
+and while i walk yon wonders of the sea
+god grant no eye of wrath be cast on me
+from far!
+
+  [_the attendants untie his shoes_.
+
+          for even now it likes me not
+to waste mine house, thus marring underfoot
+the pride thereof, and wondrous broideries
+bought in far seas with silver. but of these
+enough.--and mark, i charge thee, this princess
+of ilion; tend her with all gentleness.
+god's eye doth see, and loveth from afar,
+the merciful conqueror. for no slave of war
+is slave by his own will. she is the prize
+and chosen flower of ilion's treasuries,
+set by the soldiers' gift to follow me.
+  now therefore, seeing i am constrained by thee
+and do thy will, i walk in conqueror's guise
+beneath my gate, trampling sea-crimson dyes.
+
+  [_as he dismounts and sets foot on the tapestries_ clytemnestra's _women
+utter again their cry of triumph. the people bow or kneel as he passes._
+
+clytemnestra.
+
+there is the sea--its caverns who shall drain?--
+breeding of many a purple-fish the stain
+surpassing silver, ever fresh renewed,
+for robes of kings. and we, by right indued,
+possess our fill thereof. thy house, o king,
+knoweth no stint, nor lack of anything.
+  what trampling of rich raiment, had the cry
+so sounded in the domes of prophesy,
+would i have vowed these years, as price to pay
+for this dear life in peril far away!
+where the root is, the leafage cometh soon
+to clothe an house, and spread its leafy boon
+against the burning star; and, thou being come,
+thou, on the midmost hearthstone of thy home,
+oh, warmth in winter leapeth to thy sign.
+and when god's summer melteth into wine
+the green grape, on that house shall coolness fall
+where the true man, the master, walks his hall.
+
+  zeus, zeus! true master, let my prayers be true!
+and, oh, forget not that thou art willed to do!
+
+  [_she follows_ agamemnon _into the palace. the retinues of both king and
+queen go in after them._ cassandra _remains_.
+
+chorus.
+
+  what is this that evermore,                         [_strophe 1._
+  a cold terror at the door
+of this bosom presage-haunted,
+  pale as death hovereth?
+while a song unhired, unwanted,
+by some inward prophet chanted,
+  speaks the secret at its core;
+  and to cast it from my blood
+  like a dream not understood
+  no sweet-spoken courage now
+  sitteth at my heart's dear prow.
+
+  yet i know that manifold
+  days, like sand, have waxen old
+
+since the day those shoreward-thrown
+  cables flapped and line on line
+standing forth for ilion
+  the long galleys took the brine
+
+                                                      [_antistrophe 1._
+  and in harbour--mine own eye
+  hath beheld--again they lie;
+yet that lyreless music hidden
+  whispers still words of ill,
+'tis the soul of me unbidden,
+like some fury sorrow-ridden,
+  weeping over things that die.
+  neither waketh in my sense
+  ever hope's dear confidence;
+  for this flesh that groans within,
+  and these bones that know of sin,
+  this tossed heart upon the spate
+  of a whirpool that is fate,
+  surely these lie not. yet deep
+    beneath hope my prayer doth run,
+  all will die like dreams, and creep
+    to the unthought of and undone.
+
+                                                      [_strophe 2._
+--surely of great weal at the end of all
+  comes not content; so near doth fever crawl,
+  close neighbour, pressing hard the narrow wall.
+
+  --woe to him who fears not fate!
+    'tis the ship that forward straight
+    sweepeth, strikes the reef below;
+    he who fears and lightens weight,
+    casting forth, in measured throw,
+    from the wealth his hand hath got ...
+    his whole ship shall founder not,
+    with abundance overfraught,
+    nor deep seas above him flow.
+--lo, when famine stalketh near,
+    one good gift of zeus again
+  from the furrows of one year
+    endeth quick the starving pain;
+
+                                                      [_antistrophe 2._
+--but once the blood of death is fallen, black
+  and oozing at a slain man's feet, alack!
+  by spell or singing who shall charm it back?
+
+    --one there was of old who showed
+        man the path from death to day;
+    but zeus, lifting up his rod,
+        spared not, when he charged him stay.
+
+    --save that every doom of god
+        hath by other dooms its way
+      crossed, that none may rule alone,
+      in one speech-outstripping groan
+      forth had all this passion flown,
+        which now murmuring hides away,
+      full of pain, and hoping not
+      ever one clear thread to unknot
+      from the tangle of my soul,
+      from a heart of burning coal.
+
+  [_suddenly_ clytemnestra _appears standing in the doorway._
+
+clytemnestra.
+
+thou likewise, come within! i speak thy name,
+cassandra;
+
+  [cassandra _trembles, but continues to stare in front of her, as though
+not hearing_ clytemnestra.
+
+            seeing the gods--why chafe at them?--
+have placed thee here, to share within these walls
+our lustral waters, 'mid a crowd of thralls
+who stand obedient round the altar-stone
+of our possession. therefore come thou down,
+and be not over-proud. the tale is told
+how once alcmena's son himself, being sold,
+was patient, though he liked not the slaves' mess.
+  and more, if fate must bring thee to this stress,
+praise god thou art come to a house of high report
+and wealth from long ago. the baser sort,
+who have reaped some sudden harvest unforeseen,
+are ever cruel to their slaves, and mean
+in the measure. we shall give whate'er is due.
+
+  [cassandra _is silent._
+
+leader.
+
+to thee she speaks, and waits ... clear words and true!
+oh, doom is all around thee like a net;
+yield, if thou canst.... belike thou canst not yet.
+
+clytemnestra.
+
+methinks, unless this wandering maid is one
+voiced like a swallow-bird, with tongue unknown
+and barbarous, she can read my plain intent.
+i use but words, and ask for her consent.
+
+leader.
+
+ah, come! tis best, as the world lies to-day.
+leave this high-throned chariot, and obey!
+
+clytemnestra.
+
+how long must i stand dallying at the gate?
+even now the beasts to hestia consecrate
+wait by the midmost fire, since there is wrought
+this high fulfilment for which no man thought.
+wherefore, if 'tis thy pleasure to obey
+aught of my will, prithee, no more delay!
+if, dead to sense, thou wilt not understand...
+thou show her, not with speech but with brute hand!
+
+  [_to the leader of the_ chorus.
+
+leader.
+
+the strange maid needs a rare interpreter.
+she is trembling like a wild beast in a snare.
+
+clytemnestra.
+
+'fore god, she is mad, and heareth but her own
+folly! a slave, her city all o'erthrown,
+she needs must chafe her bridle, till this fret
+be foamed away in blood and bitter sweat.
+i waste no more speech, thus to be defied.
+
+  [_she goes back inside the palace_.
+
+leader.
+
+i pity thee so sore, no wrath nor pride
+is in me.--come, dismount! bend to the stroke
+fate lays on thee, and learn to feel thy yoke.
+
+  [_he lays his hand softly on_ cassandra's _shoulder_.
+
+cassandra (_moaning to herself_).
+
+otototoi ... dreams. dreams.
+  apollo. o apollo!
+
+second elder.
+
+why sob'st thou for apollo? it is writ,
+he loves not grief nor lendeth ear to it.
+
+cassandra.
+
+otototoi ... dreams. dreams.
+  apollo. o apollo!
+
+leader.
+
+still to that god she makes her sobbing cry
+who hath no place where men are sad, or die.
+
+cassandra.
+
+apollo, apollo! light of the ways of men!
+  mine enemy!
+hast lighted me to darkness yet again?
+
+second elder.
+
+how? will she prophesy about her own
+sorrows? that power abides when all is gone!
+
+cassandra.
+
+apollo, apollo! light of all that is!
+  mine enemy!
+where hast thou led me? ... ha! what house is this?
+
+leader.
+
+the atreidae's castle. if thou knowest not, i
+am here to help thee, and help faithfully.
+
+cassandra (_whispering_).
+
+nay, nay. this is the house that god hateth.
+there be many things that know its secret; sore
+and evil things; murders and strangling death.
+'tis here they slaughter men...a splashing floor.
+
+second elder.
+
+keen-sensed the strange maid seemeth, like a hound
+for blood.--and what she seeks can sure be found!
+
+cassandra.
+
+the witnesses ... i follow where they lead.
+the crying ... of little children ... near the gate:
+crying for wounds that bleed:
+and the smell of the baked meats their father ate.
+
+second elder (_recognizing her vision, and repelled_).
+
+word of thy mystic power had reached our ear
+long since. howbeit we need no prophets here.
+
+cassandra.
+
+ah, ah! what would they? a new dreadful thing.
+a great great sin plots in the house this day;
+too strong for the faithful, beyond medicining ...
+and help stands far away.
+
+leader.
+
+this warning i can read not, though i knew
+that other tale. it rings the city through.
+
+cassandra.
+
+o woman, thou! the lord who lay with thee!
+  wilt lave with water, and then ... how speak the end?
+it comes so quick. a hand ... another hand ...
+  that reach, reach gropingly....
+
+leader.
+
+i see not yet. these riddles, pierced with blind
+gleams of foreboding, but bemuse my mind.
+
+cassandra.
+
+ah, ah! what is it? there; it is coming clear.
+  a net ... some net of hell.
+nay, she that lies with him ... is she the snare?
+  and half of his blood upon it. it holds well....
+o crowd of ravening voices, be glad, yea, shout
+and cry for the stoning, cry for the casting out!
+
+second elder.
+
+what fury voices call'st thou to be hot
+against this castle? such words like me not.
+
+  and deep within my breast i felt that sick
+    and saffron drop, which creepeth to the heart
+    to die as the last rays of life depart.
+      misfortune comes so quick.
+
+cassandra.
+
+ah, look! look! keep his mate from the wild bull!
+  a tangle of raiment, see;
+a black horn, and a blow, and he falleth, full
+  in the marble amid the water. i counsel ye.
+  i speak plain ... blood in the bath and treachery!
+
+leader.
+
+no great interpreter of oracles
+am i; but this, i think, some mischief spells.
+
+  what spring of good hath seercraft ever made
+    up from the dark to flow?
+  'tis but a weaving of words, a craft of woe,
+    to make mankind afraid.
+
+cassandra.
+
+poor woman! poor dead woman! ... yea, it is i,
+  poured out like water among them. weep for me....
+  ah! what is this place? why must i come with thee....
+    to die, only to die?
+
+leader.
+
+thou art borne on the breath of god, thou spirit wild,
+  for thine own weird to wail,
+like to that wingèd voice, that heart so sore
+which, crying alway, hungereth to cry more,
+"itylus, itylus," till it sing her child
+  back to the nightingale.
+
+cassandra.
+
+oh, happy singing bird, so sweet, so clear!
+  soft wings for her god made,
+and an easy passing, without pain or tear ...
+for me 'twill be torn flesh and rending blade.
+
+second elder.
+
+whence is it sprung, whence wafted on god's breath,
+  this anguish reasonless?
+this throbbing of terror shaped to melody,
+moaning of evil blent with music high?
+who hath marked out for thee that mystic path
+  through thy woe's wilderness?
+
+cassandra.
+
+alas for the kiss, the kiss of paris, his people's bane!
+alas for scamander water, the water my fathers drank!
+long, long ago, i played about thy bank,
+  and was cherished and grew strong;
+now by a river of wailing, by shores of pain,
+  soon shall i make my song.
+
+leader.
+
+  how sayst thou? all too clear,
+this ill word thou hast laid upon thy mouth!
+    a babe could read thee plain.
+it stabs within me like a serpent's tooth,
+the bitter thrilling music of her pain:
+    i marvel as i hear.
+
+cassandra.
+
+alas for the toil, the toil of a city, worn unto death!
+alas for my father's worship before the citadel,
+the flocks that bled and the tumult of their breath!
+  but no help from them came
+to save troy towers from falling as they fell!...
+and i on the earth shall writhe, my heart aflame.
+
+second elder.
+
+dark upon dark, new ominous words of ill!
+  sure there hath swept on thee some evil thing,
+    crushing, which makes thee bleed
+  and in the torment of thy vision sing
+these plaining death-fraught oracles ... yet still, still,
+    their end i cannot read!
+
+cassandra.
+  [_by an effort she regains mastery of herself, and speaks directly to
+the leader_.
+
+'fore god, mine oracle shall no more hide
+with veils his visage, like a new-wed bride!
+a shining wind out of this dark shall blow,
+piercing the dawn, growing as great waves grow,
+to burst in the heart of sunrise ... stronger far
+than this poor pain of mine. i will not mar
+with mists my wisdom.
+                      be near me as i go,
+tracking the evil things of long ago,
+and bear me witness. for this roof, there clings
+music about it, like a choir which sings
+one-voiced, but not well-sounding, for not good
+the words are.  drunken, drunken, and with blood,
+to make them dare the more, a revelling rout
+is in the rooms, which no man shall cast out,
+of sister furies. and they weave to song,
+haunting the house, its first blind deed of wrong,
+spurning in turn that king's bed desecrate,
+defiled, which paid a brother's sin with hate....
+  hath it missed or struck, mine arrow? am i a poor
+dreamer, that begs and babbles at the door?
+give first thine oath in witness, that i know
+of this great dome the sins wrought long ago.
+
+elder.
+
+and how should oath of mine, though bravely sworn,
+appease thee? yet i marvel that one born
+far over seas, of alien speech, should fall
+so apt, as though she had lived here and seen all.
+
+cassandra.
+
+the seer apollo made me too to see.
+
+elder (_in a low voice_).
+
+was the god's heart pierced with desire for thee?
+
+cassandra.
+
+time was, i held it shame hereof to speak.
+
+elder.
+
+ah, shame is for the mighty, not the weak.
+
+cassandra.
+
+we wrestled, and his breath to me was sweet.
+
+elder.
+
+ye came to the getting of children, as is meet?
+
+cassandra.
+
+i swore to loxias, and i swore a lie.
+
+elder.
+
+already thine the gift of prophecy?
+
+cassandra.
+
+already i showed my people all their path.
+
+elder.
+
+and loxias did not smite thee in his wrath?
+
+cassandra.
+
+after that sin ... no man believed me more.
+
+elder.
+
+nay, then, to us thy wisdom seemeth sure.
+
+cassandra.
+
+oh, oh! agony, agony!
+again the awful pains of prophecy
+are on me, maddening as they fall....
+ye see them there ... beating against the wall?
+so young ... like shapes that gather in a dream ...
+slain by a hand they loved. children they seem,
+murdered ... and in their hands they bear baked meat:
+i think it is themselves. yea, flesh; i see it;
+and inward parts.... oh, what a horrible load
+to carry! and their father drank their blood.
+
+from these, i warn ye, vengeance broodeth still,
+a lion's rage, which goes not forth to kill
+but lurketh in his lair, watching the high
+hall of my war-gone master ... master? aye;
+mine, mine! the yoke is nailed about my neck....
+oh, lord of ships and trampler on the wreck
+of ilion, knows he not this she-wolf's tongue,
+which licks and fawns, and laughs with ear up-sprung,
+to bite in the end like secret death?--and can
+the woman?  slay a strong and armèd man? ...
+  what fangèd reptile like to her doth creep?
+some serpent amphisbene, some skylla, deep
+housed in the rock, where sailors shriek and die,
+mother of hell blood-raging, which doth cry
+on her own flesh war, war without alloy ...
+god! and she shouted in his face her joy,
+like men in battle when the foe doth break.
+and feigns thanksgiving for his safety's sake!
+  what if no man believe me? 'tis all one.
+the thing which must be shall be; aye, and soon
+thou too shalt sorrow for these things, and here
+standing confess me all too true a seer.
+
+leader.
+
+the thyestean feast of children slain
+i understood, and tremble. aye, my brain
+reels at these visions, beyond guesswork true.
+but after, though i heard, i had lost the clue.
+
+cassandra.
+
+man, thou shalt look on agamemnon dead.
+
+leader.
+
+peace, mouth of evil! be those words unsaid!
+
+cassandra.
+
+no god of peace hath watch upon that hour.
+
+leader.
+
+if it must come. forefend it, heavenly power!
+
+cassandra.
+
+they do not think of prayer; they think of death.
+
+leader.
+
+they? say, what man this foul deed compasseth?
+
+cassandra.
+
+alas, thou art indeed fallen far astray!
+
+leader.
+
+how could such deed be done? i see no way.
+
+cassandra.
+
+yet know i not the greek tongue all too well?
+
+leader.
+
+greek are the delphic dooms, but hard to spell.
+
+cassandra.
+
+ah! ah! there!
+what a strange fire! it moves ... it comes at me.
+o wolf apollo, mercy! o agony! ...
+why lies she with a wolf, this lioness lone,
+two-handed, when the royal lion is gone?
+god, she will kill me! like to them that brew
+poison, i see her mingle for me too
+a separate vial in her wrath, and swear,
+whetting her blade for him, that i must share
+his death ... because, because he hath dragged me here!
+  oh, why these mockers at my throat? this gear
+of wreathèd bands, this staff of prophecy?
+i mean to kill you first, before i die.
+begone!
+
+  [_she tears off her prophetic habiliments; and presently throws them on
+the ground, and stamps on them._
+
+  down to perdition! ... lie ye so?
+so i requite you! now make rich in woe
+some other bird of evil, me no more!            [_coming to herself._
+ah, see! it is apollo's self, hath tore
+his crown from me! who watched me long ago
+in this same prophet's robe, by friend, by foe,
+all with one voice, all blinded, mocked to scorn:
+"a thing of dreams," "a beggar-maid outworn,"
+poor, starving and reviled, i endured all;
+and now the seer, who called me till my call
+was perfect, leads me to this last dismay....
+'tis not the altar-stone where men did slay
+my father; 'tis a block, a block with gore
+yet hot, that waits me, of one slain before.
+  yet not of god unheeded shall we lie.
+there cometh after, one who lifteth high
+the downfallen; a branch where blossometh
+a sire's avenging and a mother's death.
+exiled and wandering, from this land outcast,
+one day he shall return, and set the last
+crown on these sins that have his house downtrod.
+for, lo, there is a great oath sworn of god,
+his father's upturned face shall guide him home.
+  why should i grieve? why pity these men's doom?
+i who have seen the city of ilion
+pass as she passed; and they who cast her down
+have thus their end, as god gives judgement sure....
+  i go to drink my cup. i will endure
+to die. o gates, death-gates, all hail to you!
+only, pray god the blow be stricken true!
+pray god, unagonized, with blood that flows
+quick unto friendly death, these eyes may close!
+
+leader.
+
+o full of sorrows, full of wisdom great,
+woman, thy speech is a long anguish; yet,
+knowing thy doom, why walkst thou with clear eyes,
+like some god-blinded beast, to sacrifice?
+
+cassandra.
+
+there is no escape, friends; only vain delay.
+
+leader.
+
+is not the later still the sweeter day?
+
+cassandra.
+
+the day is come. small profit now to fly.
+
+leader.
+
+through all thy griefs, woman, thy heart is high.
+
+cassandra.
+
+alas! none that is happy hears that praise.
+
+leader.
+
+are not the brave dead blest in after days?
+
+cassandra.
+
+o father! o my brethren brave, i come!
+
+  [_she moves towards the house, but recoils shuddering._
+
+leader.
+
+what frights thee? what is that thou startest from?
+
+cassandra.
+
+ah, faugh! faugh!
+
+leader.
+
+    what turns thee in that blind
+horror? unless some loathing of the mind ...
+
+cassandra.
+
+death drifting from the doors, and blood like rain!
+
+leader.
+
+'tis but the dumb beasts at the altar slain.
+
+cassandra.
+
+and vapours from a charnel-house ... see there!
+
+leader.
+
+'tis tyrian incense clouding in the air.
+
+cassandra (_recovering herself again_).
+
+so be it!--i will go, in yonder room
+to weep mine own and agamemnon's doom.
+may death be all! strangers, i am no bird
+that pipeth trembling at a thicket stirred
+by the empty wind. bear witness on that day
+when woman for this woman's life shall pay,
+and man for man ill-mated low shall lie:
+i ask this boon, as being about to die.
+
+leader.
+
+alas, i pity thee thy mystic fate!
+
+cassandra.
+
+one word, one dirge-song would i utter yet
+o'er mine own corpse. to this last shining sun
+i pray that, when the avenger's work is done,
+his enemies may remember this thing too,
+this little thing, the woman slave they slew!
+
+  o world of men, farewell! a painted show
+is all thy glory; and when life is low
+the touch of a wet sponge out-blotteth all.
+oh, sadder this than any proud man's fall!    [_she goes into the house._
+
+chorus.
+
+great fortune is an hungry thing,
+  and filleth no heart anywhere,
+though men with fingers menacing
+  point at the great house, none will dare,
+when fortune knocks, to bar the door
+proclaiming: "come thou here no more!"
+lo, to this man the gods have given
+  great ilion in the dust to tread
+and home return, emblazed of heaven;
+if it is writ, he too shall go
+through blood for blood spilt long ago;
+if he too, dying for the dead,
+  should crown the deaths of alien years,
+  what mortal afar off, who hears,
+shall boast him fortune's child, and led
+  above the eternal tide of tears?            [_a sudden cry from within._
+
+voice.
+
+ho! treason in the house! i am wounded: slain.
+
+leader.
+
+hush! in the castle! 'twas a cry
+of some man wounded mortally.
+
+voice.
+
+ah god, another! i am stricken again.
+
+leader.
+
+i think the deed is done. it was the king
+who groaned.... stand close, and think if anything....
+
+  [_the old men gather together under the shock, and debate confusedly._
+
+elder b.
+
+i give you straight my judgement. summon all
+the citizens to rescue. sound a call!
+
+elder c.
+
+no, no! burst in at once without a word!
+in, and convict them by their dripping sword!
+
+elder d.
+
+yes; that or something like it. quick, i say,
+be doing! 'tis a time for no delay.
+
+elder e.
+
+we have time to think. this opening ... they have planned
+some scheme to make enslavement of the land.
+
+elder f.
+
+yes, while we linger here! they take no thought
+of lingering, and their sword-arm sleepeth not!
+
+elder g.
+
+i have no counsel. i can speak not. oh,
+let him give counsel who can strike a blow!
+
+elder h.
+
+i say as this man says. i have no trust
+in words to raise a dead man from the dust.
+
+elder i.
+
+how mean you?  drag out our poor lives, and stand
+cowering to these defilers of the land?
+
+elder j.
+
+nay, 'tis too much! better to strive and die!
+death is an easier doom than slavery.
+
+elder k.
+
+we heard a sound of groaning, nothing plain,
+how know we--are we seers?--that one is slain?
+
+elder l.
+
+oh, let us find the truth out, ere we grow
+thus passionate! to surmise is not to know.
+
+leader.
+
+break in, then! 'tis the counsel ye all bring,
+and learn for sure, how is it with the king.
+
+  [_they cluster up towards the palace door, as though to force an
+entrance, when the great door swings open, revealing_ clytemnestra, _who
+stands, axe in hand, over the dead bodies of_ agamemnon _and_ cassandra.
+_the body of_  agamemnon _is wrapped in a rich crimson web. there is blood
+on_ clytemnestra's_ brow, and she speaks in wild triumph._
+
+clytemnestra.
+
+oh, lies enough and more have i this day
+spoken, which now i shame not to unsay.
+how should a woman work, to the utter end,
+hate on a damnèd hater, feigned a friend;
+how pile perdition round him, hunter-wise,
+too high for overleaping, save by lies?
+to me this hour was dreamed of long ago;
+a thing of ancient hate. 'twas very slow
+in coming, but it came. and here i stand
+even where i struck, with all the deed i planned
+done! 'twas so wrought--what boots it to deny?--
+the man could neither guard himself nor fly.
+an endless web, as by some fisher strung,
+a deadly plenteousness of robe, i flung
+all round him, and struck twice; and with two cries
+his limbs turned water and broke; and as he lies
+i cast my third stroke in, a prayer well-sped
+to zeus of hell, who guardeth safe his dead!
+so there he gasped his life out as he lay;
+and, gasping, the blood spouted ... like dark spray
+that splashed, it came, a salt and deathly dew;
+sweet, sweet as god's dear rain-drops ever blew
+o'er a parched field, the day the buds are born! ...
+  which things being so, ye councillors high-born,
+depart in joy, if joy ye will. for me,
+i glory. oh, if such a thing might be
+as o'er the dead thank-offering to outpour,
+on this dead it were just, aye, just and more,
+who filled the cup of the house with treacheries
+curse-fraught, and here hath drunk it to the lees!
+
+leader.
+
+we are astonied at thy speech. to fling,
+wild mouth! such vaunt over thy murdered king!
+
+clytemnestra.
+
+wouldst fright me, like a witless woman? lo,
+this bosom shakes not.  and, though well ye know,
+i tell you ... curse me as ye will, or bless,
+'tis all one ... this is agamemnon; this,
+my husband, dead by my right hand, a blow
+struck by a righteous craftsman. aye, 'tis so.
+
+chorus.
+
+woman, what evil tree,
+  what poison grown of the ground
+or draught of the drifting sea
+  way to thy lips hath found,
+making thee clothe thy heart
+  in rage, yea, in curses burning
+when thine own people pray?
+thou hast hewn, thou hast cast away;
+and a thing cast away thou art,
+  a thing of hate and a spurning!
+
+clytemnestra.
+
+aye, now, for me, thou hast thy words of fate;
+exile from argos and the people's hate
+for ever! against him no word was cried,
+when, recking not, as 'twere a beast that died,
+with flocks abounding o'er his wide domain,
+he slew his child, my love, my flower of pain, ...
+great god, as magic for the winds of thrace!
+why was not he man-hunted from his place,
+to purge the blood that stained him? ... when the deed
+is mine, oh, then thou art a judge indeed!
+but threat thy fill. i am ready, and i stand
+content; if thy hand beateth down my hand,
+thou rulest. if aught else be god's decree,
+thy lesson shall be learned, though late it be.
+
+chorus.
+
+thy thought, it is very proud;
+  thy breath is the scorner's breath;
+is not the madness loud
+  in thy heart, being drunk with death?
+yea, and above thy brow
+  a star of the wet blood burneth!
+oh, doom shall have yet her day,
+the last friend cast away,
+when lie doth answer lie
+  and a stab for a stab returneth!
+
+clytemnestra.
+
+and heark what oath-gods gather to my side!
+by my dead child's revenge, now satisfied,
+by mortal blindness, by all powers of hell
+which hate, to whom in sacrifice he fell,
+my hope shall walk not in the house of fear,
+while on my hearth one fire yet burneth clear,
+one lover, one aigisthos, as of old!
+  what should i fear, when fallen here i hold
+this foe, this scorner of his wife, this toy
+and fool of each chryseis under troy;
+and there withal his soothsayer and slave,
+his chanting bed-fellow, his leman brave,
+who rubbed the galleys' benches at his side.
+but, oh, they had their guerdon as they died!
+for he lies thus, and she, the wild swan's way,
+hath trod her last long weeping roundelay,
+and lies, his lover, ravisht o'er the main
+for his bed's comfort and my deep disdain.
+
+chorus. (_some elders_.)
+
+would god that suddenly
+with no great agony,
+  no long sick-watch to keep,
+my hour would come to me,
+my hour, and presently
+bring the eternal, the
+  unwaking sleep,
+now that my shepherd, he
+whose love watched over me,
+  lies in the deep!
+
+another.
+
+for woman's sake he endured and battled well,
+  and by a woman's hand he fell.
+
+others.
+
+what hast thou done, o helen blind of brain,
+o face that slew the souls on ilion's plain,
+one face, one face, and many a thousand slain?
+  the hate of old that on this castle lay,
+builded in lust, a husband's evil day,
+hath bloomed for thee a perfect flower again
+and unforgotten, an old and burning stain
+  never to pass away.
+
+clytemnestra.
+
+nay, pray not for the hour of death, being tried
+  too sore beneath these blows
+neither on helen turn thy wrath aside,
+the slayer of men, the face which hath destroyed
+its thousand danaan souls, and wrought a wide
+  wound that no leech can close.
+
+
+chorus.
+
+--daemon, whose heel is set
+  on the house and the twofold kin
+    of the high tantalidae,
+a power, heavy as fate,
+  thou wieldest through woman's sin,
+    piercing the heart of me!
+
+--like a raven swoln with hate
+  he hath set on the dead his claw,
+he croaketh a song to sate
+  his fury, and calls it law!
+
+clytemnestra.
+
+ah, call upon him! yea, call--
+  and thy thought hath found its path--
+the daemon who haunts this hall,
+  the thrice-engorged wrath;
+
+from him is the ache of the flesh
+  for blood born and increased;
+ere the old sore hath ceased
+  it oozeth afresh.
+
+chorus.
+
+  --indeed he is very great,
+      and heavy his anger, he,
+    the daemon who guides the fate
+     of the old tantalidae:
+alas, alas, an evil tale ye tell
+of desolate angers and insatiable!
+
+--ah me,
+  and yet 'tis all as zeus hath willed,
+      doer of all and cause of all;
+  by his word every chance doth fall,
+      no end without him is fulfilled;
+          what of these things
+  but cometh by high heaven's counsellings?
+
+  [_a band of mourners has gathered within the house_.
+
+mourners.
+
+ah, sorrow, sorrow! my king, my king!
+  how shall i weep, what word shall i say?
+caught in the web of this spider thing,
+  in foul death gasping thy life away!
+woe's me, woe's me, for this slavish lying,
+the doom of craft and the lonely dying,
+  the iron two-edged and the hands that slay!
+
+clytemnestra.
+
+     and criest thou still this deed hath been
+     my work? nay, gaze, and have no thought
+     that this is agamemnon's queen.
+     'tis he, 'tis he, hath round him wrought
+     this phantom of the dead man's wife;
+he, the old wrath, the driver of men astray,
+       pursuer of atreus for the feast defiled;
+     to assoil an ancient debt he hath paid this life;
+a warrior and a crowned king this day
+        atones for a slain child.
+
+chorus.
+
+--that thou art innocent herein,
+    what tongue dare boast? it cannot be,
+  yet from the deeps of ancient sin
+    the avenger may have wrought with thee.
+
+--on the red slayer crasheth, groping wild
+    for blood, more blood, to build his peace again,
+    and wash like water the old frozen stain
+          of the torn child.
+
+mourners.
+
+ah, sorrow, sorrow! my king, my king!
+  how shall i weep, what word shall i say?
+caught in the web of this spider thing,
+  in foul death gasping thy life away.
+woe's me, woe's me, for this slavish lying,
+the doom of craft and the lonely dying,
+  the iron two-edged and the hands that slay!
+
+clytemnestra.
+
+and what of the doom of craft that first
+he planted, making the house accurst?
+what of the blossom, from this root riven,
+iphigenîa, the unforgiven?
+even as the wrong was, so is the pain:
+he shall not laugh in the house of the slain,
+    when the count is scored;
+he hath but spoilèd and paid again
+    the due of the sword.
+
+chorus.
+
+i am lost; my mind dull-eyed
+    knows not nor feels
+whither to fly nor hide
+    while the house reels.
+the noise of rain that falls
+    on the roof affrighteth me,
+washing away the walls;
+    rain that falls bloodily.
+
+doth ever the sound abate?
+lo, the next hour of fate
+whetting her vengeance due
+on new whet-stones, for new
+    workings of hate.
+
+mourners.
+
+would thou hadst covered me, earth, o earth,
+  or e'er i had looked on my lord thus low,
+in the pallèd marble of silvern girth!
+  what hands may shroud him, what tears may flow?
+
+not thine, o woman who dared to slay him,
+  thou durst not weep to him now, nor pray him,
+nor pay to his soul the deep unworth
+  of gift or prayer to forget thy blow.
+
+--oh, who with heart sincere
+    shall bring praise or grief
+to lay on the sepulchre
+    of the great chief?
+
+clytemnestra.
+
+his burial is not thine to array.
+    by me he fell, by me he died,
+    i watch him to the grave, not cried
+by mourners of his housefolk; nay,
+
+his own child for a day like this
+    waits, as is seemly, and shall run
+    by the white waves of acheron
+to fold him in her arms and kiss!
+
+
+chorus.
+
+lo, she who was erst reviled
+    revileth; and who shall say?
+spoil taken from them that spoiled,
+    life-blood from them that slay!
+surely while god ensueth
+    his laws, while time doth run
+'tis written: on him that doeth
+    it shall be done.
+
+this is god's law and grace,
+who then shall hunt the race
+of curses from out this hall?
+the house is sealed withal
+    to dreadfulness.
+
+
+clytemnestra.
+
+aye, thou hast found the law, and stept
+    in truth's way.--yet even now i call
+    the living wrath which haunts this hall
+to truce and compact. i accept
+
+all the affliction he doth heap
+    upon me, and i charge him go
+    far off with his self-murdering woe
+to strange men's houses. i will keep
+
+some little dower, and leave behind
+    all else, contented utterly.
+    i have swept the madness from the sky
+wherein these brethren slew their kind.
+
+  [_as she ceases, exhausted and with the fire gone out of her,_
+aigisthos, _with attendants, bursts triumphantly in._
+
+
+aigisthos.
+
+o shining day, o dawn of righteousness
+fulfilled! now, now indeed will i confess
+that divine watchers o'er man's death and birth
+look down on all the anguish of the earth,
+now that i see him lying, as i love
+to see him, in this net the furies wove,
+to atone the old craft of his father's hand.
+    for atreus, this man's father, in this land
+reigning, and by thyestes in his throne
+challenged--he was his brother and mine own
+father from home and city cast him out;
+and he, after long exile, turned about
+and threw him suppliant on the hearth, and won
+promise of so much mercy, that his own
+life-blood should reek not in his father's hall.
+then did that godless brother, atreus, call,
+to greet my sire--more eagerness, o god,
+was there than love!--a feast of brotherhood.
+and, feigning joyous banquet, laid as meat
+before him his dead children. the white feet
+and finger-fringèd hands apart he set,
+veiled from all seeing, and made separate
+the tables. and he straightway, knowing naught,
+took of those bodies, eating that which wrought
+no health for all his race. and when he knew
+the unnatural deed, back from the board he threw,
+spewing that murderous gorge, and spurning brake
+the table, to make strong the curse he spake:
+"thus perish all of pleisthenês begot!"
+    for that lies this man here; and all the plot
+is mine, most righteously. for me, the third,
+when butchering my two brethren, atreus spared
+and cast me with my broken sire that day,
+a little thing in swaddling clothes, away
+to exile; where i grew, and at the last
+justice hath brought me home! yea though outcast
+in a far land, mine arm hath reached this king;
+my brain, my hate, wrought all the counselling;
+and all is well. i have seen mine enemy
+dead in the snare, and care not if i die!
+
+leader.
+
+aigisthos, to insult over the dead
+i like not. all the counsel, thou hast said,
+was thine alone; and thine the will that spilled
+this piteous blood. as justice is fulfilled,
+thou shalt not 'scape--so my heart presageth---the
+day of cursing and the hurlèd death.
+
+aigisthos.
+
+how, thou poor oarsman of the nether row,
+when the main deck is master? sayst thou so?...
+to such old heads the lesson may prove hard,
+i fear me, when obedience is the word.
+but hunger, and bonds, and cold, help men to find
+their wits.--they are wondrous healers of the mind!
+hast eyes and seest not this?--against a spike
+kick not, for fear it pain thee if thou strike.
+
+leader
+(_turning from him to_ clytemnestra).
+
+woman! a soldier fresh from war! to keep
+watch o'er his house and shame him in his sleep...
+to plot this craft against a lord of spears...
+
+  [clytemnestra, _as though in a dream, pays no heed._ aigisthos
+_interupts._
+
+aigisthos.
+
+these be the words, old man, that lead to tears!
+thou hast an opposite to orpheus' tongue,
+who chained all things with his enchanting song,
+for thy mad noise will put the chains on thee.
+enough! once mastered thou shalt tamer be.
+
+leader.
+
+thou master? is old argos so accurst?
+thou plotter afar off, who never durst
+raise thine own hand to affront and strike him down...
+
+aigisthos.
+
+to entice him was the wife's work. i was known
+by all men here, his old confessed blood-foe.
+howbeit, with his possessions i will know
+how to be king. and who obeys not me
+shall be yoked hard, no easy trace-horse he,
+corn-flushed. hunger, and hunger's prison mate,
+the clammy murk, shall see his rage abate.
+
+leader.
+
+thou craven soul! why not in open strife
+slay him? why lay the blood-sin on his wife,
+staining the gods of argos, making ill
+the soil thereof?...but young orestes still
+liveth. oh, fate will guide him home again,
+avenging, conquering, home to kill these twain!
+
+aigisthos.
+
+'fore god, if 'tis your pleasure thus to speak and do, ye soon shall hear!
+ho there, my trusty pikes, advance! there cometh business for the spear.
+
+  [_a body of spearmen, from concealment outside, rush in and dominate the
+stage._]
+
+leader.
+ho there, ye men of argos! up! stand and be ready, sword from sheath!
+
+aigisthos.
+
+by heaven, i also, sword in hand, am ready, and refuse not death!
+
+leader.
+
+come, find it! we accept thy word. thou offerest what we hunger for.
+
+ [_some of the elders draw swords with the leader; others have collapsed
+with weakness. men from_ agamemnon's _retinue have gathered and prepare
+for battle, when, before they can come to blows,_ clytemnestra _breaks
+from her exhausted silence._
+
+clytemnestra.
+
+nay, peace, o best-belovèd! peace! and let us work no evil more.
+surely the reaping of the past is a full harvest, and not good,
+and wounds enough are everywhere.--let us not stain ourselves with blood.
+ye reverend elders, go your ways, to his own dwelling every one,
+ere things be wrought for which men suffer.--what we did must needs be
+done.
+and if of all these strifes we now may have no more, oh, i will kneel
+and praise god, bruisèd though we be beneath the daemon's heavy heel.
+this is the word a woman speaks, to hear if any man will deign.
+
+aigisthos.
+
+and who are these to burst in flower of folly thus of tongue and brain,
+and utter words of empty sound and perilous, tempting fortune's frown,
+and leave wise counsel all forgot, and gird at him who wears the crown?
+
+leader.
+
+to cringe before a caitiff's crown, it squareth not with argive ways.
+
+aigisthos.
+(_sheathing his sword and turning from them_).
+
+bah, i will be a hand of wrath to fall on thee in after days.
+
+leader.
+
+not so, if god in after days shall guide orestes home again!
+
+aigisthos.
+
+i know how men in exile feed on dreams...and know such food is vain.
+
+leader.
+
+go forward and wax fat! defile the right for this thy little hour!
+
+aigisthos.
+
+i spare thee now. know well for all this folly thou shalt feel my power.
+
+leader.
+
+aye, vaunt thy greatness, as a bird beside his mate doth vaunt and swell.
+
+clytemnestra.
+
+vain hounds are baying round thee; oh, forget them! thou and i shall dwell
+as kings in this great house. we two at last will order all things well.
+
+  [_the elders and the remains of_ agamemnon's _retinue retire sullenly,
+leaving the spearmen in possession._ clytemnestra _and_ aigisthos _turn
+and enter the palace._]
+
+
+
+
+notes to the agamemnon
+
+
+the chief characters in the play belong to one family, as is shown by the
+two genealogies:--
+
+i.
+
+                            tantalus
+                               |
+                             pelops
+                               |
+                  ---------------------------
+                  |                         |
+                atreus                   thyestes
+                  |                         |
+          -----------------                 |
+          |               |                 |
+      agamemnon        menelaus         aigisthos
+   (= clytemnestra)    (= helen)     (= clytemnestra)
+          |
+    ------------------------
+    |           |          |
+iphigenia    electra    orestes
+
+(also, a sister of agamemnon, name variously given, married strophios, and
+was the mother of pylades.)
+
+ii.
+
+     tyndareus = leda = zeus
+               |      |
+     -----------    -------------------------
+     |              |           |           |
+clytemnestra      castor    polydeuces    helen
+
+p. 1, l. 1.]--the watchman, like most characters in greek tragedy, comes
+from the homeric tradition, though in homer (od. iv. 524) he is merely a
+servant of aigisthos.
+
+p. 2, l. 28, women's triumph cry.]--this cry of the women recurs several
+times in the play: cf. p. 26, ll. 587 ff., p. 55, l. 1234. it is
+conventionally represented by "ololû"; as the cry to apollo, paian is
+"i-ê," l. 146, and cassandra's sob is "ototoi" or "otototoi," p. 47.
+
+pp. 3 f., ll. 40 ff.]--with this silent scene of clytemnestra's, compare
+the long silence of cassandra below, and the silence of prometheus in that
+play until his torturers have left him. see the criticism of aeschylus in
+aristophanes, _frogs_, ll. 911-920, pp. 68, 69 in my translation.
+
+p. 5, l. 104, sign of the war-way.]--i.e. an ominous sign seen by the army
+as it started on its journey. in homer, iliad, ll. 305-329, it is a snake
+which eats the nine young of a mother bird and then the mother, and is
+turned into stone afterwards.--all through this chorus the language of the
+prophet calchas is intentionally obscure and riddling--the style of
+prophesy.
+
+p. 7, l. 146, but i-ê, i-ê.]--(pronounce _ee-ay_.) calchas, catching sight
+in his vision of the further consequences which artemis will exact if she
+fulfils the sign, calls on apollo paian, the healer, to check her.
+
+p. 7, l. 160, zeus, whate'er he be.]--this conception of zeus is expressed
+also in aeschylus' _suppliant women_, and was probably developed in the
+prometheus trilogy. see my _rise of the greek epic_, p. 291 (ed. 2).
+
+it is connected with the common greek conception of the _tritos sôtêr_--
+the saviour third. first, he who sins; next, he who avenges; third, he who
+saves. in vegetation worship it is the old year who has committed hubris,
+the sin of pride, in summer; the winter who slays him; the new year which
+shall save. in mythology the three successive rulers of heaven are given
+by hesiod as ouranos, kronos, zeus (cf. _prometheus_, 965 ff.), but we
+cannot tell if aeschylus accepted the hesiodic story. cf. note on l. 246,
+and clytemnestra's blasphemy at l. 1387, p. 63.
+
+p. 9, l. 192, winds from strymon.]--from the great river gorge of
+thrace, nne; cf. below, l. 1418.
+
+p. 9, l. 201, artemis.]--her name was terrible, because of its
+suggestion. she demanded the sacrifice of agamemnon's daughter, iphigenîa.
+(see euripides' two plays, _iphigenia in tauris_ and _iphigenia in
+aulis_.) in other poets agamemnon has generally committed some definite
+sin against artemis, but in aeschylus the death of iphigenîa seems to be
+merely one of the results of his acceptance of the sign.
+
+p. 10, l. 215, 'tis a rite of old.]--literally "it is themis." human
+sacrifice had had a place in the primitive religion of greece; hence
+agamemnon could not reject the demand of the soldiers as an obvious crime.
+see _rise of greek epic_, pp. 150-157.
+
+p. 11, l. 246, the third cup.]--regularly poured to zeus sôtêr, the
+saviour, and accompanied by a paean or cry of joy.
+
+p. 11, l. 256, this heart of argos, this frail tower:]--i.e. themselves.
+
+p. 11, l. 264, glad-voiced.]--clytemnestra is in extreme suspense, as
+the return of agamemnon will mean either her destruction or her
+deliverance. at such a moment there must be no ill-omened word, so she
+challenges fate.
+
+p. 12, l. 276, a word within that hovereth without wings.]--i.e. a
+presentiment. "winged words" are words spoken, which fly from speaker to
+hearer. a 'wingless' word is unspoken. the phrase occurs in homer.
+
+pp. 13 ff., ll. 281 ff.]--beacon speech. there is no need to inquire
+curiously into the practical possibility of this chain of beacons. greek
+tragedies do not care to be exact about this kind of detail. there may
+well have been a tradition that agamemnon, like the great king of persia,
+used a chain of beacons across the aegean.--note how vividly
+clytemnestra's imagination is working in her excitement. she seems to see
+before her every leaping light in the chain, just as in the next speech
+she imagines the scene in troy almost with the intensity of a vision.
+
+p. 14, l. 314, victory in the first as in the last.]--all are victory
+beacons; the spirit of victory infects them all equally. cf. l. 854 below,
+where agamemnon prays that the victory which is now with him, or in him,
+may abide.
+
+p. 15, l. 348, a woman's word.]--her hatred and fear of agamemnon, making
+her feel vividly the horrors of the sack and the peril overhanging the
+conquerors, have carried her dangerously far. she checks herself and
+apologizes for her womanlike anxiety. cf. l. 1661, p. 77.
+
+p. 18, ll. 409 ff., seers they saw visions.]--a difficult and uncertain
+passage. i think the seers attached to the royal household
+(cf. _libation-bearers,_ l. 37, where they are summoned to read a dream)
+were rather like what we call clairvoyants. being consulted, they look
+into some pool of liquid or the like; there they see gradually emerging
+the palace, the injured king, the deserted room, and at last a wraith of
+helen herself, haunting the place.
+
+p. 21, l. 487.]--this break in the action, covering a space of several
+days, was first pointed out by dr. walter headlam. incidentally it removes
+the gravest of the difficulties raised by dr. verrall in his famous essay
+upon the plot of the _agamemnon_.
+
+p. 21, l. 495, dry dust, own brother to the mire of war.]--i.e. "i can see
+by the state of his clothes, caked with dry dust which was once the mire
+of battle, that he comes straight from the war and can speak with
+knowledge." the herald is probably (though perhaps not quite consistently)
+conceived as having rushed post-haste with his news.
+
+pp. 22 ff., herald.]--the herald bursts in overcome with excitement and
+delight, full of love for his home and everything he sees. a marked
+contrast to agamemnon, ll. 810 ff. note that his first speech confirms all
+the worst fears suggested by clytemnestra. agamemnon has committed all the
+sins she prayed against, and more. the terrible lines 527 ff., "till her
+gods' houses, etc.," are very like a passage in the _persae_, 811 ff.,
+where exactly the same acts by the persian invaders of greece make their
+future punishment inevitable.
+
+p. 22, l. 509, pythian lord.]--apollo is often a sinister figure in
+tragedy. cf. sophocles _oedipus_ , ll. 915 ff., pp. 52 ff., and the
+similar scene, _electra_, 655 ff. here it is a shock to the herald to come
+suddenly on the god who was the chief enemy of the greeks at troy. one
+feels apollo an evil presence also in the cassandra scene, 11. 1071 ff.,
+pp. 47 ff.
+
+p. 23, l. 530, happy among men.]--the crown of his triumph! early greek
+thought was always asking the question, what is human happiness? to the
+herald agamemnon has achieved happiness if any one ever did. cf. the
+well-known story of croesus asking solon who was the happiest man in the
+world (herodotus, i. 30-33).
+
+p. 24, ll. 551 ff., herald's second speech.]--the connexion of thought is:
+"after all, why should either of us wish to die? all has ended well." this
+vivid description of the actualities of war can be better appreciated now
+than it could in 1913.
+
+p. 25, l. 577, these spoils.]--spoils purporting to come from the trojan
+war were extant in greek temples in aeschylus' day and later.
+
+p. 26, l. 595, our women's joy-cry.]--there seems to have been in argos an
+old popular festival, celebrating with joy or mockery the supposed death
+of a man and a woman. homer (od. iii. 309 f.) derives it from a rejoicing
+by orestes over aigisthos and clytemnestra; cf. below, ll. 1316 ff., p.
+59; aeschylus here and sophocles in the _electra_, from a celebration by
+clytemnestra of the deaths of agamemnon and cassandra. probably it was
+really some ordinary new year and old year celebration to which the poets
+give a tragic touch. it seems to have had a woman's "ololugmos" in it,
+perhaps uttered by men. see kaibel's note, soph. _electra_ 277-281.
+
+p. 26, l. 612, bronze be dyed like wool.]--impossible in the literal
+sense, but there is after all a way of dying a sword red!
+
+p. 27, l. 617, menelaus.]--this digression about menelaus is due, as
+similar digressions generally are when they occur in greek plays, to the
+poet feeling bound to follow the tradition. homer begins his longest
+account of the slaying of agamemnon by asking "where was menelaus?" (od.
+iii. 249). agamemnon could be safely attacked because he was alone.
+menelaus was away, wrecked or wind-bound.
+
+p. 28, l. 642, two-fold scourge.]--ares works his will when spear crosses
+spear, when man meets man. hence "two-fold."
+
+p. 29, chorus. the name helena.]--there was a controversy in aeschylus'
+day whether language, including names, was a matter of convention or of
+nature. was it mere accident, and could you change the name of anything at
+will? or was language a thing rooted in nature and fixed by god from of
+old? aeschylus adopts the latter view: why was this being called helena?
+if one had understood god's purpose one would have seen it was because she
+really _was_ "helenâs"--_ship-destroyer_. (the herald's story of the
+shipwreck has suggested this particular idea.) similarly, if a hero was
+called aias, and came to great sorrow, one could see that he was so called
+from 'aiai,' "alas!"--the antistrophe seems to find a meaning in the name
+paris or alexandras, where the etymology is not so clear.
+
+pp. 33 ff.]--entrance of agamemnon. the metre of the chorus indicates
+marching; so that apparently the procession takes some time to move across
+the orchestra and get into position. cassandra would be dressed, as a
+prophetess, in a robe of white reaching to the feet, covered by an
+_agrênon_, or net of wool with large meshes; she would have a staff and
+certain fillets or crowns. the leader welcomes the king: he explains that,
+though he was against the war ten years ago, and has not changed his
+opinion, he is a faithful servant of the king ... and that not all are
+equally so. he gave a similar hint to the herald above, ll. 546-550, p.
+24.
+
+p. 35, agamemnon.]--a hard, cold speech, full of pride in the earlier
+part, and turning to ominous threats at the end. those who have dared to
+be false shall be broken.--at the end comes a note of fear, like the fear
+in shakespeare's julius caesar. he is so full of triumph and success; he
+must be very careful not to provoke a fall.--victory, nike, was to the
+greeks a very vivid and infectious thing. it clung to you or it deserted
+you. and one who was really charged with victory, like agamemnon, was very
+valuable to his friends and people. hence they made statues of victory
+wingless--so that she should not fly away. see _four stages of greek
+religion_, p. 138 note.
+
+p. 36, clytemnestra.]--a wonderful speech. it seems to me that aeschylus'
+imagination realized all the confused passions in clytemnestra's mind, but
+that his art was not yet sufficiently developed to make them all clear and
+explicit. she is in suspense; does agamemnon know her guilt or not? at
+least, if she is to die, she wants to say something to justify or excuse
+herself in the eyes of the world. a touch of hysteria creeps in; why could
+he not have been killed in all these years? why must he rise, like some
+monster from the grave, unkillable? gradually she recovers her calm,
+explains clearly the suspicious point of orestes' absence, and heaps up
+her words and gestures of welcome to an almost oriental fullness (which
+agamemnon rebukes, ll. 918 ff., p. 39). again, at the end, when she finds
+that for the time she is safe, her real feelings almost break out.
+
+p. 38.]--what is the motive of the crimson tapestries? i think the
+tangling robe must have been in the tradition, as the murder in the bath
+certainly was. one motive, of course, is obvious: clytemnestra is tempting
+agamemnon to sin or "go too far." he tries to resist, but the splendour of
+an oriental homecoming seduces him and he yields. but is that enough to
+account for such a curious trait in the story, and one so strongly
+emphasized? we are told afterwards that clytemnestra threw over her victim
+an "endless web," long and rich (p. 63), to prevent his seeing or using
+his arms. and i cannot help suspecting that this endless web was the same
+as the crimson pall.
+
+if one tries to conjecture the origin of this curious story, it is perhaps
+a clue to realize that the word _droitê_ means both a bath and a
+sarcophagus, or rather that the thing called droitê, a narrow stone or
+marble vessel about seven feet long, was in pre-classical and
+post-classical times used as a sarcophagus, but in classical times chiefly
+or solely as a bath. if among the prehistoric graves at mycenae some later
+peasants discovered a royal mummy or skeleton in a sarcophagus, wrapped in
+a robe of royal crimson, and showing signs of violent death--such as
+schliemann believed that he discovered--would they not say: "we found the
+body of a king murdered in a bath, and wrapped round and round in a great
+robe?"
+
+p. 39 f.]--agamemnon is going through the process of temptation. he
+protests rather too often and yields.
+
+p. 39, l. 931, tell me but this.]--this little dialogue is very
+characteristic of aeschylus. euripides would have done it at three times
+the length and made all the points clear. in aeschylus the subtlety is
+there, but it is not easy to follow.
+
+p. 40, l. 945, these bound slaves.]--i.e. his shoes. the metaphor shows
+the trend of his unconscious mind.
+
+p. 41, l. 950, this princess.]--this is the first time that the attention
+of the audience is drawn to cassandra. she too is one of aeschylus' silent
+figures. i imagine her pale, staring in front of her, almost as if in a
+trance, until terror seizes her at clytemnestra's greeting in l. 1035, p.
+45.
+
+p. 41, l. 964, the cry.]--i.e. the cry of the possessed prophetess which
+rang from the inner sanctuary at delphi and was interpreted by the
+priests.--the last two lines of the speech are plain in their meaning but
+hard to translate. literally: "when the full, or fulfilled, man walketh
+his home,--o zeus the fulfiller, fulfil my prayers."
+
+p. 42, l. 976.]--the victim has been drawn into the house; the chorus sing
+a low boding song: every audience at a greek tragedy would expect next to
+hear a death cry from within, or to see a horrified messenger rush out.
+instead of which the door opens and there is clytemnestra: what does she
+want? "come thou also!" one victim is not enough.--in the next scene we
+must understand the cause of clytemnestra's impatience. if she stays too
+long outside, some one will warn agamemnon; if she leaves cassandra, she
+with her second sight will warn the chorus. if cassandra could only be got
+inside all would be safe!
+
+p. 44, l. 1022, "one there was of old."]--asklêpios, the physician,
+restored hippolytus to life, and zeus blasted him for so oversetting the
+laws of nature.
+
+p. 45, l. 1040, alcmêna's son.]--heracles was made a slave to omphalê,
+queen of lydia. his grumbles at his insufficient food were a theme of
+comedy.
+
+p. 45, l. 1049, belike thou canst not yet.]--cf. below, ll. 1066 ff. the
+elder speaks in sympathy. "very likely you cannot yet bring yourself to
+submit."
+
+p. 46, l. 1061, thou show her.]--it seems odd to think that this passage
+has for centuries been translated as if it was all addressed to cassandra:
+"but if you do not understand what i say, please indicate the same with
+your barbarous hand!"--what makes cassandra at last speak? i think that
+the elder probably touches her, and the touch as it were breaks the spell.
+
+p. 47, l. 1072, cassandra.]--"otototoi" really takes the place of a stage
+direction: she utters a long low sob.--the exclamation which i have
+translated "dreams!" seems to occur when people see ghosts or visions.
+_alcestis_, 261; _prometheus_, 567. cf. _phoenissae_ 1296.--"mine enemy!"
+the name "apollon" suggested "_apollyon,"_ destroying ... the form which
+is actually used in the book of revelation (rev. ix. 11).
+
+observe how, during the lyric scene, cassandra's vision grows steadily
+more definite: first vague horror of the house: then the sobbing of
+children, slain long ago: then, a new deed of blood coming; a woman in it:
+a wife: then, with a great effort, an attempt to describe the actual
+slaying in the bath. lastly, the sight of herself among the slain. (this
+last point is greatly developed by euripides, _trojan women_, ll. 445 ff.,
+pp. 33 f.).
+
+the story of the children of thyestes is given below, ll. 1590 ff., p. 73.
+procnê (or philomêla) was an attic princess who, in fury against her
+thracian husband, tereus, killed their child itys, or itylus, and was
+changed into a nightingale, to weep for him for ever.
+
+p. 52, ll. 1178 ff.]--dialogue. during the lyrics cassandra has been
+"possessed" or "entranced": the turn to dialogue marks a conscious attempt
+to control herself and state plainly her message of warning. in order to
+prove her power, she first tells the elders of deeds done in the past
+which are known to them but cannot have been known to her. when once they
+are convinced of her true seercraft, she will be able to warn them of what
+is coming!--the short 'stichom[^y]thia'[**tr: this is a y with a
+circumflex, not a superscript.] (line for line dialogue), dealing in awed
+whispers with things which can hardly be spoken, leaves the story of
+cassandra still a mystery. then her self-control breaks and the power of
+the god sweeps irresistibly upon her; cf. below, ll. 1256 ff.; where it
+comes at her like a visible shape of fire, a thing not uncommon with
+modern clairvoyants.
+
+p. 56, l. 1252, thou art indeed fallen far astray]--because they had said
+"what _man_"
+
+p. 56, l. 1265, these wreathed bands, this staff of prophesy.]--cf.
+_trojan women_, ll. 451 ff., p. 34.
+
+p. 60, ll. 1343 ff., the death cry; the hesitation of the elders.]--this
+scene is often condemned or even ridiculed; i think, through
+misunderstanding. we knew the old men were helpless, like "dreams
+wandering in the day." it is essential to the story that when the crisis
+comes they shall be found wanting. but they are neither foolish nor
+cowardly; each utterance in itself is natural and characteristic, but
+counsels are divided. one would like to know whether aeschylus made them
+speak together confusedly, as would certainly be done on the modern stage,
+or whether the stately conventions of greek tragedy preferred that each
+speaker should finish his say. in any case, what happens is that after a
+moment or two of confused counsel the elders determine to break into the
+palace, but as they are mounting the steps the great doors are flung open
+and clytemnestra confronts them, standing over the dead bodies of
+agamemnon and cassandra.
+
+the illusion intended is that the elders have entered the palace and
+discovered clytemnestra. but, as the mechanical arrangements of the greek
+stage were not equal to this sudden change of scene, and since also it
+would, even with perfect machinery, have a tiresome interrupting effect, a
+slight confusion or inconsistency is allowed. we are supposed to be inside
+the house; but as a matter of fact the supposition is soon forgotten, and
+the play goes on without any attention to the particular place of the
+action. on clytemnestra's speech see introduction, p. xiii.
+
+p. 63, l. 1387, a prayer well sped to zeus of hell]--as the third gift or
+libation was ritually given to zeus the saviour, clytemnestra
+blasphemously suggests that her third and unnecessary blow was an
+acceptable gift to a sort of anti-zeus, a saviour of death.
+
+p. 65, l. 1436, aigisthos.]--at last the name is mentioned which has been
+in the mind of every one!--chrysêïs was a prisoner of war, daughter of
+chrysês, priest of apollo. agamemnon was made to surrender her to her
+father, and from this arose his quarrel with achilles, which is the
+subject of the iliad.
+
+pp. 67-72, ll. 1468-1573, daemon.]--the genius or guardian spirit of the
+house has in this house become a wrath, an 'alastor' or 'driver astray.'
+see introduction, pp. x ff.
+
+p. 68, l. 1513, mourners.]--this attribution of the different speeches or
+songs to different speakers is, of course, conjectural. ancient dramas
+come down to us with no stage directions and very imperfect indications of
+the speakers.
+
+p, 72, l. 1579, aigisthos.]--the entry of aigisthos enlivens the scene
+again after the brooding and bewildered end of the dialogue between
+clytemnestra and the elders. at the same time, it seems, no doubt by
+deliberate intention, to reduce it to commonplace. aigisthos' self-defence
+is largely justified, but he is no hero.
+
+p. 73, l. 1602, pleisthenês.]--apparently one of the ancestors of atreus,
+but it is not clear where he comes in the genealogy. he may be identical
+with pelops.
+
+p. 74, l. 1617, oarsman of the nether row.]--on an ancient galley, bireme
+or trireme, the rowers of the lower bank of oars ranked as inferior to
+those who used the long oars from the deck.
+
+p. 76, l. 1654.]--clytemnestra, see introduction, p. xiii. she longs for
+peace, yet after all "had zimri peace who slew his master?" the end of the
+play leaves us waiting for the return of orestes. in the first scene of
+the _libation-bearers,_ he is discovered standing by night at his father's
+grave.
+
+
+
