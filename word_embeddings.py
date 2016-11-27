@@ -20,7 +20,7 @@ class WordEmbedding(object):
 				print 'Could not load pickle file', self.embedding_file
 		else: 
 			self.embeddings = self.learn_embeddings()
-			cPickle.dump(self.embeddings,open(embedding_file,'wb'))
+			cPickle.dump(self.embeddings,open(self.embedding_file,'wb'))
 		return self.embeddings
 
 	def learn_embeddings(self):

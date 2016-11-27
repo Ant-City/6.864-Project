@@ -1,6 +1,8 @@
 import os
+import csv
 import gensim
 import codecs
+import cPickle
 from nltk.tokenize import sent_tokenize, word_tokenize
 
 
@@ -28,6 +30,29 @@ class EntireCorpus(object):
 					 		yield word_tokenize(sent)
 
 
+
+def getCharactersData(book_path):
+	character_data = {}
+	with open(book_path,'rb') as csvfile:
+		metadata = csv.reader(csvfile,delimiter=',')
+		firstline = True
+		for character,list_file,analysis_file in metadata:
+			if firstline:
+				firstline = False
+				continue
+			character_data[character] = {'list': readText(list_file), 'analysis': readText(analysis_file)}
+	return character_data
+
+def readText(filename):
+	if filename == '':
+		return None
+	with codecs.open(filename, mode='r', encoding='utf-8', errors='ignore') as fp:
+		text = fp.read()
+	return textToSentences(text)
+
+def textToSentences(text):
+	sent_tokenize_list = sent_tokenize(text)
+	return [word_tokenize(sent) for sent in sent_tokenize_list]
 
 # corpus_generator = EntireCorpus('Books/')
 
