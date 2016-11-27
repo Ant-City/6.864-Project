@@ -7,7 +7,7 @@ class Book(object):
 
 	def __init__(self,directory_name,path='Books'):
 		self.book_path = os.path.join(path,directory_name) + '/'
-		self.main_text_path = self.book_path + 'main.txt'
+		self.main_text_path = self.book_path + 'main_cleaned.txt'
 		self.metadata_path = self.book_path + 'meta_data.csv'
 		self.title = translate_path(directory_name)
 		self.stored_object = translate_to_pickle(self.book_path)
@@ -36,7 +36,7 @@ class Book(object):
 	@classmethod
 	def getBook(cls,directory_name,path='Books/'):
 		book_path = os.path.join(path,directory_name) + '/'
-		main_text_path = book_path + 'main.txt'
+		main_text_path = book_path + 'main_cleaned.txt'
 		stored_object = translate_to_pickle(book_path)
 		if os.path.isfile(stored_object):
 			print 'loading book object from memory...'
