@@ -1,22 +1,22 @@
 characterName,listFile,analysisFile
-ekwefi,Books/Things_Fall_Apart/character_10_list.txt,
-okagbue uyanwa,Books/Things_Fall_Apart/character_17_list.txt,
-obiageli,Books/Things_Fall_Apart/character_19_list.txt,
-ojiugo,Books/Things_Fall_Apart/character_20_list.txt,
-mr. kiaga,Books/Things_Fall_Apart/character_16_list.txt,
-mr. brown,Books/Things_Fall_Apart/character_4_list.txt,Books/Things_Fall_Apart/character_4_analysis.txt
-ezinma,Books/Things_Fall_Apart/character_2_list.txt,Books/Things_Fall_Apart/character_2_analysis.txt
-ikemefuna,Books/Things_Fall_Apart/character_3_list.txt,
-uchendu,Books/Things_Fall_Apart/character_6_list.txt,
-okonkwo,Books/Things_Fall_Apart/character_0_list.txt,Books/Things_Fall_Apart/character_0_analysis.txt
-maduka,Books/Things_Fall_Apart/character_18_list.txt,
-the district commissioner,Books/Things_Fall_Apart/character_7_list.txt,
-akunna,Books/Things_Fall_Apart/character_14_list.txt,
-nwakibie,Books/Things_Fall_Apart/character_15_list.txt,
-nwoye,Books/Things_Fall_Apart/character_1_list.txt,Books/Things_Fall_Apart/character_1_analysis.txt
-chielo,Books/Things_Fall_Apart/character_13_list.txt,
-enoch,Books/Things_Fall_Apart/character_11_list.txt,
-unoka,Books/Things_Fall_Apart/character_8_list.txt,
-ogbuefi ezeudu,Books/Things_Fall_Apart/character_12_list.txt,
-reverend james smith,Books/Things_Fall_Apart/character_5_list.txt,
-obierika,Books/Things_Fall_Apart/character_9_list.txt,
+ekwefi,Books/Things_Fall_Apart/character_10_list_cleaned.txt,
+okagbue uyanwa,Books/Things_Fall_Apart/character_17_list_cleaned.txt,
+obiageli,Books/Things_Fall_Apart/character_19_list_cleaned.txt,
+ojiugo,Books/Things_Fall_Apart/character_20_list_cleaned.txt,
+mr. kiaga,Books/Things_Fall_Apart/character_16_list_cleaned.txt,
+mr. brown,Books/Things_Fall_Apart/character_4_list_cleaned.txt,Books/Things_Fall_Apart/character_4_analysis_cleaned.txt
+ezinma,Books/Things_Fall_Apart/character_2_list_cleaned.txt,Books/Things_Fall_Apart/character_2_analysis_cleaned.txt
+ikemefuna,Books/Things_Fall_Apart/character_3_list_cleaned.txt,
+uchendu,Books/Things_Fall_Apart/character_6_list_cleaned.txt,
+okonkwo,Books/Things_Fall_Apart/character_0_list_cleaned.txt,Books/Things_Fall_Apart/character_0_analysis_cleaned.txt
+maduka,Books/Things_Fall_Apart/character_18_list_cleaned.txt,
+the district commissioner,Books/Things_Fall_Apart/character_7_list_cleaned.txt,
+akunna,Books/Things_Fall_Apart/character_14_list_cleaned.txt,
+nwakibie,Books/Things_Fall_Apart/character_15_list_cleaned.txt,
+nwoye,Books/Things_Fall_Apart/character_1_list_cleaned.txt,Books/Things_Fall_Apart/character_1_analysis_cleaned.txt
+chielo,Books/Things_Fall_Apart/character_13_list_cleaned.txt,
+enoch,Books/Things_Fall_Apart/character_11_list_cleaned.txt,
+unoka,Books/Things_Fall_Apart/character_8_list_cleaned.txt,
+ogbuefi ezeudu,Books/Things_Fall_Apart/character_12_list_cleaned.txt,
+reverend james smith,Books/Things_Fall_Apart/character_5_list_cleaned.txt,
+obierika,Books/Things_Fall_Apart/character_9_list_cleaned.txt,

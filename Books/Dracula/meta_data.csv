@@ -1,11 +1,11 @@
 characterName,listFile,analysisFile
-mrs. westenra,Books/Dracula/character_9_list.txt,
-count dracula,Books/Dracula/character_0_list.txt,Books/Dracula/character_0_analysis.txt
-lucy westenra,Books/Dracula/character_4_list.txt,Books/Dracula/character_4_analysis.txt
-arthur holmwood,Books/Dracula/character_6_list.txt,
-mina murray,Books/Dracula/character_3_list.txt,Books/Dracula/character_3_analysis.txt
-van helsing,Books/Dracula/character_1_list.txt,Books/Dracula/character_1_analysis.txt
-jonathan harker,Books/Dracula/character_2_list.txt,
-john seward,Books/Dracula/character_5_list.txt,
-quincey morris,Books/Dracula/character_7_list.txt,
-renfield,Books/Dracula/character_8_list.txt,
+mrs. westenra,Books/Dracula/character_9_list_cleaned.txt,
+count dracula,Books/Dracula/character_0_list_cleaned.txt,Books/Dracula/character_0_analysis_cleaned.txt
+lucy westenra,Books/Dracula/character_4_list_cleaned.txt,Books/Dracula/character_4_analysis_cleaned.txt
+arthur holmwood,Books/Dracula/character_6_list_cleaned.txt,
+mina murray,Books/Dracula/character_3_list_cleaned.txt,Books/Dracula/character_3_analysis_cleaned.txt
+van helsing,Books/Dracula/character_1_list_cleaned.txt,Books/Dracula/character_1_analysis_cleaned.txt
+jonathan harker,Books/Dracula/character_2_list_cleaned.txt,
+john seward,Books/Dracula/character_5_list_cleaned.txt,
+quincey morris,Books/Dracula/character_7_list_cleaned.txt,
+renfield,Books/Dracula/character_8_list_cleaned.txt,

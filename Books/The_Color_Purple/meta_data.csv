@@ -1,18 +1,18 @@
 characterName,listFile,analysisFile
-tashi,Books/The_Color_Purple/character_12_list.txt,
-shug avery,Books/The_Color_Purple/character_3_list.txt,Books/The_Color_Purple/character_3_analysis.txt
-harpo,Books/The_Color_Purple/character_4_list.txt,
-corrine,Books/The_Color_Purple/character_9_list.txt,
-eleanor jane,Books/The_Color_Purple/character_14_list.txt,
-sofia,Books/The_Color_Purple/character_5_list.txt,
-samuel,Books/The_Color_Purple/character_8_list.txt,
-celie,Books/The_Color_Purple/character_0_list.txt,Books/The_Color_Purple/character_0_analysis.txt
-olivia,Books/The_Color_Purple/character_10_list.txt,
-adam,Books/The_Color_Purple/character_11_list.txt,
-alphonso,Books/The_Color_Purple/character_7_list.txt,
-miss millie,Books/The_Color_Purple/character_13_list.txt,
-squeak,Books/The_Color_Purple/character_6_list.txt,
-grady,Books/The_Color_Purple/character_15_list.txt,
-mr. ______,Books/The_Color_Purple/character_2_list.txt,Books/The_Color_Purple/character_2_analysis.txt
-kate,Books/The_Color_Purple/character_16_list.txt,
-nettie,Books/The_Color_Purple/character_1_list.txt,Books/The_Color_Purple/character_1_analysis.txt
+tashi,Books/The_Color_Purple/character_12_list_cleaned.txt,
+shug avery,Books/The_Color_Purple/character_3_list_cleaned.txt,Books/The_Color_Purple/character_3_analysis_cleaned.txt
+harpo,Books/The_Color_Purple/character_4_list_cleaned.txt,
+corrine,Books/The_Color_Purple/character_9_list_cleaned.txt,
+eleanor jane,Books/The_Color_Purple/character_14_list_cleaned.txt,
+sofia,Books/The_Color_Purple/character_5_list_cleaned.txt,
+samuel,Books/The_Color_Purple/character_8_list_cleaned.txt,
+celie,Books/The_Color_Purple/character_0_list_cleaned.txt,Books/The_Color_Purple/character_0_analysis_cleaned.txt
+olivia,Books/The_Color_Purple/character_10_list_cleaned.txt,
+adam,Books/The_Color_Purple/character_11_list_cleaned.txt,
+alphonso,Books/The_Color_Purple/character_7_list_cleaned.txt,
+miss millie,Books/The_Color_Purple/character_13_list_cleaned.txt,
+squeak,Books/The_Color_Purple/character_6_list_cleaned.txt,
+grady,Books/The_Color_Purple/character_15_list_cleaned.txt,
+mr. ______,Books/The_Color_Purple/character_2_list_cleaned.txt,Books/The_Color_Purple/character_2_analysis_cleaned.txt
+kate,Books/The_Color_Purple/character_16_list_cleaned.txt,
+nettie,Books/The_Color_Purple/character_1_list_cleaned.txt,Books/The_Color_Purple/character_1_analysis_cleaned.txt

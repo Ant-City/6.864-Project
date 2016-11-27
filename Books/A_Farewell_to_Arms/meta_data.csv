@@ -1,15 +1,15 @@
 characterName,listFile,analysisFile
-dr. valentini,Books/A_Farewell_to_Arms/character_7_list.txt,
-gino,Books/A_Farewell_to_Arms/character_10_list.txt,
-catherine barkley,Books/A_Farewell_to_Arms/character_1_list.txt,Books/A_Farewell_to_Arms/character_1_analysis.txt
-ralph simmons,Books/A_Farewell_to_Arms/character_11_list.txt,
-miss van campen,Books/A_Farewell_to_Arms/character_6_list.txt,
-bonello,Books/A_Farewell_to_Arms/character_13_list.txt,
-miss gage,Books/A_Farewell_to_Arms/character_5_list.txt,
-rinaldi,Books/A_Farewell_to_Arms/character_2_list.txt,Books/A_Farewell_to_Arms/character_2_analysis.txt
-emilio,Books/A_Farewell_to_Arms/character_12_list.txt,
-the priest,Books/A_Farewell_to_Arms/character_3_list.txt,
-ettore moretti,Books/A_Farewell_to_Arms/character_9_list.txt,
-lieutenant frederic henry,Books/A_Farewell_to_Arms/character_0_list.txt,
-helen ferguson,Books/A_Farewell_to_Arms/character_4_list.txt,
-count greffi,Books/A_Farewell_to_Arms/character_8_list.txt,
+dr. valentini,Books/A_Farewell_to_Arms/character_7_list_cleaned.txt,
+gino,Books/A_Farewell_to_Arms/character_10_list_cleaned.txt,
+catherine barkley,Books/A_Farewell_to_Arms/character_1_list_cleaned.txt,Books/A_Farewell_to_Arms/character_1_analysis_cleaned.txt
+ralph simmons,Books/A_Farewell_to_Arms/character_11_list_cleaned.txt,
+miss van campen,Books/A_Farewell_to_Arms/character_6_list_cleaned.txt,
+bonello,Books/A_Farewell_to_Arms/character_13_list_cleaned.txt,
+miss gage,Books/A_Farewell_to_Arms/character_5_list_cleaned.txt,
+rinaldi,Books/A_Farewell_to_Arms/character_2_list_cleaned.txt,Books/A_Farewell_to_Arms/character_2_analysis_cleaned.txt
+emilio,Books/A_Farewell_to_Arms/character_12_list_cleaned.txt,
+the priest,Books/A_Farewell_to_Arms/character_3_list_cleaned.txt,
+ettore moretti,Books/A_Farewell_to_Arms/character_9_list_cleaned.txt,
+lieutenant frederic henry,Books/A_Farewell_to_Arms/character_0_list_cleaned.txt,
+helen ferguson,Books/A_Farewell_to_Arms/character_4_list_cleaned.txt,
+count greffi,Books/A_Farewell_to_Arms/character_8_list_cleaned.txt,

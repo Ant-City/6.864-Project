@@ -1,21 +1,21 @@
 characterName,listFile,analysisFile
-jim,Books/The_Adventures_of_Tom_Sawyer/character_14_list.txt,
-joe harper,Books/The_Adventures_of_Tom_Sawyer/character_4_list.txt,
-mr. jones,Books/The_Adventures_of_Tom_Sawyer/character_12_list.txt,
-alfred temple,Books/The_Adventures_of_Tom_Sawyer/character_17_list.txt,
-muff potter,Books/The_Adventures_of_Tom_Sawyer/character_8_list.txt,
-ben rogers,Books/The_Adventures_of_Tom_Sawyer/character_16_list.txt,
-the widow douglas,Books/The_Adventures_of_Tom_Sawyer/character_11_list.txt,
-mr. sprague,Books/The_Adventures_of_Tom_Sawyer/character_10_list.txt,
-amy lawrence,Books/The_Adventures_of_Tom_Sawyer/character_15_list.txt,
-becky thatcher,Books/The_Adventures_of_Tom_Sawyer/character_3_list.txt,
-mr. dobbins,Books/The_Adventures_of_Tom_Sawyer/character_19_list.txt,
-mr. walters,Books/The_Adventures_of_Tom_Sawyer/character_18_list.txt,
-sid,Books/The_Adventures_of_Tom_Sawyer/character_5_list.txt,
-huckleberry finn,Books/The_Adventures_of_Tom_Sawyer/character_2_list.txt,Books/The_Adventures_of_Tom_Sawyer/character_2_analysis.txt
-judge thatcher,Books/The_Adventures_of_Tom_Sawyer/character_13_list.txt,
-injun joe,Books/The_Adventures_of_Tom_Sawyer/character_7_list.txt,Books/The_Adventures_of_Tom_Sawyer/character_7_analysis.txt
-dr. robinson,Books/The_Adventures_of_Tom_Sawyer/character_9_list.txt,
-mary,Books/The_Adventures_of_Tom_Sawyer/character_6_list.txt,
-aunt polly,Books/The_Adventures_of_Tom_Sawyer/character_1_list.txt,
-tom sawyer,Books/The_Adventures_of_Tom_Sawyer/character_0_list.txt,Books/The_Adventures_of_Tom_Sawyer/character_0_analysis.txt
+jim,Books/The_Adventures_of_Tom_Sawyer/character_14_list_cleaned.txt,
+joe harper,Books/The_Adventures_of_Tom_Sawyer/character_4_list_cleaned.txt,
+mr. jones,Books/The_Adventures_of_Tom_Sawyer/character_12_list_cleaned.txt,
+alfred temple,Books/The_Adventures_of_Tom_Sawyer/character_17_list_cleaned.txt,
+muff potter,Books/The_Adventures_of_Tom_Sawyer/character_8_list_cleaned.txt,
+ben rogers,Books/The_Adventures_of_Tom_Sawyer/character_16_list_cleaned.txt,
+the widow douglas,Books/The_Adventures_of_Tom_Sawyer/character_11_list_cleaned.txt,
+mr. sprague,Books/The_Adventures_of_Tom_Sawyer/character_10_list_cleaned.txt,
+amy lawrence,Books/The_Adventures_of_Tom_Sawyer/character_15_list_cleaned.txt,
+becky thatcher,Books/The_Adventures_of_Tom_Sawyer/character_3_list_cleaned.txt,
+mr. dobbins,Books/The_Adventures_of_Tom_Sawyer/character_19_list_cleaned.txt,
+mr. walters,Books/The_Adventures_of_Tom_Sawyer/character_18_list_cleaned.txt,
+sid,Books/The_Adventures_of_Tom_Sawyer/character_5_list_cleaned.txt,
+huckleberry finn,Books/The_Adventures_of_Tom_Sawyer/character_2_list_cleaned.txt,Books/The_Adventures_of_Tom_Sawyer/character_2_analysis_cleaned.txt
+judge thatcher,Books/The_Adventures_of_Tom_Sawyer/character_13_list_cleaned.txt,
+injun joe,Books/The_Adventures_of_Tom_Sawyer/character_7_list_cleaned.txt,Books/The_Adventures_of_Tom_Sawyer/character_7_analysis_cleaned.txt
+dr. robinson,Books/The_Adventures_of_Tom_Sawyer/character_9_list_cleaned.txt,
+mary,Books/The_Adventures_of_Tom_Sawyer/character_6_list_cleaned.txt,
+aunt polly,Books/The_Adventures_of_Tom_Sawyer/character_1_list_cleaned.txt,
+tom sawyer,Books/The_Adventures_of_Tom_Sawyer/character_0_list_cleaned.txt,Books/The_Adventures_of_Tom_Sawyer/character_0_analysis_cleaned.txt

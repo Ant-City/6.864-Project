@@ -1,17 +1,17 @@
 characterName,listFile,analysisFile
-benjamin,Books/Animal_Farm/character_8_list.txt,
-clover,Books/Animal_Farm/character_5_list.txt,
-jessie and bluebell,Books/Animal_Farm/character_14_list.txt,
-mollie,Books/Animal_Farm/character_7_list.txt,
-minimus,Books/Animal_Farm/character_15_list.txt,
-squealer,Books/Animal_Farm/character_3_list.txt,Books/Animal_Farm/character_3_analysis.txt
-mr. frederick,Books/Animal_Farm/character_11_list.txt,
-snowball,Books/Animal_Farm/character_1_list.txt,Books/Animal_Farm/character_1_analysis.txt
-boxer,Books/Animal_Farm/character_2_list.txt,Books/Animal_Farm/character_2_analysis.txt
-muriel,Books/Animal_Farm/character_9_list.txt,
-mr. whymper,Books/Animal_Farm/character_13_list.txt,
-mr. pilkington,Books/Animal_Farm/character_12_list.txt,
-mr. jones,Books/Animal_Farm/character_10_list.txt,
-moses,Books/Animal_Farm/character_6_list.txt,
-old major,Books/Animal_Farm/character_4_list.txt,Books/Animal_Farm/character_4_analysis.txt
-napoleon,Books/Animal_Farm/character_0_list.txt,Books/Animal_Farm/character_0_analysis.txt
+benjamin,Books/Animal_Farm/character_8_list_cleaned.txt,
+clover,Books/Animal_Farm/character_5_list_cleaned.txt,
+jessie and bluebell,Books/Animal_Farm/character_14_list_cleaned.txt,
+mollie,Books/Animal_Farm/character_7_list_cleaned.txt,
+minimus,Books/Animal_Farm/character_15_list_cleaned.txt,
+squealer,Books/Animal_Farm/character_3_list_cleaned.txt,Books/Animal_Farm/character_3_analysis_cleaned.txt
+mr. frederick,Books/Animal_Farm/character_11_list_cleaned.txt,
+snowball,Books/Animal_Farm/character_1_list_cleaned.txt,Books/Animal_Farm/character_1_analysis_cleaned.txt
+boxer,Books/Animal_Farm/character_2_list_cleaned.txt,Books/Animal_Farm/character_2_analysis_cleaned.txt
+muriel,Books/Animal_Farm/character_9_list_cleaned.txt,
+mr. whymper,Books/Animal_Farm/character_13_list_cleaned.txt,
+mr. pilkington,Books/Animal_Farm/character_12_list_cleaned.txt,
+mr. jones,Books/Animal_Farm/character_10_list_cleaned.txt,
+moses,Books/Animal_Farm/character_6_list_cleaned.txt,
+old major,Books/Animal_Farm/character_4_list_cleaned.txt,Books/Animal_Farm/character_4_analysis_cleaned.txt
+napoleon,Books/Animal_Farm/character_0_list_cleaned.txt,Books/Animal_Farm/character_0_analysis_cleaned.txt

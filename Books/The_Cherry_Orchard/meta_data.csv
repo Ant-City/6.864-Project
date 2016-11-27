@@ -1,13 +1,13 @@
 characterName,listFile,analysisFile
-charlotte,Books/The_Cherry_Orchard/character_7_list.txt,
-peter trofimov,Books/The_Cherry_Orchard/character_5_list.txt,Books/The_Cherry_Orchard/character_5_analysis.txt
-boris simeonov-pischik,Books/The_Cherry_Orchard/character_6_list.txt,
-yasha,Books/The_Cherry_Orchard/character_10_list.txt,
-mrs. lyuba ranevsky,Books/The_Cherry_Orchard/character_0_list.txt,
-yermolay lopakhin,Books/The_Cherry_Orchard/character_1_list.txt,Books/The_Cherry_Orchard/character_1_analysis.txt
-simon yephikodov,Books/The_Cherry_Orchard/character_9_list.txt,
-dunyasha,Books/The_Cherry_Orchard/character_11_list.txt,
-varya,Books/The_Cherry_Orchard/character_3_list.txt,
-leonid gayev,Books/The_Cherry_Orchard/character_2_list.txt,
-firs,Books/The_Cherry_Orchard/character_8_list.txt,
-anya,Books/The_Cherry_Orchard/character_4_list.txt,
+charlotte,Books/The_Cherry_Orchard/character_7_list_cleaned.txt,
+peter trofimov,Books/The_Cherry_Orchard/character_5_list_cleaned.txt,Books/The_Cherry_Orchard/character_5_analysis_cleaned.txt
+boris simeonov-pischik,Books/The_Cherry_Orchard/character_6_list_cleaned.txt,
+yasha,Books/The_Cherry_Orchard/character_10_list_cleaned.txt,
+mrs. lyuba ranevsky,Books/The_Cherry_Orchard/character_0_list_cleaned.txt,
+yermolay lopakhin,Books/The_Cherry_Orchard/character_1_list_cleaned.txt,Books/The_Cherry_Orchard/character_1_analysis_cleaned.txt
+simon yephikodov,Books/The_Cherry_Orchard/character_9_list_cleaned.txt,
+dunyasha,Books/The_Cherry_Orchard/character_11_list_cleaned.txt,
+varya,Books/The_Cherry_Orchard/character_3_list_cleaned.txt,
+leonid gayev,Books/The_Cherry_Orchard/character_2_list_cleaned.txt,
+firs,Books/The_Cherry_Orchard/character_8_list_cleaned.txt,
+anya,Books/The_Cherry_Orchard/character_4_list_cleaned.txt,

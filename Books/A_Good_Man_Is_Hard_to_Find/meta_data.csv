@@ -1,10 +1,10 @@
 characterName,listFile,analysisFile
-bobby lee,Books/A_Good_Man_Is_Hard_to_Find/character_7_list.txt,
-the misfit,Books/A_Good_Man_Is_Hard_to_Find/character_1_list.txt,Books/A_Good_Man_Is_Hard_to_Find/character_1_analysis.txt
-hiram,Books/A_Good_Man_Is_Hard_to_Find/character_8_list.txt,
-june star,Books/A_Good_Man_Is_Hard_to_Find/character_4_list.txt,
-the grandmother,Books/A_Good_Man_Is_Hard_to_Find/character_0_list.txt,Books/A_Good_Man_Is_Hard_to_Find/character_0_analysis.txt
-bailey,Books/A_Good_Man_Is_Hard_to_Find/character_2_list.txt,
-the mother,Books/A_Good_Man_Is_Hard_to_Find/character_5_list.txt,
-red sammy butts,Books/A_Good_Man_Is_Hard_to_Find/character_6_list.txt,
-john wesley,Books/A_Good_Man_Is_Hard_to_Find/character_3_list.txt,
+bobby lee,Books/A_Good_Man_Is_Hard_to_Find/character_7_list_cleaned.txt,
+the misfit,Books/A_Good_Man_Is_Hard_to_Find/character_1_list_cleaned.txt,Books/A_Good_Man_Is_Hard_to_Find/character_1_analysis_cleaned.txt
+hiram,Books/A_Good_Man_Is_Hard_to_Find/character_8_list_cleaned.txt,
+june star,Books/A_Good_Man_Is_Hard_to_Find/character_4_list_cleaned.txt,
+the grandmother,Books/A_Good_Man_Is_Hard_to_Find/character_0_list_cleaned.txt,Books/A_Good_Man_Is_Hard_to_Find/character_0_analysis_cleaned.txt
+bailey,Books/A_Good_Man_Is_Hard_to_Find/character_2_list_cleaned.txt,
+the mother,Books/A_Good_Man_Is_Hard_to_Find/character_5_list_cleaned.txt,
+red sammy butts,Books/A_Good_Man_Is_Hard_to_Find/character_6_list_cleaned.txt,
+john wesley,Books/A_Good_Man_Is_Hard_to_Find/character_3_list_cleaned.txt,

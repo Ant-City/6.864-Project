@@ -1,15 +1,15 @@
 characterName,listFile,analysisFile
-mabel chiltern,Books/An_Ideal_Husband/character_4_list.txt,
-harold,Books/An_Ideal_Husband/character_13_list.txt,
-lady markby,Books/An_Ideal_Husband/character_6_list.txt,
-lord goring,Books/An_Ideal_Husband/character_3_list.txt,Books/An_Ideal_Husband/character_3_analysis.txt
-lord caversham,Books/An_Ideal_Husband/character_5_list.txt,
-james,Books/An_Ideal_Husband/character_11_list.txt,
-vicomte de nanjac,Books/An_Ideal_Husband/character_8_list.txt,
-mr. montford,Books/An_Ideal_Husband/character_9_list.txt,
-lady basildon and mrs. marchmont,Books/An_Ideal_Husband/character_7_list.txt,
-phipps,Books/An_Ideal_Husband/character_10_list.txt,
-lady gertrude chiltern,Books/An_Ideal_Husband/character_1_list.txt,Books/An_Ideal_Husband/character_1_analysis.txt
-sir robert chiltern,Books/An_Ideal_Husband/character_0_list.txt,Books/An_Ideal_Husband/character_0_analysis.txt
-mason,Books/An_Ideal_Husband/character_12_list.txt,
-mrs. cheveley,Books/An_Ideal_Husband/character_2_list.txt,Books/An_Ideal_Husband/character_2_analysis.txt
+mabel chiltern,Books/An_Ideal_Husband/character_4_list_cleaned.txt,
+harold,Books/An_Ideal_Husband/character_13_list_cleaned.txt,
+lady markby,Books/An_Ideal_Husband/character_6_list_cleaned.txt,
+lord goring,Books/An_Ideal_Husband/character_3_list_cleaned.txt,Books/An_Ideal_Husband/character_3_analysis_cleaned.txt
+lord caversham,Books/An_Ideal_Husband/character_5_list_cleaned.txt,
+james,Books/An_Ideal_Husband/character_11_list_cleaned.txt,
+vicomte de nanjac,Books/An_Ideal_Husband/character_8_list_cleaned.txt,
+mr. montford,Books/An_Ideal_Husband/character_9_list_cleaned.txt,
+lady basildon and mrs. marchmont,Books/An_Ideal_Husband/character_7_list_cleaned.txt,
+phipps,Books/An_Ideal_Husband/character_10_list_cleaned.txt,
+lady gertrude chiltern,Books/An_Ideal_Husband/character_1_list_cleaned.txt,Books/An_Ideal_Husband/character_1_analysis_cleaned.txt
+sir robert chiltern,Books/An_Ideal_Husband/character_0_list_cleaned.txt,Books/An_Ideal_Husband/character_0_analysis_cleaned.txt
+mason,Books/An_Ideal_Husband/character_12_list_cleaned.txt,
+mrs. cheveley,Books/An_Ideal_Husband/character_2_list_cleaned.txt,Books/An_Ideal_Husband/character_2_analysis_cleaned.txt

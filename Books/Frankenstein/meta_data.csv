@@ -1,15 +1,15 @@
 characterName,listFile,analysisFile
-beaufort,Books/Frankenstein/character_9_list.txt,
-caroline beaufort,Books/Frankenstein/character_8_list.txt,
-peasants,Books/Frankenstein/character_10_list.txt,
-henry clerval,Books/Frankenstein/character_5_list.txt,
-justine moritz,Books/Frankenstein/character_7_list.txt,
-robert walton,Books/Frankenstein/character_2_list.txt,Books/Frankenstein/character_2_analysis.txt
-mr. kirwin,Books/Frankenstein/character_13_list.txt,
-m. krempe,Books/Frankenstein/character_12_list.txt,
-the monster,Books/Frankenstein/character_1_list.txt,Books/Frankenstein/character_1_analysis.txt
-william frankenstein,Books/Frankenstein/character_6_list.txt,
-victor frankenstein,Books/Frankenstein/character_0_list.txt,Books/Frankenstein/character_0_analysis.txt
-m. waldman,Books/Frankenstein/character_11_list.txt,
-alphonse frankenstein,Books/Frankenstein/character_3_list.txt,
-elizabeth lavenza,Books/Frankenstein/character_4_list.txt,
+beaufort,Books/Frankenstein/character_9_list_cleaned.txt,
+caroline beaufort,Books/Frankenstein/character_8_list_cleaned.txt,
+peasants,Books/Frankenstein/character_10_list_cleaned.txt,
+henry clerval,Books/Frankenstein/character_5_list_cleaned.txt,
+justine moritz,Books/Frankenstein/character_7_list_cleaned.txt,
+robert walton,Books/Frankenstein/character_2_list_cleaned.txt,Books/Frankenstein/character_2_analysis_cleaned.txt
+mr. kirwin,Books/Frankenstein/character_13_list_cleaned.txt,
+m. krempe,Books/Frankenstein/character_12_list_cleaned.txt,
+the monster,Books/Frankenstein/character_1_list_cleaned.txt,Books/Frankenstein/character_1_analysis_cleaned.txt
+william frankenstein,Books/Frankenstein/character_6_list_cleaned.txt,
+victor frankenstein,Books/Frankenstein/character_0_list_cleaned.txt,Books/Frankenstein/character_0_analysis_cleaned.txt
+m. waldman,Books/Frankenstein/character_11_list_cleaned.txt,
+alphonse frankenstein,Books/Frankenstein/character_3_list_cleaned.txt,
+elizabeth lavenza,Books/Frankenstein/character_4_list_cleaned.txt,

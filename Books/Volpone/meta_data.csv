@@ -1,14 +1,14 @@
 characterName,listFile,analysisFile
-mosca,Books/Volpone/character_1_list.txt,Books/Volpone/character_1_analysis.txt
-sir politic would-be,Books/Volpone/character_7_list.txt,
-voltore,Books/Volpone/character_3_list.txt,Books/Volpone/character_3_analysis.txt
-corvino,Books/Volpone/character_4_list.txt,
-nano,Books/Volpone/character_10_list.txt,
-lady politic would-be,Books/Volpone/character_8_list.txt,
-peregrine,Books/Volpone/character_9_list.txt,
-androgyno,Books/Volpone/character_12_list.txt,
-volpone,Books/Volpone/character_0_list.txt,Books/Volpone/character_0_analysis.txt
-castrone,Books/Volpone/character_11_list.txt,
-celia,Books/Volpone/character_2_list.txt,Books/Volpone/character_2_analysis.txt
-corbaccio,Books/Volpone/character_5_list.txt,
-bonario,Books/Volpone/character_6_list.txt,
+mosca,Books/Volpone/character_1_list_cleaned.txt,Books/Volpone/character_1_analysis_cleaned.txt
+sir politic would-be,Books/Volpone/character_7_list_cleaned.txt,
+voltore,Books/Volpone/character_3_list_cleaned.txt,Books/Volpone/character_3_analysis_cleaned.txt
+corvino,Books/Volpone/character_4_list_cleaned.txt,
+nano,Books/Volpone/character_10_list_cleaned.txt,
+lady politic would-be,Books/Volpone/character_8_list_cleaned.txt,
+peregrine,Books/Volpone/character_9_list_cleaned.txt,
+androgyno,Books/Volpone/character_12_list_cleaned.txt,
+volpone,Books/Volpone/character_0_list_cleaned.txt,Books/Volpone/character_0_analysis_cleaned.txt
+castrone,Books/Volpone/character_11_list_cleaned.txt,
+celia,Books/Volpone/character_2_list_cleaned.txt,Books/Volpone/character_2_analysis_cleaned.txt
+corbaccio,Books/Volpone/character_5_list_cleaned.txt,
+bonario,Books/Volpone/character_6_list_cleaned.txt,

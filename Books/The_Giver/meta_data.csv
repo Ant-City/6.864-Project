@@ -1,11 +1,11 @@
 characterName,listFile,analysisFile
-jonas's father,Books/The_Giver/character_2_list.txt,Books/The_Giver/character_2_analysis.txt
-gabriel,Books/The_Giver/character_5_list.txt,
-jonas's mother,Books/The_Giver/character_3_list.txt,
-the giver,Books/The_Giver/character_1_list.txt,Books/The_Giver/character_1_analysis.txt
-asher,Books/The_Giver/character_6_list.txt,
-jonas,Books/The_Giver/character_0_list.txt,Books/The_Giver/character_0_analysis.txt
-the chief elder,Books/The_Giver/character_9_list.txt,
-fiona,Books/The_Giver/character_7_list.txt,
-lily,Books/The_Giver/character_4_list.txt,
-larissa,Books/The_Giver/character_8_list.txt,
+jonas's father,Books/The_Giver/character_2_list_cleaned.txt,Books/The_Giver/character_2_analysis_cleaned.txt
+gabriel,Books/The_Giver/character_5_list_cleaned.txt,
+jonas's mother,Books/The_Giver/character_3_list_cleaned.txt,
+the giver,Books/The_Giver/character_1_list_cleaned.txt,Books/The_Giver/character_1_analysis_cleaned.txt
+asher,Books/The_Giver/character_6_list_cleaned.txt,
+jonas,Books/The_Giver/character_0_list_cleaned.txt,Books/The_Giver/character_0_analysis_cleaned.txt
+the chief elder,Books/The_Giver/character_9_list_cleaned.txt,
+fiona,Books/The_Giver/character_7_list_cleaned.txt,
+lily,Books/The_Giver/character_4_list_cleaned.txt,
+larissa,Books/The_Giver/character_8_list_cleaned.txt,

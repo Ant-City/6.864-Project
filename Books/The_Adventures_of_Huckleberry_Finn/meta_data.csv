@@ -1,12 +1,12 @@
 characterName,listFile,analysisFile
-pap,Books/The_Adventures_of_Huckleberry_Finn/character_4_list.txt,
-widow douglas and miss watson,Books/The_Adventures_of_Huckleberry_Finn/character_2_list.txt,
-judge thatcher,Books/The_Adventures_of_Huckleberry_Finn/character_6_list.txt,
-the duke and the dauphin,Books/The_Adventures_of_Huckleberry_Finn/character_5_list.txt,
-the grangerfords,Books/The_Adventures_of_Huckleberry_Finn/character_7_list.txt,
-silas and sally phelps,Books/The_Adventures_of_Huckleberry_Finn/character_9_list.txt,
-jim,Books/The_Adventures_of_Huckleberry_Finn/character_3_list.txt,Books/The_Adventures_of_Huckleberry_Finn/character_3_analysis.txt
-the wilks family,Books/The_Adventures_of_Huckleberry_Finn/character_8_list.txt,
-huckleberry finn,Books/The_Adventures_of_Huckleberry_Finn/character_0_list.txt,
-aunt polly,Books/The_Adventures_of_Huckleberry_Finn/character_10_list.txt,
-tom sawyer,Books/The_Adventures_of_Huckleberry_Finn/character_1_list.txt,Books/The_Adventures_of_Huckleberry_Finn/character_1_analysis.txt
+pap,Books/The_Adventures_of_Huckleberry_Finn/character_4_list_cleaned.txt,
+widow douglas and miss watson,Books/The_Adventures_of_Huckleberry_Finn/character_2_list_cleaned.txt,
+judge thatcher,Books/The_Adventures_of_Huckleberry_Finn/character_6_list_cleaned.txt,
+the duke and the dauphin,Books/The_Adventures_of_Huckleberry_Finn/character_5_list_cleaned.txt,
+the grangerfords,Books/The_Adventures_of_Huckleberry_Finn/character_7_list_cleaned.txt,
+silas and sally phelps,Books/The_Adventures_of_Huckleberry_Finn/character_9_list_cleaned.txt,
+jim,Books/The_Adventures_of_Huckleberry_Finn/character_3_list_cleaned.txt,Books/The_Adventures_of_Huckleberry_Finn/character_3_analysis_cleaned.txt
+the wilks family,Books/The_Adventures_of_Huckleberry_Finn/character_8_list_cleaned.txt,
+huckleberry finn,Books/The_Adventures_of_Huckleberry_Finn/character_0_list_cleaned.txt,
+aunt polly,Books/The_Adventures_of_Huckleberry_Finn/character_10_list_cleaned.txt,
+tom sawyer,Books/The_Adventures_of_Huckleberry_Finn/character_1_list_cleaned.txt,Books/The_Adventures_of_Huckleberry_Finn/character_1_analysis_cleaned.txt

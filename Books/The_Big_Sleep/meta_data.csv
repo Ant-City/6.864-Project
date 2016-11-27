@@ -1,20 +1,20 @@
 characterName,listFile,analysisFile
-carol lundgren,Books/The_Big_Sleep/character_8_list.txt,
-arthur gwynn geiger,Books/The_Big_Sleep/character_2_list.txt,
-philip marlowe,Books/The_Big_Sleep/character_0_list.txt,Books/The_Big_Sleep/character_0_analysis.txt
-bernie ohls,Books/The_Big_Sleep/character_13_list.txt,
-carmen sternwood,Books/The_Big_Sleep/character_5_list.txt,Books/The_Big_Sleep/character_5_analysis.txt
-eddie mars,Books/The_Big_Sleep/character_6_list.txt,Books/The_Big_Sleep/character_6_analysis.txt
-captain cronjager,Books/The_Big_Sleep/character_14_list.txt,
-norris,Books/The_Big_Sleep/character_18_list.txt,
-general sternwood,Books/The_Big_Sleep/character_1_list.txt,
-owen taylor,Books/The_Big_Sleep/character_7_list.txt,
-joseph brody,Books/The_Big_Sleep/character_9_list.txt,
-harry jones,Books/The_Big_Sleep/character_11_list.txt,
-lash canino,Books/The_Big_Sleep/character_17_list.txt,
-taggart wilde,Books/The_Big_Sleep/character_12_list.txt,
-vivian sternwood,Books/The_Big_Sleep/character_4_list.txt,
-mona grant,Books/The_Big_Sleep/character_16_list.txt,
-captain gregory,Books/The_Big_Sleep/character_15_list.txt,
-terrance regan,Books/The_Big_Sleep/character_3_list.txt,
-agnes lozelle,Books/The_Big_Sleep/character_10_list.txt,
+carol lundgren,Books/The_Big_Sleep/character_8_list_cleaned.txt,
+arthur gwynn geiger,Books/The_Big_Sleep/character_2_list_cleaned.txt,
+philip marlowe,Books/The_Big_Sleep/character_0_list_cleaned.txt,Books/The_Big_Sleep/character_0_analysis_cleaned.txt
+bernie ohls,Books/The_Big_Sleep/character_13_list_cleaned.txt,
+carmen sternwood,Books/The_Big_Sleep/character_5_list_cleaned.txt,Books/The_Big_Sleep/character_5_analysis_cleaned.txt
+eddie mars,Books/The_Big_Sleep/character_6_list_cleaned.txt,Books/The_Big_Sleep/character_6_analysis_cleaned.txt
+captain cronjager,Books/The_Big_Sleep/character_14_list_cleaned.txt,
+norris,Books/The_Big_Sleep/character_18_list_cleaned.txt,
+general sternwood,Books/The_Big_Sleep/character_1_list_cleaned.txt,
+owen taylor,Books/The_Big_Sleep/character_7_list_cleaned.txt,
+joseph brody,Books/The_Big_Sleep/character_9_list_cleaned.txt,
+harry jones,Books/The_Big_Sleep/character_11_list_cleaned.txt,
+lash canino,Books/The_Big_Sleep/character_17_list_cleaned.txt,
+taggart wilde,Books/The_Big_Sleep/character_12_list_cleaned.txt,
+vivian sternwood,Books/The_Big_Sleep/character_4_list_cleaned.txt,
+mona grant,Books/The_Big_Sleep/character_16_list_cleaned.txt,
+captain gregory,Books/The_Big_Sleep/character_15_list_cleaned.txt,
+terrance regan,Books/The_Big_Sleep/character_3_list_cleaned.txt,
+agnes lozelle,Books/The_Big_Sleep/character_10_list_cleaned.txt,

@@ -1,11 +1,11 @@
 characterName,listFile,analysisFile
-susan sowerby,Books/The_Secret_Garden/character_7_list.txt,
-dr. craven,Books/The_Secret_Garden/character_9_list.txt,
-colin craven,Books/The_Secret_Garden/character_1_list.txt,Books/The_Secret_Garden/character_1_analysis.txt
-dickon sowerby,Books/The_Secret_Garden/character_2_list.txt,Books/The_Secret_Garden/character_2_analysis.txt
-lilias craven,Books/The_Secret_Garden/character_6_list.txt,
-mrs. medlock,Books/The_Secret_Garden/character_8_list.txt,
-mary lennox,Books/The_Secret_Garden/character_0_list.txt,Books/The_Secret_Garden/character_0_analysis.txt
-ben weatherstaff,Books/The_Secret_Garden/character_4_list.txt,
-martha sowerby,Books/The_Secret_Garden/character_3_list.txt,
-archibald craven,Books/The_Secret_Garden/character_5_list.txt,
+susan sowerby,Books/The_Secret_Garden/character_7_list_cleaned.txt,
+dr. craven,Books/The_Secret_Garden/character_9_list_cleaned.txt,
+colin craven,Books/The_Secret_Garden/character_1_list_cleaned.txt,Books/The_Secret_Garden/character_1_analysis_cleaned.txt
+dickon sowerby,Books/The_Secret_Garden/character_2_list_cleaned.txt,Books/The_Secret_Garden/character_2_analysis_cleaned.txt
+lilias craven,Books/The_Secret_Garden/character_6_list_cleaned.txt,
+mrs. medlock,Books/The_Secret_Garden/character_8_list_cleaned.txt,
+mary lennox,Books/The_Secret_Garden/character_0_list_cleaned.txt,Books/The_Secret_Garden/character_0_analysis_cleaned.txt
+ben weatherstaff,Books/The_Secret_Garden/character_4_list_cleaned.txt,
+martha sowerby,Books/The_Secret_Garden/character_3_list_cleaned.txt,
+archibald craven,Books/The_Secret_Garden/character_5_list_cleaned.txt,

@@ -1,18 +1,18 @@
 characterName,listFile,analysisFile
-corin,Books/As_You_Like_It/character_14_list.txt,
-william,Books/As_You_Like_It/character_16_list.txt,
-oliver,Books/As_You_Like_It/character_7_list.txt,
-duke senior,Books/As_You_Like_It/character_2_list.txt,
-lord amiens,Books/As_You_Like_It/character_10_list.txt,
-sir rowland de bois,Books/As_You_Like_It/character_13_list.txt,
-jaques,Books/As_You_Like_It/character_3_list.txt,Books/As_You_Like_It/character_3_list.txt
-orlando,Books/As_You_Like_It/character_1_list.txt,Books/As_You_Like_It/character_1_list.txt
-charles,Books/As_You_Like_It/character_11_list.txt,
-rosalind,Books/As_You_Like_It/character_0_list.txt,Books/As_You_Like_It/character_0_list.txt
-audrey,Books/As_You_Like_It/character_15_list.txt,
-touchstone,Books/As_You_Like_It/character_6_list.txt,
-celia,Books/As_You_Like_It/character_4_list.txt,
-adam,Books/As_You_Like_It/character_12_list.txt,
-silvius,Books/As_You_Like_It/character_8_list.txt,
-duke frederick,Books/As_You_Like_It/character_5_list.txt,
-phoebe,Books/As_You_Like_It/character_9_list.txt,
+corin,Books/As_You_Like_It/character_14_list_cleaned.txt,
+william,Books/As_You_Like_It/character_16_list_cleaned.txt,
+oliver,Books/As_You_Like_It/character_7_list_cleaned.txt,
+duke senior,Books/As_You_Like_It/character_2_list_cleaned.txt,
+lord amiens,Books/As_You_Like_It/character_10_list_cleaned.txt,
+sir rowland de bois,Books/As_You_Like_It/character_13_list_cleaned.txt,
+jaques,Books/As_You_Like_It/character_3_list_cleaned.txt,Books/As_You_Like_It/character_3_list_cleaned.txt
+orlando,Books/As_You_Like_It/character_1_list_cleaned.txt,Books/As_You_Like_It/character_1_list_cleaned.txt
+charles,Books/As_You_Like_It/character_11_list_cleaned.txt,
+rosalind,Books/As_You_Like_It/character_0_list_cleaned.txt,Books/As_You_Like_It/character_0_list_cleaned.txt
+audrey,Books/As_You_Like_It/character_15_list_cleaned.txt,
+touchstone,Books/As_You_Like_It/character_6_list_cleaned.txt,
+celia,Books/As_You_Like_It/character_4_list_cleaned.txt,
+adam,Books/As_You_Like_It/character_12_list_cleaned.txt,
+silvius,Books/As_You_Like_It/character_8_list_cleaned.txt,
+duke frederick,Books/As_You_Like_It/character_5_list_cleaned.txt,
+phoebe,Books/As_You_Like_It/character_9_list_cleaned.txt,

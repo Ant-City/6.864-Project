@@ -1,10 +1,10 @@
 characterName,listFile,analysisFile
-leper lepellier,Books/A_Separate_Peace/character_2_list.txt,Books/A_Separate_Peace/character_2_analysis.txt
-brinker hadley,Books/A_Separate_Peace/character_3_list.txt,Books/A_Separate_Peace/character_3_analysis.txt
-finny,Books/A_Separate_Peace/character_1_list.txt,Books/A_Separate_Peace/character_1_analysis.txt
-mr. ludsbury,Books/A_Separate_Peace/character_6_list.txt,
-dr. stanpole,Books/A_Separate_Peace/character_7_list.txt,
-gene forrester,Books/A_Separate_Peace/character_0_list.txt,Books/A_Separate_Peace/character_0_analysis.txt
-cliff quackenbush,Books/A_Separate_Peace/character_4_list.txt,
-chet douglass,Books/A_Separate_Peace/character_5_list.txt,
-mr. patch-withers,Books/A_Separate_Peace/character_8_list.txt,
+leper lepellier,Books/A_Separate_Peace/character_2_list_cleaned.txt,Books/A_Separate_Peace/character_2_analysis_cleaned.txt
+brinker hadley,Books/A_Separate_Peace/character_3_list_cleaned.txt,Books/A_Separate_Peace/character_3_analysis_cleaned.txt
+finny,Books/A_Separate_Peace/character_1_list_cleaned.txt,Books/A_Separate_Peace/character_1_analysis_cleaned.txt
+mr. ludsbury,Books/A_Separate_Peace/character_6_list_cleaned.txt,
+dr. stanpole,Books/A_Separate_Peace/character_7_list_cleaned.txt,
+gene forrester,Books/A_Separate_Peace/character_0_list_cleaned.txt,Books/A_Separate_Peace/character_0_analysis_cleaned.txt
+cliff quackenbush,Books/A_Separate_Peace/character_4_list_cleaned.txt,
+chet douglass,Books/A_Separate_Peace/character_5_list_cleaned.txt,
+mr. patch-withers,Books/A_Separate_Peace/character_8_list_cleaned.txt,

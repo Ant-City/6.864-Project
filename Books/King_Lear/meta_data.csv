@@ -1,13 +1,13 @@
 characterName,listFile,analysisFile
-fool,Books/King_Lear/character_10_list.txt,
-albany,Books/King_Lear/character_8_list.txt,
-king lear,Books/King_Lear/character_0_list.txt,Books/King_Lear/character_0_list.txt
-cornwall,Books/King_Lear/character_9_list.txt,
-cordelia,Books/King_Lear/character_1_list.txt,Books/King_Lear/character_1_list.txt
-edgar,Books/King_Lear/character_5_list.txt,
-goneril,Books/King_Lear/character_2_list.txt,
-edmund,Books/King_Lear/character_6_list.txt,Books/King_Lear/character_6_list.txt
-kent,Books/King_Lear/character_7_list.txt,
-oswald,Books/King_Lear/character_11_list.txt,
-regan,Books/King_Lear/character_3_list.txt,
-gloucester,Books/King_Lear/character_4_list.txt,
+fool,Books/King_Lear/character_10_list_cleaned.txt,
+albany,Books/King_Lear/character_8_list_cleaned.txt,
+king lear,Books/King_Lear/character_0_list_cleaned.txt,Books/King_Lear/character_0_list_cleaned.txt
+cornwall,Books/King_Lear/character_9_list_cleaned.txt,
+cordelia,Books/King_Lear/character_1_list_cleaned.txt,Books/King_Lear/character_1_list_cleaned.txt
+edgar,Books/King_Lear/character_5_list_cleaned.txt,
+goneril,Books/King_Lear/character_2_list_cleaned.txt,
+edmund,Books/King_Lear/character_6_list_cleaned.txt,Books/King_Lear/character_6_list_cleaned.txt
+kent,Books/King_Lear/character_7_list_cleaned.txt,
+oswald,Books/King_Lear/character_11_list_cleaned.txt,
+regan,Books/King_Lear/character_3_list_cleaned.txt,
+gloucester,Books/King_Lear/character_4_list_cleaned.txt,

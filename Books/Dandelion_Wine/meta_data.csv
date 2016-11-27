@@ -1,18 +1,18 @@
 characterName,listFile,analysisFile
-leo auffmann,Books/Dandelion_Wine/character_15_list.txt,
-bill forrester,Books/Dandelion_Wine/character_10_list.txt,
-colonel freeleigh,Books/Dandelion_Wine/character_6_list.txt,
-charlie woodman,Books/Dandelion_Wine/character_12_list.txt,
-lonely one,Books/Dandelion_Wine/character_14_list.txt,
-father,Books/Dandelion_Wine/character_7_list.txt,
-douglas spaulding,Books/Dandelion_Wine/character_0_list.txt,Books/Dandelion_Wine/character_0_analysis.txt
-lena auffmann,Books/Dandelion_Wine/character_16_list.txt,
-miss helen loomis,Books/Dandelion_Wine/character_11_list.txt,
-great-grandma spaulding,Books/Dandelion_Wine/character_4_list.txt,
-tom spaulding,Books/Dandelion_Wine/character_1_list.txt,Books/Dandelion_Wine/character_1_analysis.txt
-john huff,Books/Dandelion_Wine/character_5_list.txt,
-mother,Books/Dandelion_Wine/character_8_list.txt,
-grandpa spaulding,Books/Dandelion_Wine/character_2_list.txt,Books/Dandelion_Wine/character_2_analysis.txt
-grandma spaulding,Books/Dandelion_Wine/character_3_list.txt,
-lavinia nebbs,Books/Dandelion_Wine/character_13_list.txt,
-mr. jonas,Books/Dandelion_Wine/character_9_list.txt,
+leo auffmann,Books/Dandelion_Wine/character_15_list_cleaned.txt,
+bill forrester,Books/Dandelion_Wine/character_10_list_cleaned.txt,
+colonel freeleigh,Books/Dandelion_Wine/character_6_list_cleaned.txt,
+charlie woodman,Books/Dandelion_Wine/character_12_list_cleaned.txt,
+lonely one,Books/Dandelion_Wine/character_14_list_cleaned.txt,
+father,Books/Dandelion_Wine/character_7_list_cleaned.txt,
+douglas spaulding,Books/Dandelion_Wine/character_0_list_cleaned.txt,Books/Dandelion_Wine/character_0_analysis_cleaned.txt
+lena auffmann,Books/Dandelion_Wine/character_16_list_cleaned.txt,
+miss helen loomis,Books/Dandelion_Wine/character_11_list_cleaned.txt,
+great-grandma spaulding,Books/Dandelion_Wine/character_4_list_cleaned.txt,
+tom spaulding,Books/Dandelion_Wine/character_1_list_cleaned.txt,Books/Dandelion_Wine/character_1_analysis_cleaned.txt
+john huff,Books/Dandelion_Wine/character_5_list_cleaned.txt,
+mother,Books/Dandelion_Wine/character_8_list_cleaned.txt,
+grandpa spaulding,Books/Dandelion_Wine/character_2_list_cleaned.txt,Books/Dandelion_Wine/character_2_analysis_cleaned.txt
+grandma spaulding,Books/Dandelion_Wine/character_3_list_cleaned.txt,
+lavinia nebbs,Books/Dandelion_Wine/character_13_list_cleaned.txt,
+mr. jonas,Books/Dandelion_Wine/character_9_list_cleaned.txt,

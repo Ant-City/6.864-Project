@@ -1,4 +1,4 @@
 characterName,listFile,analysisFile
-the narrator,Books/The_Time_Machine/character_1_list.txt,
-weena,Books/The_Time_Machine/character_2_list.txt,
-the time traveller,Books/The_Time_Machine/character_0_list.txt,
+the narrator,Books/The_Time_Machine/character_1_list_cleaned.txt,
+weena,Books/The_Time_Machine/character_2_list_cleaned.txt,
+the time traveller,Books/The_Time_Machine/character_0_list_cleaned.txt,

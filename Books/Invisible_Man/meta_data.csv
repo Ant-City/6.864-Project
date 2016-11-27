@@ -1,14 +1,14 @@
 characterName,listFile,analysisFile
-the veteran,Books/Invisible_Man/character_9_list.txt,
-sybil,Books/Invisible_Man/character_12_list.txt,
-reverend homer a. barbee,Books/Invisible_Man/character_7_list.txt,
-dr. bledsoe,Books/Invisible_Man/character_5_list.txt,
-mr. norton,Books/Invisible_Man/character_6_list.txt,
-jim trueblood,Books/Invisible_Man/character_8_list.txt,
-the narrator,Books/Invisible_Man/character_0_list.txt,Books/Invisible_Man/character_0_analysis.txt
-emerson,Books/Invisible_Man/character_10_list.txt,
-brother jack,Books/Invisible_Man/character_1_list.txt,Books/Invisible_Man/character_1_analysis.txt
-tod clifton,Books/Invisible_Man/character_2_list.txt,
-ras the exhorter,Books/Invisible_Man/character_3_list.txt,Books/Invisible_Man/character_3_analysis.txt
-rinehart,Books/Invisible_Man/character_4_list.txt,
-mary,Books/Invisible_Man/character_11_list.txt,
+the veteran,Books/Invisible_Man/character_9_list_cleaned.txt,
+sybil,Books/Invisible_Man/character_12_list_cleaned.txt,
+reverend homer a. barbee,Books/Invisible_Man/character_7_list_cleaned.txt,
+dr. bledsoe,Books/Invisible_Man/character_5_list_cleaned.txt,
+mr. norton,Books/Invisible_Man/character_6_list_cleaned.txt,
+jim trueblood,Books/Invisible_Man/character_8_list_cleaned.txt,
+the narrator,Books/Invisible_Man/character_0_list_cleaned.txt,Books/Invisible_Man/character_0_analysis_cleaned.txt
+emerson,Books/Invisible_Man/character_10_list_cleaned.txt,
+brother jack,Books/Invisible_Man/character_1_list_cleaned.txt,Books/Invisible_Man/character_1_analysis_cleaned.txt
+tod clifton,Books/Invisible_Man/character_2_list_cleaned.txt,
+ras the exhorter,Books/Invisible_Man/character_3_list_cleaned.txt,Books/Invisible_Man/character_3_analysis_cleaned.txt
+rinehart,Books/Invisible_Man/character_4_list_cleaned.txt,
+mary,Books/Invisible_Man/character_11_list_cleaned.txt,

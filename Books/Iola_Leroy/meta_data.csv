@@ -1,21 +1,21 @@
 characterName,listFile,analysisFile
-aunt katie,Books/Iola_Leroy/character_13_list.txt,
-louis bastine,Books/Iola_Leroy/character_18_list.txt,
-iola leroy,Books/Iola_Leroy/character_0_list.txt,Books/Iola_Leroy/character_0_analysis.txt
-harry leroy,Books/Iola_Leroy/character_4_list.txt,
-alfred lorraine,Books/Iola_Leroy/character_7_list.txt,
-aunt linda,Books/Iola_Leroy/character_8_list.txt,
-marie leroy,Books/Iola_Leroy/character_5_list.txt,
-miss delany,Books/Iola_Leroy/character_9_list.txt,
-dr. latimer,Books/Iola_Leroy/character_2_list.txt,Books/Iola_Leroy/character_2_analysis.txt
-eugene leroy,Books/Iola_Leroy/character_6_list.txt,
-tom anderson,Books/Iola_Leroy/character_10_list.txt,
-master thurston,Books/Iola_Leroy/character_15_list.txt,
-uncle daniel,Books/Iola_Leroy/character_11_list.txt,
-dr. latrobe,Books/Iola_Leroy/character_12_list.txt,
-robert johnson,Books/Iola_Leroy/character_3_list.txt,
-master gundover,Books/Iola_Leroy/character_14_list.txt,
-captain sybil,Books/Iola_Leroy/character_19_list.txt,
-harriet,Books/Iola_Leroy/character_17_list.txt,
-mrs. johnson,Books/Iola_Leroy/character_16_list.txt,
-dr. gresham,Books/Iola_Leroy/character_1_list.txt,Books/Iola_Leroy/character_1_analysis.txt
+aunt katie,Books/Iola_Leroy/character_13_list_cleaned.txt,
+louis bastine,Books/Iola_Leroy/character_18_list_cleaned.txt,
+iola leroy,Books/Iola_Leroy/character_0_list_cleaned.txt,Books/Iola_Leroy/character_0_analysis_cleaned.txt
+harry leroy,Books/Iola_Leroy/character_4_list_cleaned.txt,
+alfred lorraine,Books/Iola_Leroy/character_7_list_cleaned.txt,
+aunt linda,Books/Iola_Leroy/character_8_list_cleaned.txt,
+marie leroy,Books/Iola_Leroy/character_5_list_cleaned.txt,
+miss delany,Books/Iola_Leroy/character_9_list_cleaned.txt,
+dr. latimer,Books/Iola_Leroy/character_2_list_cleaned.txt,Books/Iola_Leroy/character_2_analysis_cleaned.txt
+eugene leroy,Books/Iola_Leroy/character_6_list_cleaned.txt,
+tom anderson,Books/Iola_Leroy/character_10_list_cleaned.txt,
+master thurston,Books/Iola_Leroy/character_15_list_cleaned.txt,
+uncle daniel,Books/Iola_Leroy/character_11_list_cleaned.txt,
+dr. latrobe,Books/Iola_Leroy/character_12_list_cleaned.txt,
+robert johnson,Books/Iola_Leroy/character_3_list_cleaned.txt,
+master gundover,Books/Iola_Leroy/character_14_list_cleaned.txt,
+captain sybil,Books/Iola_Leroy/character_19_list_cleaned.txt,
+harriet,Books/Iola_Leroy/character_17_list_cleaned.txt,
+mrs. johnson,Books/Iola_Leroy/character_16_list_cleaned.txt,
+dr. gresham,Books/Iola_Leroy/character_1_list_cleaned.txt,Books/Iola_Leroy/character_1_analysis_cleaned.txt

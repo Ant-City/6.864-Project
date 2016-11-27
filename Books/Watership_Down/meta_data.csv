@@ -1,25 +1,25 @@
 characterName,listFile,analysisFile
-kehaar,Books/Watership_Down/character_9_list.txt,
-fiver,Books/Watership_Down/character_1_list.txt,Books/Watership_Down/character_1_analysis.txt
-el-ahrairah,Books/Watership_Down/character_22_list.txt,
-general woundwort,Books/Watership_Down/character_3_list.txt,Books/Watership_Down/character_3_analysis.txt
-bigwig,Books/Watership_Down/character_2_list.txt,Books/Watership_Down/character_2_analysis.txt
-threarah,Books/Watership_Down/character_18_list.txt,
-silver,Books/Watership_Down/character_13_list.txt,
-captain campion,Books/Watership_Down/character_4_list.txt,
-pipkin,Books/Watership_Down/character_8_list.txt,
-clover,Books/Watership_Down/character_16_list.txt,
-dandelion,Books/Watership_Down/character_7_list.txt,
-hazel,Books/Watership_Down/character_0_list.txt,Books/Watership_Down/character_0_analysis.txt
-hawkbit,Books/Watership_Down/character_19_list.txt,
-blackavar,Books/Watership_Down/character_11_list.txt,
-rabscuttle,Books/Watership_Down/character_23_list.txt,
-acorn,Books/Watership_Down/character_20_list.txt,
-hyzenthlay,Books/Watership_Down/character_17_list.txt,
-buckthorn,Books/Watership_Down/character_12_list.txt,
-bluebell,Books/Watership_Down/character_15_list.txt,
-captain holly,Books/Watership_Down/character_5_list.txt,
-strawberry,Books/Watership_Down/character_10_list.txt,
-cowslip,Books/Watership_Down/character_14_list.txt,
-blackberry,Books/Watership_Down/character_6_list.txt,
-speedwell,Books/Watership_Down/character_21_list.txt,
+kehaar,Books/Watership_Down/character_9_list_cleaned.txt,
+fiver,Books/Watership_Down/character_1_list_cleaned.txt,Books/Watership_Down/character_1_analysis_cleaned.txt
+el-ahrairah,Books/Watership_Down/character_22_list_cleaned.txt,
+general woundwort,Books/Watership_Down/character_3_list_cleaned.txt,Books/Watership_Down/character_3_analysis_cleaned.txt
+bigwig,Books/Watership_Down/character_2_list_cleaned.txt,Books/Watership_Down/character_2_analysis_cleaned.txt
+threarah,Books/Watership_Down/character_18_list_cleaned.txt,
+silver,Books/Watership_Down/character_13_list_cleaned.txt,
+captain campion,Books/Watership_Down/character_4_list_cleaned.txt,
+pipkin,Books/Watership_Down/character_8_list_cleaned.txt,
+clover,Books/Watership_Down/character_16_list_cleaned.txt,
+dandelion,Books/Watership_Down/character_7_list_cleaned.txt,
+hazel,Books/Watership_Down/character_0_list_cleaned.txt,Books/Watership_Down/character_0_analysis_cleaned.txt
+hawkbit,Books/Watership_Down/character_19_list_cleaned.txt,
+blackavar,Books/Watership_Down/character_11_list_cleaned.txt,
+rabscuttle,Books/Watership_Down/character_23_list_cleaned.txt,
+acorn,Books/Watership_Down/character_20_list_cleaned.txt,
+hyzenthlay,Books/Watership_Down/character_17_list_cleaned.txt,
+buckthorn,Books/Watership_Down/character_12_list_cleaned.txt,
+bluebell,Books/Watership_Down/character_15_list_cleaned.txt,
+captain holly,Books/Watership_Down/character_5_list_cleaned.txt,
+strawberry,Books/Watership_Down/character_10_list_cleaned.txt,
+cowslip,Books/Watership_Down/character_14_list_cleaned.txt,
+blackberry,Books/Watership_Down/character_6_list_cleaned.txt,
+speedwell,Books/Watership_Down/character_21_list_cleaned.txt,

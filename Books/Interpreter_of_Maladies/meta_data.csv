@@ -1,7 +1,7 @@
 characterName,listFile,analysisFile
-tina das,Books/Interpreter_of_Maladies/character_4_list.txt,
-mrs. mina das,Books/Interpreter_of_Maladies/character_1_list.txt,Books/Interpreter_of_Maladies/character_1_analysis.txt
-bobby das,Books/Interpreter_of_Maladies/character_3_list.txt,
-mr. das,Books/Interpreter_of_Maladies/character_2_list.txt,
-mr. kapasi,Books/Interpreter_of_Maladies/character_0_list.txt,Books/Interpreter_of_Maladies/character_0_analysis.txt
-ronny das,Books/Interpreter_of_Maladies/character_5_list.txt,
+tina das,Books/Interpreter_of_Maladies/character_4_list_cleaned.txt,
+mrs. mina das,Books/Interpreter_of_Maladies/character_1_list_cleaned.txt,Books/Interpreter_of_Maladies/character_1_analysis_cleaned.txt
+bobby das,Books/Interpreter_of_Maladies/character_3_list_cleaned.txt,
+mr. das,Books/Interpreter_of_Maladies/character_2_list_cleaned.txt,
+mr. kapasi,Books/Interpreter_of_Maladies/character_0_list_cleaned.txt,Books/Interpreter_of_Maladies/character_0_analysis_cleaned.txt
+ronny das,Books/Interpreter_of_Maladies/character_5_list_cleaned.txt,

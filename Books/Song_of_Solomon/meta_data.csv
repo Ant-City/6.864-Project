@@ -1,21 +1,21 @@
 characterName,listFile,analysisFile
-first corinthians dead,Books/Song_of_Solomon/character_9_list.txt,
-henry porter,Books/Song_of_Solomon/character_14_list.txt,
-macon dead i,Books/Song_of_Solomon/character_5_list.txt,
-magdalene dead,Books/Song_of_Solomon/character_10_list.txt,
-sweet,Books/Song_of_Solomon/character_19_list.txt,
-dr. foster,Books/Song_of_Solomon/character_7_list.txt,
-ryna,Books/Song_of_Solomon/character_18_list.txt,
-milkman dead,Books/Song_of_Solomon/character_0_list.txt,Books/Song_of_Solomon/character_0_analysis.txt
-freddie,Books/Song_of_Solomon/character_16_list.txt,
-macon jr.,Books/Song_of_Solomon/character_2_list.txt,
-solomon,Books/Song_of_Solomon/character_17_list.txt,
-guitar bains,Books/Song_of_Solomon/character_3_list.txt,
-reba,Books/Song_of_Solomon/character_8_list.txt,
-pilate dead,Books/Song_of_Solomon/character_1_list.txt,Books/Song_of_Solomon/character_1_analysis.txt
-robert smith,Books/Song_of_Solomon/character_15_list.txt,
-hagar,Books/Song_of_Solomon/character_4_list.txt,
-sing,Books/Song_of_Solomon/character_13_list.txt,
-ruth foster dead,Books/Song_of_Solomon/character_6_list.txt,Books/Song_of_Solomon/character_6_analysis.txt
-michael-mary graham,Books/Song_of_Solomon/character_11_list.txt,
-circe,Books/Song_of_Solomon/character_12_list.txt,
+first corinthians dead,Books/Song_of_Solomon/character_9_list_cleaned.txt,
+henry porter,Books/Song_of_Solomon/character_14_list_cleaned.txt,
+macon dead i,Books/Song_of_Solomon/character_5_list_cleaned.txt,
+magdalene dead,Books/Song_of_Solomon/character_10_list_cleaned.txt,
+sweet,Books/Song_of_Solomon/character_19_list_cleaned.txt,
+dr. foster,Books/Song_of_Solomon/character_7_list_cleaned.txt,
+ryna,Books/Song_of_Solomon/character_18_list_cleaned.txt,
+milkman dead,Books/Song_of_Solomon/character_0_list_cleaned.txt,Books/Song_of_Solomon/character_0_analysis_cleaned.txt
+freddie,Books/Song_of_Solomon/character_16_list_cleaned.txt,
+macon jr.,Books/Song_of_Solomon/character_2_list_cleaned.txt,
+solomon,Books/Song_of_Solomon/character_17_list_cleaned.txt,
+guitar bains,Books/Song_of_Solomon/character_3_list_cleaned.txt,
+reba,Books/Song_of_Solomon/character_8_list_cleaned.txt,
+pilate dead,Books/Song_of_Solomon/character_1_list_cleaned.txt,Books/Song_of_Solomon/character_1_analysis_cleaned.txt
+robert smith,Books/Song_of_Solomon/character_15_list_cleaned.txt,
+hagar,Books/Song_of_Solomon/character_4_list_cleaned.txt,
+sing,Books/Song_of_Solomon/character_13_list_cleaned.txt,
+ruth foster dead,Books/Song_of_Solomon/character_6_list_cleaned.txt,Books/Song_of_Solomon/character_6_analysis_cleaned.txt
+michael-mary graham,Books/Song_of_Solomon/character_11_list_cleaned.txt,
+circe,Books/Song_of_Solomon/character_12_list_cleaned.txt,

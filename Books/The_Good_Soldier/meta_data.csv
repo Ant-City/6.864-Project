@@ -1,16 +1,16 @@
 characterName,listFile,analysisFile
-john dowell,Books/The_Good_Soldier/character_0_list.txt,Books/The_Good_Soldier/character_0_analysis.txt
-nancy rufford,Books/The_Good_Soldier/character_4_list.txt,
-jimmy,Books/The_Good_Soldier/character_5_list.txt,
-captain edward ashburnham,Books/The_Good_Soldier/character_3_list.txt,
-uncle john hurlbird,Books/The_Good_Soldier/character_6_list.txt,
-selmes,Books/The_Good_Soldier/character_12_list.txt,
-colonel powys,Books/The_Good_Soldier/character_14_list.txt,
-florence hurlbird dowell,Books/The_Good_Soldier/character_1_list.txt,Books/The_Good_Soldier/character_1_analysis.txt
-maisie maidan,Books/The_Good_Soldier/character_7_list.txt,
-la dolciquita,Books/The_Good_Soldier/character_10_list.txt,
-mrs. basil,Books/The_Good_Soldier/character_9_list.txt,
-major rufford,Books/The_Good_Soldier/character_13_list.txt,
-the misses hurlbird,Books/The_Good_Soldier/character_11_list.txt,
-leonora powys ashburnham,Books/The_Good_Soldier/character_2_list.txt,
-rodney bayham,Books/The_Good_Soldier/character_8_list.txt,
+john dowell,Books/The_Good_Soldier/character_0_list_cleaned.txt,Books/The_Good_Soldier/character_0_analysis_cleaned.txt
+nancy rufford,Books/The_Good_Soldier/character_4_list_cleaned.txt,
+jimmy,Books/The_Good_Soldier/character_5_list_cleaned.txt,
+captain edward ashburnham,Books/The_Good_Soldier/character_3_list_cleaned.txt,
+uncle john hurlbird,Books/The_Good_Soldier/character_6_list_cleaned.txt,
+selmes,Books/The_Good_Soldier/character_12_list_cleaned.txt,
+colonel powys,Books/The_Good_Soldier/character_14_list_cleaned.txt,
+florence hurlbird dowell,Books/The_Good_Soldier/character_1_list_cleaned.txt,Books/The_Good_Soldier/character_1_analysis_cleaned.txt
+maisie maidan,Books/The_Good_Soldier/character_7_list_cleaned.txt,
+la dolciquita,Books/The_Good_Soldier/character_10_list_cleaned.txt,
+mrs. basil,Books/The_Good_Soldier/character_9_list_cleaned.txt,
+major rufford,Books/The_Good_Soldier/character_13_list_cleaned.txt,
+the misses hurlbird,Books/The_Good_Soldier/character_11_list_cleaned.txt,
+leonora powys ashburnham,Books/The_Good_Soldier/character_2_list_cleaned.txt,
+rodney bayham,Books/The_Good_Soldier/character_8_list_cleaned.txt,

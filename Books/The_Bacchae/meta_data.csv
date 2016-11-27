@@ -1,10 +1,10 @@
 characterName,listFile,analysisFile
-servant,Books/The_Bacchae/character_4_list.txt,
-first messenger,Books/The_Bacchae/character_5_list.txt,
-tiresias,Books/The_Bacchae/character_8_list.txt,
-cadmus,Books/The_Bacchae/character_3_list.txt,
-chorus,Books/The_Bacchae/character_7_list.txt,
-second messenger,Books/The_Bacchae/character_6_list.txt,
-pentheus,Books/The_Bacchae/character_1_list.txt,Books/The_Bacchae/character_1_analysis.txt
-agaue,Books/The_Bacchae/character_2_list.txt,
-dionysus,Books/The_Bacchae/character_0_list.txt,Books/The_Bacchae/character_0_analysis.txt
+servant,Books/The_Bacchae/character_4_list_cleaned.txt,
+first messenger,Books/The_Bacchae/character_5_list_cleaned.txt,
+tiresias,Books/The_Bacchae/character_8_list_cleaned.txt,
+cadmus,Books/The_Bacchae/character_3_list_cleaned.txt,
+chorus,Books/The_Bacchae/character_7_list_cleaned.txt,
+second messenger,Books/The_Bacchae/character_6_list_cleaned.txt,
+pentheus,Books/The_Bacchae/character_1_list_cleaned.txt,Books/The_Bacchae/character_1_analysis_cleaned.txt
+agaue,Books/The_Bacchae/character_2_list_cleaned.txt,
+dionysus,Books/The_Bacchae/character_0_list_cleaned.txt,Books/The_Bacchae/character_0_analysis_cleaned.txt

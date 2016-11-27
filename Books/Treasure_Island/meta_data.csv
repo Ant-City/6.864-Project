@@ -1,12 +1,12 @@
 characterName,listFile,analysisFile
-captain smollett,Books/Treasure_Island/character_5_list.txt,
-billy bones,Books/Treasure_Island/character_1_list.txt,
-dr. livesey,Books/Treasure_Island/character_4_list.txt,Books/Treasure_Island/character_4_analysis.txt
-jim hawkins,Books/Treasure_Island/character_0_list.txt,Books/Treasure_Island/character_0_analysis.txt
-black dog,Books/Treasure_Island/character_2_list.txt,
-squire trelawney,Books/Treasure_Island/character_3_list.txt,
-pew,Books/Treasure_Island/character_8_list.txt,
-ben gunn,Books/Treasure_Island/character_7_list.txt,
-tom redruth,Books/Treasure_Island/character_10_list.txt,
-long john silver,Books/Treasure_Island/character_6_list.txt,Books/Treasure_Island/character_6_analysis.txt
-israel hands,Books/Treasure_Island/character_9_list.txt,
+captain smollett,Books/Treasure_Island/character_5_list_cleaned.txt,
+billy bones,Books/Treasure_Island/character_1_list_cleaned.txt,
+dr. livesey,Books/Treasure_Island/character_4_list_cleaned.txt,Books/Treasure_Island/character_4_analysis_cleaned.txt
+jim hawkins,Books/Treasure_Island/character_0_list_cleaned.txt,Books/Treasure_Island/character_0_analysis_cleaned.txt
+black dog,Books/Treasure_Island/character_2_list_cleaned.txt,
+squire trelawney,Books/Treasure_Island/character_3_list_cleaned.txt,
+pew,Books/Treasure_Island/character_8_list_cleaned.txt,
+ben gunn,Books/Treasure_Island/character_7_list_cleaned.txt,
+tom redruth,Books/Treasure_Island/character_10_list_cleaned.txt,
+long john silver,Books/Treasure_Island/character_6_list_cleaned.txt,Books/Treasure_Island/character_6_analysis_cleaned.txt
+israel hands,Books/Treasure_Island/character_9_list_cleaned.txt,

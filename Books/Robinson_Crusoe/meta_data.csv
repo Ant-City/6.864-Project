@@ -1,7 +1,7 @@
 characterName,listFile,analysisFile
-the portuguese captain,Books/Robinson_Crusoe/character_2_list.txt,Books/Robinson_Crusoe/character_2_analysis.txt
-friday,Books/Robinson_Crusoe/character_1_list.txt,Books/Robinson_Crusoe/character_1_analysis.txt
-xury,Books/Robinson_Crusoe/character_4_list.txt,
-robinson crusoe,Books/Robinson_Crusoe/character_0_list.txt,Books/Robinson_Crusoe/character_0_analysis.txt
-the widow,Books/Robinson_Crusoe/character_5_list.txt,
-the spaniard,Books/Robinson_Crusoe/character_3_list.txt,
+the portuguese captain,Books/Robinson_Crusoe/character_2_list_cleaned.txt,Books/Robinson_Crusoe/character_2_analysis_cleaned.txt
+friday,Books/Robinson_Crusoe/character_1_list_cleaned.txt,Books/Robinson_Crusoe/character_1_analysis_cleaned.txt
+xury,Books/Robinson_Crusoe/character_4_list_cleaned.txt,
+robinson crusoe,Books/Robinson_Crusoe/character_0_list_cleaned.txt,Books/Robinson_Crusoe/character_0_analysis_cleaned.txt
+the widow,Books/Robinson_Crusoe/character_5_list_cleaned.txt,
+the spaniard,Books/Robinson_Crusoe/character_3_list_cleaned.txt,

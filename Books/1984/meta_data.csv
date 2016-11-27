@@ -1,9 +1,9 @@
 characterName,listFile,analysisFile
-syme,Books/1984/character_5_list.txt,
-parsons,Books/1984/character_6_list.txt,
-julia,Books/1984/character_1_list.txt,Books/1984/character_1_analysis.txt
-emmanuel goldstein,Books/1984/character_7_list.txt,
-mr. charrington,Books/1984/character_4_list.txt,
-o'brien,Books/1984/character_2_list.txt,Books/1984/character_2_analysis.txt
-winston smith,Books/1984/character_0_list.txt,Books/1984/character_0_analysis.txt
-big brother,Books/1984/character_3_list.txt,
+syme,Books/1984/character_5_list_cleaned.txt,
+parsons,Books/1984/character_6_list_cleaned.txt,
+julia,Books/1984/character_1_list_cleaned.txt,Books/1984/character_1_analysis_cleaned.txt
+emmanuel goldstein,Books/1984/character_7_list_cleaned.txt,
+mr. charrington,Books/1984/character_4_list_cleaned.txt,
+o'brien,Books/1984/character_2_list_cleaned.txt,Books/1984/character_2_analysis_cleaned.txt
+winston smith,Books/1984/character_0_list_cleaned.txt,Books/1984/character_0_analysis_cleaned.txt
+big brother,Books/1984/character_3_list_cleaned.txt,

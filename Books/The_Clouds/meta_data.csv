@@ -1,13 +1,13 @@
 characterName,listFile,analysisFile
-just argument,Books/The_Clouds/character_5_list.txt,
-unjust argument,Books/The_Clouds/character_4_list.txt,
-first creditor,Books/The_Clouds/character_7_list.txt,
-chaerephon,Books/The_Clouds/character_10_list.txt,
-the chorus of clouds,Books/The_Clouds/character_3_list.txt,Books/The_Clouds/character_3_analysis.txt
-second creditor,Books/The_Clouds/character_8_list.txt,
-students,Books/The_Clouds/character_11_list.txt,
-strepsiades,Books/The_Clouds/character_0_list.txt,Books/The_Clouds/character_0_analysis.txt
-socrates,Books/The_Clouds/character_2_list.txt,Books/The_Clouds/character_2_analysis.txt
-student,Books/The_Clouds/character_6_list.txt,
-pheidippides,Books/The_Clouds/character_1_list.txt,
-xanthias,Books/The_Clouds/character_9_list.txt,
+just argument,Books/The_Clouds/character_5_list_cleaned.txt,
+unjust argument,Books/The_Clouds/character_4_list_cleaned.txt,
+first creditor,Books/The_Clouds/character_7_list_cleaned.txt,
+chaerephon,Books/The_Clouds/character_10_list_cleaned.txt,
+the chorus of clouds,Books/The_Clouds/character_3_list_cleaned.txt,Books/The_Clouds/character_3_analysis_cleaned.txt
+second creditor,Books/The_Clouds/character_8_list_cleaned.txt,
+students,Books/The_Clouds/character_11_list_cleaned.txt,
+strepsiades,Books/The_Clouds/character_0_list_cleaned.txt,Books/The_Clouds/character_0_analysis_cleaned.txt
+socrates,Books/The_Clouds/character_2_list_cleaned.txt,Books/The_Clouds/character_2_analysis_cleaned.txt
+student,Books/The_Clouds/character_6_list_cleaned.txt,
+pheidippides,Books/The_Clouds/character_1_list_cleaned.txt,
+xanthias,Books/The_Clouds/character_9_list_cleaned.txt,

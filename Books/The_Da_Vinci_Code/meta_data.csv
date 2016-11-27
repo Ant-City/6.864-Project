@@ -1,18 +1,18 @@
 characterName,listFile,analysisFile
-pamela gettum,Books/The_Da_Vinci_Code/character_7_list.txt,
-remy legaludec,Books/The_Da_Vinci_Code/character_10_list.txt,
-sophie neveu,Books/The_Da_Vinci_Code/character_11_list.txt,Books/The_Da_Vinci_Code/character_11_analysis.txt
-robert langdon,Books/The_Da_Vinci_Code/character_9_list.txt,Books/The_Da_Vinci_Code/character_9_analysis.txt
-vittoria,Books/The_Da_Vinci_Code/character_16_list.txt,
-jacques sauniere,Books/The_Da_Vinci_Code/character_12_list.txt,
-leigh teabing,Books/The_Da_Vinci_Code/character_14_list.txt,Books/The_Da_Vinci_Code/character_14_analysis.txt
-claude grouard,Books/The_Da_Vinci_Code/character_8_list.txt,
-andre vernet,Books/The_Da_Vinci_Code/character_15_list.txt,
-jerome collet,Books/The_Da_Vinci_Code/character_3_list.txt,
-silas,Books/The_Da_Vinci_Code/character_13_list.txt,
-jonas faukman,Books/The_Da_Vinci_Code/character_6_list.txt,
-bezu fache,Books/The_Da_Vinci_Code/character_5_list.txt,
-simon edwards,Books/The_Da_Vinci_Code/character_4_list.txt,
-sister sandrine bieil,Books/The_Da_Vinci_Code/character_1_list.txt,
-manuel aringarosa,Books/The_Da_Vinci_Code/character_0_list.txt,
-marie chauvel,Books/The_Da_Vinci_Code/character_2_list.txt,
+pamela gettum,Books/The_Da_Vinci_Code/character_7_list_cleaned.txt,
+remy legaludec,Books/The_Da_Vinci_Code/character_10_list_cleaned.txt,
+sophie neveu,Books/The_Da_Vinci_Code/character_11_list_cleaned.txt,Books/The_Da_Vinci_Code/character_11_analysis_cleaned.txt
+robert langdon,Books/The_Da_Vinci_Code/character_9_list_cleaned.txt,Books/The_Da_Vinci_Code/character_9_analysis_cleaned.txt
+vittoria,Books/The_Da_Vinci_Code/character_16_list_cleaned.txt,
+jacques sauniere,Books/The_Da_Vinci_Code/character_12_list_cleaned.txt,
+leigh teabing,Books/The_Da_Vinci_Code/character_14_list_cleaned.txt,Books/The_Da_Vinci_Code/character_14_analysis_cleaned.txt
+claude grouard,Books/The_Da_Vinci_Code/character_8_list_cleaned.txt,
+andre vernet,Books/The_Da_Vinci_Code/character_15_list_cleaned.txt,
+jerome collet,Books/The_Da_Vinci_Code/character_3_list_cleaned.txt,
+silas,Books/The_Da_Vinci_Code/character_13_list_cleaned.txt,
+jonas faukman,Books/The_Da_Vinci_Code/character_6_list_cleaned.txt,
+bezu fache,Books/The_Da_Vinci_Code/character_5_list_cleaned.txt,
+simon edwards,Books/The_Da_Vinci_Code/character_4_list_cleaned.txt,
+sister sandrine bieil,Books/The_Da_Vinci_Code/character_1_list_cleaned.txt,
+manuel aringarosa,Books/The_Da_Vinci_Code/character_0_list_cleaned.txt,
+marie chauvel,Books/The_Da_Vinci_Code/character_2_list_cleaned.txt,

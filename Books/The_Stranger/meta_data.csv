@@ -1,15 +1,15 @@
 characterName,listFile,analysisFile
-the director,Books/The_Stranger/character_8_list.txt,
-raymond sintes,Books/The_Stranger/character_2_list.txt,Books/The_Stranger/character_2_analysis.txt
-meursault,Books/The_Stranger/character_0_list.txt,Books/The_Stranger/character_0_analysis.txt
-celeste,Books/The_Stranger/character_9_list.txt,
-the caretaker,Books/The_Stranger/character_7_list.txt,
-the prosecutor,Books/The_Stranger/character_11_list.txt,
-salamano,Books/The_Stranger/character_12_list.txt,
-the chaplain,Books/The_Stranger/character_4_list.txt,
-meursault's mother,Books/The_Stranger/character_3_list.txt,
-marie cardona,Books/The_Stranger/character_1_list.txt,Books/The_Stranger/character_1_analysis.txt
-the arab,Books/The_Stranger/character_13_list.txt,
-thomas perez,Books/The_Stranger/character_5_list.txt,
-the examining magistrate,Books/The_Stranger/character_6_list.txt,
-masson,Books/The_Stranger/character_10_list.txt,
+the director,Books/The_Stranger/character_8_list_cleaned.txt,
+raymond sintes,Books/The_Stranger/character_2_list_cleaned.txt,Books/The_Stranger/character_2_analysis_cleaned.txt
+meursault,Books/The_Stranger/character_0_list_cleaned.txt,Books/The_Stranger/character_0_analysis_cleaned.txt
+celeste,Books/The_Stranger/character_9_list_cleaned.txt,
+the caretaker,Books/The_Stranger/character_7_list_cleaned.txt,
+the prosecutor,Books/The_Stranger/character_11_list_cleaned.txt,
+salamano,Books/The_Stranger/character_12_list_cleaned.txt,
+the chaplain,Books/The_Stranger/character_4_list_cleaned.txt,
+meursault's mother,Books/The_Stranger/character_3_list_cleaned.txt,
+marie cardona,Books/The_Stranger/character_1_list_cleaned.txt,Books/The_Stranger/character_1_analysis_cleaned.txt
+the arab,Books/The_Stranger/character_13_list_cleaned.txt,
+thomas perez,Books/The_Stranger/character_5_list_cleaned.txt,
+the examining magistrate,Books/The_Stranger/character_6_list_cleaned.txt,
+masson,Books/The_Stranger/character_10_list_cleaned.txt,

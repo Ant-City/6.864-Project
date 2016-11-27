@@ -1,4 +1,4 @@
 characterName,listFile,analysisFile
-the narrator,Books/The_Yellow_Wallpaper/character_0_list.txt,Books/The_Yellow_Wallpaper/character_0_analysis.txt
-john,Books/The_Yellow_Wallpaper/character_1_list.txt,Books/The_Yellow_Wallpaper/character_1_analysis.txt
-jennie,Books/The_Yellow_Wallpaper/character_2_list.txt,
+the narrator,Books/The_Yellow_Wallpaper/character_0_list_cleaned.txt,Books/The_Yellow_Wallpaper/character_0_analysis_cleaned.txt
+john,Books/The_Yellow_Wallpaper/character_1_list_cleaned.txt,Books/The_Yellow_Wallpaper/character_1_analysis_cleaned.txt
+jennie,Books/The_Yellow_Wallpaper/character_2_list_cleaned.txt,

@@ -1,18 +1,18 @@
 characterName,listFile,analysisFile
-the narrator's brother,Books/Surfacing/character_7_list.txt,
-the new shopkeeper,Books/Surfacing/character_16_list.txt,
-"the ""americans""",Books/Surfacing/character_10_list.txt,
-evans,Books/Surfacing/character_12_list.txt,
-the town priest,Books/Surfacing/character_14_list.txt,
-claude,Books/Surfacing/character_11_list.txt,
-the old shopkeeper,Books/Surfacing/character_15_list.txt,
-david,Books/Surfacing/character_2_list.txt,Books/Surfacing/character_2_analysis.txt
-the narrator,Books/Surfacing/character_0_list.txt,Books/Surfacing/character_0_analysis.txt
-the narrator's mother,Books/Surfacing/character_5_list.txt,
-"the ""fake husband""",Books/Surfacing/character_8_list.txt,
-joe,Books/Surfacing/character_1_list.txt,Books/Surfacing/character_1_analysis.txt
-paul,Books/Surfacing/character_4_list.txt,
-madame,Books/Surfacing/character_13_list.txt,
-the narrator's father,Books/Surfacing/character_6_list.txt,
-anna,Books/Surfacing/character_3_list.txt,Books/Surfacing/character_3_analysis.txt
-bill malmstrom,Books/Surfacing/character_9_list.txt,
+the narrator's brother,Books/Surfacing/character_7_list_cleaned.txt,
+the new shopkeeper,Books/Surfacing/character_16_list_cleaned.txt,
+"the ""americans""",Books/Surfacing/character_10_list_cleaned.txt,
+evans,Books/Surfacing/character_12_list_cleaned.txt,
+the town priest,Books/Surfacing/character_14_list_cleaned.txt,
+claude,Books/Surfacing/character_11_list_cleaned.txt,
+the old shopkeeper,Books/Surfacing/character_15_list_cleaned.txt,
+david,Books/Surfacing/character_2_list_cleaned.txt,Books/Surfacing/character_2_analysis_cleaned.txt
+the narrator,Books/Surfacing/character_0_list_cleaned.txt,Books/Surfacing/character_0_analysis_cleaned.txt
+the narrator's mother,Books/Surfacing/character_5_list_cleaned.txt,
+"the ""fake husband""",Books/Surfacing/character_8_list_cleaned.txt,
+joe,Books/Surfacing/character_1_list_cleaned.txt,Books/Surfacing/character_1_analysis_cleaned.txt
+paul,Books/Surfacing/character_4_list_cleaned.txt,
+madame,Books/Surfacing/character_13_list_cleaned.txt,
+the narrator's father,Books/Surfacing/character_6_list_cleaned.txt,
+anna,Books/Surfacing/character_3_list_cleaned.txt,Books/Surfacing/character_3_analysis_cleaned.txt
+bill malmstrom,Books/Surfacing/character_9_list_cleaned.txt,

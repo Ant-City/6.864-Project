@@ -1,14 +1,14 @@
 characterName,listFile,analysisFile
-the red whiskers,Books/Billy_Budd_Sailor/character_11_list.txt,
-captain graveling,Books/Billy_Budd_Sailor/character_10_list.txt,
-captain the honorable edward fairfax vere,Books/Billy_Budd_Sailor/character_1_list.txt,Books/Billy_Budd_Sailor/character_1_analysis.txt
-ship's purser,Books/Billy_Budd_Sailor/character_5_list.txt,
-albert,Books/Billy_Budd_Sailor/character_8_list.txt,
-the dansker,Books/Billy_Budd_Sailor/character_3_list.txt,
-billy budd,Books/Billy_Budd_Sailor/character_0_list.txt,Books/Billy_Budd_Sailor/character_0_analysis.txt
-ship's chaplain,Books/Billy_Budd_Sailor/character_6_list.txt,
-red pepper,Books/Billy_Budd_Sailor/character_12_list.txt,
-ship's surgeon,Books/Billy_Budd_Sailor/character_4_list.txt,
-squeak,Books/Billy_Budd_Sailor/character_7_list.txt,
-lieutenant ratcliffe,Books/Billy_Budd_Sailor/character_9_list.txt,
-john claggart,Books/Billy_Budd_Sailor/character_2_list.txt,Books/Billy_Budd_Sailor/character_2_analysis.txt
+the red whiskers,Books/Billy_Budd_Sailor/character_11_list_cleaned.txt,
+captain graveling,Books/Billy_Budd_Sailor/character_10_list_cleaned.txt,
+captain the honorable edward fairfax vere,Books/Billy_Budd_Sailor/character_1_list_cleaned.txt,Books/Billy_Budd_Sailor/character_1_analysis_cleaned.txt
+ship's purser,Books/Billy_Budd_Sailor/character_5_list_cleaned.txt,
+albert,Books/Billy_Budd_Sailor/character_8_list_cleaned.txt,
+the dansker,Books/Billy_Budd_Sailor/character_3_list_cleaned.txt,
+billy budd,Books/Billy_Budd_Sailor/character_0_list_cleaned.txt,Books/Billy_Budd_Sailor/character_0_analysis_cleaned.txt
+ship's chaplain,Books/Billy_Budd_Sailor/character_6_list_cleaned.txt,
+red pepper,Books/Billy_Budd_Sailor/character_12_list_cleaned.txt,
+ship's surgeon,Books/Billy_Budd_Sailor/character_4_list_cleaned.txt,
+squeak,Books/Billy_Budd_Sailor/character_7_list_cleaned.txt,
+lieutenant ratcliffe,Books/Billy_Budd_Sailor/character_9_list_cleaned.txt,
+john claggart,Books/Billy_Budd_Sailor/character_2_list_cleaned.txt,Books/Billy_Budd_Sailor/character_2_analysis_cleaned.txt

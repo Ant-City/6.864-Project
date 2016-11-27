@@ -1,8 +1,8 @@
 characterName,listFile,analysisFile
-dr. john watson,Books/The_RedHeaded_League/character_1_list.txt,Books/The_RedHeaded_League/character_1_analysis.txt
-peter jones,Books/The_RedHeaded_League/character_4_list.txt,
-john clay/vincent spaulding,Books/The_RedHeaded_League/character_3_list.txt,
-jabez wilson,Books/The_RedHeaded_League/character_2_list.txt,
-mr. merryweather,Books/The_RedHeaded_League/character_5_list.txt,
-archie/duncan ross/william morris,Books/The_RedHeaded_League/character_6_list.txt,
-sherlock holmes,Books/The_RedHeaded_League/character_0_list.txt,Books/The_RedHeaded_League/character_0_analysis.txt
+dr. john watson,Books/The_RedHeaded_League/character_1_list_cleaned.txt,Books/The_RedHeaded_League/character_1_analysis_cleaned.txt
+peter jones,Books/The_RedHeaded_League/character_4_list_cleaned.txt,
+john clay/vincent spaulding,Books/The_RedHeaded_League/character_3_list_cleaned.txt,
+jabez wilson,Books/The_RedHeaded_League/character_2_list_cleaned.txt,
+mr. merryweather,Books/The_RedHeaded_League/character_5_list_cleaned.txt,
+archie/duncan ross/william morris,Books/The_RedHeaded_League/character_6_list_cleaned.txt,
+sherlock holmes,Books/The_RedHeaded_League/character_0_list_cleaned.txt,Books/The_RedHeaded_League/character_0_analysis_cleaned.txt

@@ -1,14 +1,14 @@
 characterName,listFile,analysisFile
-michael cassio,Books/Othello/character_3_list.txt,
-bianca,Books/Othello/character_6_list.txt,
-roderigo,Books/Othello/character_5_list.txt,
-duke of venice,Books/Othello/character_8_list.txt,
-clown,Books/Othello/character_12_list.txt,
-graziano,Books/Othello/character_11_list.txt,
-iago,Books/Othello/character_2_list.txt,Books/Othello/character_2_list.txt
-lodovico,Books/Othello/character_10_list.txt,
-othello,Books/Othello/character_0_list.txt,Books/Othello/character_0_list.txt
-brabanzio,Books/Othello/character_7_list.txt,
-emilia,Books/Othello/character_4_list.txt,
-desdemona,Books/Othello/character_1_list.txt,Books/Othello/character_1_list.txt
-montano,Books/Othello/character_9_list.txt,
+michael cassio,Books/Othello/character_3_list_cleaned.txt,
+bianca,Books/Othello/character_6_list_cleaned.txt,
+roderigo,Books/Othello/character_5_list_cleaned.txt,
+duke of venice,Books/Othello/character_8_list_cleaned.txt,
+clown,Books/Othello/character_12_list_cleaned.txt,
+graziano,Books/Othello/character_11_list_cleaned.txt,
+iago,Books/Othello/character_2_list_cleaned.txt,Books/Othello/character_2_list_cleaned.txt
+lodovico,Books/Othello/character_10_list_cleaned.txt,
+othello,Books/Othello/character_0_list_cleaned.txt,Books/Othello/character_0_list_cleaned.txt
+brabanzio,Books/Othello/character_7_list_cleaned.txt,
+emilia,Books/Othello/character_4_list_cleaned.txt,
+desdemona,Books/Othello/character_1_list_cleaned.txt,Books/Othello/character_1_list_cleaned.txt
+montano,Books/Othello/character_9_list_cleaned.txt,

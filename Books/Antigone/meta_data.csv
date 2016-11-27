@@ -1,13 +1,13 @@
 characterName,listFile,analysisFile
-ismene,Books/Antigone/character_2_list.txt,
-eurydice,Books/Antigone/character_11_list.txt,
-haemon,Books/Antigone/character_3_list.txt,
-page,Books/Antigone/character_10_list.txt,
-chorus,Books/Antigone/character_5_list.txt,
-creon,Books/Antigone/character_1_list.txt,Books/Antigone/character_1_analysis.txt
-third guard,Books/Antigone/character_8_list.txt,
-jonas,Books/Antigone/character_6_list.txt,
-messenger,Books/Antigone/character_9_list.txt,
-nurse,Books/Antigone/character_4_list.txt,
-antigone,Books/Antigone/character_0_list.txt,Books/Antigone/character_0_analysis.txt
-second guard,Books/Antigone/character_7_list.txt,
+ismene,Books/Antigone/character_2_list_cleaned.txt,
+eurydice,Books/Antigone/character_11_list_cleaned.txt,
+haemon,Books/Antigone/character_3_list_cleaned.txt,
+page,Books/Antigone/character_10_list_cleaned.txt,
+chorus,Books/Antigone/character_5_list_cleaned.txt,
+creon,Books/Antigone/character_1_list_cleaned.txt,Books/Antigone/character_1_analysis_cleaned.txt
+third guard,Books/Antigone/character_8_list_cleaned.txt,
+jonas,Books/Antigone/character_6_list_cleaned.txt,
+messenger,Books/Antigone/character_9_list_cleaned.txt,
+nurse,Books/Antigone/character_4_list_cleaned.txt,
+antigone,Books/Antigone/character_0_list_cleaned.txt,Books/Antigone/character_0_analysis_cleaned.txt
+second guard,Books/Antigone/character_7_list_cleaned.txt,

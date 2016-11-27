@@ -1,19 +1,19 @@
 characterName,listFile,analysisFile
-cunegonde,Books/Candide/character_3_list.txt,
-vanderdendur,Books/Candide/character_15_list.txt,
-brother giroflee,Books/Candide/character_11_list.txt,
-don fernando d'ibaraa y figueora y mascarenes y lampourdos y souza,Books/Candide/character_14_list.txt,
-the farmer,Books/Candide/character_8_list.txt,
-count pococurante,Books/Candide/character_9_list.txt,
-martin,Books/Candide/character_2_list.txt,Books/Candide/character_2_analysis.txt
-the marquise of parolignac,Books/Candide/character_17_list.txt,
-the old woman,Books/Candide/character_5_list.txt,
-paquette,Books/Candide/character_10_list.txt,
-the grand inquisitor,Books/Candide/character_12_list.txt,
-don issachar,Books/Candide/character_13_list.txt,
-pangloss,Books/Candide/character_1_list.txt,Books/Candide/character_1_analysis.txt
-cacambo,Books/Candide/character_4_list.txt,Books/Candide/character_4_analysis.txt
-the commander or the baron,Books/Candide/character_6_list.txt,
-the abbe of perigord,Books/Candide/character_16_list.txt,
-candide,Books/Candide/character_0_list.txt,Books/Candide/character_0_analysis.txt
-jacques (anabaptist),Books/Candide/character_7_list.txt,
+cunegonde,Books/Candide/character_3_list_cleaned.txt,
+vanderdendur,Books/Candide/character_15_list_cleaned.txt,
+brother giroflee,Books/Candide/character_11_list_cleaned.txt,
+don fernando d'ibaraa y figueora y mascarenes y lampourdos y souza,Books/Candide/character_14_list_cleaned.txt,
+the farmer,Books/Candide/character_8_list_cleaned.txt,
+count pococurante,Books/Candide/character_9_list_cleaned.txt,
+martin,Books/Candide/character_2_list_cleaned.txt,Books/Candide/character_2_analysis_cleaned.txt
+the marquise of parolignac,Books/Candide/character_17_list_cleaned.txt,
+the old woman,Books/Candide/character_5_list_cleaned.txt,
+paquette,Books/Candide/character_10_list_cleaned.txt,
+the grand inquisitor,Books/Candide/character_12_list_cleaned.txt,
+don issachar,Books/Candide/character_13_list_cleaned.txt,
+pangloss,Books/Candide/character_1_list_cleaned.txt,Books/Candide/character_1_analysis_cleaned.txt
+cacambo,Books/Candide/character_4_list_cleaned.txt,Books/Candide/character_4_analysis_cleaned.txt
+the commander or the baron,Books/Candide/character_6_list_cleaned.txt,
+the abbe of perigord,Books/Candide/character_16_list_cleaned.txt,
+candide,Books/Candide/character_0_list_cleaned.txt,Books/Candide/character_0_analysis_cleaned.txt
+jacques (anabaptist),Books/Candide/character_7_list_cleaned.txt,

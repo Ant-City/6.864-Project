@@ -1,12 +1,12 @@
 characterName,listFile,analysisFile
-gonzalo,Books/The_Tempest/character_8_list.txt,
-prospero,Books/The_Tempest/character_0_list.txt,Books/The_Tempest/character_0_list.txt
-caliban,Books/The_Tempest/character_3_list.txt,Books/The_Tempest/character_3_list.txt
-antonio,Books/The_Tempest/character_6_list.txt,
-alonso,Books/The_Tempest/character_5_list.txt,
-ariel,Books/The_Tempest/character_2_list.txt,
-trinculo & stephano,Books/The_Tempest/character_9_list.txt,
-miranda,Books/The_Tempest/character_1_list.txt,Books/The_Tempest/character_1_list.txt
-boatswain,Books/The_Tempest/character_10_list.txt,
-ferdinand,Books/The_Tempest/character_4_list.txt,
-sebastian,Books/The_Tempest/character_7_list.txt,
+gonzalo,Books/The_Tempest/character_8_list_cleaned.txt,
+prospero,Books/The_Tempest/character_0_list_cleaned.txt,Books/The_Tempest/character_0_list_cleaned.txt
+caliban,Books/The_Tempest/character_3_list_cleaned.txt,Books/The_Tempest/character_3_list_cleaned.txt
+antonio,Books/The_Tempest/character_6_list_cleaned.txt,
+alonso,Books/The_Tempest/character_5_list_cleaned.txt,
+ariel,Books/The_Tempest/character_2_list_cleaned.txt,
+trinculo & stephano,Books/The_Tempest/character_9_list_cleaned.txt,
+miranda,Books/The_Tempest/character_1_list_cleaned.txt,Books/The_Tempest/character_1_list_cleaned.txt
+boatswain,Books/The_Tempest/character_10_list_cleaned.txt,
+ferdinand,Books/The_Tempest/character_4_list_cleaned.txt,
+sebastian,Books/The_Tempest/character_7_list_cleaned.txt,

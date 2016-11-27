@@ -1,7 +1,7 @@
 characterName,listFile,analysisFile
-mozart,Books/Steppenwolf/character_4_list.txt,
-hermine,Books/Steppenwolf/character_1_list.txt,Books/Steppenwolf/character_1_analysis.txt
-the steppenwolf,Books/Steppenwolf/character_0_list.txt,
-the editor,Books/Steppenwolf/character_5_list.txt,
-pablo,Books/Steppenwolf/character_3_list.txt,Books/Steppenwolf/character_3_analysis.txt
-maria,Books/Steppenwolf/character_2_list.txt,
+mozart,Books/Steppenwolf/character_4_list_cleaned.txt,
+hermine,Books/Steppenwolf/character_1_list_cleaned.txt,Books/Steppenwolf/character_1_analysis_cleaned.txt
+the steppenwolf,Books/Steppenwolf/character_0_list_cleaned.txt,
+the editor,Books/Steppenwolf/character_5_list_cleaned.txt,
+pablo,Books/Steppenwolf/character_3_list_cleaned.txt,Books/Steppenwolf/character_3_analysis_cleaned.txt
+maria,Books/Steppenwolf/character_2_list_cleaned.txt,

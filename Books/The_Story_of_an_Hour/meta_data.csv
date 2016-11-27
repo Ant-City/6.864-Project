@@ -1,5 +1,5 @@
 characterName,listFile,analysisFile
-brently mallard,Books/The_Story_of_an_Hour/character_1_list.txt,
-josephine,Books/The_Story_of_an_Hour/character_2_list.txt,
-louise mallard,Books/The_Story_of_an_Hour/character_0_list.txt,Books/The_Story_of_an_Hour/character_0_analysis.txt
-richards,Books/The_Story_of_an_Hour/character_3_list.txt,
+brently mallard,Books/The_Story_of_an_Hour/character_1_list_cleaned.txt,
+josephine,Books/The_Story_of_an_Hour/character_2_list_cleaned.txt,
+louise mallard,Books/The_Story_of_an_Hour/character_0_list_cleaned.txt,Books/The_Story_of_an_Hour/character_0_analysis_cleaned.txt
+richards,Books/The_Story_of_an_Hour/character_3_list_cleaned.txt,

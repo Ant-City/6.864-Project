@@ -1,10 +1,10 @@
 characterName,listFile,analysisFile
-vasudeva,Books/Siddhartha/character_1_list.txt,Books/Siddhartha/character_1_analysis.txt
-siddhartha's father,Books/Siddhartha/character_7_list.txt,
-gotama,Books/Siddhartha/character_4_list.txt,
-kamaswami,Books/Siddhartha/character_5_list.txt,
-govinda,Books/Siddhartha/character_2_list.txt,Books/Siddhartha/character_2_analysis.txt
-the samanas,Books/Siddhartha/character_8_list.txt,
-young siddhartha,Books/Siddhartha/character_6_list.txt,
-siddhartha,Books/Siddhartha/character_0_list.txt,Books/Siddhartha/character_0_analysis.txt
-kamala,Books/Siddhartha/character_3_list.txt,
+vasudeva,Books/Siddhartha/character_1_list_cleaned.txt,Books/Siddhartha/character_1_analysis_cleaned.txt
+siddhartha's father,Books/Siddhartha/character_7_list_cleaned.txt,
+gotama,Books/Siddhartha/character_4_list_cleaned.txt,
+kamaswami,Books/Siddhartha/character_5_list_cleaned.txt,
+govinda,Books/Siddhartha/character_2_list_cleaned.txt,Books/Siddhartha/character_2_analysis_cleaned.txt
+the samanas,Books/Siddhartha/character_8_list_cleaned.txt,
+young siddhartha,Books/Siddhartha/character_6_list_cleaned.txt,
+siddhartha,Books/Siddhartha/character_0_list_cleaned.txt,Books/Siddhartha/character_0_analysis_cleaned.txt
+kamala,Books/Siddhartha/character_3_list_cleaned.txt,

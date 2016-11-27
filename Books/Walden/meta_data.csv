@@ -1,13 +1,13 @@
 characterName,listFile,analysisFile
-mencius,Books/Walden/character_10_list.txt,
-james russell lowell,Books/Walden/character_9_list.txt,
-henry david thoreau,Books/Walden/character_0_list.txt,Books/Walden/character_0_analysis.txt
-confucius,Books/Walden/character_8_list.txt,
-alex therien,Books/Walden/character_2_list.txt,Books/Walden/character_2_analysis.txt
-amos bronson alcott,Books/Walden/character_4_list.txt,
-ralph waldo emerson,Books/Walden/character_1_list.txt,
-henry clay,Books/Walden/character_6_list.txt,
-lidian emerson,Books/Walden/character_7_list.txt,
-john field,Books/Walden/character_3_list.txt,
-william ellery channing,Books/Walden/character_5_list.txt,
-john thoreau,Books/Walden/character_11_list.txt,
+mencius,Books/Walden/character_10_list_cleaned.txt,
+james russell lowell,Books/Walden/character_9_list_cleaned.txt,
+henry david thoreau,Books/Walden/character_0_list_cleaned.txt,Books/Walden/character_0_analysis_cleaned.txt
+confucius,Books/Walden/character_8_list_cleaned.txt,
+alex therien,Books/Walden/character_2_list_cleaned.txt,Books/Walden/character_2_analysis_cleaned.txt
+amos bronson alcott,Books/Walden/character_4_list_cleaned.txt,
+ralph waldo emerson,Books/Walden/character_1_list_cleaned.txt,
+henry clay,Books/Walden/character_6_list_cleaned.txt,
+lidian emerson,Books/Walden/character_7_list_cleaned.txt,
+john field,Books/Walden/character_3_list_cleaned.txt,
+william ellery channing,Books/Walden/character_5_list_cleaned.txt,
+john thoreau,Books/Walden/character_11_list_cleaned.txt,

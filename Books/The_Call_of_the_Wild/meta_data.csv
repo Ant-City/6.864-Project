@@ -1,14 +1,14 @@
 characterName,listFile,analysisFile
-buck,Books/The_Call_of_the_Wild/character_0_list.txt,Books/The_Call_of_the_Wild/character_0_analysis.txt
-hal,Books/The_Call_of_the_Wild/character_5_list.txt,
-curly,Books/The_Call_of_the_Wild/character_10_list.txt,
-manuel,Books/The_Call_of_the_Wild/character_12_list.txt,
-charles,Books/The_Call_of_the_Wild/character_7_list.txt,
-sol-leks,Books/The_Call_of_the_Wild/character_9_list.txt,
-dave,Books/The_Call_of_the_Wild/character_8_list.txt,
-mercedes,Books/The_Call_of_the_Wild/character_6_list.txt,
-spitz,Books/The_Call_of_the_Wild/character_2_list.txt,
-francois,Books/The_Call_of_the_Wild/character_3_list.txt,
-judge miller,Books/The_Call_of_the_Wild/character_11_list.txt,
-john thornton,Books/The_Call_of_the_Wild/character_1_list.txt,Books/The_Call_of_the_Wild/character_1_analysis.txt
-perrault,Books/The_Call_of_the_Wild/character_4_list.txt,
+buck,Books/The_Call_of_the_Wild/character_0_list_cleaned.txt,Books/The_Call_of_the_Wild/character_0_analysis_cleaned.txt
+hal,Books/The_Call_of_the_Wild/character_5_list_cleaned.txt,
+curly,Books/The_Call_of_the_Wild/character_10_list_cleaned.txt,
+manuel,Books/The_Call_of_the_Wild/character_12_list_cleaned.txt,
+charles,Books/The_Call_of_the_Wild/character_7_list_cleaned.txt,
+sol-leks,Books/The_Call_of_the_Wild/character_9_list_cleaned.txt,
+dave,Books/The_Call_of_the_Wild/character_8_list_cleaned.txt,
+mercedes,Books/The_Call_of_the_Wild/character_6_list_cleaned.txt,
+spitz,Books/The_Call_of_the_Wild/character_2_list_cleaned.txt,
+francois,Books/The_Call_of_the_Wild/character_3_list_cleaned.txt,
+judge miller,Books/The_Call_of_the_Wild/character_11_list_cleaned.txt,
+john thornton,Books/The_Call_of_the_Wild/character_1_list_cleaned.txt,Books/The_Call_of_the_Wild/character_1_analysis_cleaned.txt
+perrault,Books/The_Call_of_the_Wild/character_4_list_cleaned.txt,

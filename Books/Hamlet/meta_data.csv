@@ -1,16 +1,16 @@
 characterName,listFile,analysisFile
-gertrude,Books/Hamlet/character_2_list.txt,Books/Hamlet/character_2_list.txt
-claudius,Books/Hamlet/character_1_list.txt,Books/Hamlet/character_1_list.txt
-laertes,Books/Hamlet/character_6_list.txt,
-ophelia,Books/Hamlet/character_5_list.txt,
-horatio,Books/Hamlet/character_4_list.txt,
-fortinbras,Books/Hamlet/character_7_list.txt,
-the ghost,Books/Hamlet/character_8_list.txt,
-reynaldo,Books/Hamlet/character_14_list.txt,
-hamlet,Books/Hamlet/character_0_list.txt,Books/Hamlet/character_0_list.txt
-francisco,Books/Hamlet/character_13_list.txt,
-rosencrantz and guildenstern,Books/Hamlet/character_9_list.txt,
-osric,Books/Hamlet/character_10_list.txt,
-polonius,Books/Hamlet/character_3_list.txt,
-voltimand and cornelius,Books/Hamlet/character_11_list.txt,
-marcellus and bernardo,Books/Hamlet/character_12_list.txt,
+gertrude,Books/Hamlet/character_2_list_cleaned.txt,Books/Hamlet/character_2_list_cleaned.txt
+claudius,Books/Hamlet/character_1_list_cleaned.txt,Books/Hamlet/character_1_list_cleaned.txt
+laertes,Books/Hamlet/character_6_list_cleaned.txt,
+ophelia,Books/Hamlet/character_5_list_cleaned.txt,
+horatio,Books/Hamlet/character_4_list_cleaned.txt,
+fortinbras,Books/Hamlet/character_7_list_cleaned.txt,
+the ghost,Books/Hamlet/character_8_list_cleaned.txt,
+reynaldo,Books/Hamlet/character_14_list_cleaned.txt,
+hamlet,Books/Hamlet/character_0_list_cleaned.txt,Books/Hamlet/character_0_list_cleaned.txt
+francisco,Books/Hamlet/character_13_list_cleaned.txt,
+rosencrantz and guildenstern,Books/Hamlet/character_9_list_cleaned.txt,
+osric,Books/Hamlet/character_10_list_cleaned.txt,
+polonius,Books/Hamlet/character_3_list_cleaned.txt,
+voltimand and cornelius,Books/Hamlet/character_11_list_cleaned.txt,
+marcellus and bernardo,Books/Hamlet/character_12_list_cleaned.txt,

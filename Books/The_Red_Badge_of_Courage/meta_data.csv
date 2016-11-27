@@ -1,7 +1,7 @@
 characterName,listFile,analysisFile
-wilson,Books/The_Red_Badge_of_Courage/character_2_list.txt,Books/The_Red_Badge_of_Courage/character_2_analysis.txt
-jim conklin,Books/The_Red_Badge_of_Courage/character_1_list.txt,Books/The_Red_Badge_of_Courage/character_1_analysis.txt
-henry fleming,Books/The_Red_Badge_of_Courage/character_0_list.txt,Books/The_Red_Badge_of_Courage/character_0_analysis.txt
-the tattered soldier,Books/The_Red_Badge_of_Courage/character_3_list.txt,
-the lieutenant,Books/The_Red_Badge_of_Courage/character_4_list.txt,
-henry's mother,Books/The_Red_Badge_of_Courage/character_5_list.txt,
+wilson,Books/The_Red_Badge_of_Courage/character_2_list_cleaned.txt,Books/The_Red_Badge_of_Courage/character_2_analysis_cleaned.txt
+jim conklin,Books/The_Red_Badge_of_Courage/character_1_list_cleaned.txt,Books/The_Red_Badge_of_Courage/character_1_analysis_cleaned.txt
+henry fleming,Books/The_Red_Badge_of_Courage/character_0_list_cleaned.txt,Books/The_Red_Badge_of_Courage/character_0_analysis_cleaned.txt
+the tattered soldier,Books/The_Red_Badge_of_Courage/character_3_list_cleaned.txt,
+the lieutenant,Books/The_Red_Badge_of_Courage/character_4_list_cleaned.txt,
+henry's mother,Books/The_Red_Badge_of_Courage/character_5_list_cleaned.txt,

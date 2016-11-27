@@ -1,13 +1,13 @@
 characterName,listFile,analysisFile
-miss jessel,Books/The_Turn_of_the_Screw/character_6_list.txt,
-griffin,Books/The_Turn_of_the_Screw/character_10_list.txt,
-flora,Books/The_Turn_of_the_Screw/character_3_list.txt,Books/The_Turn_of_the_Screw/character_3_analysis.txt
-the governess,Books/The_Turn_of_the_Screw/character_0_list.txt,Books/The_Turn_of_the_Screw/character_0_analysis.txt
-peter quint,Books/The_Turn_of_the_Screw/character_5_list.txt,
-luke,Books/The_Turn_of_the_Screw/character_7_list.txt,
-the children's uncle,Books/The_Turn_of_the_Screw/character_4_list.txt,
-douglas,Books/The_Turn_of_the_Screw/character_9_list.txt,
-anonymous narrator,Books/The_Turn_of_the_Screw/character_8_list.txt,
-miles,Books/The_Turn_of_the_Screw/character_2_list.txt,Books/The_Turn_of_the_Screw/character_2_analysis.txt
-mrs. grose,Books/The_Turn_of_the_Screw/character_1_list.txt,Books/The_Turn_of_the_Screw/character_1_analysis.txt
-women at the gathering,Books/The_Turn_of_the_Screw/character_11_list.txt,
+miss jessel,Books/The_Turn_of_the_Screw/character_6_list_cleaned.txt,
+griffin,Books/The_Turn_of_the_Screw/character_10_list_cleaned.txt,
+flora,Books/The_Turn_of_the_Screw/character_3_list_cleaned.txt,Books/The_Turn_of_the_Screw/character_3_analysis_cleaned.txt
+the governess,Books/The_Turn_of_the_Screw/character_0_list_cleaned.txt,Books/The_Turn_of_the_Screw/character_0_analysis_cleaned.txt
+peter quint,Books/The_Turn_of_the_Screw/character_5_list_cleaned.txt,
+luke,Books/The_Turn_of_the_Screw/character_7_list_cleaned.txt,
+the children's uncle,Books/The_Turn_of_the_Screw/character_4_list_cleaned.txt,
+douglas,Books/The_Turn_of_the_Screw/character_9_list_cleaned.txt,
+anonymous narrator,Books/The_Turn_of_the_Screw/character_8_list_cleaned.txt,
+miles,Books/The_Turn_of_the_Screw/character_2_list_cleaned.txt,Books/The_Turn_of_the_Screw/character_2_analysis_cleaned.txt
+mrs. grose,Books/The_Turn_of_the_Screw/character_1_list_cleaned.txt,Books/The_Turn_of_the_Screw/character_1_analysis_cleaned.txt
+women at the gathering,Books/The_Turn_of_the_Screw/character_11_list_cleaned.txt,

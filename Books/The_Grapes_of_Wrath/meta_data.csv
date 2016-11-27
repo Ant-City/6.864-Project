@@ -1,18 +1,18 @@
 characterName,listFile,analysisFile
-winfield joad,Books/The_Grapes_of_Wrath/character_13_list.txt,
-rose of sharon,Books/The_Grapes_of_Wrath/character_4_list.txt,Books/The_Grapes_of_Wrath/character_4_analysis.txt
-connie,Books/The_Grapes_of_Wrath/character_9_list.txt,
-muley graves,Books/The_Grapes_of_Wrath/character_15_list.txt,
-grampa joad,Books/The_Grapes_of_Wrath/character_5_list.txt,
-jim casy,Books/The_Grapes_of_Wrath/character_3_list.txt,Books/The_Grapes_of_Wrath/character_3_analysis.txt
-granma joad,Books/The_Grapes_of_Wrath/character_6_list.txt,
-pa joad,Books/The_Grapes_of_Wrath/character_2_list.txt,Books/The_Grapes_of_Wrath/character_2_analysis.txt
-agnes wainwright,Books/The_Grapes_of_Wrath/character_16_list.txt,
-ruthie joad,Books/The_Grapes_of_Wrath/character_12_list.txt,
-al joad,Books/The_Grapes_of_Wrath/character_7_list.txt,
-ma joad,Books/The_Grapes_of_Wrath/character_1_list.txt,Books/The_Grapes_of_Wrath/character_1_analysis.txt
-floyd knowles,Books/The_Grapes_of_Wrath/character_14_list.txt,
-tom joad,Books/The_Grapes_of_Wrath/character_0_list.txt,Books/The_Grapes_of_Wrath/character_0_analysis.txt
-noah joad,Books/The_Grapes_of_Wrath/character_10_list.txt,
-uncle john,Books/The_Grapes_of_Wrath/character_11_list.txt,
-ivy and sairy wilson,Books/The_Grapes_of_Wrath/character_8_list.txt,
+winfield joad,Books/The_Grapes_of_Wrath/character_13_list_cleaned.txt,
+rose of sharon,Books/The_Grapes_of_Wrath/character_4_list_cleaned.txt,Books/The_Grapes_of_Wrath/character_4_analysis_cleaned.txt
+connie,Books/The_Grapes_of_Wrath/character_9_list_cleaned.txt,
+muley graves,Books/The_Grapes_of_Wrath/character_15_list_cleaned.txt,
+grampa joad,Books/The_Grapes_of_Wrath/character_5_list_cleaned.txt,
+jim casy,Books/The_Grapes_of_Wrath/character_3_list_cleaned.txt,Books/The_Grapes_of_Wrath/character_3_analysis_cleaned.txt
+granma joad,Books/The_Grapes_of_Wrath/character_6_list_cleaned.txt,
+pa joad,Books/The_Grapes_of_Wrath/character_2_list_cleaned.txt,Books/The_Grapes_of_Wrath/character_2_analysis_cleaned.txt
+agnes wainwright,Books/The_Grapes_of_Wrath/character_16_list_cleaned.txt,
+ruthie joad,Books/The_Grapes_of_Wrath/character_12_list_cleaned.txt,
+al joad,Books/The_Grapes_of_Wrath/character_7_list_cleaned.txt,
+ma joad,Books/The_Grapes_of_Wrath/character_1_list_cleaned.txt,Books/The_Grapes_of_Wrath/character_1_analysis_cleaned.txt
+floyd knowles,Books/The_Grapes_of_Wrath/character_14_list_cleaned.txt,
+tom joad,Books/The_Grapes_of_Wrath/character_0_list_cleaned.txt,Books/The_Grapes_of_Wrath/character_0_analysis_cleaned.txt
+noah joad,Books/The_Grapes_of_Wrath/character_10_list_cleaned.txt,
+uncle john,Books/The_Grapes_of_Wrath/character_11_list_cleaned.txt,
+ivy and sairy wilson,Books/The_Grapes_of_Wrath/character_8_list_cleaned.txt,

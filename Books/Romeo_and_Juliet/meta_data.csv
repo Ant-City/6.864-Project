@@ -1,22 +1,22 @@
 characterName,listFile,analysisFile
-mercutio,Books/Romeo_and_Juliet/character_3_list.txt,Books/Romeo_and_Juliet/character_3_list.txt
-peter,Books/Romeo_and_Juliet/character_18_list.txt,
-the chorus,Books/Romeo_and_Juliet/character_20_list.txt,
-friar lawrence,Books/Romeo_and_Juliet/character_2_list.txt,Books/Romeo_and_Juliet/character_2_list.txt
-prince escalus,Books/Romeo_and_Juliet/character_12_list.txt,
-tybalt,Books/Romeo_and_Juliet/character_5_list.txt,
-friar john,Books/Romeo_and_Juliet/character_13_list.txt,
-lady capulet,Books/Romeo_and_Juliet/character_7_list.txt,
-the apothecary,Books/Romeo_and_Juliet/character_17_list.txt,
-romeo,Books/Romeo_and_Juliet/character_0_list.txt,Books/Romeo_and_Juliet/character_0_list.txt
-montague,Books/Romeo_and_Juliet/character_8_list.txt,
-paris,Books/Romeo_and_Juliet/character_10_list.txt,
-rosaline,Books/Romeo_and_Juliet/character_19_list.txt,
-balthasar,Books/Romeo_and_Juliet/character_14_list.txt,
-abram,Books/Romeo_and_Juliet/character_16_list.txt,
-capulet,Books/Romeo_and_Juliet/character_6_list.txt,
-sampson & gregory,Books/Romeo_and_Juliet/character_15_list.txt,
-the nurse,Books/Romeo_and_Juliet/character_4_list.txt,
-lady montague,Books/Romeo_and_Juliet/character_9_list.txt,
-benvolio,Books/Romeo_and_Juliet/character_11_list.txt,
-juliet,Books/Romeo_and_Juliet/character_1_list.txt,Books/Romeo_and_Juliet/character_1_list.txt
+mercutio,Books/Romeo_and_Juliet/character_3_list_cleaned.txt,Books/Romeo_and_Juliet/character_3_list_cleaned.txt
+peter,Books/Romeo_and_Juliet/character_18_list_cleaned.txt,
+the chorus,Books/Romeo_and_Juliet/character_20_list_cleaned.txt,
+friar lawrence,Books/Romeo_and_Juliet/character_2_list_cleaned.txt,Books/Romeo_and_Juliet/character_2_list_cleaned.txt
+prince escalus,Books/Romeo_and_Juliet/character_12_list_cleaned.txt,
+tybalt,Books/Romeo_and_Juliet/character_5_list_cleaned.txt,
+friar john,Books/Romeo_and_Juliet/character_13_list_cleaned.txt,
+lady capulet,Books/Romeo_and_Juliet/character_7_list_cleaned.txt,
+the apothecary,Books/Romeo_and_Juliet/character_17_list_cleaned.txt,
+romeo,Books/Romeo_and_Juliet/character_0_list_cleaned.txt,Books/Romeo_and_Juliet/character_0_list_cleaned.txt
+montague,Books/Romeo_and_Juliet/character_8_list_cleaned.txt,
+paris,Books/Romeo_and_Juliet/character_10_list_cleaned.txt,
+rosaline,Books/Romeo_and_Juliet/character_19_list_cleaned.txt,
+balthasar,Books/Romeo_and_Juliet/character_14_list_cleaned.txt,
+abram,Books/Romeo_and_Juliet/character_16_list_cleaned.txt,
+capulet,Books/Romeo_and_Juliet/character_6_list_cleaned.txt,
+sampson & gregory,Books/Romeo_and_Juliet/character_15_list_cleaned.txt,
+the nurse,Books/Romeo_and_Juliet/character_4_list_cleaned.txt,
+lady montague,Books/Romeo_and_Juliet/character_9_list_cleaned.txt,
+benvolio,Books/Romeo_and_Juliet/character_11_list_cleaned.txt,
+juliet,Books/Romeo_and_Juliet/character_1_list_cleaned.txt,Books/Romeo_and_Juliet/character_1_list_cleaned.txt

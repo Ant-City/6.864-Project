@@ -1,14 +1,14 @@
 characterName,listFile,analysisFile
-portia,Books/Julius_Caesar/character_7_list.txt,
-casca,Books/Julius_Caesar/character_5_list.txt,
-julius caesar,Books/Julius_Caesar/character_1_list.txt,Books/Julius_Caesar/character_1_list.txt
-decius,Books/Julius_Caesar/character_12_list.txt,
-cicero,Books/Julius_Caesar/character_9_list.txt,
-cassius,Books/Julius_Caesar/character_3_list.txt,
-calpurnia,Books/Julius_Caesar/character_6_list.txt,
-lepidus,Books/Julius_Caesar/character_10_list.txt,
-murellus,Books/Julius_Caesar/character_11_list.txt,
-flavius,Books/Julius_Caesar/character_8_list.txt,
-octavius,Books/Julius_Caesar/character_4_list.txt,
-antony,Books/Julius_Caesar/character_2_list.txt,Books/Julius_Caesar/character_2_list.txt
-brutus,Books/Julius_Caesar/character_0_list.txt,Books/Julius_Caesar/character_0_list.txt
+portia,Books/Julius_Caesar/character_7_list_cleaned.txt,
+casca,Books/Julius_Caesar/character_5_list_cleaned.txt,
+julius caesar,Books/Julius_Caesar/character_1_list_cleaned.txt,Books/Julius_Caesar/character_1_list_cleaned.txt
+decius,Books/Julius_Caesar/character_12_list_cleaned.txt,
+cicero,Books/Julius_Caesar/character_9_list_cleaned.txt,
+cassius,Books/Julius_Caesar/character_3_list_cleaned.txt,
+calpurnia,Books/Julius_Caesar/character_6_list_cleaned.txt,
+lepidus,Books/Julius_Caesar/character_10_list_cleaned.txt,
+murellus,Books/Julius_Caesar/character_11_list_cleaned.txt,
+flavius,Books/Julius_Caesar/character_8_list_cleaned.txt,
+octavius,Books/Julius_Caesar/character_4_list_cleaned.txt,
+antony,Books/Julius_Caesar/character_2_list_cleaned.txt,Books/Julius_Caesar/character_2_list_cleaned.txt
+brutus,Books/Julius_Caesar/character_0_list_cleaned.txt,Books/Julius_Caesar/character_0_list_cleaned.txt

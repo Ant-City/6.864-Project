@@ -1,15 +1,15 @@
 characterName,listFile,analysisFile
-peter keating,Books/The_Fountainhead/character_4_list.txt,Books/The_Fountainhead/character_4_analysis.txt
-dominique francon,Books/The_Fountainhead/character_2_list.txt,Books/The_Fountainhead/character_2_analysis.txt
-ellsworth toohey,Books/The_Fountainhead/character_1_list.txt,Books/The_Fountainhead/character_1_analysis.txt
-alvah scarret,Books/The_Fountainhead/character_9_list.txt,
-stephen mallory,Books/The_Fountainhead/character_8_list.txt,
-mike,Books/The_Fountainhead/character_11_list.txt,
-howard roark,Books/The_Fountainhead/character_0_list.txt,Books/The_Fountainhead/character_0_analysis.txt
-gail wynand,Books/The_Fountainhead/character_3_list.txt,Books/The_Fountainhead/character_3_analysis.txt
-the dean,Books/The_Fountainhead/character_12_list.txt,
-guy francon,Books/The_Fountainhead/character_7_list.txt,
-mrs. keating,Books/The_Fountainhead/character_10_list.txt,
-catherine halsey,Books/The_Fountainhead/character_6_list.txt,
-henry cameron,Books/The_Fountainhead/character_5_list.txt,
-john erik snyte,Books/The_Fountainhead/character_13_list.txt,
+peter keating,Books/The_Fountainhead/character_4_list_cleaned.txt,Books/The_Fountainhead/character_4_analysis_cleaned.txt
+dominique francon,Books/The_Fountainhead/character_2_list_cleaned.txt,Books/The_Fountainhead/character_2_analysis_cleaned.txt
+ellsworth toohey,Books/The_Fountainhead/character_1_list_cleaned.txt,Books/The_Fountainhead/character_1_analysis_cleaned.txt
+alvah scarret,Books/The_Fountainhead/character_9_list_cleaned.txt,
+stephen mallory,Books/The_Fountainhead/character_8_list_cleaned.txt,
+mike,Books/The_Fountainhead/character_11_list_cleaned.txt,
+howard roark,Books/The_Fountainhead/character_0_list_cleaned.txt,Books/The_Fountainhead/character_0_analysis_cleaned.txt
+gail wynand,Books/The_Fountainhead/character_3_list_cleaned.txt,Books/The_Fountainhead/character_3_analysis_cleaned.txt
+the dean,Books/The_Fountainhead/character_12_list_cleaned.txt,
+guy francon,Books/The_Fountainhead/character_7_list_cleaned.txt,
+mrs. keating,Books/The_Fountainhead/character_10_list_cleaned.txt,
+catherine halsey,Books/The_Fountainhead/character_6_list_cleaned.txt,
+henry cameron,Books/The_Fountainhead/character_5_list_cleaned.txt,
+john erik snyte,Books/The_Fountainhead/character_13_list_cleaned.txt,

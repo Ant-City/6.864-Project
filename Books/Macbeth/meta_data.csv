@@ -1,16 +1,16 @@
 characterName,listFile,analysisFile
-lady macduff,Books/Macbeth/character_13_list.txt,
-king duncan,Books/Macbeth/character_4_list.txt,
-lennox,Books/Macbeth/character_9_list.txt,
-macduff,Books/Macbeth/character_5_list.txt,
-fleance,Books/Macbeth/character_8_list.txt,
-malcolm,Books/Macbeth/character_6_list.txt,
-macbeth,Books/Macbeth/character_0_list.txt,Books/Macbeth/character_0_list.txt
-lady macbeth,Books/Macbeth/character_1_list.txt,Books/Macbeth/character_1_list.txt
-the murderers,Books/Macbeth/character_11_list.txt,
-donalbain,Books/Macbeth/character_14_list.txt,
-the three witches,Books/Macbeth/character_2_list.txt,Books/Macbeth/character_2_list.txt
-banquo,Books/Macbeth/character_3_list.txt,
-hecate,Books/Macbeth/character_7_list.txt,
-porter,Books/Macbeth/character_12_list.txt,
-ross,Books/Macbeth/character_10_list.txt,
+lady macduff,Books/Macbeth/character_13_list_cleaned.txt,
+king duncan,Books/Macbeth/character_4_list_cleaned.txt,
+lennox,Books/Macbeth/character_9_list_cleaned.txt,
+macduff,Books/Macbeth/character_5_list_cleaned.txt,
+fleance,Books/Macbeth/character_8_list_cleaned.txt,
+malcolm,Books/Macbeth/character_6_list_cleaned.txt,
+macbeth,Books/Macbeth/character_0_list_cleaned.txt,Books/Macbeth/character_0_list_cleaned.txt
+lady macbeth,Books/Macbeth/character_1_list_cleaned.txt,Books/Macbeth/character_1_list_cleaned.txt
+the murderers,Books/Macbeth/character_11_list_cleaned.txt,
+donalbain,Books/Macbeth/character_14_list_cleaned.txt,
+the three witches,Books/Macbeth/character_2_list_cleaned.txt,Books/Macbeth/character_2_list_cleaned.txt
+banquo,Books/Macbeth/character_3_list_cleaned.txt,
+hecate,Books/Macbeth/character_7_list_cleaned.txt,
+porter,Books/Macbeth/character_12_list_cleaned.txt,
+ross,Books/Macbeth/character_10_list_cleaned.txt,

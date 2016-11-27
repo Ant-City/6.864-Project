@@ -1,11 +1,11 @@
 characterName,listFile,analysisFile
-dad,Books/Sophies_World/character_7_list.txt,
-alberto knox,Books/Sophies_World/character_1_list.txt,
-hilde moller knag,Books/Sophies_World/character_2_list.txt,
-jeremy,Books/Sophies_World/character_9_list.txt,
-sophie amundsen,Books/Sophies_World/character_0_list.txt,
-albert knag,Books/Sophies_World/character_3_list.txt,Books/Sophies_World/character_3_analysis.txt
-joanna,Books/Sophies_World/character_5_list.txt,
-mom,Books/Sophies_World/character_6_list.txt,
-mother,Books/Sophies_World/character_4_list.txt,
-hermes,Books/Sophies_World/character_8_list.txt,
+dad,Books/Sophies_World/character_7_list_cleaned.txt,
+alberto knox,Books/Sophies_World/character_1_list_cleaned.txt,
+hilde moller knag,Books/Sophies_World/character_2_list_cleaned.txt,
+jeremy,Books/Sophies_World/character_9_list_cleaned.txt,
+sophie amundsen,Books/Sophies_World/character_0_list_cleaned.txt,
+albert knag,Books/Sophies_World/character_3_list_cleaned.txt,Books/Sophies_World/character_3_analysis_cleaned.txt
+joanna,Books/Sophies_World/character_5_list_cleaned.txt,
+mom,Books/Sophies_World/character_6_list_cleaned.txt,
+mother,Books/Sophies_World/character_4_list_cleaned.txt,
+hermes,Books/Sophies_World/character_8_list_cleaned.txt,

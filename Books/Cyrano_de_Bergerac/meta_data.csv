@@ -1,17 +1,17 @@
 characterName,listFile,analysisFile
-baron christian de neuvillette,Books/Cyrano_de_Bergerac/character_2_list.txt,Books/Cyrano_de_Bergerac/character_2_analysis.txt
-the duenna,Books/Cyrano_de_Bergerac/character_7_list.txt,
-le bret,Books/Cyrano_de_Bergerac/character_5_list.txt,
-capuchin,Books/Cyrano_de_Bergerac/character_13_list.txt,
-vicomte de valvert,Books/Cyrano_de_Bergerac/character_8_list.txt,
-montfleury,Books/Cyrano_de_Bergerac/character_9_list.txt,
-cardinal richelieu,Books/Cyrano_de_Bergerac/character_15_list.txt,
-comte de guiche,Books/Cyrano_de_Bergerac/character_3_list.txt,Books/Cyrano_de_Bergerac/character_3_analysis.txt
-bellerose,Books/Cyrano_de_Bergerac/character_11_list.txt,
-roxane,Books/Cyrano_de_Bergerac/character_1_list.txt,Books/Cyrano_de_Bergerac/character_1_analysis.txt
-"mother marguerite de jesus, sister claire, sister marthe",Books/Cyrano_de_Bergerac/character_14_list.txt,
-cyrano de bergerac,Books/Cyrano_de_Bergerac/character_0_list.txt,Books/Cyrano_de_Bergerac/character_0_analysis.txt
-ligniere,Books/Cyrano_de_Bergerac/character_6_list.txt,
-ragueneau,Books/Cyrano_de_Bergerac/character_4_list.txt,
-lise,Books/Cyrano_de_Bergerac/character_12_list.txt,
-carbon de castel-jaloux,Books/Cyrano_de_Bergerac/character_10_list.txt,
+baron christian de neuvillette,Books/Cyrano_de_Bergerac/character_2_list_cleaned.txt,Books/Cyrano_de_Bergerac/character_2_analysis_cleaned.txt
+the duenna,Books/Cyrano_de_Bergerac/character_7_list_cleaned.txt,
+le bret,Books/Cyrano_de_Bergerac/character_5_list_cleaned.txt,
+capuchin,Books/Cyrano_de_Bergerac/character_13_list_cleaned.txt,
+vicomte de valvert,Books/Cyrano_de_Bergerac/character_8_list_cleaned.txt,
+montfleury,Books/Cyrano_de_Bergerac/character_9_list_cleaned.txt,
+cardinal richelieu,Books/Cyrano_de_Bergerac/character_15_list_cleaned.txt,
+comte de guiche,Books/Cyrano_de_Bergerac/character_3_list_cleaned.txt,Books/Cyrano_de_Bergerac/character_3_analysis_cleaned.txt
+bellerose,Books/Cyrano_de_Bergerac/character_11_list_cleaned.txt,
+roxane,Books/Cyrano_de_Bergerac/character_1_list_cleaned.txt,Books/Cyrano_de_Bergerac/character_1_analysis_cleaned.txt
+"mother marguerite de jesus, sister claire, sister marthe",Books/Cyrano_de_Bergerac/character_14_list_cleaned.txt,
+cyrano de bergerac,Books/Cyrano_de_Bergerac/character_0_list_cleaned.txt,Books/Cyrano_de_Bergerac/character_0_analysis_cleaned.txt
+ligniere,Books/Cyrano_de_Bergerac/character_6_list_cleaned.txt,
+ragueneau,Books/Cyrano_de_Bergerac/character_4_list_cleaned.txt,
+lise,Books/Cyrano_de_Bergerac/character_12_list_cleaned.txt,
+carbon de castel-jaloux,Books/Cyrano_de_Bergerac/character_10_list_cleaned.txt,
