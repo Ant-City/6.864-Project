@@ -11,11 +11,14 @@ class SimpleBookMatrix(object):
 	def __init__(self, book, model):
 		self.book = book
 		self.model = model
+
 	def getMainTextVector(self):
 		text = self.book.getMainText()
 		return self.docToVector(text)
 
 	def getCharactersMatrix(self):
+		main_text_vector = self.getMainTextVector()
+
 		characters_dict = self.book.getCharacters()
 		character_vecs = {}
 		for char,list_anal in characters_dict.iteritems():
@@ -24,6 +27,13 @@ class SimpleBookMatrix(object):
 				if text == None:
 					continue
 				inner_dict[key] = self.docToVector(text)
+
+			# this is the vector representation of 
+			# the text relevant to that character
+			# for this simple version we are just using the 
+			# entire main text 
+			inner_dict['relevant_text'] = main_text_vector
+
 			character_vecs[char] = inner_dict
 		return character_vecs
 
@@ -53,6 +63,11 @@ class SimpleBookMatrix(object):
 		return SimpleBookMatrix(book, model)
 
 
-# simple = SimpleBookMatrix.getSimpleVectorizer('1984/','all_embeddings.p')
-# print simple.getMainTextVector()
-# print simple.getCharactersMatrix()
+"""
+Example Usage
+
+
+simple = SimpleBookMatrix.getSimpleVectorizer('1984/','all_embeddings.p')
+print simple.getMainTextVector()
+print simple.getCharactersMatrix()
+"""
