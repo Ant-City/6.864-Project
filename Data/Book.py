@@ -1,7 +1,7 @@
 import os
 import cPickle
 from nltk.tokenize import sent_tokenize, word_tokenize
-import corpusreader
+import Data.corpusreader as corpusreader
 
 class Book(object):
 
