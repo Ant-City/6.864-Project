@@ -1,8 +1,8 @@
-import SimpleVectorizer
 import numpy as np
 import pandas as pd
 import copy
 from sklearn.svm import LinearSVC
+from Models.SimpleVectorizer import SimpleBookMatrix
 
 """
 Given a list of book objects with the vector representation methods implemented returns
@@ -104,10 +104,12 @@ def get_numpy_matricies(pandas_df, correct_character=True):
 
 """
 Example Usage
-"""
-simple = SimpleVectorizer.SimpleBookMatrix.getSimpleVectorizer('1984/','cleaned_embeddings_all_texts.p')
+
+embedding_file = 'cleaned_embeddings_all_texts.p'
+simple = SimpleBookMatrix.getSimpleVectorizer('1984/',embedding_file)
 master_df = build_master_dataframe([simple])
 X, Y = get_numpy_matricies(master_df)
 model = LinearSVC()
 model.fit(X, Y)
 print model.score(X, Y)
+"""
