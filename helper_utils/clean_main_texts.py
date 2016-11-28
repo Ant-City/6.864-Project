@@ -4,7 +4,11 @@ import re
 import codecs
 
 
+"""
+This function cleans the main text files by converting all 
+characters to utf-8 lowercase.
 
+"""
 def clean_main_text(root_dir, write_cleaned_versions=False):
 	for bookfile_name in os.listdir(root_dir):
 		bookfile_dir = os.path.join(root_dir, bookfile_name)
@@ -19,4 +23,7 @@ def clean_main_text(root_dir, write_cleaned_versions=False):
 					write_file.write(cleaned_text)
 				print cleaned_main_text_file
 
+"""
+Example usage
+"""
 clean_main_text('Books/', write_cleaned_versions=True)
