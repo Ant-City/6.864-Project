@@ -9,6 +9,12 @@ Given a list of book objects with the vector representation methods implemented 
 a master pandas dataframe that has all possible training and test examples 
 created from all possible pairs.
 
+There are two labels 
+
+Y_correct_character = 1 if the description matches is of that character 
+
+Y_correct_book = 1 if the description is of a character in that book 
+
 """
 def build_master_dataframe(book_objects):
 	training_data = []
@@ -20,7 +26,9 @@ def build_master_dataframe(book_objects):
 	pandas_data['book_actual'] = []
 	pandas_data['text'] = []
 	pandas_data['description'] = []
-	pandas_data['Y'] = []
+	# two different labels we can use
+	# correct book and correct character
+	pandas_data['Y_correct_character'] = []
 
 	# create the positive examples
 	for book in book_objects:
@@ -38,8 +46,8 @@ def build_master_dataframe(book_objects):
 			pandas_data['text'].append(text_vec)
 			pandas_data['description'].append(desc_vec)
 			pandas_data['book_actual'].append(book.book.getTitle())
-			# correct examples 
-			pandas_data['Y'].append(1)
+			# correct examples for the characters
+			pandas_data['Y_correct_character'].append(1)
 
 	training_df = pd.DataFrame(pandas_data)
 
@@ -56,11 +64,15 @@ def build_master_dataframe(book_objects):
 		shifted['description'] = shifted['description'][i:] + shifted['description'][:i]
 		shifted['book_actual'] = shifted['book_actual'][i:] + shifted['book_actual'][:i]
 
-		# these are all incorrect examples
-		shifted['Y'] = [0 for i in range(len(shifted['Y']))]
+		# these are all incorrect examples for characters
+		shifted['Y_correct_character'] = [0 for i in range(len(shifted['Y_correct_character']))]
 		shifted_data = pd.DataFrame(shifted)
 		# want to auto-increment row indicies
 		training_df = pd.concat([training_df, shifted_data], ignore_index=True)
+
+	# labels for books
+	training_df['Y_correct_book'] = [1 if training_df['book_actual'][i] == training_df['book'][i] else 0 for i in range(training_df.shape[0])]
+
 
 	# create the input vector to the model
 	training_df['X'] = [np.append(training_df['text'][i], training_df['description'][i]) for i in range(training_df.shape[0])]
@@ -74,11 +86,19 @@ Helper function for taking a pandas dataframe and
 getting the scikit learn input numpy matricies format
 
 pandas dataframe -> numpy training matricies
-"""
-def get_numpy_matricies(pandas_df):
-	X = np.matrix(pandas_df['X'].tolist())
-	Y = np.array(pandas_df['Y'].tolist())
 
+If correct_character is True then the labels will be  
+Y_correct_character
+
+otherwise the labels will be 
+Y_correct_book
+"""
+def get_numpy_matricies(pandas_df, correct_character=True):
+	X = np.matrix(pandas_df['X'].tolist())
+	if correct_character:
+		Y = np.array(pandas_df['Y_correct_character'].tolist())
+	else:
+		Y = np.array(pandas_df['Y_correct_book'].tolist())
 	return X, Y
 
 
