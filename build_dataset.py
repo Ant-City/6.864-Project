@@ -1,3 +1,4 @@
+import os
 import numpy as np
 import pandas as pd
 import copy, cPickle
@@ -5,61 +6,89 @@ from sklearn.svm import LinearSVC
 from Models.SimpleVectorizer import SimpleBookMatrix
 
 """
-Given a list of book objects with the vector representation methods implemented returns
-a master pandas dataframe that has all possible training and test examples 
-created from all possible pairs.
-
-There are two labels 
-
-Y_correct_character = 1 if the description matches is of that character 
-
-Y_correct_book = 1 if the description is of a character in that book 
+Given an iterable of book objects with the vector representation methods implemented returns
+a master pandas dataframe that has correct pairings of description and text vectors. From this
+we can generate all possible pairs to get training and test data
 
 """
-def build_master_dataframe(book_objects):
-	training_data = []
+def build_base_dataframe(book_objects, saved_file='basic_model_base.p'):
+	if os.path.isfile(saved_file):
+		print 'loading saved base dataframe...'
+		return cPickle.load(open(saved_file,'rb'))	
+	else:
+		pandas_data = {}
+		pandas_data['text_book'] = []
+		pandas_data['text_char'] = []
+		pandas_data['desc_book'] = []
+		pandas_data['desc_char'] = []
+		pandas_data['text'] = []
+		pandas_data['desc'] = []
 
-	pandas_data = {}
-	pandas_data['book'] = []
-	pandas_data['character_given'] = []
-	pandas_data['character_actual'] = []
-	pandas_data['book_actual'] = []
-	pandas_data['text'] = []
-	pandas_data['description'] = []
-	# two different labels we can use
-	# correct book and correct character
-	pandas_data['Y_correct_character'] = []
+		for book in book_objects:
+			try:
+				characterMatrix = book.getCharactersMatrix()
+				for character, data in characterMatrix.iteritems():
+					# using the list data for now
+					text_vec = data['relevant_text'] 
+					desc_vec = data['list']
+					pandas_data['text_book'].append(book.book.getTitle())
+					pandas_data['text_char'].append(character)
+					pandas_data['text'].append(text_vec)
+					pandas_data['desc_book'].append(book.book.getTitle())
+					pandas_data['desc_char'].append(character)
+					pandas_data['desc'].append(desc_vec)
 
-	# create the positive examples
-	for book in book_objects:
-		try:
-			characterMatrix = book.getCharactersMatrix()
-			for character, data in characterMatrix.iteritems():
-				# using the list data for now
-				text_vec = data['relevant_text'] 
-				desc_vec = data['list']
-				combined_vec = np.concatenate((text_vec, desc_vec))
-				training_data.append(combined_vec)
+				print 'finished '+book.book.getTitle()
+			
+			except Exception as e:
+				print e
 
-				pandas_data['book'].append(book.book.getTitle())
-				pandas_data['character_given'].append(character)
-				pandas_data['character_actual'].append(character)
-				pandas_data['text'].append(text_vec)
-				pandas_data['description'].append(desc_vec)
-				pandas_data['book_actual'].append(book.book.getTitle())
-				# correct examples for the characters
-				pandas_data['Y_correct_character'].append(1)
-			print 'finished positive examples for '+book.book.getTitle()
-		
-		except Exception as e:
-			print e
+		training_df = pd.DataFrame(pandas_data)
 
-	training_df = pd.DataFrame(pandas_data)
+		# save it after th
+		with open(saved_file,'wb') as fp:
+			cPickle.dump(training_df, fp)  
 
-	# save it after th
-	with open('positive_example_df.p','wb') as fp:
-		cPickle.dump(training_df, fp)  
+		return training_df
 
+
+def build_training_dataframe(base_df, number=10):
+	# text | description 
+
+	text_half = base_df.copy()[['text_book', 'text_char', 'text']]
+	desc_half = base_df.copy()[['desc_book', 'desc_char', 'desc']]
+
+	text_half['temp'] = 1
+	desc_half['temp'] = 1
+
+	# gives you the cartesian product (all possible pairings of descriptions and texts)
+	all_pairs = pd.merge(text_half, desc_half)
+	print 'mere completed'
+	# delete the temp column
+	del all_pairs['temp']
+
+	# sample them
+	subset = all_pairs.sample(n=(number/2), random_state=2222)
+
+	all_pairs = base_df
+
+	print 'here'
+	# X
+	all_pairs['X'] = [np.append(all_pairs['text'][i], all_pairs['desc'][i]) for i in range(all_pairs.shape[0])]
+
+	print 'X vectors created'
+
+	# Y
+	all_pairs['Y_correct_book'] = [1 if (all_pairs['text_book'][i] == all_pairs['desc_book'][i]) else 0 for i in range(all_pairs.shape[0])]
+	print 'Y correct book done'
+	all_pairs['Y_correct_character'] = [1 if (all_pairs['text_char'][i] == all_pairs['desc_char'][i]) and (all_pairs['text_book'][i] == all_pairs['desc_book'][i]) else 0 for i in range(all_pairs.shape[0])]
+	print 'Y correct character'
+
+	return all_pairs
+
+
+
+def function():
 	nrows = training_df.shape[0]
 
 	# create all possible negative examples from all possible pairs
