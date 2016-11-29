@@ -48,14 +48,20 @@ def build_master_dataframe(book_objects):
 			pandas_data['book_actual'].append(book.book.getTitle())
 			# correct examples for the characters
 			pandas_data['Y_correct_character'].append(1)
+		print 'finished positive examples for '+book.book.getTitle()
 
 	training_df = pd.DataFrame(pandas_data)
+
+	# save it after th
+	with open('positive_example_df.p','wb') as fp:
+		cPickle.dump(training_df, fp)  
 
 	nrows = training_df.shape[0]
 
 	# create all possible negative examples from all possible pairs
 	for i in range(1, nrows, 1):
-
+		if i % 5 == 0:
+			print 'negative examples '+str(i)+' out of '+str(nrows)
 		# start from the correct matrix
 		shifted = copy.deepcopy(pandas_data)
 
