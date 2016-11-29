@@ -4,6 +4,7 @@ import numpy as np
 from nltk.tokenize import sent_tokenize, word_tokenize
 import gensim
 import Data.Book as Book
+import Data.corpusreader as corpusreader
 
 
 class SimpleBookMatrix(object):

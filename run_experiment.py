@@ -3,17 +3,20 @@ from Data.Book import Book
 from Models.SimpleVectorizer import SimpleBookMatrix
 
 
+def get_book_models(root_dir):
+	books = []
+	for book_dir_name in os.listdir(root_dir):
+		print 'getting book model for '+book_dir_name
+		book_obj = Book.getBook(book_dir_name)
+		books.append(book_obj)
 
-class Experiment(object):
-
-	def __init__(self, root_dir='Books/'):
-		self.root_dir = root_dir
-
-	def __iter__(self):
-		for book_dir_name in os.listdir(self.root_dir):
-			print 'getting base model for '+book_dir_name
-			yield SimpleBookMatrix.getSimpleVectorizer(book_dir_name, 
-				'cleaned_embeddings_all_texts.p')
+def get_base_model(root_dir, embedding_file):
+	books = []
+	for book_dir_name in os.listdir(root_dir):
+		print 'getting base model for '+book_dir_name
+		book_obj = SimpleBookMatrix.getSimpleVectorizer(book_dir_name, embedding_file)
+		books.append(book_obj)
+	return books	
 
 
 #############################
@@ -21,10 +24,13 @@ class Experiment(object):
 #############################
 
 # data
-simple_books = Experiment()
+root_dir = 'Books/'
+saved_file = 'base_model.p'
+embedding_file = 'cleaned_embeddings_all_texts.p'
+books = get_base_model(root_dir, embedding_file)
 
 # training_df
-training_df = build_dataset.build_master_dataframe(simple_books)
+training_df = build_dataset.build_master_dataframe(books)
 with open(saved_file,'wb') as fp:
 	cPickle.dump(training_df, fp)  
 
