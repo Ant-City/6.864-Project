@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-import copy
+import copy, cPickle
 from sklearn.svm import LinearSVC
 from Models.SimpleVectorizer import SimpleBookMatrix
 
