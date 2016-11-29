@@ -32,23 +32,27 @@ def build_master_dataframe(book_objects):
 
 	# create the positive examples
 	for book in book_objects:
-		characterMatrix = book.getCharactersMatrix()
-		for character, data in characterMatrix.iteritems():
-			# using the list data for now
-			text_vec = data['relevant_text'] 
-			desc_vec = data['list']
-			combined_vec = np.concatenate((text_vec, desc_vec))
-			training_data.append(combined_vec)
+		try:
+			characterMatrix = book.getCharactersMatrix()
+			for character, data in characterMatrix.iteritems():
+				# using the list data for now
+				text_vec = data['relevant_text'] 
+				desc_vec = data['list']
+				combined_vec = np.concatenate((text_vec, desc_vec))
+				training_data.append(combined_vec)
 
-			pandas_data['book'].append(book.book.getTitle())
-			pandas_data['character_given'].append(character)
-			pandas_data['character_actual'].append(character)
-			pandas_data['text'].append(text_vec)
-			pandas_data['description'].append(desc_vec)
-			pandas_data['book_actual'].append(book.book.getTitle())
-			# correct examples for the characters
-			pandas_data['Y_correct_character'].append(1)
-		print 'finished positive examples for '+book.book.getTitle()
+				pandas_data['book'].append(book.book.getTitle())
+				pandas_data['character_given'].append(character)
+				pandas_data['character_actual'].append(character)
+				pandas_data['text'].append(text_vec)
+				pandas_data['description'].append(desc_vec)
+				pandas_data['book_actual'].append(book.book.getTitle())
+				# correct examples for the characters
+				pandas_data['Y_correct_character'].append(1)
+			print 'finished positive examples for '+book.book.getTitle()
+		
+		except Exception as e:
+			print e
 
 	training_df = pd.DataFrame(pandas_data)
 

@@ -109,8 +109,13 @@ def generate_cleaned_descriptions(root_dir, write_cleaned_versions=False):
 								print cleaned_analysis
 
 
+
+"""
+Example Usage:
+
+
 # may need to be changed depending on where it is being run
 book_dir = 'Books/'
 generate_cleaned_descriptions(book_dir, write_cleaned_versions=True)
-
+"""
 
