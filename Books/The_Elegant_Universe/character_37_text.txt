@@ -1,0 +1,136 @@
+e things we often associate with scientific undertakings,
+such  as  trying  to  explain  this  or  that  piece  of  experimental  data.  instead,  he  was  driven  by  a
+passionate belief that the deepest understanding of the universe would reveal its truest wonder: the
+simplicity  and  power  of  the  principles  on  which  it  is  based.  einstein  wanted  to  illuminate  the
+workings of the universe with a clarity never before achieved, allowing us all to stand in awe of its
+sheer beauty and elegance.
+
+einstein never realized this dream, in large part because the deck was stacked against him: in his
+day, a number of essential features of matter and the forces of nature were either unknown or, at best,
+poorly understood. but during the past half-century, physicists of each new generation—through fits
+and starts, and diversions down blind alleys—have been building steadily on the discoveries of their
+predecessors  to  piece  together  an  ever  fuller  understanding  of  how  the  univers
+ 
+ ___________________________
+ 
+  be  viewed  as  a  work  in  progress  whose  partial  completion  has
+already revealed astonishing insights into the nature of space, time, and matter. the harmonious union
+of  general  relativity  and  quantum  mechanics  is  a  major  success.  furthermore,  unlike  any  previous
+theory, string theory has the capacity to answer primordial questions having to do with nature's most
+fundamental constituents and forces. of equal importance, although somewhat harder to convey, is the
+remarkable elegance of both the answers and the framework for answers that string theory proposes.
+for instance, in string theory many aspects of nature that might appear to be arbitrary technical details
+—such as the number of distinct fundamental particle ingredients and their respective properties—are
+found to arise from essential and tangible aspects of the geometry of the universe. if string theory is
+right, the microscopic fabric of our universe is a richly intertwined multidimensional labyrinth within
+w
+ 
+ ___________________________
+ 
+ity  some  million  billion  times  that  of  solar  density,  the  larger  gravitational  field
+would cause his clock to tick at about 76 percent of the rate of gracie's. stronger gravitational fields,
+such as those just outside a black hole (as discussed below), cause the flow of time to slow even
+further; stronger gravitational fields cause a more severe warping of time.
+
+experimental verification of general relativity
+
+most people who study general relativity are captivated by its aesthetic elegance. by replacing the
+cold,  mechanistic  newtonian  view  of  space,  time,  and  gravity  with  a  dynamic  and  geometric
+description involving curved spacetime, einstein wove gravity into the basic fabric of the universe.
+rather than being imposed as an additional structure, gravity becomes part and parcel of the universe
+at its most fundamental level. breathing life into space and time by allowing them to curve, warp, and
+ripple results in what we commonly refer to as gravity.
+
+aesthetics  asi
+ 
+ ___________________________
+ 
+ysicists
+from  around  the  world.  these  works  showed  conclusively  that  numerous  features  of  the  standard
+model—features  that  had  been  painstakingly  discovered  over  the  course  of  decades  of  research
+—emerged naturally  and  simply  from  the  grand  structure  of  string  theory. as  michael  green  has
+said, "the moment you encounter string theory and realize that almost all of the major developments
+in physics over the last hundred years emerge—and emerge with such elegance—from such a simple
+starting point, you realize that this incredibly compelling theory is in a class of its own."5 moreover,
+for many of these features, as we shall discuss, string theory offers a far fuller and more satisfying
+explanation than is found in the standard model. these developments convinced many physicists that
+string theory was well on its way to fulfilling its promise of being the ultimate unified theory.
+
+nonetheless, over and over again string theorists encountered a signifi
+ 
+ ___________________________
+ 
+nstein about what he would have thought if eddington's experiment had not found
+the predicted bending of starlight. einstein replied, "then i would have been sorry for the dear lord,
+for the theory is correct."1 of course, had experiments truly failed to confirm einstein's predictions,
+the  theory  would  not  be  correct  and  general  relativity  would  not  have  become  a  pillar  of  modern
+physics. but what einstein meant is that general relativity describes gravity with such a deep inner
+elegance, with such simple yet powerful ideas, that he found it hard to imagine that nature could pass
+it by. general relativity, in einstein's view, was almost too beautiful to be wrong.
+
+aesthetic  judgments  do  not  arbitrate  scientific  discourse,  however.  ultimately,  theories  are
+judged  by  how  they  fare  when  faced  with  cold,  hard,  experimental  facts.  but  this  last  remark  is
+subject to an immensely important qualification. while a theory is being constructed, its incomplete
+sta
+ 
+ ___________________________
+ 
+  avoid  logical  absurdities.  other
+decisions  are  guided  by  a  sense  of  the  qualitative  experimental  implications  of  one  theoretical
+construct  relative  to  another;  we  are  generally  not  interested  in  a  theory  if  it  has  no  capacity  to
+resemble  anything  we  encounter  in  the  world  around  us.  but  it  is  certainly  the  case  that  some
+decisions  made  by  theoretical  physicists  are  founded  upon  an  aesthetic  sense—a  sense  of  which
+theories have an elegance and beauty of structure on par with the world we experience. of course,
+nothing ensures that this strategy leads to truth. maybe, deep down, the universe has a less elegant
+structure than our experiences have led us to believe, or maybe we will find that our current aesthetic
+criteria need significant refining when applied in ever less familiar contexts. nevertheless, especially
+as we enter an era in which our theories describe realms of the universe that are increasingly difficult
+to  probe  e
+ 
+ ___________________________
+ 
+cribe these two properties of physical laws—that they do not depend on when or
+where you use them—as symmetries of nature. by this usage physicists mean that nature treats every
+moment in time and every location in space identically—symmetrically—by ensuring that the same
+
+fundamental  laws  are  in  operation.  much  in  the  same  manner  that  they  affect  art  and  music,  such
+symmetries are deeply satisfying; they highlight an order and a coherence in the workings of nature.
+the elegance of rich, complex, and diverse phenomena emerging from a simple set of universal laws
+is at least part of what physicists mean when they invoke the term "beautiful."
+
+in  our  discussions  of  the  special  and  general  theories  of  relativity,  we  came  upon  yet  other
+symmetries  of  nature.  recall  that  the  principle  of  relativity,  which  lies  at  the  heart  of  special
+relativity, tells us that all physical laws must be the same regardless of the constant-velocity relative
+motion
+ 
+ ___________________________
+ 
+plaints in the 1980s when string theory first made its splash, you would
+have been joined by some of the most respected physicists of our age. for instance, in the mid-1980s
+nobel  prize–winning  harvard  physicist  sheldon  glashow,  together  with  physicist  paul  ginsparg,
+then also at harvard, publicly disparaged string theory's lack of experimental accessibility:
+
+in lieu of the traditional confrontation between theory and experiment, superstring theorists
+pursue an inner harmony, where elegance, uniqueness and beauty define truth. the theory
+depends  for  its  existence  upon  magical  coincidences,  miraculous  cancellations  and
+relations  among  seemingly  unrelated  (and  possibly  undiscovered)  fields  of  mathematics.
+are  these  properties  reasons  to  accept  the  reality  of  superstrings?  do  mathematics  and
+aesthetics supplant and transcend mere experiment?3
+
+elsewhere, glashow went on to say,
+
+superstring theory is so ambitious that it can only be totally right, or tot
+ 
+ ___________________________
+ 
+e on explaining why our universe appears as it does.
+
+this  line  of  argument  is  a  version  of  an  idea  with  a  long  history  known  as  the anthropic
+principle. as presented, it is a perspective that is diametrically opposed to the dream of a rigid, fully
+predictive,  unified  theory  in  which  things  are  the  way  they  are  because  the  universe  could  not  be
+otherwise.  rather  than  being  the  epitome  of  poetic  grace  in  which  everything  fits  together  with
+inflexible elegance, the multiverse and the anthropic principle paint a picture of a wildly excessive
+collection  of  universes  with  an  insatiable  appetite  for  variety.  it  will  be  extremely  hard,  if  not
+impossible, for us ever to know if the multiverse picture is true. even if there are other universes, we
+can imagine that we will never come into contact with any of them. but by vastly increasing the scope
+of "what's out there"—in a manner that dwarfs hubble's realization that the milky way is but o

@@ -1,0 +1,13 @@
+feel a bit lightheaded.
+
+even  more  so  than  with  the  theories  of  relativity,  it  is  hard  to  embrace  quantum  mechanics
+viscerally—to  think  like  a  miniature  person  born  and  raised  in  the  microscopic  realm.  there  is,
+though, one aspect of the theory that can act as a guidepost for your intuition, as it is the hallmark
+feature  that  fundamentally  differentiates  quantum  from  classical  reasoning.  it  is  the uncertainty
+principle, discovered by the german physicist werner heisenberg in 1927.
+
+this principle grows out of an objection that may have occurred to you earlier. we noted that the
+act of determining the slit through which each electron passes (its position) necessarily disturbs its
+subsequent motion (its velocity). but just as we can assure ourselves of someone's presence either by
+gently touching them or by giving them an overzealous slap on the back, why can't we determine the
+electron's position with an "ever gentler" light source in order to have an ever decreas

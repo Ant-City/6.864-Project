@@ -1,0 +1,666 @@
+ when scherk and schwarz proclaimed that string theory should be thought of as a
+quantum theory incorporating the gravitational force, they did so because they had found that strings
+necessarily  have  a  vibrational  pattern  in  their  repertoire  that  is massless  and  has  spin-2—the
+hallmark features of the graviton. where there is a graviton there is also gravity.
+
+loophole in the coleman-mandula result concerning the possible symmetries of nature, mentioned in
+the preceding section.
+
+supersymmetry and superpartners
+
+as we have emphasized, the concept of spin, although superficially akin to the image of a spinning
+top, differs in substantial ways that are rooted in quantum mechanics. its discovery in 1925 revealed
+that  there  is  another  kind  of  rotational  motion  that  simply  would  not  exist  in  a  purely  classical
+universe.
+
+this suggests the following question: just as ordinary rotational motion allows for the symmetry
+principle of rotational invariance ("physics treats all s
+ 
+ ___________________________
+ 
+patial orientations on an equal footing"), could
+it be that the more subtle rotational motion associated with spin leads to another possible symmetry of
+the  laws  of  nature?  by  1971  or  so,  physicists  showed  that  the  answer  to  this  question  was  yes.
+although  the  full  story  is  quite  involved,  the  basic  idea  is  that  when  spin  is  considered,  there  is
+precisely one more symmetry of the laws of nature that is mathematically possible. it is known as
+supersymmetry.3
+
+supersymmetry cannot be associated with a simple and intuitive change in observational vantage
+point; shifts in time, in spatial location, in angular orientation, and in velocity of motion exhaust these
+possibilities.  but  just  as  spin  is  "like  rotational  motion,  with  a  quantum-mechanical  twist,"
+supersymmetry  can  be  associated  with  a  change  in  observational  vantage  point  in  a  "quantum-
+mechanical extension of space and time." these quotes are especially important, as the last sentenc
+ 
+ ___________________________
+ 
+e
+is  only  meant  to  give  a  rough  sense  of  where  supersymmetry  fits  into  the  larger  framework  of
+symmetry  principles.4  nevertheless,  although  understanding  the  origin  of  supersymmetry  is  rather
+subtle, we will focus on one of its primary implications—should the laws of nature incorporate its
+principles—and this is far easier to grasp.
+
+in  the  early  1970s,  physicists  realized  that  if  the  universe  is  supersymmetric,  the  particles  of
+nature  must  come  in pairs  whose  respective  spins  differ  by  half  a  unit.  such  pairs  of  particles—
+regardless of whether they are thought of as pointlike (as in the standard model) or as tiny vibrating
+loops—are
+ 
+ ___________________________
+ 
+ called superpartners. since matter particles have spin-1/2 while some of the messenger
+particles  have  spin-1,  supersymmetry  appears  to  result  in  a  pairing—a  partnering—of  matter  and
+force  particles.  as  such,  it  seems  like  a  wonderful  unifying  concept.  the  problem  comes  in  the
+details.
+
+by the mid-1970s, when physicists sought to incorporate supersymmetry into the standard model,
+they found that none of the known particles—those of tables 1.1 and 1.2—could be superpartners of
+one  another.  instead,  detailed  theoretical  analysis  showed  that  if  the  universe  incorporates
+supersymmetry, then every known particle must have an as-yet-undiscovered superpartner particle,
+whose  spin  is  half  a  unit  less  than  its  known  counterpart.  for  instance,  there  should  be  a  spin-0
+partner  of  the  electron;  this  hypothetical  particl
+ 
+ ___________________________
+ 
+been  named  the selectron  (a  contraction  of
+supersymmetric-electron).  the  same  should  also  be  true  for  the  other  matter  particles,  with,  for
+example, the hypothetical spin-0 superpartners of neutrinos and quarks being called sneutrinos and
+squarks. similarly, the force particles should have spin-1/2 superpartners: for photons there should
+be photinos, for the gluons there should be gluinos, for the w and z bosons there should be winos and
+zinos.
+
+on  closer  inspection,  then,  supersymmetry  seems  to  be  a  terribly  uneconomical  feature;  it
+
+requires  a  whole  slew  of  additional  particles  that  wind  up  doubling  the  list  of  fundamental
+ingredients. since none of the superpartner particles has ever been detected, you would be justified to
+take rabi's remark from chapter 1 regarding the discovery of the muon one step further, declare that
+"nobody ordered supersymmetry," and summarily reject this symmetry principle. for three reasons,
+however,  many  physicists  belie
+ 
+ ___________________________
+ 
+ve  strongly  that  such  an  out-of-hand  dismissal  of  supersymmetry
+would be quite premature. let's discuss these reasons.
+
+the case for supersymmetry: prior to string theory
+
+first, from an aesthetic standpoint, physicists find it hard to believe that nature would respect almost,
+but not quite all of the symmetries that are mathematically possible. of course, it is possible that an
+incomplete utilization of symmetry is what actually occurs, but it would be such a shame. it would be
+as if bach, after developing numerous intertwining voices to fill out an ingenious pattern of musical
+symmetry, left out the final, resolving measure.
+
+second, ev
+ 
+ ___________________________
+ 
+he launch angle of a bullet fired from an enormously
+powerful rifle, so that it hits a specified target on the moon with a margin of error no greater than the
+thickness  of  an  amoeba.  although  numerical  adjustments  of  an  analogous  precision  can  be  made
+within  the  standard  model,  many  physicists  are  quite  suspect  of  a  theory  that  is  so  delicately
+constructed that it falls apart if a number on which it depends is changed in the fifteenth digit after the
+decimal point.5
+
+supersymmetry  changes  this  drastically  because bosons—particles  whose  spin  is  a  whole
+number (named after the indian physicist satyendra bose)—and fermions—particles whose spin is
+half  of  a  whole  (odd)  number  (named  after  the  italian  physicist  enrico  fermi)—tend  to  give
+cancelling  quantum-mechanical  contributions.  like  opposite  ends  of  a  seesaw,  when  the  quantum
+jitters  of  a  boson  are  positive,  those  of  a  fermion  tend  to  be  negative,  and  vice  versa.  
+ 
+ ___________________________
+ 
+since
+supersymmetry ensures that bosons and fermions occur in pairs, substantial cancellations occur from
+the outset—cancellations that significantly calm some of the frenzied quantum effects. it turns out that
+the consistency of the supersymmetric standard model—the standard model augmented by all of the
+superpartner particles—no longer relies upon the uncomfortably delicate numerical adjustments of the
+ordinary standard model. although this is a highly technical issue, many particle physicists find that
+th
+ 
+ ___________________________
+ 
+is realization makes supersymmetry very attractive.
+
+the third piece of circumstantial evidence for supersymmetry comes from the notion of grand
+unification. one of the puzzling features of nature's four forces is the huge range in their intrinsic
+strengths. the electromagnetic force has less than 1 percent of the strength of the strong force, the
+weak  force  is  some  thousand  times  feebler  than  that,  and  the  gravitational  force  is  some  hundred
+million billion billion billion (10-35) times weaker still. following the pathbreaking and ultimately
+nobel  prize–winning  work  of  glashow,  salam
+ 
+ ___________________________
+ 
+gnitude less than the planck mass. georgi and glashow boldly took theoretical physics
+into  an  energy  realm  many  orders  of  magnitude  beyond  that  which  anyone  had  previously  dared
+explore.
+
+subsequent work at harvard by georgi, helen quinn, and weinberg in 1974 made the potential
+unity of the nongravitational forces within the grand unified framework even more manifest. as their
+contribution continues to play an important role in unifying the forces and in assessing the relevance
+of supersymmetry to the natural world, let's spend a moment explaining it.
+
+we are all aware that the electrical attraction between two oppositely charged particles or the
+gravitational attraction between two massive bodies gets stronger as the distance between the objects
+decreases.  these  are  simple  and  well-known  features  of  classical  physics.  there  is  a  surprise,
+though, when we study the effect that quantum physics has on force strengths. why should quantum
+mechanics  have  any  effect  at  all
+ 
+ ___________________________
+ 
+n, wim de boer and
+hermann  fürstenau  of  the  university  of  karlsruhe,  germany,  recalculated  the  georgi,  quinn,  and
+weinberg extrapolations making use of these experimental refinements and showed two significant
+things.  first,  the  strengths  of  the  three  nongravitational  forces almost  agree,  but  not  quite  at  tiny
+distance scales (equivalently, high energy/high temperature) as shown in figure 7.2. second, this tiny
+but undeniable discrepancy in their strengths vanishes if supersymmetry is incorporated. the reason
+is  that  the  new  superpartner  particles  required  by  supersymmetry  contribute  additional  quantum
+fluctuations, and these fluctuations are just right to nudge the strengths of the forces to converge with
+one another.
+
+figure 7.1 the strengths of the three nongravitational forces as they operate on ever shorter distance
+scales—equivalently, as they act on ever higher energy processes.
+
+to many physicists, it is extremely difficult to believe that nature woul
+ 
+ ___________________________
+ 
+d choose the forces so
+that  they almost, but not quite, have strengths that microscopically unify—microscopically become
+equal.  it's  like  putting  together  a  jigsaw  puzzle  in  which  the  final  piece  is  slightly  misshapen  and
+
+won't cleanly fit into its appointed position. supersymmetry deftly refines its shape so that all pieces
+firmly lock into place.
+
+figure 7.2 a refinement of the calculation of force strengths reveals that without supersymmetry they
+almost, but not quite, meet.
+
+another aspect of this latter realization is that it provides a possible answer to the question, why
+haven't  we  discovered  any  of  the  superpartner  particles?  the  calculations  that  lead  to  the
+convergence of the force strengths, as well as other considerations studied by a number of physicists,
+indicate  that  the  superpartner  particles  must  be  a  good  deal  heavier  than  the  known  particles.
+although no definitive predictions can be made,
+ 
+ ___________________________
+ 
+ studies show that the superpartner particles might be
+a  thousand  times  as  massive  as  a  proton,  if  not  heavier. as  even  our  state-of-the-art  accelerators
+cannot quite reach such energies, this provides an explanation for why these particles have not, as yet,
+been  discovered.  in  chapter  9,  we  will  return  to  a  discussion  of  the  experimental  prospects  for
+determining in the near future whether supersymmetry truly is a property of our world.
+
+of  course,  the  reasons  we  have  given  for  believing  in—or  at  least  not  yet  rejecting—
+supersymmetry are far from airtight. we have described how supersymmetry elevates our theories to
+their most symmetric form—but you might suggest that the universe does not care about attaining the
+most symmetric form that is mathematically possible. we have noted the important technical point that
+supersymmetry  relieves  us  from  the  delicate  task  of 
+ 
+ ___________________________
+ 
+ tuning  numerical  parameters  in  the  standard
+model to avoid subtle quantum problems—but you might argue that the true theory describing nature
+may very well walk the fine edge between self-consistency and self-destruction. we have discussed
+how  supersymmetry  modifies  the  intrinsic  strengths  of  the  three  nongravitational  forces  at  tiny
+distances in just the right way for them to merge together into a grand unified force—but you might
+argue, again, that nothing in the design of nature dictates that these force strengths must exactly match
+on  microscopic  scales.  and  finally,  you  might  suggest  that  a  simpler  explanation  for  why  the
+superpartner  particles  have  never  been  found  is  that  our  universe  is  not  supersymme
+ 
+ ___________________________
+ 
+tric  and,
+therefore, the superpartners do not exist.
+
+no  one  can  refute  any  of  these  responses.  but  the  case  for  supersymmetry  is  strengthened
+
+immensely when we consider its role in string theory.
+
+supersymmetry in string theory
+
+the original string theory that emerged from veneziano's work in the late 1960s incorporated all of
+the symmetries discussed at the beginning of this chapter, but it did not incorporate supersymmetry
+(which  had  not  yet  been  discovered).  this  first  theory  based  on  the  string  concept  was,  more
+precisely,  called  the bosonic string theory.  the  name bosonic  indicates  that  all  of  the  vibrational
+patterns of the bosonic string have spins that are a whole number—there are no fermionic patterns,
+that is, no patterns with spins differing from a whole number by a half unit. this led to two problems.
+first,  if  string  theory  was  to  describe  all  forces  and  all  matter
+ 
+ ___________________________
+ 
+ subsequent
+results of schwarz and andre neveu, a new version of string theory began to emerge. and much to
+everyone's surprise, the bosonic and the fermionic patterns of vibration of this new theory appeared
+to come in pairs. for each bosonic pattern there was a fermionic pattern, and vice versa. by 1977,
+insights  of  ferdinando  gliozzi  of  the  university  of  turin,  scherk,  and  david  olive  of  imperial
+college put this pairing into the proper light. the new string theory incorporated supersymmetry, and
+the  observed  pairing  of  bosonic  and  fermionic  vibrational  patterns  reflected  this  highly  symmetric
+character. supersymmetric string theory—superstring theory, that is—had been born. moreover, the
+work of gliozzi, scherk, and olive had one other crucial result: they showed that the troublesome
+tachyon vibration of the bosonic string does not afflict the superstring. slowly, the pieces of the string
+puzzle were falling into place.
+
+nevertheless, the major initial impact of th
+ 
+ ___________________________
+ 
+e work of ramond, and also of neveu and schwarz,
+was not actually in string theory. by 1973, the physicists julius wess and bruno zumino realized that
+supersymmetry—the new symmetry emerging from the reformulation of string theory—was applicable
+even to theories based on point particles. they rapidly made important strides toward incorporating
+supersymmetry  into  the  framework  of  point-particle  quantum  field  theory. and  since,  at  the  time,
+quantum field theory was the central rage of the mainstream particle-physics community—with string
+theory increasingly becoming a subject on the fringe—the insights of wess and zumino launched a
+tremendous amount of subsequent research on what has come to be called supersymmetric quantum
+field theory. the supersymmetric standard model, discussed in the preceding section, is one of the
+crowning the
+ 
+ ___________________________
+ 
+oretical achievements of these pursuits; we now see that, through historical twists and
+turns, even this point-particle theory owes a great debt to string theory.
+
+with the resurgence of superstring theory in the mid-1980s, supersymmetry has re-emerged in the
+context  of  its  original  discovery.  and  in  this  framework,  the  case  for  supersymmetry  goes  well
+beyond that presented in the preceding section. string theory is the only way we know of to merge
+general relativity and quantum mechanics. but it's only the supersymmetric version of string theory
+that  avoids  the  pernicious  tachyon  problem  and  that  has  fermionic  vibrational  patterns  that  can
+account  for  the  matter  particles  constituting  the  world  around  us.  supersymmetry  therefore  comes
+
+hand-in-hand with string theory's proposal for a quantum theory of gr
+ 
+ ___________________________
+ 
+avity, as well as with its grand
+claim  of  uniting  all  forces  and  all  of  matter.  if  string  theory  is  right,  physicists  expect  that  so  is
+supersymmetry.
+
+until  the  mid-1990s,  however,  one  particularly  troublesome  aspect  plagued  supersymmetric
+
+string theory.
+
+a super-embarrassment of riches
+
+if someone tells you that they have solved the mystery of amelia earhart's fate, you might be skeptical
+at first, but if they have a well-documented, thoroughly pondered explanation, you would probably
+hear them out and, who knows, you might even be convinced. but what if, in the next breath, they tell
+you that they actually have a second explanat
+ 
+ ___________________________
+ 
+nation—each
+different  from  the  others  and  yet  equally  convincing.  no  doubt,  by  the  end  of  the  experience  you
+would  feel  no  closer  to  amelia  earhart's  true  fate  than  you  did  at  the  outset.  in  the  arena  of
+fundamental explanations, more is definitely less.
+
+by  1985,  string  theory—notwithstanding  the  justified  excitement  it  was  engendering—was
+starting to sound like our overzealous earhart expert. the reason is that by 1985 physicists realized
+that  supersymmetry,  by  then  a  central  element  in  the  structure  of  string  theory,  could  actually  be
+incorporated into string theory in not one but five different ways. each method results in a pairing of
+bosonic and fermionic vibrational patterns, but the details of this pairing as well as numerous other
+properties of the resulting theories differ substantially. although their names are not all that important,
+it's worth recording that these five supersymmetric string theories are called the type i t
+ 
+ ___________________________
+ 
+trum  of  exotic  shapes.  the  essential
+requirement,  again,  is  that  all  of  these  dimensions  have  a  spatial  extent  smaller  than  the  smallest
+length scales we can probe, since no experiment has yet revealed their existence.
+
+figure 8.7 two extra dimensions curled up into the shape of a sphere.
+
+figure 8.8 two extra dimensions curled up in the shape of a hollow doughnut, or torus.
+
+the  most  promising  of  the  higher-dimensional  proposals  were  those  that  also  incorporated
+supersymmetry. physicists hoped that the partial cancelling of the most severe quantum fluctuations,
+arising from the pairing of superpartner particles, would help to soften the hostilities between gravity
+and  quantum  mechanics.  they  coined  the  name higher-dimensional supergravity  to  describe  those
+theories encompassing gravity, extra dimensions, and supersymmetry.
+
+as  had  been  the  case  with  kaluza's  original  attempt,  various  versions  of  higher-dimensional
+supergravity looked quite promi
+ 
+ ___________________________
+ 
+sing at first. the new equations resulting from the extra dimensions
+were strikingly reminiscent of those used in the description of electromagnetism, and the strong and
+the weak forces. but detailed scrutiny showed that the old conundrums persisted. most importantly,
+the pernicious short-distance quantum undulations of space were lessened by supersymmetry, but not
+sufficiently  to  yield  a  sensible  theory.  physicists  also  found  it  difficult  to  find  a  single,  sensible,
+higher-dimensional theory incorporating all features of forces and matter.7
+
+it  gradually  became  clear  that  bits  and  pieces  of  a  unified  theory  were  surfacing,  but  that  a
+crucial element capable of tying them all together in a quantum-mechanically consistent manner was
+missing. in 1984 this missing piece—string theory—dramatically entered the story 
+ 
+ ___________________________
+ 
+ecific, aspects of a universe consisting of strings. generic in this
+context refers to characteristics that are so fundamental to string theory that they are fairly insensitive
+to, if not completely independent of, those detailed properties of the theory that are now beyond our
+theoretical purview. such characteristics can be discussed with confidence, even with an incomplete
+understanding of the full theory. in subsequent chapters we shall return to other examples, but for now
+we focus on one: supersymmetry.
+
+as  we  have  discussed,  a  fundamental  property  of  string  theory  is  that  it  is  highly  symmetric,
+incorporating  not  only  intuitive  symmetry  principles  but  respecting,  as  well,  the  maximal
+mathematical extension of these principles, supersymmetry. this means, as discussed in chapter 7,
+that patterns of string vibrations come in pairs—superpartner pairs—differing from each other by a
+half unit of spin. if string theory is right, then some of the string vibrations will 
+ 
+ ___________________________
+ 
+and that string theory is wrong. but many particle physicists feel that it means
+that  the  superpartners  are  very  heavy  and  are  thus  beyond  our  current  capacity  to  observe
+
+experimentally.  physicists  are  now  constructing  a  mammoth  accelerator  in  geneva,  switzerland,
+called the large hadron collider. hopes run high that this machine will be powerful enough to find
+the superpartner particles. the accelerator should be ready for operation before 2010, and shortly
+thereafter supersymmetry may be confirmed experimentally. as schwarz has said, "supersymmetry
+ought to be discovered before too long. and when that happens, it's going to be dramatic."17
+
+you should bear in mind two things, though. even if superpartner particles are found, this fact
+alone will not establish that string theory is correct. as we have seen, although supersymmetry was
+discovered by studying string theory, it has also been successfully incorporated into point-particle
+theories and is therefore not unique to
+ 
+ ___________________________
+ 
+ determine the possible mass and force charges, they require
+a  total  of  10  spacetime  dimensions,  their  curled-up  dimensions  must  be  in  one  of  the  calabi-yau
+shapes,  etc.—and  for  this  reason  we  have  not  emphasized  their  differences  in  previous  chapters.
+nevertheless,  analyses  in  the  1980s  showed  that  they  do  differ.  you  can  read  more  about  their
+properties  in  the  endnotes,  but  it's  enough  to  know  that  they  differ  in  how  they  incorporate
+supersymmetry as well as in significant details of the vibrational patterns they support.2 (type i string
+theory, for example, has open strings with two loose ends in addition to the closed loops we have
+focused on.) this has been an embarrassment for string theorists because although it's impressive to
+have a serious proposal for the final unified theory, having five proposals takes significant wind from
+the sails of each.
+
+the  second  deviation  from  inevitability  is  more  subtle.  to  fully  appreciat
+ 
+ ___________________________
+ 
+roach. we
+could  learn  about  fundamental  physics  in  the  andromeda  galaxy  by  going  there,  finding  a  planet
+around some star, building accelerators, and performing the kinds of experiments carried out on earth.
+
+but the indirect approach of invoking symmetry under changes of locale is far easier. we could also
+learn about features on the left side of the perpetrator's face by tracking him down and examining it.
+but it is often far easier to invoke the left-right symmetry of faces.7
+
+supersymmetry  is  a  more  abstract  symmetry  principle  that  relates  physical  properties  of
+elementary  constituents  that  carry  different  amounts  of  spin.  at  best  there  are  only  hints  from
+experimental  results  that  the  microworld  incorporates  this  symmetry,  but,  for  reasons  discussed
+earlier, there is a strong belief that it does. it is certainly an integral part of string theory. in the 1990s,
+led by the pioneering work of nathan seiberg of the institute for advanced study, ph
+ 
+ ___________________________
+ 
+ysicists have
+realized that supersymmetry provides a sharp and incisive tool that can answer some very difficult
+and important questions by indirect means.
+
+even without understanding intricate details of a theory, the fact that it has supersymmetry built
+in allows us to place significant constraints on the properties it can have. using a linguistic analogy,
+imagine  that  we  are  told  that  a  sequence  of  letters  has  been  written  on  a  slip  of  paper,  that  the
+sequence  has  exactly  three  occurrences,  say,  of  the  letter  "y,"  and  that  the  paper  has  been  hidden
+within a sealed envelope. if we are given no further information, then there is no way that we can
+guess the sequence—for all we know it might be a random
+ 
+ ___________________________
+ 
+ters with three y's like
+mvcfojziyxidqfqzyycdi or any one of the infinitely many other possibilities. but imagine that we are
+subsequently given two further clues: the hidden sequence of letters spells out an english word and it
+has the minimum number of letters consistent with the first clue of having three y's. from the infinite
+number  of  letter  sequences  at  the  outset,  these  clues  reduce  the  possibilities  to one  word—to  the
+shortest english word containing three y's: syzygy.
+
+supersymmetry  supplies  similar  constraining  clues  for  those  theories  that  incorporate  its
+symmetry  principles.  to  get  a  feel  for  this,  imagine  that  we  are  presented  with  a  physics  puzzle
+analogous to the linguistic puzzle just described. hidden inside a box there is something—its identity
+is left unspecified—that has a certain force charge. the charge might be electric, magnetic, or any of
+the  other  generalizations,  but  to  be  concrete  let's  say  it  has  three  units  of
+ 
+ ___________________________
+ 
+ss.
+but let's now imagine that, as in the case of the linguistic puzzle, we are given two further clues:
+the  theory  describing  the  world—and  hence  the  contents  of  the  box—is  supersymmetric,  and  the
+contents of the box has the minimum mass consistent with the first clue of having three units of charge.
+based on the insights of e. bogomol'nyi, manoj prasad, and charles sommerfield, physicists have
+shown that this specification of a tight organizational framework (the framework of supersymmetry,
+the analog of the english language) and a "minimality constraint" (minimum mass for a chosen amount
+of electric charge, the analog of a minimum word length for a chosen number of y's) implies that the
+identity of the hidden contents is nailed down uniquely. that is, merely by ensuring that the contents
+of the box is the lightest it could possibly be and still have the specified charge, physicists showed
+that its identity is fully established. constituents of minimum mass for a chosen value of 
+ 
+ ___________________________
+ 
+oximate  equations  currently
+available  makes  this  impossible.  for  this  reason,  physicists  aim  to  study  each  of  the  five  string
+theories  for  a  range  of  possible  values  of  their  respective  coupling  constants,  both  less  than  and
+greater  than  1—i.e.,  both  weak  and  strong  coupling.  but  traditional  perturbative  methods  give  no
+
+insight into the strong coupling characteristics of any of the string theories.
+
+recently,  by  making  use  of  the  power  of  supersymmetry,  physicists  have  learned  how  to
+calculate some of the strong coupling properties of a given string theory. and to the surprise of most
+everyone in the field, the strong coupling properties of the heterotic-o string appear to be identical to
+the  weak  coupling  properties  of  the  type  i  string,  and  vice  versa.  moreover,  the  strong  coupling
+physics of the type iib string is identical to its own properties when its coupling is weak. these
+unexpected links encourage us to follow wi
+ 
+ ___________________________
+ 
+article  quantum  field  theory.  the  hope  was  that  the  inconsistencies  between
+point-particle  theories  involving  gravity  and  quantum  mechanics  would  be  overcome  by  studying
+theories with a great deal of symmetry. in 1976 stanley deser and bruno zumino working at cern,
+and independantly, daniel freedman, sergio ferrara, and peter van nieuwenhuizen, all then of the
+state  university  of  new  york  at  stony  brook,  discovered  that  the  most  promising  were  those
+involving  supersymmetry,  since  the  tendency  of  bosons  and  fermions  to  give  cancelling  quantum
+fluctuations helps to calm the violent microscopic frenzy. the authors coined the term supergravity to
+describe  supersymmetric  quantum  field  theories  that  try  to  incorporate  general  relativity.  such
+attempts  to  merge  general  relativity  with  quantum  mechanics  ultimately  met  with  failure.
+nevertheless,  as  mentioned  in  chapter  8,  there  was  a  prescient  lesson  to  be  learned  from  thes
+ 
+ ___________________________
+ 
+al  properties  of  ten-dimensional  supergravity
+discovered  in  the  1970s  and  1980s  are  now  understood  to  be  low-energy  relics  of  the  underlying
+power of string theory. researchers studying ten-dimensional supergravity had uncovered the tip of a
+very  deep  iceberg—the  rich  structure  of  superstring  theory.  in  fact,  it  turns  out  that  there  are  four
+different  ten-dimensional  supergravity  theories  that  differ  in  details  regarding  the  precise  way  in
+which  supersymmetry  is  incorporated.  three  of  these  turn  out  to  be  the  low-energy  point-particle
+approximations to the type iia string, the type iib string, and the heterotic-e string. the fourth gives
+the the low-energy point-particle approximation to both the type i string and the heterotic-o string;
+in retrospect, this was the first indication of the close connection between these two string theories.
+
+this is a very tidy story except that eleven-dimensional supergravity seems to have been left out
+
+ 
+ ___________________________
+ 
+ string theory? and second, having made the bold leap in the 1970s and early 1980s from zero-
+dimensional  point  particles  to  one-dimensional  strings,  and  having  now  seen  that  string  theory
+actually  involves  two-dimensional  membranes,  might  it  be  that  there  are  even  higher-dimensional
+ingredients  in  the  theory  as  well? as  of  this  writing,  the  answers  to  these  questions  are  not  fully
+known, but the situation appears to be the following.
+
+we relied heavily on supersymmetry to give us some understanding of each formulation of string
+theory  beyond  the  domain  of  validity  of  perturbative  approximation  methods.  in  particular,  the
+properties  of  bps  states,  their  masses  and  their  force  charges,  are  uniquely  determined  by
+supersymmetry,  and  this  allowed  us  to  understand  some  of  their  strongly  coupled  characteristics
+without having to perform direct calculations of unimaginable difficulty. in fact, through the initial
+efforts of horowi
+ 
+ ___________________________
+ 
+ng sail from any one of the five string constructions. although we are far from a
+full understanding of the terra incognita of m-theory, there are no blank regions on the map. like the
+cartographer, the string theorist can now claim with guarded optimism that the spectrum of logically
+sound  theories  incorporating  the  essential  discoveries  of  the  past  century—special  and  general
+relativity;  quantum  mechanics;  gauge  theories  of  the  strong,  weak,  and  electromagnetic  forces;
+supersymmetry; extra dimensions of kaluza and klein—is fully mapped out by figure 12.11.
+
+the challenge to the string theorist—or perhaps we should say the m-theorist—is to show that
+
+some point on the theory map of figure 12.11 actually describes our universe. to do this requires
+finding the full and exact equations whose solution will pick out this elusive point on the map, and
+then  understanding  the  corresponding  physics  with  sufficient  precision  to  allow  comparisons  with
+experiment. as 
+ 
+ ___________________________
+ 
+nts  equally;  this  is
+accomplished through the equivalence principle and the introduction of gravity into the structure of
+the cosmos. although it requires some mathematical background to appreciate fully, as we indicated
+in  chapter  5,  there  is  a  similar  rationale  behind  the  gauge  symmetries  underlying  the  three
+nongravitational forces.
+
+string theory takes us down another notch on the scale of explanatory depth because all of these
+symmetry  principles,  as  well  as  another—supersymmetry—emerge  from  its  structure.  in  fact,  had
+history followed a different course—and had physicists come upon string theory some hundred years
+earlier—we can imagine that these symmetry principles would have all been discovered by studying
+its properties. but bear in mind that whereas the equivalence principle gives us some understanding
+of why gravity exists, and the gauge symmetries give us some sense of why the nongravitational forces
+exist, in the context of string theory these symme
+ 
+ ___________________________
+ 
+erse works and therefore any purported unified theory
+must incorporate both. string theory accomplishes this. second, studies by physicists over the past
+century  have  revealed  that  there  are  other  key  ideas—many  of  which  have  been  experimentally
+confirmed—that appear central to our understanding of the universe. these include the concepts of
+spin, the family structure of matter particles, messenger particles, gauge symmetry, the equivalence
+principle,  symmetry  breaking,  and  supersymmetry,  to  name  a  few.  all  of  these  concepts  emerge
+naturally  from  string  theory.  third,  unlike  more  conventional  theories  such  as  the  standard  model,
+which  has  19  free  parameters  that  can  be  adjusted  to  ensure  agreement  with  experimental
+measurements,  string  theory  has  no  adjustable  parameters.  in  principle,  its  implications  should  be
+thoroughly  definitive—they  should  provide  an  unambiguous  test  of  whether  the  theory  is  right  or
+wrong.
+
+th
+ 
+ ___________________________
+ 
+ngenuity.
+
+at every step of the way, string theorists have sought and will continue to seek experimentally
+observable  consequences  of  the  theory.  we  must  not  lose  sight  of  the  long-shot  possibilities  for
+finding evidence of string theory discussed in chapter 9. furthermore, as our understanding deepens
+there will, no doubt, be other rare processes or features of string theory that will suggest yet other
+indirect experimental signatures.
+
+but  most  notably,  the  confirmation  of  supersymmetry,  through  the  discovery  of  superpartner
+particles  as  discussed  in  chapter  9,  would  be  a  major  milestone  for  string  theory.  we  recall  that
+supersymmetry was discovered in the course of theoretical investigations of string theory, and that it
+is  a  central  part  of  the  theory.  its  experimental  confirmation  would  be  a  compelling,  albeit
+circumstantial,  piece  of  evidence  for  strings.  moreover,  finding  the  superpartner  particles  would
+provide a welcome chal
+ 
+ ___________________________
+ 
+lenge, since the discovery of supersymmetry would do far more than merely
+answer the yes-no question of its relevance to our world. the masses and charges of the superpartner
+particles  would  reveal  the  detailed  way  in  which  supersymmetry  is  incorporated  into  the  laws  of
+nature. string theorists would then face the challenge of seeing whether this implementation can be
+
+fully realized or explained by string theory. of course, we can be even more optimistic and hope that
+within  the  next  decade—before  the  large  hadron  collider  in  geneva  comes  on-line—the
+understanding  of  string  theory  will  have  progressed  sufficiently  for  detailed  predictions  about  the
+superpartners to be made prior to their hoped
+ 
+ ___________________________
+ 
+of  the  other  possible  trajectories  and  therefore  applies  to  the  whole  quantum-
+mechanical process itself. (feynman's formulation of point-particle quantum mechanics in the sum-
+over-paths framework was generalized to string theory through the work of stanley mandelstam of the
+university of california at berkeley and by the russian physicist alexander polyakov, who is now on
+the faculty of the physics department of princeton university.)
+
+chapter 7
+
+3. the discovery and development of supersymmetry has a complicated history. in addition to
+those  cited  in  the  text,  essential  early  contributions  were  made  by  r.  haag,  m.  sohnius,  j.  t.
+lopuszanski, y. a. gol'fand, e. p. lichtman, j. l. gervais, b. sakita, v. p. akulov, d. v. volkov,
+and v. a. soroka, among many others. some of their work is documented in rosanne di stefano,
+notes  on  the  conceptual  development  of  supersymmetry,  institute  for  theoretical  physics,  state
+university of new york at stony brook, preprint 
+ 
+ ___________________________
+ 
+itp-sb-8878.
+
+4. for the mathematically inclined reader we note that this extension involves augmenting the
+familiar  cartesian  coordinates  of  spacetime  with  new  quantum  coordinates,  say u  and v,  that  are
+anticommuting: u × v =-v × u. supersymmetry can then be thought of as translations in this quantum-
+mechanically augmented form of spacetime.
+
+5. for the reader interested in more details of this technical issue we note the following. in note
+6 of chapter 6 we mentioned that the standard model invokes a "mass-giving particle"—the higgs
+boson—to endow the particles of tables 1.1 and 1.2 with their observed masses. for this procedure
+to work, the higgs particle itself cannot be too heavy; studies show that its mass should certainly be
+
+ 
+ ___________________________
+ 
+entical,  while  in  the  former,  they  are  exactly  opposite  in  form. opposite  has  a
+precise mathematical meaning in this context, but it's easiest to think about in terms of the spins of the
+resulting vibrational patterns in each theory. in the type iib theory, it turns out that all particles spin
+in the same direction (they have the same chirality), whereas in the type iia theory, they spin in both
+directions  (they  have  both  chiralities).  nevertheless,  each  theory  incorporates  supersymmetry.  the
+two  heterotic  theories  differ  in  a  similar  but  more  dramatic  way.  each  of  their  clockwise  string
+vibrations looks like those of the type ii string (when focusing on just the clockwise vibrations, the
+type iia and type iib theories are the same), but their counterclockwise vibrations are those of the
+original bosonic string theory. although the bosonic string has insurmountable problems when chosen
+for  both  clockwise  and  counterclockwise  string  vibrations,  in  1985  d
+ 
+ ___________________________
+ 
+g to make sense of this
+perplexing union, gross and his collaborators showed that the extra 16 dimensions on the bosonic
+side must be curled up into one of two very special higher-dimensional doughnutlike shapes, giving
+
+rise to the heterotic-o and heterotic-e theories. since the extra 16 dimensions on the bosonic side
+are rigidly curled up, each of these theories behaves as though it really has 10 dimensions, just as in
+the type ii case. again, both heterotic theories incorporate a version of supersymmetry. finally, the
+type i theory is a close cousin of the type iib string except that, in addition to the closed loops of
+string we have discussed in previous chapters, it also has strings with unconnected ends—so-called
+open strings.
+
+3. when we speak of "exact" answers in this chapter, such as the "exact" motion of the earth,
+what  we  really  mean  is  the  exact  prediction  for  some  physical  quantity within  some  chosen
+theoretical framework. until we truly have the final theory—perhaps
+ 
+ ___________________________
+ 
+being a calabi-yau manifold. this is why calabi-yau spaces play such a prominent role in
+string theory.
+
+7.  of  course,  nothing  absolutely  ensures  that  these  indirect  approaches  are  justified.  for
+example,  just  as  some  faces  are  not  left-right  symmetric,  it might  be  that  the  laws  of  physics  are
+different in other far-flung regions of the universe, as we will discuss briefly in chapter 14.
+
+8. the expert reader will recognize that these statements require so-called n=2 supersymmetry.
+9. to be a little more precise, if we call the heterotic-o coupling constant gho and the type i
+coupling  constant gi,  then  the  relation  between  the  two  theories  states  that  they  are  physically
+identical so long as gho = 1/gi, which is equivalent to gi = 1/gho. when one coupling constant is big
+the other is small.
+
+10. this is a close analog of the r, 1/r duality discussed previously. if we call the type iib
+string coupling constant giib then the statement that appears to be true i
+ 
+ ___________________________
+ 
+ shifts in the color charges of quarks.
+strongly coupled. theory whose string coupling constant is larger than 1.
+strong-weak duality. situation in which a strongly coupled theory is dual—physically identical—to
+a different, weakly coupled theory.
+sum-over-paths.  formulation  of quantum  mechanics  in  which  particles  are  envisioned  to  travel
+from one point to another along all possible paths between them.
+supergravity. class of point-particle theories combining general relativity and supersymmetry.
+superpartners. particles whose spins differ by 1/2 unit and that are paired by supersymmetry.
+superstring theory. string theory that incorporates supersymmetry.
+supersymmetric quantum field theory. quantum field theory incorporating supersymmetry.
+supersymmetric  standard  model.  generalization  of  the standard  model  of  particle  physics  to
+incorporate supersymmetry. entails a doubling of the known elementary particle species.
+supersymmetry. a symmetry principle that relates the properti

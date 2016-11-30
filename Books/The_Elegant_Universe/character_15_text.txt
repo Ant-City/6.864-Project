@@ -1,0 +1,13 @@
+hich annihilate each other in great haste, to keep the energy from changing, on average.
+4. even though the initial equation that schrödinger wrote down—the one incorporating special
+relativity—did not accurately describe the quantum-mechanical properties of electrons in hydrogen
+atoms, it was soon realized to be a valuable equation when appropriately used in other contexts, and,
+in fact, is still in use today. however, by the time schrödinger published his equation he had been
+scooped by oskar klein and walter gordon, and hence his relativistic equation is called the "klein-
+gordon equation."
+
+7. the size of the planck length can be understood based upon simple reasoning rooted in what
+physicists call dimensional analysis. the idea is this. when a theory is formulated as a collection of
+equations, the abstract symbols must be tied to physical features of the world if the theory is to make
+contact with reality. in particular, we must introduce a system of units so that if a symbol, say, is
+m

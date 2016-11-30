@@ -1,0 +1,282 @@
+ects  into  them;  by  stretching,  twisting,  or  crushing  them;  or  by  freezing,  heating,  or
+burning them. during the past hundred years physicists have accumulated mounting evidence that all
+of  these  interactions  between  various  objects  and  materials,  as  well  as  any  of  the  millions  upon
+millions of others encountered daily, can be reduced to combinations of four fundamental forces. one
+of these is the gravitational force. the other three are the electromagnetic force, the weak force, and
+the strong force.
+
+gravity is the most familiar of the forces, being responsible for keeping us in orbit around the
+sun as well as for keeping our feet firmly planted on earth. the mass of an object measures how much
+gravitational force it can exert as well as feel. the electromagnetic force is the next most familiar of
+the  four.  it  is  the  force  driving  all  of  the  conveniences  of  modern  life—lights,  computers,  tvs,
+telephones—and  underlies  the  awesome  might  of  ligh
+ 
+ ___________________________
+ 
+tning  storms  and  the  gentle  touch  of  a  human
+hand. microscopically, the electric charge of a particle plays the same role for the electromagnetic
+force as mass does for gravity: it determines how strongly the particle can exert as well as respond
+electromagnetically.
+
+the strong and the weak forces are less familiar because their strength rapidly diminishes over
+all  but  subatomic  distance  scales;  they  are  the  nuclear  forces.  this  is  why  these  two  forces  were
+discovered  only  much  more  recently.  the  strong  force  is  responsible  for  keeping  quarks  "glued"
+together inside of protons and neutrons and keeping protons and neutrons tightly crammed together
+inside atomic nuclei. the weak force is best known as the force responsible for the radioactive decay
+
+of substa
+ 
+ ___________________________
+ 
+ists believe that the gravitational force
+also  has  an  associated  particle—the  graviton—but  its  existence  has  yet  to  be  confirmed
+experimentally.
+
+the second common feature of the forces is that just as mass determines how gravity affects a
+particle,  and  electric  charge  determines  how  the  electromagnetic  force  affects  it,  particles  are
+endowed  with  certain  amounts  of  "strong  charge"  and  "weak  charge"  that  determine  how  they  are
+affected by the strong and weak forces. (these properties are detailed in the table in the endnotes to
+this chapter.1) but as with particle masses, beyond the fact that experimental physicists have carefully
+measured  these  properties,  no  one  has  any  explanation  of why  our  universe  is  composed  of  these
+particular particles, with these particular masses and force charges.
+
+force particle
+force
+strong
+gluon
+electromagnetic photon
+weak
+gravity
+
+weak gauge
+bosons
+graviton
+
+mass
+0
+0
+86,
+97
+0
+
+table 1.2 the four forces of na
+ 
+ ___________________________
+ 
+nalogous cancellations—more stuff means greater gravitational force. but fundamentally
+speaking, gravity is an extremely feeble force. (this fact accounts for the difficulty in experimentally
+confirming  the  existence  of  the  graviton.  searching  for  the  smallest  bundle  of  the  feeblest  force  is
+quite a challenge.) experiments also have shown that the strong force is about one hundred times as
+strong as the electromagnetic force and about one hundred thousand times as strong as the weak force.
+but where is the rationale—the raison d'être—for our universe having these features?
+
+this is not a question born of idle philosophizing about why certain details happen to be one
+way instead of another; the universe would be a vastly different place if the properties of the matter
+and force particles were even moderately changed. for example, the existence of the stable nuclei
+forming the hundred or so elements of the periodic table hinges delicately on the ratio between the
+strengths of
+ 
+ ___________________________
+ 
+e
+an  indisputable  macroscopic  presence.  nevertheless,  glashow,  salam,  and  weinberg  showed,  in
+essence, that at high enough energy and temperature—such as occurred a mere fraction of a second
+after  the  big  bang—electromagnetic  and  weak  force  fields dissolve  into  one  another,  take  on
+indistinguishable  characteristics,  and  are  more  accurately  called electroweak  fields.  when  the
+temperature drops, as it has done steadily since the big bang, the electromagnetic and weak forces
+crystallize out in a different manner from their common high-temperature form—through a process
+known as symmetry breaking that we will describe later—and therefore appear to be distinct in the
+cold universe we currently inhabit.
+
+and  so,  if  you  are  keeping  score,  by  the  1970s  physicists  had  developed  a  sensible  and
+successful quantum-mechanical description of three of the four forces (strong, weak, electromagnetic)
+and had shown that two of the three (weak and electromagnet
+ 
+ ___________________________
+ 
+ic) actually share a common origin (the
+electroweak force). during the past two decades, physicists have subjected this quantum-mechanical
+treatment of the three nongravitational forces—as they act among themselves and the matter particles
+introduced  in  chapter  1—to  an  enormous  amount  of  experimental  scrutiny.  the  theory  has  met  all
+such challenges with aplomb. once experimentalists measure some 19 parameters (the masses of the
+particles  in  table  1.1,  their  force  charges  as  recorded  in  the  table  in  endnote  1  to  chapte
+ 
+ ___________________________
+ 
+energies
+
+capable of pulverizing matter into bits as small as a billionth of a billionth of a meter, the current
+technological limit. for this reason, physicists call the theory of the three nongravitational forces and
+the  three  families  of  matter  particles  the  standard  theory,  or  (more  often)  the standard  model  of
+particle physics.
+
+messenger particles
+
+according to the standard model, just as the photon is the smallest constituent of an electromagnetic
+field, the strong and the weak force fields have smallest constituents as well. as we discussed briefly
+in chapter 1, the smallest bundles of the strong force are known as gluons, and those of the weak
+force are known as weak gauge bosons (or more precisely, the w and z bosons). the standard model
+instructs us to think of these force particles as having no internal structure—in this framework they
+are every bit as elementary as the particles in the three families of matter.
+
+the  photons,  gluons,  and  weak  gauge  bosons  prov
+ 
+ ___________________________
+ 
+r forces is the huge range in their intrinsic
+strengths. the electromagnetic force has less than 1 percent of the strength of the strong force, the
+weak  force  is  some  thousand  times  feebler  than  that,  and  the  gravitational  force  is  some  hundred
+million billion billion billion (10-35) times weaker still. following the pathbreaking and ultimately
+nobel  prize–winning  work  of  glashow,  salam,  and  weinberg  that  established  a  deep  connection
+between the electromagnetic and weak forces (discussed in chapter 5), in 1974 glashow, together
+
+with his harvard colleague howard georgi, suggested that an analogous connection might be forged
+with the strong force. their work, which proposed a "grand unification" of three of the four forces,
+differed in one essential way from that of the electroweak theory: whereas the electromagnetic and
+weak forces crystallized out of a more symmetric union when the temperature of the universe dropped
+to about a million billion degrees above absolu
+ 
+ ___________________________
+ 
+at quantum effects
+drive the strength of the electromagnetic force to get larger when examined on shorter distance scales.
+what about the other forces of the standard model? how do their intrinsic strengths vary with
+distance?  in  1973,  gross  and  frank  wilczek  at  princeton,  and,  independently,  david  politzer  at
+harvard,  studied  this  question  and  found  a  surprising  answer:  the  quantum  cloud  of  particle
+eruptions and annihilations amplifies the strengths of the strong and weak forces. this implies that as
+we examine them on shorter distances, we penetrate more of this seething cloud and hence are subject
+to less of its amplification. and so, the strengths of these forces get weaker when they are probed on
+shorter distances.
+
+georgi,  quinn,  and  weinberg  took  this  realization  and  ran  with  it  to  a  remarkable  end.  they
+showed that when these effects of the quantum frenzy are carefully accounted for, the net result is that
+the strengths of all three nongravitatio
+ 
+ ___________________________
+ 
+es between gravity
+and  quantum  mechanics.  they  coined  the  name higher-dimensional supergravity  to  describe  those
+theories encompassing gravity, extra dimensions, and supersymmetry.
+
+as  had  been  the  case  with  kaluza's  original  attempt,  various  versions  of  higher-dimensional
+supergravity looked quite promising at first. the new equations resulting from the extra dimensions
+were strikingly reminiscent of those used in the description of electromagnetism, and the strong and
+the weak forces. but detailed scrutiny showed that the old conundrums persisted. most importantly,
+the pernicious short-distance quantum undulations of space were lessened by supersymmetry, but not
+sufficiently  to  yield  a  sensible  theory.  physicists  also  found  it  difficult  to  find  a  single,  sensible,
+higher-dimensional theory incorporating all features of forces and matter.7
+
+it  gradually  became  clear  that  bits  and  pieces  of  a  unified  theory  were  surfacing,  but  that  a
+crucial el
+ 
+ ___________________________
+ 
+ completely  smooth  sailing.  the
+approximate  equations  that  string  theorists  currently  use  are  not  powerful  enough  to  work  out  the
+resulting physics fully for any given choice of calabi-yau shape. they can take us a long way toward
+understanding, in the sense of a ballpark estimate, the properties of the string vibrations that we hope
+will align with the particles we observe. but precise and definitive physical conclusions, such as the
+mass of the electron or the strength of the weak force, require equations that are far more exact than
+the present approximate framework. recall from chapter 6—and the price is right  example—that
+the  "natural"  energy  scale  of  string  theory  is  the  planck  energy,  and  it  is  only  through  extremely
+delicate cancellations that string theory yields vibrational patterns with masses in the vicinity of those
+of the known matter and force particles. delicate cancellations require precise calculations because
+even small errors have a profo
+ 
+ ___________________________
+ 
+ evident at higher temperatures was broken
+as the universe cooled. nevertheless, the work of glashow, salam, and weinberg (see chapter 5)
+shows  that  not  all  of  the  high-temperature  symmetry  was  erased:  the  weak  and  electromagnetic
+forces  were  still  deeply  interwoven. as  the  universe  further  expanded  and  cooled,  nothing  much
+happened  until  things  simmered  down  to  1015  kelvin—about  100  million  times  the  sun's  core
+temperature—when 
+the
+electromagnetic and weak forces. at this temperature, they too crystallized out from their previous,
+more symmetric union, and as the universe continued to cool, their differences became magnified. the
+two phase transitions are responsible for the three apparently distinct nongravitational forces at work
+in  the  world,  even  though  this  review  of  cosmic  history  shows  that  the  forces,  in  fact,  are  deeply
+related.
+
+through  another  phase 
+
+the  universe  went 
+
+transition 
+
+that  affected 
+
+a cosmological puzzl
+ 
+ ___________________________
+ 
+ avon
+
+2. more precisely, spin-1/2 means that the angular momentum of the electron from its spin is 
+
+books, 1984), p. 287.
+
+/2.
+
+defect  in  the  standard  model,  can  be  avoided  if  certain  parameters  in  the  standard  model  (most
+notably, the so-called bare mass of the higgs particle) are finely tuned to better than 1 part in 1015 to
+cancel the effects of these quantum fluctuations on the higgs particle's mass.
+
+6. one subtle point to note about figure 7.1 is that the strength of the weak force is shown to be
+between  that  of  the  strong  and  electromagnetic  forces,  whereas  we  have  previously  said  that  it  is
+weaker than both. the reason for this lies in table 1.2, in which we see that the messenger particles
+of  the  weak  force  are  quite  massive,  whereas  those  of  the  strong  and  electromagnetic  forces  are
+massless. intrinsically, the strength of the weak force (as measured by its coupling constant—an idea
+we will come upon in chapter 12) is as shown in figure
+ 
+ ___________________________
+ 
+mirror  being  involved.  is  this  a
+challenge you can meet? in the mid-1950s, the theoretical insights of t. d. lee and c. n. yang, and
+the experimental results of c. s. wu and collaborators, showed that you can meet the challenge, so
+long as an appropriate experiment had been filmed. namely, their work established that the laws of
+the  universe  are  not  perfectly  mirror  symmetric  in  the  sense  that  the  mirror-reflected  version  of
+certain processes—those directly dependent on the weak force—cannot happen in our world, even
+though  the  original  process  can. and  so,  as  you  watch  the  film  if  you  see  one  of  these  forbidden
+processes occur, you will know that you are watching a mirror-reflected image of the experiment, as
+opposed to the experiment itself. since mirrors interchange left and right, the work of lee, yang, and
+wu established that the universe is not perfectly left-right symmetric—in the language of the field, the
+universe  is chiral.  it  is  this  feat
+ 
+ ___________________________
+ 
+ny  of  its  detailed  properties  have  yet  to  be
+understood.
+multidimensional  hole.  a  generalization  of  the  hole  found  in  a  doughnut  to  higher-dimensional
+versions.
+multi-doughnut, multi-handled doughnut. a generalization of a doughnut shape (a torus) that has
+more than one hole.
+multiverse. hypothetical enlargement of the cosmos in which our universe is but one of an enormous
+number of separate and distinct universes.
+neutrino. electrically neutral particle, subject only to the weak force.
+neutron. electrically neutral particle, typically found in the nucleus of an atom, consisting of three
+quarks (two down-quarks, one up-quark).
+newton's  laws  of  motion.  laws  describing  the  motion  of  bodies  based  on  the  conception  of  an
+absolute and immutable space and time; these laws held sway until einstein's discovery of special
+relativity.
+newton's  universal  theory  of  gravity.  theory  of  gravity  declaring  that  the  force  of  attraction
+between two bodies is proporti
+ 
+ ___________________________
+ 
+al particles. particles that erupt from the vacuum momentarily; they exist on borrowed energy,
+consistent with the uncertainty principle, and rapidly annihilate, thereby repaying the energy loan.
+wave function. probability waves upon which quantum mechanics is founded.
+wavelength. the distance between successive peaks or troughs of a wave.
+wave-particle duality. basic feature of quantum mechanics that objects manifest both wavelike and
+particle-like properties.
+w bosons. see weak gauge boson.
+
+weak force, weak nuclear force.  one  of  the  four  fundamental  forces,  best  known  for  mediating
+radioactive decay.
+weak gauge boson. smallest bundle of the weak force field; messenger particle of the weak force;
+called w or z boson.
+weak gauge symmetry. gauge symmetry underlying the weak force.
+weakly coupled. theory whose string coupling constant is less than 1.
+winding energy. the energy embodied by a string wound around a circular dimension of space.
+winding mode. a string configuration that wra

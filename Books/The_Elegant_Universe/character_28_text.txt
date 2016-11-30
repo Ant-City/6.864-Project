@@ -1,0 +1,104 @@
+he  electron,  called  a tau,  as  well  as  two  other  particles  with  properties
+similar  to  the  neutrino  (called  the muon-neutrino  and tau-neutrino  to  distinguish  them  from  the
+original  neutrino,  now  called  the electron-neutrino).  these  particles  are  produced  through  high-
+energy  collisions  and  exist  only  ephemerally;  they  are  not  constituents  of  anything  we  typically
+encounter. but even this is not quite the end of the story. each of these particles has an antiparticle
+partner—a particle of identical mass but opposite in certain other respects such as its electric charge
+(as well as its charges with respect to other forces discussed below). for instance, the antiparticle of
+an electron is called a positron—it has exactly the same mass as an electron, but its electric charge is
++1  whereas  the  electric  charge  of  the  electron  is  -1.  when  in  contact,  matter  and  antimatter  can
+annihilate one another to produce pure energy—that's why there is 
+ 
+ ___________________________
+ 
+eflected onto a new
+trajectory.  point-particle  quantum  field  theory  shows  that  essentially  the  same  thing  happens  when
+elementary particles collide—they scatter off one another and continue on deflected trajectories—but
+the details are a little different.
+
+figure 6.5 two particles interact—they "slam together"—and cause the path of each to be deflected.
+
+for  concreteness  and  simplicity,  imagine  that  one  of  the  two  particles  is  an  electron  and  the
+other is its antiparticle, the positron. when matter and antimatter collide, they can annihilate in a flash
+of pure energy, producing, for example, a photon.9 to distinguish the ensuing trajectory of the photon
+from the previous trajectories of the electron and positron, we follow a traditional physics convention
+and draw it with a wiggly line. the photon will typically travel for a bit and then release the energy
+derived  from  the  initial  electron-positron  pair  by  producing  another  electron-positron  pair  with
+ 
+ ___________________________
+ 
+
+trajectories as indicated on the far right of figure 6.6. in the end, two particles are fired at each other,
+they interact through the electromagnetic force, and finally they emerge on deflected trajectories, a
+sequence of events that bears some similarity to our description of colliding billiard balls.
+
+figure  6.6  in  quantum  field  theory,  a  particle  and  its  antiparticle  can  momentarily  annihilate  one
+another,  producing  a  photon.  subsequently,  this  photon  can  give  rise  to  another  particle  and
+antiparticle traveling along different trajectories.
+
+we are concerned with the details of the interaction—specifically, the point where the initial
+electron and positron annihilate and produce the photon. the central fact, as will become apparent, is
+that there is an unambiguous, completely identifiable time and place where this happens: it is marked
+in
+ 
+ ___________________________
+ 
+s gets stronger as the distance between the objects
+decreases.  these  are  simple  and  well-known  features  of  classical  physics.  there  is  a  surprise,
+though, when we study the effect that quantum physics has on force strengths. why should quantum
+mechanics  have  any  effect  at  all?  the  answer,  once  again,  lies  in  quantum  fluctuations.  when  we
+examine the electric force field of an electron, for example, we are actually examining it through the
+"mist" of momentary particle-antiparticle eruptions and annihilations that are occurring all through the
+region  of  space  surrounding  it.  physicists  some  time  ago  realized  that  this  seething  mist  of
+microscopic fluctuations obscures the full strength of the electron's force field, somewhat as a thin fog
+partially obscures the beacon of a lighthouse. but notice that as we get closer to the electron, we will
+have penetrated more of the cloaking particle-antiparticle mist and hence will be less subject to its
+diminishing infl
+ 
+ ___________________________
+ 
+ the  region  has  not  changed.  but  this  is  only  on  average.  quantum
+uncertainty implies that the energy in the field—even in an empty region of space—fluctuates up and
+down,  with  the  size  of  the  fluctuations  getting  larger  as  the  distance  and  time  scales  on  which  the
+region is examined get smaller. the energy embodied in such momentary field fluctuations can then,
+through e  = mc2,  be  converted  into  the  momentary  creation  of  pairs  of  particles  and  their
+antiparticles, which annihilate each other in great haste, to keep the energy from changing, on average.
+4. even though the initial equation that schrödinger wrote down—the one incorporating special
+relativity—did not accurately describe the quantum-mechanical properties of electrons in hydrogen
+atoms, it was soon realized to be a valuable equation when appropriately used in other contexts, and,
+in fact, is still in use today. however, by the time schrödinger published his equation he had been
+scooped
+ 
+ ___________________________
+ 
+e experimentally within the next decade. but even in the more
+
+"conventional" scenario espoused by string theorists, in which strings are typically on the order of 10-
+33 centimeters in length, there are indirect ways to search for them experimentally, as we will discuss
+in chapter 9.
+
+9. the expert reader will recognize that the photon produced in a collision between an electron
+and a positron is a virtual photon and therefore must shortly relinquish its energy by dissociating into
+a particle-antiparticle pair.
+
+10. of course, a camera works by collecting photons that bounce off the object of interest and
+recording them on a piece of photographic film. our use of a camera in this example is symbolic,
+since we are not imagining bouncing photons off of the colliding strings. rather, we simply want to
+record in figure 6.7(c) the whole history of the interaction. having said that, we should point out one
+further subtle point that the discussion in the text glosses over. we learned in chapter 4 that 
+ 
+ ___________________________
+ 
+aximum height of a wave peak or the maximum depth of a wave trough.
+anthropic  principle.  doctrine  that  one  explanation  for  why  the  universe  has  the  properties  we
+observe is that, were the properties different, it is likely that life would not form and therefore we
+would not be here to observe the changes.
+antimatter.  matter  that  has  the  same  gravitational  properties  as  ordinary  matter,  but  that  has  an
+opposite electric charge as well as opposite nuclear force charges.
+antiparticle. a particle of antimatter.
+atb. acronym for "after the bang"; usually used in reference to time elapsed since the big bang.
+atom.  fundamental  building  block  of  matter,  consisting  of  a nucleus  (comprising protons  and
+neutrons) and an orbiting swarm of electrons.
+big bang.  currently  accepted  theory  that  the  expanding  universe  began  some  15  billion  years  ago
+from a state of enormous energy, density, and compression.
+big crunch. one hypothesized future for the universe in whi

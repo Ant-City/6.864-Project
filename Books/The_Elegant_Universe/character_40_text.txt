@@ -1,0 +1,202 @@
+ could it be that, beyond its being
+an  abstract  mathematical  procedure,  the  sequence  displayed  from  figure  11.3(a)  through  figure
+11.4(d) might actually occur in nature? might it be that, contrary to einstein's expectations, the fabric
+of space can tear apart and subsequently be repaired in the manner described?
+
+the mirror perspective
+
+for a couple of years after their 1987 observation, yau would, every so often, encourage me to think
+about the possible physical incarnation of these flop transitions. i didn't. to me it seemed that flop
+transitions were merely a piece of abstract mathematics without any bearing on the physics of string
+theory. in fact, based on the discussion in chapter 10 in which we found that circular dimensions have
+a minimum radius, one might be tempted to say that string theory does not allow the sphere in figure
+11.3 to shrink all the way down to a pinched point. but remember, as also noted in chapter 10, that if
+a chunk of space collapses—in this case, a spherical
+ 
+ ___________________________
+ 
+ piece of a calabi-yau shape—as opposed to the
+collapse  of  a  complete  spatial  dimension,  the  argument  identifying  small  and  large  radii  is  not
+directly applicable. nevertheless, even though this idea for ruling out flop transitions does not stand
+up to scrutiny, the possibility that the fabric of space could tear still seemed rather unlikely.
+
+but  then,  in  1991  the  norwegian  physicist  andy  lütken  together  with  paul  aspinwall,  a
+graduate-school  classmate  of  mine  from  oxford  and  now  a  professor  at  duke  university,  asked
+themselves  what  proved  to  be  a  very  interesting  question:  if  the  spatial  fabric  of  the  calabi-yau
+portion of our universe were to undergo a space-tearing flop transi
+ 
+ ___________________________
+ 
+lly complicated flop transition of figures 11.3 and 11.4 might have a
+far  simpler  mirror  description—one  that  might  give  a  more  transparent  view  on  the  associated
+physics.
+
+at the time of their work, mirror symmetry was not understood at the depth required to answer
+the question they posed. however, aspinwall and lütken noted that there did not seem to be anything
+in the mirror description that would indicate a disastrous physical consequence associated with the
+spatial tears of flop transitions. around the same time, the work plesser and i had done in finding
+mirror  pairs  of  calabi-yau  shapes  (see  chapter  10)  unexpectedly  led  us  to  think  about  flop
+transitions  as  well.  it  is  a  well-known  mathematical  fact  that  gluing  various  points  together  as  in
+figure 10.4—the procedure we had used to construct mirror pairs—leads to geometrical situations
+that are identical to the pinch and puncture in figures 11.3 and 11.4. physically, though, plesser and i
+could fi
+ 
+ ___________________________
+ 
+hat  in  figure  11.4(d).  this  suggested  to  us  that  the  evolution  from
+figure 11.3(a) through figure 11.4(d) was something that could actually occur in nature.
+
+by late 1991, then, at least a few string theorists had a strong feeling that the fabric of space can
+
+tear. but no one had the technical facility to definitively establish or refute this striking possibility.
+
+inching forward
+
+off and on during 1992, plesser and i tried to show that the fabric of space can undergo space-tearing
+flop transitions. our calculations yielded bits and pieces of supporting circumstantial evidence, but
+we  could  not  find  definitive  proof.  sometime  during  the  spring,  plesser  visited  the  institute  for
+advanced study in princeton to give a talk, and privately told witten about our recent attempts to
+realize  the  mathematics  of  space-tearing  flop  transitions  within  the  physics  of  string  theory. after
+summarizing our ideas, plesser waited for witten's response. witten turned from the blackb
+ 
+ ___________________________
+ 
+  and  parcel  of  string  theory.  the
+preliminary  calculations  plesser  and  i  had  done,  together  with  insightful  discussions  with  david
+morrison, a mathematician from duke university, made it seem that this was the only conclusion that
+mirror symmetry naturally supported. in fact, during a visit to duke, morrison and i, together with
+some helpful observations from sheldon katz of oklahoma state university, who was also visiting
+duke at the time, outlined a strategy for proving that flop transitions can occur in string theory. but
+when we sat down to do the required calculations, we found that they were extraordinarily intensive.
+even on the world's fastest computer, they would take more than a century to complete. we had made
+progress,  but  we  clearly  needed  a  new  idea,  one  that  could  greatly  enhance  the  efficiency  of  our
+calculational  method.  unwittingly,  victor  batyrev,  a  mathematician  from  the  university  of  essen,
+revealed such an idea through a pair of papers
+ 
+ ___________________________
+ 
+n a manner more familiar to mathematicians.
+
+the  flip  side  is  that  batyrev's  papers  invoked  areas  of  mathematics  that  most  physicists  had
+never  previously  encountered.  i,  for  example,  could  extract  the  gist  of  his  arguments,  but  had
+significant  difficulty  in  understanding  many  crucial  details.  one  thing,  however,  was  clear:  the
+methods of his paper, if properly understood and applied, could very well open a new line of attack
+on the issue of space-tearing flop transitions.
+
+by  late  summer,  energized  by  these  developments,  i  decided  that  i  wanted  to  return  to  the
+problem of flops with full and undistracted intensity. i had learned from morrison that he was going
+on leave from duke to spend a year at the institute for advanced study, and i knew that aspinwall
+would also be there, as a postdoctoral fellow. after a few phone calls and e-mails, i arranged to take
+leave from cornell university and spend the fall of 1992 at the institute as well.
+
+a stra
+ 
+ ___________________________
+ 
+walking down nassau street (the
+main commercial street in the town of princeton) trying to agree on a place to have dinner. this was
+no small task since paul is as devout a meat eater as i am a vegetarian. in the midst of catching up on
+each other's lives as we were walking along, he asked me if i had any ideas about new things to work
+
+on. i told him i did, and recounted my take on the importance of establishing that the universe, if truly
+described by string theory, can undergo space-tearing flop transitions. i also outlined the strategy i
+had been pursuing, as well as my newfound hope that batyrev's work might allow us to fill in the
+missing pieces. i thought that i was preaching to the converted, and that paul would be excited by this
+prospect.  he  wasn't.  in  retrospect,  his  reticence  was  due  largely  to  our  good-natured  and  long-
+standing intellectual joust in which we each play devil's advocate to the other's ideas. within days, he
+came around and we turned our full attention to flo
+ 
+ ___________________________
+ 
+entified. his work was establishing a new and more powerful method
+of  translation  between  the  physics  of  string  theory  and  the  mathematics  of  the  calabi-yau  spaces.
+aspinwall,  morrison,  and  i  had  almost  daily  impromptu  meetings  with  witten  at  which  he  would
+show us new insights following from his approach. as the weeks went by, it gradually became clear
+that unexpectedly, his work, from a vantage point completely different from our own, was converging
+on the issue of flop transitions. aspinwall, morrison, and i realized that if we didn't complete our
+calculation soon, witten would beat us to the punch.
+
+of six-packs and working weekends
+
+nothing focuses the mind of a physicist like a healthy dose of competition. aspinwall, morrison, and
+i went into high gear. it's important to note that this meant one thing to morrison and me, and quite
+another  to aspinwall. aspinwall  is  a  curious  mixture  of  upper-class  british  sensibility,  largely  a
+reflection of the decade he s
+ 
+ ___________________________
+ 
+lculation
+numerically  on  a  computer,  we  expected  to  get  something  extremely  close  to  but  not  exactly  3,
+something like 3.000001 or 2.999999, with the tiny difference arising from rounding errors.
+
+morrison  sat  at  the  computer  with  his  finger  hovering  over  the  enter  button.  with  the  tension
+mounting he said, "here goes," and set the calculation in motion. in a couple of seconds the computer
+returned its answer: 8.999999. my heart sank. could it be that space-tearing flop transitions shatter
+the mirror relation, likely indicating that they cannot actually occur? almost immediately, though, we
+all  realized  that  something  funny  must  be  going  on.  if  there  was  a  real  mismatch  in  the  physics
+following from the two shapes, it was extremely unlikely that the computer calculation should yield
+an answer so close to a whole number. if our ideas were wrong, there was no reason in the world to
+expect  anything  but  a  random  collection  of  digits.  we  had  gotten  
+ 
+ ___________________________
+ 
+ too easy to figure out a way of getting it. we needed to do another
+example. having already written all of the necessary computer code, this was not hard to do. we
+calculated another particle mass on the upper calabi-yau shape, being careful this time to make no
+errors. we found the answer: 12. once again, we huddled around the computer and set it on its way.
+seconds  later  it  returned  11.999999. agreement.  we  had  shown  that  the  supposed  mirror is  the
+mirror, and hence space-tearing flop transitions are part of the physics of string theory.
+
+at this i jumped out of my chair and ran an unrestrained victory lap around the office. morrison
+beamed from behind the computer. aspinwall's reaction, though, was rather different. "that's great,
+but i knew it would work," he calmly said. "and where's my beer?"
+
+witten's approach
+
+that monday, we triumphantly went to witten and told him of our success. he was very pleased with
+our result. and, as it turned out, he too had just found a way of establish
+ 
+ ___________________________
+ 
+ing that flop transitions occur
+
+in  string  theory.  his  argument  was  quite  different  from  ours,  and  it  significantly  illuminates  the
+microscopic understanding of why the spatial tears do not have any catastrophic consequences.
+
+his approach highlights the difference between a point-particle theory and string theory when
+such tears occur. the key distinction is that there are two types of string motion near the tear, but only
+one kind of point-particle motion. namely, a string can travel adjacent to the tea
+ 
+ ___________________________
+ 
+ing theory, making it a journey well worth taking.
+
+it begins with a seemingly unrelated question that string theorists have kicked around since the
+late  1980s.  mathematicians  and  physicists  have  long  known  that  when  six  spatial  dimensions  are
+curled up into a calabi-yau shape, there are generally two kinds of spheres that are embedded within
+the shape's fabric. one kind are the two-dimensional spheres, like the surface of a beach ball, that
+played a vital role in the space-tearing flop transitions of chapter 11. the other kind are harder to
+picture  but  they  are  equally  prevalent.  they  are three-dimensional  spheres—like  the  surfaces  of
+beach balls adorning the sandy ocean shores of a universe with four extended space dimensions. of
+course,  as  we  discussed  in  chapter  11,  an  ordinary  beach  ball  in  our  world  is  itself  a  three-
+dimensional object, but its surface, just like the surface of a garden hose, is two-dimensional: you
+need only two numbers—latitude and
+ 
+ ___________________________
+ 
+ string theory community that not only can the fabric of
+space undergo the mild tears discovered earlier (chapter 11), but that far more drastic rips, roughly
+illustrated by figure 13.3, can occur as well.
+
+returning to black holes and elementary particles
+
+what does this have to do with black holes and elementary particles? a lot. to see this, we must ask
+ourselves the same question we posed in chapter 11. what are the observable physical consequences
+of such tears in the fabric of space? for flop transitions, as we have seen, the surprising answer to
+this question was that not much happens at all. for conifold transitions—the technical name for the
+drastic space-tearing transitions we had now found—there is, once again, no physical catastrophe (as
+there  would  be  in  conventional  general  relativity),  but  there  are  more  pronounced  observable
+consequences.
+
+two related notions underlie these observable consequences; we will explain each in turn. first,
+as we have discussed, strominger's

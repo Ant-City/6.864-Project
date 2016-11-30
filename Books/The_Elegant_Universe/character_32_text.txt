@@ -1,0 +1,390 @@
+ found two features common to all these forces. first, as
+we will discuss in chapter 5, at a microscopic level all the forces have an associated particle that
+you can think of as being the smallest packet or bundle of the force. if you fire a laser beam—an
+"electromagnetic  ray  gun"—you  are  firing  a  stream  of photons,  the  smallest  bundles  of  the
+electromagnetic  force.  similarly,  the  smallest  constituents  of  weak  and  strong  force  fields  are
+particles  called weak gauge bosons  and gluons.  (the  name gluon is particularly descriptive: you
+can think of gluons as the microscopic ingredient in the strong glue holding atomic nuclei together.)
+by 1984 experimenters had definitively established the existence and the detailed properties of these
+three kinds of force particles, recorded in table 1.2. physicists believe that the gravitational force
+also  has  an  associated  particle—the  graviton—but  its  existence  has  yet  to  be  confirmed
+experimentally.
+
+the sec
+ 
+ ___________________________
+ 
+at  determine  how  they  are
+affected by the strong and weak forces. (these properties are detailed in the table in the endnotes to
+this chapter.1) but as with particle masses, beyond the fact that experimental physicists have carefully
+measured  these  properties,  no  one  has  any  explanation  of why  our  universe  is  composed  of  these
+particular particles, with these particular masses and force charges.
+
+force particle
+force
+strong
+gluon
+electromagnetic photon
+weak
+gravity
+
+weak gauge
+bosons
+graviton
+
+mass
+0
+0
+86,
+97
+0
+
+table 1.2 the four forces of nature, together with their associated force particles and their masses in
+multiples  of  the  proton  mass.  (the  weak  force  particles  come  in  varieties  with  the  two  possible
+masses listed. theoretical studies show that the graviton should be massless.)
+
+notwithstanding  their  common  features,  an  examination  of  the  fundamental  forces  themselves
+serves only to compound the questions. why, for instance, are there four 
+ 
+ ___________________________
+ 
+al forces and
+the  three  families  of  matter  particles  the  standard  theory,  or  (more  often)  the standard  model  of
+particle physics.
+
+messenger particles
+
+according to the standard model, just as the photon is the smallest constituent of an electromagnetic
+field, the strong and the weak force fields have smallest constituents as well. as we discussed briefly
+in chapter 1, the smallest bundles of the strong force are known as gluons, and those of the weak
+force are known as weak gauge bosons (or more precisely, the w and z bosons). the standard model
+instructs us to think of these force particles as having no internal structure—in this framework they
+are every bit as elementary as the particles in the three families of matter.
+
+the  photons,  gluons,  and  weak  gauge  bosons  provide  the  microscopic  mechanism  for
+transmitting  the  forces  they  constitute.  for  example,  when  one  electrically  charged  particle  repels
+another of like electric charge, you can think of i
+ 
+ ___________________________
+ 
+ photon  is  not  so  much  the  transmitter  of  the  force  per  se,  but  rather  the
+transmitter of a message of how the recipient must respond to the force in question. for like-charged
+particles,  the  photon  carries  the  message  "move  apart,"  while  for  oppositely  charged  particles  it
+carries  the  message  "come  together."  for  this  reason  the  photon  is  sometimes  referred  to  as  the
+messenger particle for the electromagnetic force. similarly, the gluons and weak gauge bosons are
+the messenger particles for the strong and weak nuclear forces. the strong force, which keeps quarks
+locked  up  inside  of  protons  and  neutrons,  arises  from  individual  quarks  exchanging  gluons.  the
+gluons, so to speak, provide the "glue" that keeps these subatomic particles stuck together. the weak
+force, which is responsible for certain kinds of particle transmutations involved in radioactive decay,
+is mediated by the weak gauge bosons.
+
+gauge symmetry
+
+you may have realized th
+ 
+ ___________________________
+ 
+lthough  the  reasoning  involved  is  somewhat  more  abstract,  physicists  have  found  that  a  similar
+alignment exists between other detailed aspects of a string's pattern of vibration and its properties vis
+a vis other forces. the electric charge, the weak charge, and the strong charge carried by a particular
+string, for instance, are determined by the precise way it vibrates. moreover, exactly the same idea
+holds for the messenger particles themselves. particles like photons, weak gauge bosons, and gluons
+are yet other resonant patterns of string vibration. and of particular importance, among the vibrational
+string patterns, one matches perfectly the properties of the graviton, ensuring that gravity is an integral
+part of string theory.7
+
+so we see that, according to string theory, the observed properties of each elementary particle
+arise because its internal string undergoes a particular resonant vibrational pattern. this perspective
+differs sharply from that espoused by physicists
+ 
+ ___________________________
+ 
+out the three families of
+table 1.1. this is true down to the last detail: all of the matter particles (and their antimatter partners
+as well) have spin equal to that of the electron. in the language of the trade, physicists say that matter
+particles  all  have  "spin-1/2,"  where  the  value  1/2  is,  roughly  speaking,  a  quantum-mechanical
+measure  of  how  quickly  the  particles  rotate.2  moreover,  physicists  have  shown  that  the
+nongravitational force carriers—photons, weak gauge bosons, and gluons—also possess an intrinsic
+spinning characteristic that turns out to be twice that of the matter particles. they all have "spin-1."
+
+what  about  gravity?  well,  even  before  string  theory,  physicists  were  able  to  determine  what
+spin the hypothesized graviton must have to be the transmitter of the gravitational force. the answer:
+twice the spin of photons, weak gauge bosons, and gluons—i.e., "spin-2."
+
+in the context of string theory, spin—just like mass and force cha
+ 
+ ___________________________
+ 
+  spin-0
+partner  of  the  electron;  this  hypothetical  particle  has  been  named  the selectron  (a  contraction  of
+supersymmetric-electron).  the  same  should  also  be  true  for  the  other  matter  particles,  with,  for
+example, the hypothetical spin-0 superpartners of neutrinos and quarks being called sneutrinos and
+squarks. similarly, the force particles should have spin-1/2 superpartners: for photons there should
+be photinos, for the gluons there should be gluinos, for the w and z bosons there should be winos and
+zinos.
+
+on  closer  inspection,  then,  supersymmetry  seems  to  be  a  terribly  uneconomical  feature;  it
+
+requires  a  whole  slew  of  additional  particles  that  wind  up  doubling  the  list  of  fundamental
+ingredients. since none of the superpartner particles has ever been detected, you would be justified to
+take rabi's remark from chapter 1 regarding the discovery of the muon one step further, declare that
+"nobody ordered supersymmetry," and summarily rej
+ 
+ ___________________________
+ 
+y
+powerful rifle, so that it hits a specified target on the moon with a margin of error no greater than the
+thickness  of  an  amoeba.  although  numerical  adjustments  of  an  analogous  precision  can  be  made
+within  the  standard  model,  many  physicists  are  quite  suspect  of  a  theory  that  is  so  delicately
+constructed that it falls apart if a number on which it depends is changed in the fifteenth digit after the
+decimal point.5
+
+supersymmetry  changes  this  drastically  because bosons—particles  whose  spin  is  a  whole
+number (named after the indian physicist satyendra bose)—and fermions—particles whose spin is
+half  of  a  whole  (odd)  number  (named  after  the  italian  physicist  enrico  fermi)—tend  to  give
+cancelling  quantum-mechanical  contributions.  like  opposite  ends  of  a  seesaw,  when  the  quantum
+jitters  of  a  boson  are  positive,  those  of  a  fermion  tend  to  be  negative,  and  vice  versa.  since
+supersymmetry ensures that bosons and
+ 
+ ___________________________
+ 
+y  of  these  responses.  but  the  case  for  supersymmetry  is  strengthened
+
+immensely when we consider its role in string theory.
+
+supersymmetry in string theory
+
+the original string theory that emerged from veneziano's work in the late 1960s incorporated all of
+the symmetries discussed at the beginning of this chapter, but it did not incorporate supersymmetry
+(which  had  not  yet  been  discovered).  this  first  theory  based  on  the  string  concept  was,  more
+precisely,  called  the bosonic string theory.  the  name bosonic  indicates  that  all  of  the  vibrational
+patterns of the bosonic string have spins that are a whole number—there are no fermionic patterns,
+that is, no patterns with spins differing from a whole number by a half unit. this led to two problems.
+first,  if  string  theory  was  to  describe  all  forces  and  all  matter,  it  would  somehow  have  to
+incorporate  fermionic  vibrational  patterns,  since  the  known  matter  particles  all  have  spin-1/2.
+ 
+ ___________________________
+ 
+
+second, and far more troubling, was the realization that there was one pattern of vibration in bosonic
+string theory whose mass (more precisely, whose mass squared) was negative—a so-called tachyon.
+even before string theory, physicists had studied the possibility that our world might have tachyon
+particles, in addition to the familiar particles that all have positive masses, but their efforts showed
+that it is difficult if not impossible for such a theory to be logically sensible. similarly, in the context
+of  bosonic  string  theory,  physicists  tried  all  sorts  of  fancy  footwork  to 
+ 
+ ___________________________
+ 
+ make  sense  of  the  bizarre
+prediction of a tachyon vibrational pattern, but to no avail. these features made it increasingly clear
+that although it was an interesting theory, the bosonic string was missing something essential.
+
+in  1971,  pierre  ramond  of  the  university  of  florida  took  up  the  challenge  of  modifying  the
+bosonic  string  theory  to  include  fermionic  patterns  of  vibration.  through  his  work  and  subsequent
+results of schwarz and andre neveu, a new version of string theory began to emerge. and much to
+everyone's surprise, the bosonic and the fermionic patterns of vibration of this new theory appeared
+to come in pairs. for each bosonic pattern there was a fermionic pattern, and vice versa. by 1977,
+insights  of  ferdinando  gliozzi  of  the  university  of  turin,  scherk,  and  david  olive  of
+ 
+ ___________________________
+ 
+  imperial
+college put this pairing into the proper light. the new string theory incorporated supersymmetry, and
+the  observed  pairing  of  bosonic  and  fermionic  vibrational  patterns  reflected  this  highly  symmetric
+character. supersymmetric string theory—superstring theory, that is—had been born. moreover, the
+work of gliozzi, scherk, and olive had one other crucial result: they showed that the troublesome
+tachyon vibration of the bosonic string does not afflict the superstring. slowly, the pieces of the string
+puzzle were falling into place.
+
+nevertheless, the major initial impact of the work of ramond, and also of neveu and schwarz,
+was not actually in string theory. by 1973, the physicists julius wess and bruno zumino realized that
+supersymmetry—the new symmetry emerging from the reformulation of string theory—was applicable
+even to theories based on point particles. they rapidly made important strides toward incorporat
+ 
+ ___________________________
+ 
+outset.  in  the  arena  of
+fundamental explanations, more is definitely less.
+
+by  1985,  string  theory—notwithstanding  the  justified  excitement  it  was  engendering—was
+starting to sound like our overzealous earhart expert. the reason is that by 1985 physicists realized
+that  supersymmetry,  by  then  a  central  element  in  the  structure  of  string  theory,  could  actually  be
+incorporated into string theory in not one but five different ways. each method results in a pairing of
+bosonic and fermionic vibrational patterns, but the details of this pairing as well as numerous other
+properties of the resulting theories differ substantially. although their names are not all that important,
+it's worth recording that these five supersymmetric string theories are called the type i theory, the
+type iia theory, the type iib theory, the heterotic type o(32) theory (pronounced "oh-thirty-two"),
+and the heterotic type e8 × e8 theory (pronounced "e-eight times e-eight"). all the features
+ 
+ ___________________________
+ 
+e  was  that  the  inconsistencies  between
+point-particle  theories  involving  gravity  and  quantum  mechanics  would  be  overcome  by  studying
+theories with a great deal of symmetry. in 1976 stanley deser and bruno zumino working at cern,
+and independantly, daniel freedman, sergio ferrara, and peter van nieuwenhuizen, all then of the
+state  university  of  new  york  at  stony  brook,  discovered  that  the  most  promising  were  those
+involving  supersymmetry,  since  the  tendency  of  bosons  and  fermions  to  give  cancelling  quantum
+fluctuations helps to calm the violent microscopic frenzy. the authors coined the term supergravity to
+describe  supersymmetric  quantum  field  theories  that  try  to  incorporate  general  relativity.  such
+attempts  to  merge  general  relativity  with  quantum  mechanics  ultimately  met  with  failure.
+nevertheless,  as  mentioned  in  chapter  8,  there  was  a  prescient  lesson  to  be  learned  from  these
+investigations, one that presage
+ 
+ ___________________________
+ 
+ted  significantly  to  the  early
+development of string theory.
+
+4. interview with john schwarz, december 23, 1997.
+5. interview with michael green, december 20, 1997.
+6. the standard model does suggest a mechanism by which particles acquire mass—the higgs
+mechanism, named after the scottish physicist peter higgs. but from the point of view of explaining
+the particle masses, this merely shifts the burden to explaining properties of a hypothetical "mass-
+giving particle"—the so-called higgs boson. experimental searches for this particle are underway,
+but once again, if it is found and its properties measured, these will be input data for the standard
+model, for which the theory offers no explanation.
+
+7.  for  the  mathematically  inclined  reader,  we  note  that  the  association  between  string
+vibrational patterns and force charges can be described more precisely as follows. when the motion
+of a string is quantized, its possible vibrational states are represented by vectors in a hi
+ 
+ ___________________________
+ 
+ note that this extension involves augmenting the
+familiar  cartesian  coordinates  of  spacetime  with  new  quantum  coordinates,  say u  and v,  that  are
+anticommuting: u × v =-v × u. supersymmetry can then be thought of as translations in this quantum-
+mechanically augmented form of spacetime.
+
+5. for the reader interested in more details of this technical issue we note the following. in note
+6 of chapter 6 we mentioned that the standard model invokes a "mass-giving particle"—the higgs
+boson—to endow the particles of tables 1.1 and 1.2 with their observed masses. for this procedure
+to work, the higgs particle itself cannot be too heavy; studies show that its mass should certainly be
+no greater than about 1,000 times the mass of a proton. but it turns out that quantum fluctuations tend
+to contribute substantially to the mass of the higgs particle, potentially driving its mass all the way to
+the planck scale. theorists have found, however, that this outcome, which would uncover a m
+ 
+ ___________________________
+ 
+ame chirality), whereas in the type iia theory, they spin in both
+directions  (they  have  both  chiralities).  nevertheless,  each  theory  incorporates  supersymmetry.  the
+two  heterotic  theories  differ  in  a  similar  but  more  dramatic  way.  each  of  their  clockwise  string
+vibrations looks like those of the type ii string (when focusing on just the clockwise vibrations, the
+type iia and type iib theories are the same), but their counterclockwise vibrations are those of the
+original bosonic string theory. although the bosonic string has insurmountable problems when chosen
+for  both  clockwise  and  counterclockwise  string  vibrations,  in  1985  david  gross,  jeffrey  harvey,
+emil martinec, and ryan rhom (all then at princeton university and dubbed the "princeton string
+quartet") showed that a perfectly sensible theory emerges if it is used in combination with the type ii
+string.  the  really  odd  feature  of  this  union  is  that  it  has  been  known  since  the  work  of 
+ 
+ ___________________________
+ 
+ claude
+lovelace of rutgers university in 1971 and the work of richard brower of boston university, peter
+goddard of cambridge university, and charles thorn of the university of florida at gainesville in
+1972  that  the  bosonic  string  requires  a  26-dimensional  spacetime,  whereas  the  superstring,  as  we
+have  discussed,  requires  a  10-dimensional  one.  so  the  heterotic  string  constructions  are  a  strange
+hybrid—a heterosis—in  which  counterclockwise  vibrational  patterns  live  in  26  dimensions  and
+clockwise patterns live in 10 dimensions! before you get caught up in trying to make sense of this
+perplexing union, gross and his collaborators showed that the extra 16 dimensions on the bosonic
+ 
+ ___________________________
+ 
+
+side must be curled up into one of two very special higher-dimensional doughnutlike shapes, giving
+
+rise to the heterotic-o and heterotic-e theories. since the extra 16 dimensions on the bosonic side
+are rigidly curled up, each of these theories behaves as though it really has 10 dimensions, just as in
+the type ii case. again, both heterotic theories incorporate a version of supersymmetry. finally, the
+type i theory is a close cousin of the type iib string except that, in addition to the closed loops of
+string we have discussed in previous chapters, it also has strings with unconnected ends—so-called
+open strings.
+
+3. when we speak of "exact" answers in this chapter, such as the "e
+ 
+ ___________________________
+ 
+ began  some  15  billion  years  ago
+from a state of enormous energy, density, and compression.
+big crunch. one hypothesized future for the universe in which the current expansion stops, reverses,
+and results in all space and all matter collapsing together; a reversal of the big bang.
+black hole. an object whose immense gravitational field entraps anything, even light, that gets too
+close (closer than the black hole's event horizon).
+black-hole entropy the entropy embodied within a black hole.
+boson. a particle, or pattern of string vibration, with a whole number amount of spin; typically a
+messenger particle.
+bosonic string theory. first known string theory; contains vibrational patterns that are all bosons.
+bps states. configurations in a supersymmetric theory whose properties can be determined exactly
+by arguments rooted in symmetry.
+brane. any of the extended objects that arise in string theory. a one-brane is a string, a two-brane
+is a membrane, a three-brane has three extended dimens
+ 
+ ___________________________
+ 
+mental forces of nature. described by newton's
+universal theory of gravity, and subsequently by einstein's general relativity.
+graviton. smallest bundle of the gravitational force field; messenger particle for the gravitational
+force.
+
+heterotic-e string theory (heterotic e8 × e8 string theory). one of the five superstring theories;
+involves  closed  strings  whose  right-moving  vibrations  resemble  those  of  the type  ii  string  and
+whose  left-moving  vibrations  involve  those  of  the bosonic  string.  differs  in  important  but  subtle
+ways from the heterotic-o string theory.
+heterotic-o string theory (heterotic o(32) string theory). one of the five superstring theories;
+involves  closed  strings  whose  right-moving  vibrations  resemble  those  of  the type  ii  string  and
+whose  left-moving  vibrations  involve  those  of  the bosonic  string.  differs  in  important  but  subtle
+ways from the heterotic-e string theory.
+higher-dimensional  supergravity.  class  of supergravi
+ 
+ ___________________________
+ 
+ unit and that are paired by supersymmetry.
+superstring theory. string theory that incorporates supersymmetry.
+supersymmetric quantum field theory. quantum field theory incorporating supersymmetry.
+supersymmetric  standard  model.  generalization  of  the standard  model  of  particle  physics  to
+incorporate supersymmetry. entails a doubling of the known elementary particle species.
+supersymmetry. a symmetry principle that relates the properties of particles with a whole number
+amount of spin (bosons) to those with half a whole (odd) number amount of spin (fermions).
+symmetry. a property of a physical system that does not change when the system is transformed in
+some manner. for instance, a sphere is rotationally symmetrical since its appearance does not change
+if it is rotated.
+symmetry  breaking.  a  reduction  in  the  amount  of symmetry  a  system  appears  to  have,  usually
+associated with a phase transition.
+tachyon.  particle  whose  mass  (squared)  is  negative;  its  presence  
+ 
+ ___________________________
+ 
+with changes in its shape.
+virtual particles. particles that erupt from the vacuum momentarily; they exist on borrowed energy,
+consistent with the uncertainty principle, and rapidly annihilate, thereby repaying the energy loan.
+wave function. probability waves upon which quantum mechanics is founded.
+wavelength. the distance between successive peaks or troughs of a wave.
+wave-particle duality. basic feature of quantum mechanics that objects manifest both wavelike and
+particle-like properties.
+w bosons. see weak gauge boson.
+
+weak force, weak nuclear force.  one  of  the  four  fundamental  forces,  best  known  for  mediating
+radioactive decay.
+weak gauge boson. smallest bundle of the weak force field; messenger particle of the weak force;
+called w or z boson.
+weak gauge symmetry. gauge symmetry underlying the weak force.
+weakly coupled. theory whose string coupling constant is less than 1.
+winding energy. the energy embodied by a string wound around a circular dimension of space.
+winding 
+ 
+ ___________________________
+ 
+mode. a string configuration that wraps around a circular spatial dimension.
+winding number. the number of times a string is wound around a circular spatial dimension.
+world-sheet. two-dimensional surface swept out by a string as it moves.
+wormhole. a tube-like region of space connecting one region of the universe to another.
+z boson. see weak gauge boson.
+zero-dimensional sphere. see sphere.
+
+references and suggestions for further reading
+
+abbot, edwin a. flatland: a romance of many dimensions. princeton: princeton university press,
+1991.
+barrow, john d. theories of everything. new york: fawcett-columbine, 1992.
+bronowski, jacob. the ascent of man. boston: little, brown, 1973.
+clark, ronald w. einstein, the life and times. new york: avon, 1984.
+crease,  robert  p.,  and  charles  c.  mann. the  second  creation.  new  brunswick,  n.j.:  rutger

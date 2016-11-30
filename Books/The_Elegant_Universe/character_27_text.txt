@@ -1,0 +1,90 @@
+ this is not quite the end of the story. each of these particles has an antiparticle
+partner—a particle of identical mass but opposite in certain other respects such as its electric charge
+(as well as its charges with respect to other forces discussed below). for instance, the antiparticle of
+an electron is called a positron—it has exactly the same mass as an electron, but its electric charge is
++1  whereas  the  electric  charge  of  the  electron  is  -1.  when  in  contact,  matter  and  antimatter  can
+annihilate one another to produce pure energy—that's why there is extremely little naturally occurring
+antimatter in the world around us.
+
+physicists have recognized a pattern among these particles, displayed in table 1.1. the matter
+particles neatly fall into three groups, which are often called families. each family contains two of
+the  quarks,  an  electron  or  one  of  its  cousins,  and  one  of  the  neutrino  species.  the  corresponding
+particle types across the three families h
+ 
+ ___________________________
+ 
+ave identical properties except for their mass, which grows
+larger in each successive family. the upshot is that physicists have now probed the structure of matter
+to scales of about a billionth of a billionth of a meter and shown that everything encountered to date
+—whether it occurs naturally or is produced artificially with giant atom-smashers—consists of some
+combination of particles from these three families and their antimatter partners.
+
+a  glance  at  table  1.1  will  no  doubt  leave  you  with  an  even  stronger  sense  of  rabi's
+bewilderment  at  the  discovery  of  the  muon.  the  arrangement  into  families  at  least  gives  some
+semblance  of  order,  but  innumerable  "whys"  leap  to  the  fore.  why  are  there  so  many  fundamental
+particles, especially when it seems that the great majority of things in the world around us need only
+electrons, up-quarks, and down-quarks? why are there three families?
+ 
+ ___________________________
+ 
+lsive  "borrower"  of  energy  and  momentum,  constantly
+extracting "loans" from the universe and subsequently "paying" them back. but what participates in
+these  exchanges  in,  for  instance,  a  quiet empty region of space? everything. literally. energy (and
+momentum as well) is the ultimate convertible currency. e  = mc2 tells us that energy can be turned
+into matter and vice versa. thus if an energy fluctuation is big enough it can momentarily cause, for
+instance,  an  electron  and  its  antimatter  companion  the  positron  to  erupt  into  existence,  even  if  the
+region was initially empty! since this energy must be quickly repaid, these particles will annihilate
+one another after an instant, relinquishing the energy borrowed in their creation. and the same is true
+for  all  of  the  other  forms  that  energy  and  momentum  can  take—other  particle  eruptions  and
+annihilations,  wild  electromagnetic-field  oscillations,  weak  and  strong  force-field  fluctuations—
+quantum-m
+ 
+ ___________________________
+ 
+cle  quantum  field  theory  shows  that  essentially  the  same  thing  happens  when
+elementary particles collide—they scatter off one another and continue on deflected trajectories—but
+the details are a little different.
+
+figure 6.5 two particles interact—they "slam together"—and cause the path of each to be deflected.
+
+for  concreteness  and  simplicity,  imagine  that  one  of  the  two  particles  is  an  electron  and  the
+other is its antiparticle, the positron. when matter and antimatter collide, they can annihilate in a flash
+of pure energy, producing, for example, a photon.9 to distinguish the ensuing trajectory of the photon
+from the previous trajectories of the electron and positron, we follow a traditional physics convention
+and draw it with a wiggly line. the photon will typically travel for a bit and then release the energy
+derived  from  the  initial  electron-positron  pair  by  producing  another  electron-positron  pair  with
+trajectories as indicated on the far righ
+ 
+ ___________________________
+ 
+much like its mass or
+its electric charge. if an electron were not spinning, it would not be an electron.
+
+with this background on the concept of spin, let's now turn to the role it plays in revealing the
+
+although  early  work  focused  on  the  electron,  physicists  have  subsequently  shown  that  these
+ideas about spin apply equally well to all of the matter particles that fill out the three families of
+table 1.1. this is true down to the last detail: all of the matter particles (and their antimatter partners
+as well) have spin equal to that of the electron. in the language of the trade, physicists say that matter
+particles  all  have  "spin-1/2,"  where  the  value  1/2  is,  roughly  speaking,  a  quantum-mechanical
+measure  of  how  quickly  the  particles  rotate.2  moreover,  physicists  have  shown  that  the
+nongravitational force carriers—photons, weak gauge bosons, and gluons—also possess an intrinsic
+spinning characteristic that turns out to be twice that of the matter particl
+ 
+ ___________________________
+ 
+egrees  celsius,  or  0  on  the  kelvin
+scale.
+acceleration. a change in an object's speed or direction. see also velocity.
+accelerator. see particle accelerator.
+amplitude. the maximum height of a wave peak or the maximum depth of a wave trough.
+anthropic  principle.  doctrine  that  one  explanation  for  why  the  universe  has  the  properties  we
+observe is that, were the properties different, it is likely that life would not form and therefore we
+would not be here to observe the changes.
+antimatter.  matter  that  has  the  same  gravitational  properties  as  ordinary  matter,  but  that  has  an
+opposite electric charge as well as opposite nuclear force charges.
+antiparticle. a particle of antimatter.
+atb. acronym for "after the bang"; usually used in reference to time elapsed since the big bang.
+atom.  fundamental  building  block  of  matter,  consisting  of  a nucleus  (comprising protons  and
+neutrons) and an orbiting swarm of electrons.
+big bang.  currently  accepted  theory  that 

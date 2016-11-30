@@ -1,0 +1,568 @@
+at are huge and heavy (like
+stars  and  galaxies),  but  not  both.  this  means  that  they  need  use  only  quantum  mechanics or  only
+general relativity and can, with a furtive glance, shrug off the barking admonition of the other. for
+fifty years this approach has not been quite as blissful as ignorance, but it has been pretty close.
+
+but  the  universe can  be  extreme.  in  the  central  depths  of  a  black  hole  an  enormous  mass  is
+crushed to a minuscule size. at the moment of the big bang the whole of the universe erupted from a
+microscopic nugget whose size makes a grain of sand look colossal. these are realms that are tiny
+and  yet  incredibly  massive,  therefore  requiring  that  both  quantum  mechanics  and  general  relativity
+simultaneously be brought to bear. for reasons that will become increasingly clear as we proceed,
+the equations of general relativity and quantum mechanics, when combined, begin to shake, rattle, and
+gush  with  steam  like  a  red-lined  automobile
+ 
+ ___________________________
+ 
+would
+interweave  all  of  nature's  forces  and  material  constituents  within  a  single  theoretical  tapestry.  he
+failed. now, at the dawn of the new millennium, proponents of string theory claim that the threads of
+this elusive unified tapestry finally have been revealed. string theory has the potential to show that all
+of the wondrous happenings in the universe—from the frantic dance of subatomic quarks to the stately
+waltz of orbiting binary stars, from the primordial fireball of the big bang to the majestic swirl of
+heavenly galaxies—are reflections of one grand physical principle, one master equation.
+
+because these features of string theory require that we drastically change our understanding of
+space, time, and matter, they will take some time to get used to, to sink in at a comfortable level. but
+as shall become clear, when seen in its proper context, string theory emerges as a dramatic yet natural
+outgrowth of the revolutionary discoveries of physics during the past hundred 
+ 
+ ___________________________
+ 
+otion through space. but having used up all of its motion
+through  time,  this  is  the fastest  speed  through  space  that  the  object—any  object—can  possibly
+achieve. this is analogous to our car being test-driven directly in the north-south direction. just as the
+car will have no speed left for motion in the east-west dimension, something traveling at light speed
+through space will have no speed left for motion through time. thus light does not get old; a photon
+that emerged from the big bang is the same age today as it was then. there is no passage of time at
+light speed.
+
+what about e=mc2?
+
+although  einstein  did  not  advocate  calling  his  theory  "relativity"  (suggesting  instead  the  name
+"invariance" theory to reflect the unchanging character of the speed of light, among other things), the
+meaning  of  the  term  is  now  clear.  einstein's  work  showed  that  concepts  such  as  space  and  time,
+which  had  previously  seemed  to  be  separate  and  absolute,  are  act
+ 
+ ___________________________
+ 
+iness  of  the  original  experiment.
+nevertheless, in the last 40 years a variety of experiments making use of technological advancements
+have tested numerous aspects of general relativity with great precision. the predictions of general
+relativity have been uniformly confirmed. there is no longer any doubt that einstein's description of
+gravity is not only compatible with special relativity, but yields predictions closer to experimental
+results than those of newton's theory.
+
+black holes, the big bang, and the expansion of space
+
+whereas special relativity is most manifest when things are moving fast, general relativity comes into
+its own when things are very massive and the warps in space and time are correspondingly severe.
+let's describe two examples.
+
+the  first  is  a  discovery  made  by  the  german  astronomer  karl  schwarzschild  while  studying
+einstein's  revelations  on  gravity  in  between  his  own  calculations  of  artillery  trajectories  at  the
+russian  front  during  wo
+ 
+ ___________________________
+ 
+ity. and as the
+clock is turned back to ever earlier times, the whole of the cosmos is compressed to the size of an
+orange, a lemon, a pea, a grain of sand, and to yet tinier size still. extrapolating all the way back to
+"the beginning," the universe would appear to have begun as a point—an image we will critically re-
+examine  in  later  chapters—in  which  all  matter  and  energy  is  squeezed  together  to  unimaginable
+density and temperature. it is believed that a cosmic fireball, the big bang, erupted from this volatile
+mixture spewing forth the seeds from which the universe as we know it evolved.
+
+the image of the big bang as a cosmic explosion ejecting the material contents of the universe
+like shrapnel from an exploding bomb is a useful one to bear in mind, but it is a little misleading.
+when a bomb explodes, it does so at a particular location in space  and  at  a  particular  moment in
+time.  its  contents  are  ejected  into  the  surrounding  space.  in  the  big  bang,  ther
+ 
+ ___________________________
+ 
+e  is  no  surrounding
+space. as  we  devolve  the  universe  backward  toward  the  beginning,  the  squeezing  together  of  all
+material content occurs because all of space is shrinking. the orange-size, the pea-size, the grain of
+sand–size  devolution  describes  the whole  of  the  universe—not  something  within  the  universe.
+carrying  on  to  the  beginning,  there  is  simply  no  space  outside  the  primordial  pinpoint  grenade.
+instead, the big bang is the eruption of compressed space whose unfurling, like a tidal wave, carries
+along matter and energy even to this day.
+
+is general relativity right?
+
+no deviations from the predictions of general relativity have been found in experiments performed
+with  our  present  level  of  technology.  only  time  will  tell  if  greater  experimental  precision  will
+ultimately uncover some, thereby showing this theory, too, to be only an approximate description of
+how nature actually works. the system
+ 
+ ___________________________
+ 
+  with  still  another  theoretical  conflict  whose
+
+severity  is  on  par  with  that  between  special  relativity  and  newtonian  gravity.  general  relativity
+appears  to  be  fundamentally  incompatible  with  another  extremely  well-tested  theory: quantum
+mechanics.  regarding  the  material  covered  in  this  chapter,  the  conflict  prevents  physicists  from
+understanding  what  really  happens  to  space,  time,  and  matter  when  crushed  together  fully  at  the
+moment of the big bang or at the central point of a black hole. but more generally, the conflict alerts
+us to a fundamental deficiency in our conception of nature. the resolution of this conflict has eluded
+attempts  by  some  of  the  greatest  theoretical  physicists,  giving  it  a  well-deserved  reputation  as the
+central problem of modern theoretical physics. understanding the conflict requires familiarity with
+some basic features of quantum theory, to which we now turn.
+
+chapter 4
+
+microscopic weirdness
+
+a bi
+ 
+ ___________________________
+ 
+radio and tv signals, x-rays—have
+an  indisputable  macroscopic  presence.  nevertheless,  glashow,  salam,  and  weinberg  showed,  in
+essence, that at high enough energy and temperature—such as occurred a mere fraction of a second
+after  the  big  bang—electromagnetic  and  weak  force  fields dissolve  into  one  another,  take  on
+indistinguishable  characteristics,  and  are  more  accurately  called electroweak  fields.  when  the
+temperature drops, as it has done steadily since the big bang, the electromagnetic and weak forces
+crystallize out in a different manner from their common high-temperature form—through a process
+known as symmetry breaking that we will describe later—and therefore appear to be distinct in the
+cold universe we currently inhabit.
+
+and  so,  if  you  are  keeping  score,  by  the  1970s  physicists  had  developed  a  sensible  and
+successful quantum-mechanical description of three of the four forces (strong, weak, electromagnetic)
+and had shown that two 
+ 
+ ___________________________
+ 
+at  the  birth  of  the  universe  would  have  been  high  enough  to  produce  these
+particles copiously. in general one would not expect them to survive to the present day, as such super-
+heavy particles are usually unstable, relinquishing their enormous mass by decaying into a cascade of
+ever  lighter  particles,  ending  with  the  familiar,  relatively  light  particles  in  the  world  around  us.
+however, it is possible that such a super-heavy vibrational string state—a relic from the big bang—
+did survive to the present. finding such particles, as we discuss more fully in chapter 9, would be a
+monumental discovery, to say the least.
+
+gravity and quantum mechanics in string theory
+
+the unified framework that string theory presents is compelling. but its real attraction is the ability to
+ameliorate  the  hostilities  between  the  gravitational  force  and  quantum  mechanics.  recall  that  the
+problem in merging general relativity and quantum mechanics turns up when the central te
+ 
+ ___________________________
+ 
+icle. but when its energy is increased beyond
+the value required for probing structures on the scale of the planck length, the additional energy does
+not sharpen the string probe. rather, the energy causes the string to grow in size, thereby diminishing
+its short-distance sensitivity. in fact, although the size of a typical string is the planck length, if we
+pumped enough energy into a string—an amount of energy beyond our wildest imaginings but one that
+would likely have been attained by the big bang—we could cause it to grow to a macroscopic size, a
+clumsy probe of the microcosmos indeed! it's as if a string, unlike a point particle, has two sources of
+smearing: quantum jitters, as for a point particle, and also its own inherent spatial extent. increasing a
+string's energy decreases the smearing from the first source but ultimately increases the smearing from
+the second. the upshot is that no matter how hard you try, the extended nature of a string prevents you
+from using it to probe phe
+ 
+ ___________________________
+ 
+ve figured them all out). after
+all, what meaning can we give to the term "law" if it can abruptly change? this does not mean that the
+universe is static; the universe certainly changes in innumerable ways from each moment to the next.
+rather,  it  means  that  the  laws  governing  such  evolution  are  fixed  and  unchanging. you  might  ask
+whether we really know this to be true. in fact, we don't. but our success in describing numerous
+features of the universe, from a brief moment after the big bang right through to the present, assures us
+that  if  the  laws  are  changing  they  must  be  doing  so  very  slowly.  the  simplest  assumption  that  is
+consistent with all that we know is that the laws are fixed.
+
+now  imagine  a  universe  in  which  the  laws  of  physics  are  as  parochial  as  local  culture—
+changing unpredictably from place to place and defiantly resisting any outside influence to conform.
+like  the  adventures  of  gulliver,  travels  in  such  a  world  would  exp
+ 
+ ___________________________
+ 
+tended,  or  all  curled  up,  or  some  other
+possibility in between? at present no one knows the answer to this question. if string theory is right,
+we should eventually be able to extract the answer, but as yet our understanding of the theory is not
+refined enough to reach this goal. that's not to say that there haven't been valiant attempts to explain
+it. for instance, from a cosmological perspective, we can imagine that all of the dimensions start out
+being tightly curled up and then, in a big bang–like explosion, three spatial dimensions and one time
+dimension unfurl and expand to their present large extent while the other spatial dimensions remain
+small. rough arguments have been put forward as to why only three space dimensions grow large, as
+we will discuss in chapter 14, but it's fair to say that these explanations are only in the formative
+stages.  in  what  follows,  we  will  assume  that  all  but  three  space  dimensions  are  curled  up,  in
+accordance with what we see aroun
+ 
+ ___________________________
+ 
+nstitute very strong evidence
+for string theory.
+
+some longer shots
+
+there are yet other ways in which evidence for string theory might be found. for example, witten has
+pointed out the long-shot possibility that astronomers might one day see a direct signature of string
+theory in the data they collect from observing the heavens. as encountered in chapter 6, the size of a
+string is typically the planck length, but strings that are more energetic can grow substantially larger.
+the energy of the big bang, in fact, would have been high enough to produce a few macroscopically
+large  strings  that,  through  cosmic  expansion,  might  have  grown  to  astronomical  scales.  we  can
+imagine that now or sometime in the future, a string of this sort might sweep across the night sky,
+leaving an unmistakable and measurable imprint on data collected by astronomers (such as a small
+shift in the cosmic microwave background temperature; see chapter 14). as witten says, "although
+somewhat fanciful, this is 
+ 
+ ___________________________
+ 
+s crude manner proves to be a very accurate
+
+approximation, as evidenced by the success of general relativity in a cosmological context. but in the
+ultramicroscopic realm, the extended nature of the string ensures that riemann's geometry simply will
+not  be  the  right  mathematical  formalism.  instead,  as  we  will  now  see,  it  must  be  replaced  by  the
+quantum geometry of string theory, leading to dramatically new and unexpected properties.
+
+a cosmological playground
+
+according to the big bang model of cosmology, the whole of the universe violently emerged from a
+singular  cosmic  explosion,  some  15  or  so  billion  years  ago.  today,  as  originally  discovered  by
+hubble, we can see that the "debris" from this explosion, in the form of many billions of galaxies, is
+still streaming outward. the universe is expanding. we do not know whether this cosmic growth will
+continue forever or if there will come a time when the expansion slows to a halt and then reverses
+itself,  leading  
+ 
+ ___________________________
+ 
+han the planck length,
+the physics we encounter—as discussed in previous sections—will be identical to that of a universe
+in which the radius, in the conventional sense of distance, is larger than the planck length (as attested
+to, for example, by the exact correspondence between tables 10.1 and 10.2). and it is physics, not
+language, that really matters.
+
+brandenberger, vafa, and other physicists have made use of these ideas to suggest a rewriting of
+the laws of cosmology in which both the big bang and the possible big crunch do not involve a zero-
+size universe, but rather one that is planck-length in all dimensions. this is certainly a very appealing
+proposal for avoiding the mathematical, physical, and logical conundrums of a universe that emanates
+from  or  collapses  to  an  infinitely  dense  point. although  it  is  conceptually  difficult  to  imagine  the
+whole of the universe compressed together into a tiny planck-sized nugget, it is truly beyond the pale
+to imagine it crushed t
+ 
+ ___________________________
+ 
+o a point of no size at all. string cosmology, as we shall discuss in chapter 14,
+is a field very much in its infancy but one that holds great promise, and may very well provide us with
+this easier-to-swallow alternative to the standard big bang model.
+
+how general is this conclusion?
+
+what  if  the  spatial  dimensions  are  not  circular  in  shape?  do  these  remarkable  conclusions  about
+minimum spatial extent in string theory still hold? no one knows for sure. the essential aspect of
+circular  dimensions  is  that  they  permit  the  possibility  of  wound  strings.  as  long  as  the  spatial
+dimensions—regardless of the details of their shape—allow strings to wind around them, most of the
+conclusions  we  have  drawn  shou
+ 
+ ___________________________
+ 
+mewhat
+artificial. although our and witten's analyses did rely on special mathematical features of calabi-yau
+shapes, the result—that the fabric of space can tear—is certainly of wider applicability.
+
+second,  could  such  a  topology-changing  tear  happen  today  or  tomorrow?  could  it  have
+happened  in  the  past? yes.  experimental  measurements  of  elementary  particle  masses  show  their
+values to be quite stable over time. but if we head back to the earliest epochs following the big bang,
+even non-string-based theories invoke important periods during which elementary particle masses do
+change over time. these periods, from a string-theoretic perspective, could certainly have involved
+the topology-changing tears discussed in this chapter. closer to the present, the observed stability of
+elementary particle masses implies that if the universe is currently undergoing a topology-changing
+spatial tear, it must be doing it exceedingly slowly—so slowly that its effect on elementary 
+ 
+ ___________________________
+ 
+itions  and  velocities  of  every  particle  in  the
+universe, you can use newton's laws of motion to determine—at least in principle—their positions
+and velocities at any other prior or future time. from this perspective, any and all occurrences, from
+the  formation  of  the  sun  to  the  crucifixion  of  christ,  to  the  motion  of  your  eyes  across  this  word,
+strictly follow from the precise positions and velocities of the particulate ingredients of the universe
+a moment after the big bang. this rigid lock-step view of the unfolding of the universe raises all sorts
+of  perplexing  philosophical  dilemmas  surrounding  the  question  of  free  will,  but  its  import  was
+substantially  diminished  by  the  discovery  of  quantum  mechanics.  we  have  seen  that  heisenberg's
+uncertainty  principle  undercuts  laplacian  determinism  because  we  fundamentally  cannot  know  the
+precise positions and velocities of the constituents of the universe. instead, these classical propert
+ 
+ ___________________________
+ 
+the pre–string theory cosmological story, which is often referred to as the standard model of
+cosmology.
+
+the standard model of cosmology
+
+the modern theory of cosmic origins dates from the decade and a half after einstein's completion of
+general relativity. although einstein refused to take his own theory at face value and accept that it
+implies that the universe is neither eternal nor static, alexander friedmann did. and as we discussed
+in chapter 3, friedmann found what is now known as the big bang solution to einstein's equations—a
+solution that declares that the universe violently emerged from a state of infinite compression, and is
+currently  in  the  expanding  aftermath  of  that  primeval  explosion.  so  certain  was  einstein  that  such
+time-varying solutions were not a result of his theory that he published a short article claiming to have
+found a fatal flaw in friedmann's work. some eight months later, however, friedmann succeeded in
+convincing  einstein  that  there  was,  i
+ 
+ ___________________________
+ 
+ed  that,  indeed,  the  universe  is
+expanding. friedmann's work, refashioned in a more systematic and efficient form by the physicists
+howard robertson and arthur walker, still forms the foundation of modern cosmology.
+
+in a little more detail, the modern theory of cosmic origins goes like this. some 15 billion or so
+years ago, the universe erupted from an enormously energetic, singular event, which spewed forth all
+of space and all of matter. (you don't have to search far to locate where the big bang occurred, for it
+took place where you are now as well as everywhere else; in the beginning, all locations we now see
+
+as separate were the same location.) the temperature of the universe a mere 10-43 seconds after the
+bang,  the  so-called planck  time,  is  calculated  to  have  been  about  1032  kelvin,  some  10  trillion
+trillion  times  hotter  than  the  deep  interior  of  the  sun. as  time  passed,  the  universe  expanded  and
+cooled, and as it did, the initial homogeneous, roiling 
+ 
+ ___________________________
+ 
+ before being deflected or absorbed. the charged-particle barrier to the
+free motion of photons would have made the universe appear almost completely opaque, much like
+what you may have experienced in a dense morning fog or a blinding, gusty snowstorm. but when
+negatively  charged  electrons  were  brought  into  orbit  around  positively  charged  nuclei,  yielding
+electrically neutral atoms, the charged obstructions disappeared and the dense fog lifted. from that
+time onward, photons from the big bang have traveled unhindered and the full expanse of the universe
+gradually came into view.
+
+about a billion years later, with the universe having substantially calmed down from its frenetic
+beginnings, galaxies, stars, and ultimately planets began to emerge as gravitationally bound clumps of
+the primordial elements. today, some 15 billion or so years after the bang, we can marvel at both the
+magnificence of the cosmos and at our collective ability to have pieced together a reasonable and
+experimen
+ 
+ ___________________________
+ 
+tally testable theory of cosmic origin.
+
+but how much faith should we really have in the big bang theory?
+
+putting the big bang to the test
+
+by looking out into the universe with their most powerful telescopes, astronomers can see light that
+was emitted from galaxies and quasars just a few billion years after the big bang. this allows them to
+verify the expansion of the universe predicted by the big bang theory back to this early phase of the
+universe, and everything checks out to a "t." to test the theory to yet earlier times, physicists and
+astronomers must make use of more indirect methods. one of the most refined approaches involves
+something known as cosmic background radiation.
+
+if you've ever felt a bicycle tire after vigorously pumping it full of air, you know that it is warm
+to  the  touch.  some  of  the  energy  you  expend  in  the  repeated  pumping  motion  is  transferred  to  an
+ 
+ ___________________________
+ 
+bert hermann in the
+1950s, and robert dicke and jim peebles in the mid-1960s, realized that the present-day universe
+should be permeated by an almost uniform bath of these primordial photons, which, through the last
+15 billion years of cosmic expansion, have cooled to a mere handful of degrees above absolute zero.1
+in 1965, arno penzias and robert wilson of bell laboratories in new jersey accidentally made one
+of the most important discoveries of our age when they detected this afterglow of the big bang while
+working  on  an  antenna  intended  for  use  with  communication  satellites.  subsequent  research  has
+refined both theory and experiment, culminating in measurements taken by nasa's cobe (cosmic
+background explorer) satellite in the early 1990s. with these data, physicists and astronomers have
+confirmed  to  high  precision  that  the  universe is filled with microwave radiation (if our eyes were
+sensitive to microwaves, we would see a diffuse glow in the world around us) whose temper
+ 
+ ___________________________
+ 
+ature is
+about 2.7 degrees above absolute zero, exactly in keeping with the expectation of the big bang theory.
+in  concrete  terms,  in every cubic meter of the universe—including the one you now occupy—there
+are,  on  average,  about  400  million  photons  that  collectively  compose  the  vast  cosmic  sea  of
+microwave  radiation,  an  echo  of  creation. a  percentage  of  the  "snow"  you  see  on  your  television
+screen  when  you  disconnect  the  cable  feed  and  tune  to  a  station  that  has  ceased  its  scheduled
+broadcasts is due to this dim aftermath of the big bang. this m
+ 
+ ___________________________
+ 
+atch between theory and experiment
+confirms the big bang picture of cosmology as far back as the time that photons first moved freely
+through the universe, about a few hundred thousand years after the bang (atb).
+
+can we push further in our tests of the big bang theory to even earlier times? we can. by using
+standard principles of nuclear theory and thermodynamics, physicists can make definite predictions
+about  the  relative  abundance  of  the  light  elements  produced  during  the  period  of  primordial
+nucleosynthesis, between a hundredth of a second and a few minutes atb. according to theory, for
+example, about 23 percent of the universe should be composed of helium. by measuring the helium
+abundance  in  stars  and  nebulae,  astronomers  have 
+ 
+ ___________________________
+ 
+efore examine the efficacy of information
+exchange between them in the early universe. at first you might think that since the positions were
+closer together at earlier times, communication was ever easier. but spatial proximity is only one part
+of the story. the other part is temporal duration.
+
+to  examine  this  more  fully,  let's  imagine  studying  a  "film"  of  the  cosmic  expansion,  but  let's
+review it in reverse, running the film backward in time from today toward the moment of the big bang.
+since the speed of light sets a limit to how fast any signal or information of any kind can travel, matter
+in two regions of space can exchange heat energy and thereby have a chance of coming to a common
+temperature only if the distance between them at a given moment is less than the distance light can
+have traveled since the time of the big bang. and so, as we roll the film backward in time we see that
+there is a competition between how close together our spatial regions become versus how far
+ 
+ ___________________________
+ 
+now  of  the  massachusetts  institute  of
+technology, wrote the missing chapter.
+
+inflation
+
+the root of the horizon problem is that in order to get two widely separated regions of the universe
+close together, we have to run the cosmic film way back toward the beginning of time. so far back, in
+fact, that there is not enough time for any physical influence to have traveled from one region to the
+other. the difficulty, therefore, is that as we run the cosmological film backward and approach the
+big bang, the universe does not shrink at a fast enough rate.
+
+well,  that's  the  rough  idea,  but  it's  worthwhile  sharpening  the  description  a  bit.  the  horizon
+problem stems from the fact that like a ball tossed upward, the dragging pull of gravity causes the
+expansion rate of the universe to slow down. this means that, for example, to halve the separation
+between  two  locations  in  the  cosmos  we  must  run  the  film  back  more  than  halfway  toward  its
+beginning. in turn, we see tha
+ 
+ ___________________________
+ 
+rd cosmological model solves the horizon problem
+(as  well  as  a  number  of  other  important  problems  we  have  not  discussed)  and  has  gained  wide
+acceptance among cosmologists.3
+
+we summarize the history of the universe from just after the planck time to the present, according
+
+to the current theory, in figure 14.1.
+
+figure 14.1 a time line denoting a few key moments in the history of the universe.
+
+cosmology and superstring theory
+
+there remains a sliver of figure 14.1, between the big bang and the planck time, that we have not yet
+discussed. by blindly applying the equations of general relativity to that region, physicists have found
+that the universe continues to get ever smaller, ever hotter, and ever denser, as we move backward in
+time toward the bang. at time zero, as the size of the universe vanishes, the temperature and density
+soar to infinity, giving us the most extreme signal that this theoretical model of the universe, firmly
+rooted in the classical gravitational framew
+ 
+ ___________________________
+ 
+a  minimal  length  in  order  to  avoid  the  infinite  temperature  and  energy  density  that
+arises  in  the  standard  and  inflationary  cosmological  theories.  but  rather  than  concluding  that  this
+means the universe begins as an extremely hot planck-size nugget, gasperini and veneziano suggest
+that there may be a whole prehistory to the universe—starting long before what we have so far been
+calling time zero—that leads up to the planckian cosmic embryo.
+
+in this so-called pre–big bang scenario, the universe began in a vastly different state than it does
+in  the  big  bang  framework.  gasperini  and  veneziano's  work  suggests  that  rather  than  being
+enormously  hot  and  tightly  curled  into  a  tiny  spatial  speck,  the  universe  started  out  as  cold  and
+essentially infinite in spatial extent. the equations of string theory then indicate that—somewhat as in
+guth's inflationary epoch—an instability kicked in, driving every point in the universe to rush rapidly
+ 
+ ___________________________
+ 
+
+away from every other. gasperini and veneziano show that this caused space to become increasingly
+curved  and  results  in  a  dramatic  increase  in  temperature  and  energy  density.7 after  some  time,  a
+millimeter-sized three-dimensional region within this vast expanse could look just like the super-hot
+and dense patch emerging from guth's inflationary expansion. then, through the standard expansion of
+ordinary big bang cosmology, this patch can account for the whole of the universe with which we are
+familiar. moreover, because the pre–big bang epoch involves its own inflationary expansion, guth's
+solution to the horizon problem is automatically built into the pre–big bang cosmological scenario. as
+veneziano has said, "string theory offers us a version of inflationary cosmology on a silver platter."8
+the study of superstring cosmology is rapidly becoming an active and fertile arena of research.
+the pre–b
+ 
+ ___________________________
+ 
+erses, we
+can imagine that we will never come into contact with any of them. but by vastly increasing the scope
+of "what's out there"—in a manner that dwarfs hubble's realization that the milky way is but one
+galaxy among many—the concept of the multiverse does at least alert us to the possibility that we may
+be asking too much of an ultimate theory.
+
+a more radical musing comes from a proposal of lee smolin of penn state university, who,
+inspired by the similarity between conditions at the big bang and at the centers of black holes—each
+being characterized by a colossal density of crushed matter—has suggested that every black hole is
+the seed for a new universe that erupts into existence through a big bang–like explosion, but is forever
+
+we should require that our ultimate theory give a quantum-mechanically consistent description
+of  all  forces  and  all  matter.  we  should  require  that  our  ultimate  theory  give  a  cogent  cosmology
+within our universe. however, if the multi
+ 
+ ___________________________
+ 
+.
+in fact, however, this discussion illustrates that an ultimate explanation can yet be achieved, so long
+as we grasp not only the ultimate laws but also their implications for cosmological evolution on an
+unexpectedly grand scale.
+
+undoubtedly, the cosmological implications of string/m-theory will be a major field of study
+well into the twenty-first century. without accelerators capable of producing planck-scale energies,
+we will increasingly have to rely on the cosmological accelerator of the big bang, and the relics it has
+left for us throughout the universe, for our experimental data. with luck and perseverance, we may
+finally be able to answer questions such as how the universe began, and why it has evolved to the
+form we behold in the heavens and on earth. there is, of course, much uncharted territory between
+where we are and where full answers to these fundamental questions lie. but the development of a
+quantum theory of gravity through superstring theory lends credence to the hope that
+ 
+ ___________________________
+ 
+xtent to which it poses serious challenges to
+aspects  of  our  worldview  that  had  previously  seemed  immutable.  by  this  measure,  quantum
+mechanics  and  the  theories  of  relativity  are  deep  beyond  anyone's  wildest  expectations:  wave
+functions, probabilities, quantum tunneling, the ceaseless roiling energy fluctuations of the vacuum,
+the  smearing  together  of  space  and  time,  the  relative  nature  of  simultaneity,  the  warping  of  the
+spacetime fabric, black holes, the big bang. who could have guessed that the intuitive, mechanical,
+clockwork newtonian perspective would turn out to be so thoroughly parochial—that there was a
+whole  new  mind-boggling  world  lying  just  beneath  the  surface  of  things  as  they  are  ordinarily
+experienced?
+
+but even these paradigm-shaking discoveries are only part of a larger, all-encompassing story.
+with  solid  faith  that  laws  of  the  large  and  the  small  should  fit  together  into  a  coherent  whole,
+physicists are r
+ 
+ ___________________________
+ 
+r  why  the  universe  has  the  properties  we
+observe is that, were the properties different, it is likely that life would not form and therefore we
+would not be here to observe the changes.
+antimatter.  matter  that  has  the  same  gravitational  properties  as  ordinary  matter,  but  that  has  an
+opposite electric charge as well as opposite nuclear force charges.
+antiparticle. a particle of antimatter.
+atb. acronym for "after the bang"; usually used in reference to time elapsed since the big bang.
+atom.  fundamental  building  block  of  matter,  consisting  of  a nucleus  (comprising protons  and
+neutrons) and an orbiting swarm of electrons.
+big bang.  currently  accepted  theory  that  the  expanding  universe  began  some  15  billion  years  ago
+from a state of enormous energy, density, and compression.
+big crunch. one hypothesized future for the universe in which the current expansion stops, reverses,
+and results in all space and all matter collapsing together; a reversal of the bi
+ 
+ ___________________________
+ 
+
+showing that the universe is not fully left-right symmetric.
+closed string. a type of string that is in the shape of a loop.
+conifold transition. evolution of the calabi-yau portion of space in which its fabric rips and repairs
+itself, yet with mild and acceptable physical consequences in the context of string theory. the tears
+involved are more severe than those in a flop transition.
+cosmic microwave  background  radiation.  microwave  radiation  suffusing  the  universe,  produced
+during the big bang and subsequently thinned and cooled as the universe expanded.
+cosmological  constant.  a  modification  of general  relativity's  original  equations,  allowing  for  a
+static universe; interpretable as a constant energy density of the vacuum.
+coupling constant. see string coupling constant.
+curled-up dimension. a spatial dimension that does not have an observably large spatial extent; a
+spatial  dimension  that  is  crumpled,  wrapped,  or  curled  up  into  a  tiny  size,  thereby  evading  d
+ 
+ ___________________________
+ 
+ of the discrete units of energy, mass, spin, etc. into which
+the microscopic world is partitioned. its value is 1.05 × 10-27 grams-cm/sec.
+planck tension. about 1039 tons. the tension on a typical string in string theory.
+planck time. about 10-43 seconds. time at which the size of the universe was roughly the planck
+length; more precisely, time it takes light to travel the planck length.
+primordial nucleosynthesis. production of atomic nuclei occurring during the first three minutes after
+the big bang.
+principle of equivalence.  core  principle  of general relativity declaring the indistinguishability of
+accelerated motion and immersion in a gravitational field (over small enough regions of observation).
+generalizes  the principle  of  relativity  by  showing  that  all  observers,  regardless  of  their  state  of
+motion, can claim to be at rest, so long as they acknowledge the presence of a suitable gravitational
+field.
+principle  of  relativity.  core  principle  of special  relativity  d

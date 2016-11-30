@@ -1,0 +1,79 @@
+t entered into his new calculations, he
+could  predict  accurately  the  measured  energy  of  an  oven  for  any  selected  temperature.  this  one
+parameter  is  the  proportionality  factor  between  the  frequency  of  a  wave  and  the  minimal  lump  of
+energy it can have. planck found that this proportionality factor—now known as planck's  constant
+and  denoted h  (pronounced  "h-bar")—is  about  a  billionth  of  a  billionth  of  a  billionth  in  everyday
+units.4 the tiny value of planck's constant means that the size of the energy lumps are typically very
+small. this is why, for example, it seems to us that we can cause the energy of a wave on a violin
+string—and hence the volume of sound it produces—to change continuously. in reality, though, the
+energy of the wave passes through discrete steps, a la planck, but the size of the steps is so small that
+the discrete jumps from one volume to another appear to be smooth. according to planck's assertion,
+the size of these jumps in energy 
+ 
+ ___________________________
+ 
+in  used  this  new  conception  to  suggest  a
+
+microscopic  mechanism  underlying  the  photoelectric  effect: an  electron  is  knocked  off  a  metallic
+surface, he proposed, if it gets hit by a sufficiently energetic photon. and what determines the energy
+of  an  individual  photon?  to  explain  the  experimental  data,  einstein  followed  planck's  lead  and
+proposed that the energy of each photon is proportional to the frequency of the light wave (with the
+proportionality factor being planck's constant).
+
+now, like the children's minimum departure fee, the electrons in a metal must be jostled by a
+photon  posessing  a  certain  minimum  energy  in  order  to  be  kicked  off  the  surface.  (as  with  the
+children fighting for money, it is extremely unlikely that any one electron gets hit by more than one
+photon—most  don't  get  hit  at  all.)  but  if  the  impinging  light  beam's  frequency  is  too  low,  its
+individual photons will lack the punch necessary to eject electrons. just as 
+ 
+ ___________________________
+ 
+ is  rendered  inconsistent  on  short  distance  (and  time)  scales.  the
+central tenet of a smooth and gently curving geometry is justified in the large but breaks down due to
+quantum fluctuations when pushed to the small.
+
+the  basic  principles  of  general  relativity  and  quantum  mechanics  allow  us  to  calculate  the
+approximate  distance  scales  below  which  one  would  have  to  shrink  in  order  for  the  pernicious
+phenomenon of figure 5.1 to become apparent. the smallness of planck's constant—which governs
+the strength of quantum effects—and the intrinsic weakness of the gravitational force team up to yield
+a result called the planck length, which is small almost beyond imagination: a millionth of a billionth
+of  a  billionth  of  a  billionth  of  a  centimeter  (10-33  centimeter).7  the  fifth  level  in  figure  5.1  thus
+schematically  depicts  the  ultramicroscopic,  sub–planck  length  landscape  of  the  universe.  to  get  a
+sense of scale, if we were to magnify an at
+ 
+ ___________________________
+ 
+history of these developments,
+the  interested  reader  should  consult  thomas  s.  kuhn, black-body  theory  and  the  quantum
+discontinuity, 1894–1912 (oxford, eng.: clarendon, 1978).
+
+3. a little more precisely, planck showed that waves whose minimum energy content exceeds
+their  purported average  energy  contribution  (according  to  nineteenth-century  thermodynamics)  are
+exponentially suppressed. this suppression is increasingly sharp as we examine waves of ever larger
+frequency.
+
+4. planck's constant is 1.05 × 10-27 grams-centimeters2/second.
+5. timothy ferris, coming of age in the milky way (new york: anchor, 1989), p. 286.
+6. stephen hawking, lecture at the amsterdam symposium on gravity, black holes, and string
+
+theory, june 21, 1997.
+
+7. it is worthwhile to note that feynman's approach to quantum mechanics can be used to derive
+the  approach  based  on  wave  functions,  and  vice  versa;  the  two  approaches,  therefore,  are  fully
+equivalent.  nevertheless,  the  concepts,  the  la
+ 
+ ___________________________
+ 
+balls and hence their
+surfaces, in any number of dimensions. a one-dimensional sphere is a fancy name for a circle; a zero-
+dimensional sphere is two points (as explained in the text). a three-dimensional sphere is harder to
+picture; it is the surface of a four-dimensional ball.
+spin.  a  quantum-mechanical  version  of  the  familiar  notion  of  the  same  name;  particles  have  an
+intrinsic  amount  of  spin  that  is  either  a  whole  number  or  half  a  whole  number  (in  multiples  of
+planck's constant), and which never changes.
+standard  model  of  cosmology.  big  bang  theory  together  with  an  understanding  of  the  three
+nongravitational forces as summarized by the standard model of particle physics.
+standard model of particle physics, standard model, standard theory. an enormously successful
+theory of the three nongravitational forces and their action on matter. effectively the union of quantum
+chromodynamics and the electroweak theory.
+string. fundamental one-dimensional object that

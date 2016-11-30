@@ -1,0 +1,330 @@
+y regarding
+the  microcosmos  agree  spectacularly  with  experimental  results.  this  is  true  up  to  the  energies
+
+capable of pulverizing matter into bits as small as a billionth of a billionth of a meter, the current
+technological limit. for this reason, physicists call the theory of the three nongravitational forces and
+the  three  families  of  matter  particles  the  standard  theory,  or  (more  often)  the standard  model  of
+particle physics.
+
+messenger particles
+
+according to the standard model, just as the photon is the smallest constituent of an electromagnetic
+field, the strong and the weak force fields have smallest constituents as well. as we discussed briefly
+in chapter 1, the smallest bundles of the strong force are known as gluons, and those of the weak
+force are known as weak gauge bosons (or more precisely, the w and z bosons). the standard model
+instructs us to think of these force particles as having no internal structure—in this framework they
+are every bit as elementar
+ 
+ ___________________________
+ 
+t  the  song  of  nature  in  the  gentle
+wanderings  of  celestial  bodies  and  the  riotous  fulminations  of  subatomic  particles.  with  the
+discovery of superstring theory, musical metaphors take on a startling reality, for the theory suggests
+that the microscopic landscape is suffused with tiny strings whose vibrational patterns orchestrate the
+evolution  of  the  cosmos.  the  winds  of  change,  according  to  superstring  theory,  gust  through  an
+aeolian universe.
+
+by contrast, the standard model views the elementary constituents of the universe as pointlike
+ingredients  with  no  internal  structure.  as  powerful  as  this  approach  is  (as  we  have  mentioned,
+essentially  every  prediction  about  the  microworld  made  by  the  standard  model  has  been  verified
+down to about a billionth of a billionth of a meter, the present-day technological limit), the standard
+model cannot be a complete or final theory because it does not include gravity. moreover, attempts to
+incorporate g
+ 
+ ___________________________
+ 
+and  structure  of  string  theory. as  michael  green  has
+said, "the moment you encounter string theory and realize that almost all of the major developments
+in physics over the last hundred years emerge—and emerge with such elegance—from such a simple
+starting point, you realize that this incredibly compelling theory is in a class of its own."5 moreover,
+for many of these features, as we shall discuss, string theory offers a far fuller and more satisfying
+explanation than is found in the standard model. these developments convinced many physicists that
+string theory was well on its way to fulfilling its promise of being the ultimate unified theory.
+
+nonetheless, over and over again string theorists encountered a significant stumbling block. in
+theoretical  physics  research,  one  is  frequently  confronted  with  equations  that  are  just  too  hard  to
+understand  or  to  analyze.  typically,  physicists  don't  give  up,  but  try  to  solve  the  equations
+approximately. the situation i
+ 
+ ___________________________
+ 
+elect  the
+particular list of particles and forces outlined in previous chapters and recorded in tables 1.1 and
+1.2? why do the 19 parameters that describe these ingredients quantitatively have the values that they
+do? you  can't  help  feeling  that  their  number  and  detailed  properties  seem  so  arbitrary.  is  there  a
+deeper  understanding  lurking  behind  these  seemingly  random  ingredients,  or  were  the  detailed
+physical properties of the universe "chosen" by happenstance?
+
+the standard model itself cannot possibly offer an explanation since it takes the list of particles
+and their properties as experimentally measured input. just as the performance of the stock market
+cannot  be  used  to  determine  the  value  of  your  portfolio  without  the  input  data  of  your  initial
+investments, the standard model cannot be used to make any predictions without the input data of the
+fundamental  particle  properties.6 after  experimental  particle  physicists  fastidiously  measure  these
+ 
+ ___________________________
+ 
+
+data,  theorists  can  then  use  the  standard  model  to  make  testable  predictions,  such  as  what  should
+happen when particular particles are slammed together in an accelerator. but the standard model can
+no  more  explain  the  fundamental  particle  properties  of  tables  1.1  and  1.2  than  the  dow  jones
+average today can explain your initial investment in stocks ten years ago.
+
+in  fact,  had  experiments  revealed  a  somewhat  different  particle  content  in  the  microscopic
+world,  possibly  interacting  with  somewhat  different  forces,  these  changes  could  have  been  fairly
+easily incorporated in the standard model by providing the theory with different input parameters.
+ 
+ ___________________________
+ 
+ the
+structure of the standard model, in this sense, is too flexible to be able to explain the properties of the
+elementary particles, as it could have accommodated a range of possibilities.
+
+string theory is dramatically different. it is a unique and inflexible theoretical edifice. it requires
+no input beyond a single number, described below, that sets the benchmark scale for measurements.
+all properties of the microworld are within the realm of its explanatory power. to understand this,
+let's first think about more familiar stri
+ 
+ ___________________________
+ 
+teristics  of  our  universe,  summarized  in
+tables 1.1 and 1.2, can be explained by string theory. as we will discuss in chapter 9, under certain
+assumptions that we will clearly state, string theory can give rise to a universe with properties that
+are in qualitative agreement with the known particle and force data, but extracting detailed numerical
+predictions from the theory is currently beyond our abilities. and so, although the framework of string
+theory, unlike that of the point-particle standard model, is capable of giving an explanation for why
+the particles and forces have the properties they do, we have not, as yet, been able to extract it. but
+remarkably, string theory is so rich and far-reaching that, even though we cannot yet determine its
+most detailed properties, we are able to gain insight into a wealth of the new physical phenomena that
+follow from the theory, as we will see in subsequent chapters.
+
+in the following chapters we shall also discuss the status of the hurdles in some d
+ 
+ ___________________________
+ 
+h  understanding  the  origin  of  supersymmetry  is  rather
+subtle, we will focus on one of its primary implications—should the laws of nature incorporate its
+principles—and this is far easier to grasp.
+
+in  the  early  1970s,  physicists  realized  that  if  the  universe  is  supersymmetric,  the  particles  of
+nature  must  come  in pairs  whose  respective  spins  differ  by  half  a  unit.  such  pairs  of  particles—
+regardless of whether they are thought of as pointlike (as in the standard model) or as tiny vibrating
+loops—are called superpartners. since matter particles have spin-1/2 while some of the messenger
+particles  have  spin-1,  supersymmetry  appears  to  result  in  a  pairing—a  partnering—of  matter  and
+force  particles.  as  such,  it  seems  like  a  wonderful  unifying  concept.  the  problem  comes  in  the
+details.
+
+by the mid-1970s, when physicists sought to incorporate supersymmetry into the standard model,
+they found that none of the known particles—those 
+ 
+ ___________________________
+ 
+ing theory
+
+first, from an aesthetic standpoint, physicists find it hard to believe that nature would respect almost,
+but not quite all of the symmetries that are mathematically possible. of course, it is possible that an
+incomplete utilization of symmetry is what actually occurs, but it would be such a shame. it would be
+as if bach, after developing numerous intertwining voices to fill out an ingenious pattern of musical
+symmetry, left out the final, resolving measure.
+
+second, even within the standard model, a theory that ignores gravity, thorny technical issues
+that are associated with quantum processes are swiftly solved if the theory is supersymmetric. the
+basic problem is that every distinct particle species makes its own contribution to the microscopic
+quantum-mechanical  frenzy.  physicists  have  found  that  in  the  bath  of  this  frenzy,  certain  processes
+involving particle interactions remain consistent only if numerical parameters in the standard model
+are fine-tuned—to better tha
+ 
+ ___________________________
+ 
+cist  enrico  fermi)—tend  to  give
+cancelling  quantum-mechanical  contributions.  like  opposite  ends  of  a  seesaw,  when  the  quantum
+jitters  of  a  boson  are  positive,  those  of  a  fermion  tend  to  be  negative,  and  vice  versa.  since
+supersymmetry ensures that bosons and fermions occur in pairs, substantial cancellations occur from
+the outset—cancellations that significantly calm some of the frenzied quantum effects. it turns out that
+the consistency of the supersymmetric standard model—the standard model augmented by all of the
+superpartner particles—no longer relies upon the uncomfortably delicate numerical adjustments of the
+ordinary standard model. although this is a highly technical issue, many particle physicists find that
+this realization makes supersymmetry very attractive.
+
+the third piece of circumstantial evidence for supersymmetry comes from the notion of grand
+unification. one of the puzzling features of nature's four forces is the huge range in their intrinsi
+ 
+ ___________________________
+ 
+his reflects that the strength increases not
+merely because we are closer to the electron but also because more of the electron's intrinsic electric
+field  becomes  visible.  in  fact,  although  we  have  focused  on  the  electron,  this  discussion  applies
+equally well to all electrically charged particles and is summarized by saying that quantum effects
+drive the strength of the electromagnetic force to get larger when examined on shorter distance scales.
+what about the other forces of the standard model? how do their intrinsic strengths vary with
+distance?  in  1973,  gross  and  frank  wilczek  at  princeton,  and,  independently,  david  politzer  at
+harvard,  studied  this  question  and  found  a  surprising  answer:  the  quantum  cloud  of  particle
+eruptions and annihilations amplifies the strengths of the strong and weak forces. this implies that as
+we examine them on shorter distances, we penetrate more of this seething cloud and hence are subject
+to less of its amplification. and so,
+ 
+ ___________________________
+ 
+ticles. they rapidly made important strides toward incorporating
+supersymmetry  into  the  framework  of  point-particle  quantum  field  theory. and  since,  at  the  time,
+quantum field theory was the central rage of the mainstream particle-physics community—with string
+theory increasingly becoming a subject on the fringe—the insights of wess and zumino launched a
+tremendous amount of subsequent research on what has come to be called supersymmetric quantum
+field theory. the supersymmetric standard model, discussed in the preceding section, is one of the
+crowning theoretical achievements of these pursuits; we now see that, through historical twists and
+turns, even this point-particle theory owes a great debt to string theory.
+
+with the resurgence of superstring theory in the mid-1980s, supersymmetry has re-emerged in the
+context  of  its  original  discovery.  and  in  this  framework,  the  case  for  supersymmetry  goes  well
+beyond that presented in the preceding section. string theory is th
+ 
+ ___________________________
+ 
+xperimental physics concerned with understanding the basic laws of the
+microworld.  theorists  had  their  hands  full  as  they  sought  to  develop  the  structure  of  quantum
+mechanics and quantum field theory. experimentalists had the detailed properties of the atom as well
+
+as  numerous  other  elementary  material  constituents  to  discover.  theory  guided  experiment  and
+experiment  refined  theory  as  physicists  pushed  forward  for  half  a  century,  ultimately  to  reveal  the
+standard model. it is no wonder that speculations on extra dimensions took a distant backseat during
+these  productive  and  heady  times.  with  physicists  exploring  powerful  quantum  methods,  the
+implications of which gave rise to experimentally testable predictions, there was little interest in the
+mere possibility that the universe might be a vastly different place on length scales far too small to be
+probed by even the most powerful of instruments.
+
+but sooner or later, bull markets lose steam. by th
+ 
+ ___________________________
+ 
+uences significantly different from our world (different
+numbers  of  particle  families,  different  number  and  types  of  fundamental  forces,  among  other
+substantial deviations), a few entries in the catalog yield physics that is qualitatively close to what
+we  actually  observe.  that  is,  there are  examples  of  calabi-yau  spaces  that,  when  chosen  for  the
+curled-up dimensions required by string theory, give rise to string vibrations that are closely akin to
+the particles of the standard model. and, of prime importance, string theory successfully stitches the
+gravitational force into this quantum-mechanical framework.
+
+with our present level of understanding, this situation is the best we could have hoped for. if
+many of the calabi-yau shapes were in rough agreement with experiment, the link between a specific
+choice and the physics we observe would be less compelling. many choices could fit the bill and
+hence  none  would  appear  to  be  singled  out,  even  from  an  experimental 
+ 
+ ___________________________
+ 
+erature; see chapter 14). as witten says, "although
+somewhat fanciful, this is my favorite scenario for confirming string theory as nothing would settle the
+issue quite as dramatically as seeing a string in a telescope."19
+
+closer to earth, there are other possible experimental signatures of string theory that have been
+put forward. here are five examples. first, in table 1.1 we noted that we do not know if neutrinos
+are just very light, or if in fact they are exactly massless. according to the standard model, they are
+massless,  but  not  for  any  particularly  deep  reason.  a  challenge  to  string  theory  is  to  provide  a
+compelling explanation of present and future neutrino data, especially if experiments ultimately show
+that neutrinos do have a tiny but nonzero mass. second, there are certain hypothetical processes that
+are forbidden by the standard model, but that may be allowed by string theory. among these are the
+possible  disintegration  of  the  proton  (don't  worry,  such  disinteg
+ 
+ ___________________________
+ 
+extreme  of  conditions—enormous  energy,  temperature,  and  density—during  its  earliest
+moments. these conditions, as is by now familiar, require that both quantum mechanics and gravity be
+taken into account, and hence the birth of the universe provides a profound arena for exercising the
+insights  of  superstring  theory.  we  will  discuss  these  nascent  insights  shortly,  but  first,  we  briefly
+recount the pre–string theory cosmological story, which is often referred to as the standard model of
+cosmology.
+
+the standard model of cosmology
+
+the modern theory of cosmic origins dates from the decade and a half after einstein's completion of
+general relativity. although einstein refused to take his own theory at face value and accept that it
+implies that the universe is neither eternal nor static, alexander friedmann did. and as we discussed
+in chapter 3, friedmann found what is now known as the big bang solution to einstein's equations—a
+solution that declares that the universe viole
+ 
+ ___________________________
+ 
+action:  the  loop  processes  (see  figure  12.6)
+incorporate quantum concepts—in this case, the momentary quantum-mechanical creation of virtual
+string  pairs—with  the  number  of  loops  determining  the  precision  with  which  quantum-mechanical
+effects are accounted for.
+
+the strategy of beginning with a theoretical description that is classical and then subsequently
+including the features of quantum mechanics has been extremely fruitful for many years. it underlies,
+for example, the standard model of particle physics. but it is possible, and there is growing evidence
+that it is likely, that this method is too conservative for dealing with theories that are as far-reaching
+as string theory and m-theory. the reason is that once we realize that the universe is governed by
+quantum-mechanical principles, our theories really should be quantum mechanical from the start. we
+have successfully gotten away with starting from a classical perspective until now because we have
+not been probing the uni
+ 
+ ___________________________
+ 
+ focuses solely on perturbative string theory;
+
+nonperturbative aspects are discussed in chapters 12 and 13.
+
+2. interview with john schwarz, december 23, 1997.
+3. similar suggestions were made independently by tamiaki yoneya and by korkut bardakci
+and  martin  halpern.  the  swedish  physicist  lars  brink  also  contributed  significantly  to  the  early
+development of string theory.
+
+4. interview with john schwarz, december 23, 1997.
+5. interview with michael green, december 20, 1997.
+6. the standard model does suggest a mechanism by which particles acquire mass—the higgs
+mechanism, named after the scottish physicist peter higgs. but from the point of view of explaining
+the particle masses, this merely shifts the burden to explaining properties of a hypothetical "mass-
+giving particle"—the so-called higgs boson. experimental searches for this particle are underway,
+but once again, if it is found and its properties measured, these will be input data for the standard
+model, for which the theory
+ 
+ ___________________________
+ 
+t itp-sb-8878.
+
+4. for the mathematically inclined reader we note that this extension involves augmenting the
+familiar  cartesian  coordinates  of  spacetime  with  new  quantum  coordinates,  say u  and v,  that  are
+anticommuting: u × v =-v × u. supersymmetry can then be thought of as translations in this quantum-
+mechanically augmented form of spacetime.
+
+5. for the reader interested in more details of this technical issue we note the following. in note
+6 of chapter 6 we mentioned that the standard model invokes a "mass-giving particle"—the higgs
+boson—to endow the particles of tables 1.1 and 1.2 with their observed masses. for this procedure
+to work, the higgs particle itself cannot be too heavy; studies show that its mass should certainly be
+no greater than about 1,000 times the mass of a proton. but it turns out that quantum fluctuations tend
+to contribute substantially to the mass of the higgs particle, potentially driving its mass all the way to
+the planck scale. theorists have found, 
+ 
+ ___________________________
+ 
+edwin abbott, flatland (princeton: princeton university press, 1991).
+4. a.  einstein  in  letter  to  t.  kaluza  as  quoted  in abraham  pais,  "subtle  is  the  lord":  the
+
+science and the life of albert einstein (oxford: oxford university press, 1982), p. 330.
+
+5. a. einstein in letter to t. kaluza as quoted in d. freedman and p. van nieuwenhuizen, "the
+
+hidden dimensions of spacetime," scientific american 252 (1985), 62.
+
+6. ibid.
+7. physicists found that the most difficult feature of the standard model to incorporate through a
+higher-dimensional  formulation  is  something  known  as chirality.  so  as  not  to  overburden  the
+
+discussion we have not covered this concept in the main text, but for readers who are interested we
+do so briefly here. imagine that someone shows you a film of some particular scientific experiment
+and  confronts  you  with  the  unusual  challenge  of  determining  whether  the  film  shot  the  experiment
+directly  or  whether  it  shot  the  experiment  by  looki
+ 
+ ___________________________
+ 
+-dimensional sphere is harder to
+picture; it is the surface of a four-dimensional ball.
+spin.  a  quantum-mechanical  version  of  the  familiar  notion  of  the  same  name;  particles  have  an
+intrinsic  amount  of  spin  that  is  either  a  whole  number  or  half  a  whole  number  (in  multiples  of
+planck's constant), and which never changes.
+standard  model  of  cosmology.  big  bang  theory  together  with  an  understanding  of  the  three
+nongravitational forces as summarized by the standard model of particle physics.
+standard model of particle physics, standard model, standard theory. an enormously successful
+theory of the three nongravitational forces and their action on matter. effectively the union of quantum
+chromodynamics and the electroweak theory.
+string. fundamental one-dimensional object that is the essential ingredient in string theory.
+string coupling constant. a (positive) number that governs how likely it is for a given string to split
+apart  into  two  strings  or  for  tw

@@ -1,0 +1,626 @@
+pace, time, and the eye of the beholder
+3. of warps and ripples
+4. microscopic weirdness
+5. the need for a new theory: general relativity vs. quantum mechanics
+
+part iii: the cosmic symphony
+6. nothing but music: the essentials of superstring theory
+7. the "super" in superstrings
+8. more dimensions than meet the eye
+9. the smoking gun: experimental signatures
+
+part iv: string theory and the fabric of spacetime
+10. quantum geometry
+11. tearing the fabric of space
+12. beyond strings: in search of m-theory
+13. black holes: a string/m-theory perspective
+14. reflections on cosmology
+
+part v: unification in the twenty-first century
+15. prospects
+
+notes
+glossary of scientific terms
+references and suggestions for further reading
+
+preface
+
+during the last thirty years of his life, albert einstein sought relentlessly for a so-called unified field
+theory—a  theory  capable  of  describing  nature's  forces  within  a  single,  all-encompassing,  coherent
+framework. einstein was not motivated by the th
+ 
+ ___________________________
+ 
+n place for some time. for instance, a natural question
+that may have occurred to you in looking at figure 1.1 is, why strings? why not little frisbee disks?
+or microscopic bloblike nuggets? or a combination of all of these possibilities? as we shall see in
+chapter 12, the most recent insights show that these other kinds of ingredients do have an important
+role in string theory, and have revealed that string theory is actually part of an even grander synthesis
+currently (and mysteriously) named m-theory. these latest developments will be the subject of the
+final chapters of this book.
+
+progress in science proceeds in fits and starts. some periods are filled with great breakthroughs;
+at other times researchers experience dry spells. scientists put forward results, both theoretical and
+experimental. the results are debated by the community, sometimes they are discarded, sometimes
+they  are  modified,  and  sometimes  they  provide  inspirational  jumping-off  points  for  new  and  more
+accurate
+ 
+ ___________________________
+ 
+verse  could  currently  be  in  the  midst  of  a  spatial  rupture.  if  it  were  occurring  slowly
+enough, we would not even know it was happening. this is one of those rare instances in physics in
+which the lack of a striking observable phenomenon is cause for great excitement. the absence of an
+observable calamitous consequence from such an exotic geometrical evolution is testament to how far
+beyond einstein's expectations string theory has gone.
+
+chapter 12
+
+beyond strings: in search of m-theory
+
+in  his  long  search  for  a  unified  theory,  einstein  reflected  on  whether  "god  could  have  made  the
+universe in a different way; that is, whether the necessity of logical simplicity leaves any freedom at
+all."1 with this remark, einstein articulated the nascent form of a view that is currently shared by
+many physicists: if there is a final theory of nature, one of the most convincing arguments in support of
+its particular form would be that the theory couldn't be otherwise. the ult
+ 
+ ___________________________
+ 
+ee that the five string theories
+were thought of as being completely separate. but, with the newfound insights emerging from recent
+research,  as  indicated  in  figure  12.2,  we  see  that,  like  the  starfish's  five  arms,  all  of  the  string
+theories are now viewed as a single, all-encompassing framework. (in fact, by the end of this chapter
+we will see that even a sixth theory—a sixth arm—will be merged into this union.) this overarching
+framework  has  provisionally  been  called  m-theory,  for  reasons  that  will  become  clear  as  we
+proceed.  figure  12.2  represents  a  landmark  achievement  in  the  quest  for  the  ultimate  theory.
+seemingly  disconnected  threads  of  research  in  string  theory  have  now  been  woven  together  into  a
+single  tapestry—a  unique,  all-encompassing  theory  that  may  well  be  the  long-sought  theory  of
+everything.
+
+figure 12.1 for many years, physicists working on the five string theories thought they were working
+on completel
+ 
+ ___________________________
+ 
+y separate theories.
+
+figure 12.2 results from the second superstring revolution have shown that all five string theories
+are actually part of a single, unified framework, tentatively called m-theory.
+
+although  much  work  remains  to  be  done,  there  are  two  essential  features  of  m-theory  that
+physicists have already uncovered. first, m-theory has eleven dimensions (ten space and one time).
+somewhat as kaluza found that one additional spatial dimension allowed for an unexpected merger of
+general  relativity  and  electromagnetism,  string  theorists  have  realized  that  one  additional  spatial
+dimension in string theory—beyond the nine space and one time dimensions discussed in preceding
+chapters—allows for a deeply satisfying synthesis of all five versions of the theory. moreover, this
+extra  spatial  dimension  is  not  pull
+ 
+ ___________________________
+ 
+ed  out  of  thin  air;  rather,  string  theorists  have  realized  that  the
+
+reasoning of the 1970s and 1980s that led to one time and nine space dimensions was approximate,
+and  that  exact  calculations,  which  can  now  be  completed,  show  that  one  spatial  dimension  had
+hitherto been overlooked.
+
+the second feature of m-theory that has been discovered is that it contains vibrating strings, but
+it  also  includes  other  objects:  vibrating two-dimensional  membranes,  undulating three-dimensional
+blobs (called "three-branes"), and a host of other ingredients as well. as with the eleventh dimension,
+this feature of m-theory emerges when calculations are freed from reliance on the approximations
+used prior to the mid-1990s.
+
+beyond these and a variety of other insights attained over the last few years, much of the true
+ 
+ ___________________________
+ 
+
+nature of m-theory remains mysterious—one suggested meaning for the "m." physicists worldwide
+are working with great vigor to acquire a full understanding of m-theory, and this may well constitute
+the central problem of twenty-first-century physics.
+
+an approximation method
+
+the limitations of the methods physicists have been using to analyze string theory are bound up with
+something  called perturbation  theory.  perturbation  theory  is  an  elaborate  name  for  making  an
+approximation  to  try  to  give  a  rough  answer  to  a  question,  and  then  systematically  improving  this
+approximation by paying closer attention to fine details initially ignor
+ 
+ ___________________________
+ 
+e connection between these two string theories.
+
+this is a very tidy story except that eleven-dimensional supergravity seems to have been left out
+in  the  cold.  string  theory,  formulated  in  ten  dimensions,  appears  to  have  no  room  for  an  eleven-
+dimensional theory. for a number of years, the general view held by most but not all string theorists
+was that eleven-dimensional supergravity was a mathematical oddity without any connection to the
+physics of string theory.12
+
+glimmers of m-theory
+
+the view now is very different. at strings '95, witten argued that if we start with the type iia string
+and increase its coupling constant from a value much less than 1 to a value much greater than 1, the
+physics we are still able to analyze (essentially that of the bps saturated configurations) has a low-
+energy approximation that is eleven-dimensional supergravity.
+
+when witten announced this discovery, it stunned the audience and it has since rocked the string
+theory community. for almost e
+ 
+ ___________________________
+ 
+s  are  described  in  previous  chapters,  since  at  small  coupling
+constants we are led back to the theory of strings. but if the coupling constants are not small, no one
+currently knows the answers.
+
+figure  12.8  as  the  type  iia  string  coupling  constant  is  increased,  strings  expand  from  one-
+dimensional loops to two-dimensional objects that look like the surface of a bicycle-tire inner tube.
+
+whatever  the  eleven-dimensional  theory  is,  witten  has  provisionally  named  it m-theory.  the
+name stands for as many things as people you poll. some samples: mystery theory, mother theory
+(as in "mother of all theories"), membrane theory (since, whatever it is, membranes seem to be part
+of  the  story),  matrix  theory  (after  some  recent  work  by  tom  banks  of  rutgers  university,  willy
+fischler of the university of texas at austin, stephen shenker of rutgers university, and susskind
+that offers a novel interpretation of the theory). but even without having a firm grasp o
+ 
+ ___________________________
+ 
+n its name or its
+properties, it is already clear that m-theory provides a unifying substrate for pulling together all five
+string theories.
+
+m-theory and the web of interconnections
+
+there is an old proverb about three blind men and an elephant. the first blind man grabs hold of the
+elephant's ivory tusk and describes the smooth, hard surface that he feels. the second blind man grabs
+hold of one of the elephant's legs. he describes the tough, muscular girth that he feels. the third blind
+man grabs hold of the elephant's tail and describes the slender and sinewy appendage that he feels.
+since their mutual descriptions are so different, and si
+ 
+ ___________________________
+ 
+nce none of the men can see the others, each
+thinks that he has grabbed hold of a different animal. for many years, physicists were as much in the
+dark as the blind men, thinking that the different string theories were very different. but now, through
+the insights of the second superstring revolution, physicists have realized that m-theory is the unifying
+pachyderm of the five string theories.
+
+in this chapter we have discussed changes in our understanding of string theory that arise when
+we venture beyond the domain of the perturbative framework—a framework implicitly in use prior to
+this chapter. figure 12.9 summarizes the interrelations we have found so far, with arrows to indicate
+
+dual  theories. as  you  can  see,  we  have  a  web  of  connections,  but  it  is  not  yet  complete.  by  also
+including the dualities of c
+ 
+ ___________________________
+ 
+ conclusions of chapter 10, but it does have an important impact on the present
+discussion.
+
+figure 12.9 the arrows show which theories are dual to others.
+
+the reason is that by providing a link between the type iia and type iib string theories, as well
+as  between  the  heterotic-o  and  heterotic-e  theories,  the  large/small  radius  duality  completes  the
+web of connections, as illustrated by the dotted lines in figure 12.10. this figure shows that all five
+string theories, together with m-theory, are dual to one another. they are all sewn together into a
+single theoretical framework; they provide five different approaches to describing one and the same
+underlying  physics.  for  some  or  other  application,  one  phrasing  may  be  far  more  effective  than
+another. for instance, it's far easier to work with the weakly coupled heterotic-o theory than it is to
+work with the strongly coupled type i string. nevertheless, they describe exactly the same physics.
+
+figure 12.10 by including
+ 
+ ___________________________
+ 
+ the dualities involving the geometrical form of spacetime (as in chapter
+10), all five of the string theories and m-theory are joined together in a web of dualities.
+
+the overall picture
+
+we can now more fully understand the two figures—figures 12.1 and 12.2—that we introduced in the
+beginning of this chapter to summarize the essential points. in figure 12.1 we see that prior to 1995,
+
+without  taking  any  dualities  into  account,  we  had  five  apparently  distinct  string  theories.  various
+physicists worked on each, but without an understanding of the dualities they appeared to be different
+theories. ea
+ 
+ ___________________________
+ 
+ge
+of possibilities. this is represented in figure 12.1 by the shaded regions—each point in such a region
+denotes one specific choice for the coupling constant and the curled-up geometry. without invoking
+any dualities, we still have five disjointed (collections of) theories.
+
+but now, if we apply all of the dualities we have discussed, then as we vary the coupling and
+geometric parameters, we can pass from any one theory to any other, so long as we also include the
+unifying central region of m-theory; this is shown in figure 12.2. even though we have only a scant
+understanding of m-theory, these indirect arguments lend strong support to the claim that it provides a
+unifying substrate for our five naively distinct string theories. moreover, we have learned that m-
+theory is closely related to yet a sixth theory—eleven-dimensional supergravity—and this is recorded
+in figure 12.11, a more precise version of figure 12.2.13
+
+figure  12.11  illustrates  that  the  fundamental  ideas  and  equ
+ 
+ ___________________________
+ 
+ations  of  m-theory,  although  only
+partially understood at the moment, unify those of all of the formulations of string theory. m-theory is
+the  theoretical  elephant  that  has  opened  the  eyes  of  string  theorists  to  a  far  grander  unifying
+framework.
+
+figure 12.11 by incorporating the dualities, all five string theories, eleven-dimensional supergravity,
+and m-theory are merged together into a unified framework.
+
+a surprising feature of m-theory: democracy in extension
+
+when the string coupling constant is small in any of the upper five peninsular regions of the theory
+map in figure 12.11, the fundamental ingredient of the theory appears to be a one-dimensional string.
+we  have,  however,  just  gained  a  new  perspective  on  this  observation.  if  we  start  in  either  the
+heterotic-e or type iia regions and turn the value of the respective string coupling constants up, we
+migrate  toward  the  center  of  the  map  in  figure  12
+ 
+ ___________________________
+ 
+ss.
+
+what we do have is a far deeper understanding of the logical structure and theoretical reach of
+string theory. prior to the realizations summarized in figure 12.11, the strong coupling behavior of
+each  string  theory  was  a  black  box,  a  complete  mystery. as  on  maps  of  old,  the  realm  of  strong
+coupling was uncharted territory, potentially filled with dragons and sea monsters. but now we see
+that although the journey to strong coupling may take us through unfamiliar regions of m-theory, it
+ultimately lands us back in the comfortable surrounds of weak coupling—albeit in the dual language
+of what was once thought to be a different string theory.
+
+duality and m-theory unite the five string theories and they suggest an important conclusion. it
+may well be that there aren't other surprises, on par with the ones just discussed, that are awaiting our
+discovery. once a cartographer can fill in every region on a spherical globe of the earth, the map is
+done and geographical knowledg
+ 
+ ___________________________
+ 
+ to say explorations in antarctica or on an
+isolated island in micronesia are without scientific or cultural merit. it only means that the age of
+geographic discovery is over. the absence of blank spots on the globe ensures this. the "theory map"
+of figure 12.11 plays a similar role for string theorists. it covers the entire range of theories that can
+be reached by setting sail from any one of the five string constructions. although we are far from a
+full understanding of the terra incognita of m-theory, there are no blank regions on the map. like the
+cartographer, the string theorist can now claim with guarded optimism that the spectrum of logically
+sound  theories  incorporating  the  essential  discoveries  of  the  past  century—special  and  general
+relativity;  quantum  mechanics;  gauge  theories  of  the  strong,  weak,  and  electromagnetic  forces;
+supersymmetry; extra dimensions of kaluza and klein—is fully mapped out by figure 12.11.
+
+the challenge to the string theorist—or p
+ 
+ ___________________________
+ 
+erhaps we should say the m-theorist—is to show that
+
+some point on the theory map of figure 12.11 actually describes our universe. to do this requires
+finding the full and exact equations whose solution will pick out this elusive point on the map, and
+then  understanding  the  corresponding  physics  with  sufficient  precision  to  allow  comparisons  with
+experiment. as witten has said, "understanding what m-theory really is—the physics it embodies—
+would  transform  our  understanding  of  nature  at  least  as  radically  as  occurred  in  any  of  the  major
+scientific upheavals of the past."15 this is the program for unification in the twenty-first century.
+
+chapter 13
+
+black holes: a string/m-theory perspective
+
+the pre–string theory conflict between general relativity and quantum mechanics was an affront to
+our visceral sense that the laws of nature should fit together in a seamless, coherent
+ 
+ ___________________________
+ 
+e  ability  of  physicists  to  come  to  grips  with  all  aspects  of  the  second  superstring
+
+revolution.  what,  for  example,  are  the  cosmological  consequences  of  the  existence  of  fundamental
+higher-dimensional branes? how do the cosmological properties we have discussed change if string
+theory happens to have a coupling constant whose value places us more toward the center of figure
+12.11 rather than in one of the peninsular regions? that is, what is the impact of full-fledged m-theory
+on the earliest moments of the universe? these central questions are now being studied vigorously.
+already, one important insight has emerged.
+
+m-theory and the merging of all forces
+
+in  figure  7.1  we  showed  how  the  strengths  of  the  three  nongravitational  couplings  merge  together
+when the temperature of the universe is high enough. how does the strength of the gravitational force
+fit into this picture? before the emergence of m-theory, string theorists were able to show that with
+
+ 
+ ___________________________
+ 
+ther three, as shown in figure 14.2. string theorists found that the mismatch
+could be avoided by carefully molding the shape of the chosen calabi-yau, among other tricks of the
+trade,  but  such  after-the-fact  fine  tuning  always  makes  a  physicist  uncomfortable.  since  no  one
+currently knows how to predict the precise form of the calabi-yau dimensions, it seems dangerous to
+rely upon solutions to problems that hinge so delicately on the fine details of their shape.
+
+figure 14.2 within m-theory, the strengths of all four forces can naturally merge.
+
+witten has shown, however, that the second superstring revolution provides a far more robust
+solution. by investigating how the strengths of the forces vary when the string coupling constant is not
+necessarily small, witten found that the gravitational force curve can be gently nudged to merge with
+the other forces, as in figure 14.2, without any special molding of the calabi-yau portion of space.
+although it is far too early to tell, this
+ 
+ ___________________________
+ 
+ may indicate that cosmological unity is more easily achieved
+by making use of the larger framework of m-theory.
+
+the  developments  discussed  in  this  and  the  previous  sections  represent  the  first,  somewhat
+tentative  steps  toward  understanding  the  cosmological  implications  of  string/m-theory.  during  the
+coming years, as the nonperturbative tools of string/m-theory are sharpened, physicists anticipate that
+some of the most profound insights will emerge from their application to cosmological questions.
+
+but  without  currently  having  methods  that  are  sufficiently  powerful  to  understand  cosmology
+according  to  string  theory  fully,  it  is  worthwhile  to  think  about  some  general  considerations
+concerning the possible role of cosmology in the search for the ultimate theory. we caution that some
+of these ideas are of a more speculative natur
+ 
+ ___________________________
+ 
+or  whether—like
+asking general relativity to give insight into how hard you happened to toss a ball in the air—it is a
+question  that  lies  forever  beyond  the  grasp  of  any  theory.  valiant  attempts  by  physicists  such  as
+hawking and james hartle of the university of california at santa barbara have tried to bring the
+question  of  cosmological  initial  conditions  within  the  umbrella  of  physical  theory,  but  all  such
+attempts remain inconclusive. in the context of string/m-theory, our cosmological understanding is, at
+present, just too primitive to determine whether our candidate "theory of everything" truly lives up to
+its name and determines its own cosmological initial conditions, thereby elevating them to the status
+of physical law. this is a prime question for future research.
+
+the central observation is that whereas in chapter 7 we noted that everything we know points
+toward  a  consistent  and  uniform  physics  throughout  our  universe,  this  may  have  no  be
+ 
+ ___________________________
+ 
+ relevance
+to the one we inhabit. and moreover, we can imagine that this wealth of universes may be physically
+realized, leading to a multiverse—something that, at first sight, forever limits our predictive power.
+in fact, however, this discussion illustrates that an ultimate explanation can yet be achieved, so long
+as we grasp not only the ultimate laws but also their implications for cosmological evolution on an
+unexpectedly grand scale.
+
+undoubtedly, the cosmological implications of string/m-theory will be a major field of study
+well into the twenty-first century. without accelerators capable of producing planck-scale energies,
+we will increasingly have to rely on the cosmological accelerator of the big bang, and the relics it has
+left for us throughout the universe, for our experimental data. with luck and perseverance, we may
+finally be able to answer questions such as how the universe began, and why it has evolved to the
+form we behold in the heavens and on earth. there is, of course, 
+ 
+ ___________________________
+ 
+where full answers to these fundamental questions lie. but the development of a
+quantum theory of gravity through superstring theory lends credence to the hope that we now possess
+theoretical tools for pushing into the vast regions of the unknown, and, no doubt after many a struggle,
+possibly emerging with answers to some of the deepest questions ever posed.
+
+part v
+
+unification in the twenty-first century
+
+chapter 15
+
+prospects
+
+centuries from now, superstring theory, or its evolution within m-theory, may have developed so far
+beyond our current formulation that it might be unrecognizable even to today's leading researchers. as
+we continue to seek the ultimate theory, we may well find that string theory is but one of many pivotal
+steps on a path toward a far grander conception of the cosmos—a conception that involves ideas that
+differ radically from anything we have previously encountered. the history of science teaches us that
+each time we think that we have it all figured out, nature ha
+ 
+ ___________________________
+ 
+shot of the horizon, we run up against a clash of paradigms when we try to envision a
+universe that is, but that somehow does not invoke the concepts of space or time. nevertheless, it is
+likely that we will need to come to terms with such ideas and understand their implementation before
+we  can  fully  assess  string  theory.  the  reason  is  that  our  present  formulation  of  string  theory
+presupposes the existence of space and time within which strings (and the other ingredients found in
+m-theory) move about and vibrate. this allows us to deduce the physical properties of string theory
+in a universe with one time dimension, a certain number of extended space dimensions (usually taken
+to  be  three),  and  additional  dimensions  that  are  curled  up  into  one  of  the  shapes  allowed  by  the
+equations of the theory. but this is somewhat like assessing an artist's creative talent by requiring that
+she work from a paint-by-number kit. she will, undoubtedly, add a personal flair here o
+ 
+ ___________________________
+ 
+istic
+framework)—the theory will describe a universe that evolves to a form in which a background of
+coherent  string  vibrations  emerges,  yielding  the  conventional  notions  of  space  and  time.  such  a
+framework, if realized, would show that space, time, and, by association, dimension are not essential
+
+defining elements of the universe. rather, they are convenient notions that emerge from a more basic,
+atavistic, and primary state.
+
+already,  cutting-edge  research  on  aspects  of  m-theory,  spearheaded  by  stephen  shenker,
+edward witten, tom banks, willy fischler, leonard susskind, and others too numerous to name, has
+shown that something known as a zero-brane—possibly the most fundamental ingredient in m-theory,
+an object that behaves somewhat like a point particle at large distances but has drastically different
+properties at short ones—may give us a glimpse of the spaceless and timeless realm. their work has
+revealed  that  whereas  strings  show  us  that  conventional
+ 
+ ___________________________
+ 
+recision  with  which  quantum-mechanical
+effects are accounted for.
+
+the strategy of beginning with a theoretical description that is classical and then subsequently
+including the features of quantum mechanics has been extremely fruitful for many years. it underlies,
+for example, the standard model of particle physics. but it is possible, and there is growing evidence
+that it is likely, that this method is too conservative for dealing with theories that are as far-reaching
+as string theory and m-theory. the reason is that once we realize that the universe is governed by
+quantum-mechanical principles, our theories really should be quantum mechanical from the start. we
+have successfully gotten away with starting from a classical perspective until now because we have
+not been probing the universe at a deep enough level for this coarse approach to mislead us. but with
+the  depth  of  string/m-theory,  we  may  well  have  come  to  the  end  of  the  line  for  this  battle-tested
+strategy.
+
+we c
+ 
+ ___________________________
+ 
+d  were  governed  by  classical,  as  opposed  to  quantum,  physics)  and
+reformulate it as a process that is weakly dependent on quantum mechanics from the perspective of
+one  of  the  other  string  theories  (for  example,  a  process  whose  detailed  numerical  properties  are
+influenced by quantum considerations but whose qualitative form is similar to what it would be in a
+purely  classical  world).  this  means  that  quantum  mechanics  is  thoroughly  intertwined  within  the
+string/m-theory:  they  are inherently  quantum-mechanical
+duality 
+symmetries, since one of the dual descriptions is strongly influenced by quantum considerations. this
+indicates  forcefully 
+that
+fundamentally  incorporates  the  newfound  duality  symmetries—cannot  begin  classically  and  then
+undergo  quantization,  in  the  traditional  mold.  a  classical  starting  point  will  necessarily  omit  the
+duality symmetries, since they hold true only when quantum mechanics is taken into account. rather, 
+ 
+ ___________________________
+ 
+it
+appears that the complete formulation of string/m-theory must break the traditional mold and spring
+into existence as a full-fledged quantum-mechanical theory.
+
+the  complete  formulation  of  string/m-theory—a  formulation 
+
+symmetries  underlying 
+
+currently, no one knows how to do this. but many string theorists foresee a reformulation of how
+quantum principles are incorporated into our theoretical description of the universe as the next major
+upheaval in our understanding. for example, as cumrun vafa has said, "i think that a reformulation of
+quantum mechanics which will resolve many of its puzzles is just around the corner. i think many
+share the view that the recently uncovered dualities poi
+ 
+ ___________________________
+ 
+ the  theory  is  right  or
+wrong.
+
+the road from this "in principle" ratiocination to an "in practice" fact is encumbered by many
+hurdles. in chapter 9 we described some of the technical obstacles, such as determining the form of
+the extra dimensions, that currently stand in our way. in chapters 12 and 13 we placed these and other
+obstacles in the broader context of our need for an exact understanding of string theory, which, as we
+have  seen,  naturally  leads  us  to  the  consideration  of  m-theory.  no  doubt,  achieving  a  full
+understanding  of  string/m-theory  will  require  a  great  deal  of  hard  work  and  an  equal  amount  of
+ingenuity.
+
+at every step of the way, string theorists have sought and will continue to seek experimentally
+observable  consequences  of  the  theory.  we  must  not  lose  sight  of  the  long-shot  possibilities  for
+finding evidence of string theory discussed in chapter 9. furthermore, as our understanding deepens
+there will, no doubt, be other rare p
+ 
+ ___________________________
+ 
+rk that appears to have sufficient depth to
+meet  the  challenge.  but  will  we  ever  realize  the  promise  of  the  theory  fully  and,  for  example,
+calculate the masses of the quarks or the strength of the electromagnetic force, numbers whose precise
+values dictate so much about the universe? as in the previous sections, we will have to surmount
+numerous theoretical hurdles on the way to these goals—currently, the most prominent is achieving a
+full nonperturbative formulation of string/m-theory.
+
+but is it possible that even if we had an exact understanding of string/-m-theory, framed within a
+new and far more transparent formulation of quantum mechanics, we could still fail in our quest to
+calculate  particle  masses  and  force  strength?  is  it  possible  that  we  would  still  have  to  resort  to
+experimental  measurements,  rather  than  theoretical  calculations,  for  their  values? and,  moreover,
+might it be that this failing does not mean that we need to look for an even 
+ 
+ ___________________________
+ 
+n restore predictive power.
+
+one highlight emerging from these considerations is the role of cosmology in determining the
+implications of an ultimate theory. as we have discussed, superstring cosmology is a young field,
+even by the youthful standards set by string theory itself. it will, undoubtedly, be an area of primary
+research focus for years to come, and it is likely to be one of the major growth areas of the field. as
+we  continue  to  gain  new  insight  into  the  properties  of  string/m-theory,  our  ability  to  assess  the
+
+cosmological  implications  of  this  rich  attempt  at  a  unified  theory  will  become  ever  sharper.  it  is
+possible,  of  course,  that  such  studies  may  one  day  convince  us  that,  indeed,  there  is  a  limit  to
+scientific explanation. but it is also possible, to the contrary, that they will usher in a new era—an
+era in which we can declare that a fundamental explanation of the universe has finally been found.
+
+reaching for the stars
+
+although
+ 
+ ___________________________
+ 
+hat there was a
+whole  new  mind-boggling  world  lying  just  beneath  the  surface  of  things  as  they  are  ordinarily
+experienced?
+
+but even these paradigm-shaking discoveries are only part of a larger, all-encompassing story.
+with  solid  faith  that  laws  of  the  large  and  the  small  should  fit  together  into  a  coherent  whole,
+physicists are relentlessly hunting down the elusive unified theory. the search is not over, but through
+superstring  theory  and  its  evolution  into  m-theory,  a  cogent  framework  for  merging  quantum
+mechanics, general relativity, and the strong, weak, and electromagnetic forces has finally emerged.
+and  the  challenges  these  developments  pose  to  our  previous  way  of  seeing  the  world  are
+monumental: loops of strings and oscillating globules, uniting all of creation into vibrational patterns
+that are meticulously executed in a universe with numerous hidden dimensions capable of undergoing
+extreme contortions in which their spatial fabr
+ 
+ ___________________________
+ 
+ic tears apart and then repairs itself. who could have
+guessed that the merging of gravity and quantum mechanics into a unified theory of all matter and all
+forces would yield such a revolution in our understanding of how the universe works?
+
+no  doubt,  there  are  even  grander  surprises  in  store  for  us  as  we  continue  to  seek  a  full  and
+calculationally tractable understanding of superstring theory. already, through studies in m-theory,
+we have seen glimpses of a strange new domain of the universe lurking beneath the planck length,
+possibly one in which there is no notion of time or space. at the opposite extreme, we have also seen
+that our universe may merely be one of the innumerable frothing bubbles on the surface of a vast and
+turbulent cosmic ocean called the multiverse. these ideas are at the current edge of speculation, but
+they may presage the next leap in our understanding of the universe.
+
+as we fix our sight on the
+ 
+ ___________________________
+ 
+s. and so, to understand the theory better string theorists study its
+properties as the values of these parameters are varied over all possibilities. if the parameter values
+are chosen to lie in any of the six peninsular regions of figure 12.11, the theory has the properties
+inherent to one of the five string theories, or to eleven-dimensional supergravity, as marked. if the
+parameter  values  are  chosen  to  lie  in  the  central  region,  the  physics  is  governed  by  the  still
+mysterious m-theory.
+
+14. we should note, though, that even in the peninsular regions there are some exotic ways in
+which branes can have an effect on familiar physics. for example, it has been suggested that our three
+extended spatial dimensions might themselves be a three-brane that is large and unfurled. if so, as we
+go  about  our  daily  business  we  would  be  gliding  through  the  interior  of  a  three-dimensional
+membrane. investigations of such possibilities are now being undertaken.
+
+15. interview wit
+ 
+ ___________________________
+ 
+  two.  the  spacetime
+dimension  of  lineland  is  also  two,  and  hence  their  paths  will  generally  intersect  (assuming  their
+velocities  have  not  been  finely  tuned  to  be  exactly  equal).  similarly,  strings  sweep  out  two-
+dimensional  spacetime  paths  (their  world-sheets);  for  two  strings  the  sum  in  question  is  therefore
+four. this means that strings moving in four spacetime dimensions (three space and one time) will
+generally intersect.
+
+5. with the discovery of m-theory and the recognition of an eleventh dimension, string theorists
+have begun studying ways of curling up all seven extra dimensions in a manner that puts them all on
+more or less equal footing. the possible choices for such seven-dimensional manifolds are known as
+joyce manifolds, after domenic joyce of oxford university, who is credited with finding the first
+techniques for their mathematical construction.
+
+6. interview with cumrun vafa, january 12, 1998.
+7. the expert reader will note that our d
+ 
+ ___________________________
+ 
+magnetism,
+
+based  on  the  concept  of  the electromagnetic  field,  devised  by  maxwell  in  the  1880s;  shows  that
+visible light is an example of an electromagnetic wave.
+messenger particle. smallest bundle of a force field; microscopic conveyer of a force.
+mirror symmetry. in the context of string theory, a symmetry showing that two different calabi-yau
+shapes,  known  as  a  mirror  pair,  give  rise  to  identical  physics  when  chosen  for  the curled-up
+dimensions of string theory.
+m-theory.  theory  emerging  from  the second  superstring  revolution  that  unites  the  previous  five
+superstring  theories  within  a  single  overarching  framework.  m-theory  appears  to  be  a  theory
+involving  eleven spacetime  dimensions,  although  many  of  its  detailed  properties  have  yet  to  be
+understood.
+multidimensional  hole.  a  generalization  of  the  hole  found  in  a  doughnut  to  higher-dimensional
+versions.
+multi-doughnut, multi-handled doughnut. a generalization of a d

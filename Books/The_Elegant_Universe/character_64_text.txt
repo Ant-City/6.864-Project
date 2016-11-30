@@ -1,0 +1,896 @@
+ead
+the  manuscript  with  great  care  and  generously  provided  sharp  editorial  insights  and  invaluable
+encouragement.  david  morrison,  ken  vineberg,  raphael  kasper,  nicholas  boles,  steven  carlip,
+arthur greenspoon, david mermin, michael popowits, and shani offen read the manuscript closely
+and  offered  detailed  reactions  and  suggestions  that  greatly  enhanced  the  presentation.  others  who
+read all or part of the manuscript and offered advice and encouragement are paul aspinwall, persis
+drell, michael duff, kurt gottfried, joshua greene, teddy jefferson, marc kamionkowski, yakov
+kanter, andras kovacs, david lee, megan mcewen, nari mistry, hasan padamsee, ronen plesser,
+massimo  poratti,  fred  sherry,  lars  straeter,  steven  strogatz,  andrew  strominger,  henry  tye,
+cumrun  vafa,  and  gabriele  veneziano.  i  owe  special  thanks  to  raphael  gunner  for,  among  many
+other things, his insightful criticisms at an early stage of writing that helped to shape th
+ 
+ ___________________________
+ 
+anged our conceptions of space and time. it is perhaps surprising
+that the essential concern of special relativity is to understand precisely how the world appears to
+
+individuals,  often  called  "observers,"  who  are  moving  relative  to  one  another. at  first,  this  might
+seem  to  be  an  intellectual  exercise  of  minimal  importance.  quite  the  contrary:  in  the  hands  of
+einstein, with his imaginings of observers chasing after light beams, there are profound implications
+to grasping fully how even the most mundane situations appear to individuals in relative motion.
+
+intuition and its flaws
+
+common experience highlights certain ways in which observations by such individuals differ. trees
+alongside a highway, for example, appear to be moving from the viewpoint of a driver but appear
+stationary to a hitchhiker sitting on a guardrail. similarly, the dashboard of the automobile does not
+appear to be moving from the viewpoint of the driver (one hopes!), but like the rest of th
+ 
+ ___________________________
+ 
+ating if either the speed or the direction of its
+motion changes. for simplicity we will focus on accelerated motion in which only the direction of
+our object's motion changes while its speed stays fixed. specifically, we consider motion in a circle
+such  as  what  one  experiences  on  the  tornado  ride  in  an  amusement  park.  in  case  you  have  never
+tested the stability of your constitution on this ride, you stand with your back against the inside of a
+circular plexiglas structure that spins at a high speed. like all accelerated motion, you can feel this
+motion—you  feel  your  body  being  pulled  radially  away  from  the  ride's  center  and  you  feel  the
+circular wall of plexiglas pressing on your back, keeping you moving in a circle. (in fact, although not
+relevant for the present discussion, the spinning motion "pins" your body to the plexiglas with such a
+force that when the ledge on which you are standing drops away you do not slip downward.) if the
+ride is extremely s
+ 
+ ___________________________
+ 
+mooth and you close your eyes, the pressure of the ride on your back—like the
+
+support of a bed—can almost make you feel that you are lying down. the "almost" comes from the
+fact that you still feel ordinary "vertical" gravity, so your brain cannot be fully fooled. but if you were
+to ride the tornado in outer space, and if it were to spin at just the right rate, it would feel just like
+lying in a stationary bed on earth. moreover, were you to "get up" and walk along the interior of the
+spinning plexiglas, your feet would press against it just as they do against an earthbound floor. in fact,
+space stations are designed to spin in this manner to create an artificial feeling of gravity in outer
+space.
+
+what about the radius? well, jim also uses the head-to-tail method to find the length of a radial
+strut, and from our bird's-eye view we see that he is going to find the same answer as we did. the
+reason is that the ruler is not pointing along the instantaneous direction of the motion 
+ 
+ ___________________________
+ 
+of the ride (as it
+is when measuring the circumference). instead, it is pointed at a ninety-degree angle to the motion,
+and  therefore  it  is not  contracted  along  its  length.  jim  will  therefore  find  exactly  the  same  radial
+length as we did.
+
+having  used  the  accelerated  motion  of  the  spinning  tornado  to  imitate  gravity,  we  can  now
+follow einstein and set out to see how space and time appear to someone on the ride. his reasoning,
+adapted  to  this  situation,  went  as  follows.  we  stationary  observers  can  easily  measure  the
+circumference and the radius of the spinning ride. for instance, to measure the circumference we can
+carefully  lay  out  a  ruler—head  to  tail—alongside  the  ride's  spinning  girth;  for  its  radius  we  can
+similarly use the head-to-t
+ 
+ ___________________________
+ 
+ail method working our way from the central axle of the ride to its outer
+rim. as we anticipate from high-school geometry, we find that their ratio is two times the number pi
+—about 6.28—just as it is for any circle drawn on a flat sheet of paper. but what do things look like
+from the perspective of someone on the ride itself?
+
+to find out, we ask slim and jim, who are currently enjoying a spin on the tornado, to take a
+few  measurements  for  us.  we  toss  one  of  our  rulers  to  slim,  who  sets  out  to  measure  the
+circumference of the ride, and another to jim, who sets out to measure the radius. to get the clearest
+perspective, let's take a bird's-eye view of the ride, as in figure 3.1. we have adorned this snapshot
+of the ride with an arrow that indicates the momentary direction of motion at each point. as slim
+begins to measure the circumference, we immediately see from our
+ 
+ ___________________________
+ 
+ flat surface; the curved nature of the saddle's surface causes
+the radial lines of the circle to splay outward from each other slightly, resulting in a small increase in
+the circle's circumference. these observations imply that the ratio of the circumference to the radius
+of the circle in (b) will be less than two times pi, while the same ratio in (c) will be greater than two
+times pi. but this deviation from two times pi, especially the larger value found in (c), is just what we
+found for the spinning tornado ride. this led einstein to propose an idea—the curving of space—as
+an explanation for the violation of "ordinary," euclidean geometry. the flat geometry of the greeks,
+taught to schoolchildren for thousands of years, simply does not apply to someone on the spinning
+ride. rather, its curved space generalization as schematically drawn in part (c) of figure 3.2 takes its
+place.5
+
+figure 3.2 a circle drawn on a sphere (b) has a shorter circumference than one drawn on a flat sheet
+o
+ 
+ ___________________________
+ 
+otation,
+and therefore the faster you must go. but from special relativity, the faster you go, the slower your
+watch ticks, and hence we realize that slim's watch will tick more slowly than jim's. furthermore,
+slim and jim will find that, as jim gets closer to slim, the ticking rate of jim's watch will slow down,
+approaching that of slim's. this reflects the fact that as jim gets farther out along the strut, his circular
+speed increases toward that of slim.
+
+we conclude that to observers on the spinning ride, such as slim and jim, the rate of passage of
+time depends upon their precise position—in this case, their distance from the center of the ride. this
+is an illustration of what we mean by warped time: time is warped if its rate of passage differs from
+one location to another. and of particular importance to our present discussion, jim will also notice
+something  else  as  he  crawls  out  along  the  strut.  he  will  feel  an  increasingly  strong  outward  pull
+
+because not only d
+ 
+ ___________________________
+ 
+oes speed increase, but his acceleration increases as well, the farther he is from the
+spinning  ride's  center.  on  the  tornado  ride,  then,  we  see  that  greater  acceleration  is  tied  up  with
+slower clocks—that is, greater acceleration results in a more significant warping of time.
+
+these  observations  took  einstein  to  the  final  leap.  since  he  had  already  shown  gravity  and
+accelerated motion to be effectively indistinguishable, and since he now had shown that accelerated
+motion  is  associated  with  the  warping  of  space  and  time,  he  made  the  followi
+ 
+ ___________________________
+ 
+ in  1967  physicists  sidney  coleman  and  jeffrey  mandula  were  able  to
+prove that no other symmetries associated with space, time, or motion could be combined with those
+just discussed and result in a theory bearing any resemblance to our world.
+
+subsequently,  though,  close  examination  of  this  theorem,  based  on  insights  of  a  number  of
+physicists revealed precisely one subtle loophole: the coleman-mandula result did not exploit fully
+symmetries sensitive to something known as spin.
+
+an elementary particle such as an electron can orbit an atomic nucleus in somewhat the same way that
+the  earth  orbits  the  sun.  but,  in  the  traditional  point-particle  description  of  an  electron,  it  would
+
+spin
+
+appear that there is no analog of the earth's spinning around on its axis. when any object spins, points
+on the axis of rotation itself—like the central point of a spinning frisbee—do not move. if something
+is truly pointlike, though, it has no "other points" that li
+ 
+ ___________________________
+ 
+e off of any purported spin axis. and so it
+would  appear  that  there  simply  is  no  notion  of  a  point  object  spinning.  many  years  ago,  such
+reasoning fell prey to yet another quantum-mechanical surprise.
+
+in 1925, the dutch physicists george uhlenbeck and samuel goudsmit realized that a wealth of
+puzzling data having to do with properties of light emitted and absorbed by atoms could be explained
+if electrons were assumed to have very particular magnetic properties. some hundred years earlier,
+the  frenchman andre-marie ampère  had  shown  that  magnetism  arises  from  the  motion  of  electric
+charge
+ 
+ ___________________________
+ 
+. uhlenbeck and goudsmit followed this lead and found that only one specific sort of electron
+motion could give rise to the magnetic properties suggested by the data: rotational motion—that is,
+spin. contrary to classical expectations, uhlenbeck and goudsmit proclaimed that, somewhat like the
+earth, electrons both revolve and rotate.
+
+did uhlenbeck and goudsmit literally mean that the electron is spinning? yes and no. what their
+work really showed is that there is a quantum-mechanical notion of spin that is somewhat akin to the
+usual  image  but  inherently  quantum  mechanical  in  nature.  it's  one  of  those  properties  of  the
+microscopic  world  that  brushes  up  against  classical  ideas  but  injects  an  experimentally  verified
+quantum  twist.  for  instance,  picture  a  spinning  skater.  as  she  pulls  her  arms  in  she  spins  more
+quickly; as she stretches out her arms she
+ 
+ ___________________________
+ 
+ spins more slowly. and sooner or later, depending on how
+vigorously she threw herself into the spin, she will slow down and stop. not so for the kind of spin
+revealed by uhlenbeck and goudsmit. according to their work and subsequent studies, every electron
+in  the  universe,  always  and  forever, spins  at  one  fixed  and  never  changing  rate.  the  spin  of  an
+electron is not a transitory state of motion as for more familiar objects that, for some reason or other,
+happen to be spinning. instead, the spin of an electron is an intrinsic property, much like its mass or
+its electric charge. if an electron were not spinning, it would not be an electron.
+
+with this background on the concept of spin, let's now turn to the role it plays in revealing the
+
+although  early  work  focused  on  the  electron,  physicists  have  subsequently  shown  that  these
+ideas about spin apply equally well to all of the matter particles that fill out the three families of
+table 1.1. this is true
+ 
+ ___________________________
+ 
+ down to the last detail: all of the matter particles (and their antimatter partners
+as well) have spin equal to that of the electron. in the language of the trade, physicists say that matter
+particles  all  have  "spin-1/2,"  where  the  value  1/2  is,  roughly  speaking,  a  quantum-mechanical
+measure  of  how  quickly  the  particles  rotate.2  moreover,  physicists  have  shown  that  the
+nongravitational force carriers—photons, weak gauge bosons, and gluons—also possess an intrinsic
+spinning characteristic that turns out to be twice that of the matter particles. they all have "spin-1."
+
+what  about  gravity?  well,  even  before  string  theory,  physicists  were  able  to  determine  what
+spin the hypothesized graviton must have to be the transmitter of the gravitational force. the answer:
+twice the spin of photons, weak gauge bosons, and gluons—i.e., "spin-2."
+
+in the context of string theory, spin—just like mass and force charges—is associated with the
+pattern of vibra
+ 
+ ___________________________
+ 
+tion that a string executes. as with point particles, it's a bit misleading to think of the
+spin carried by a string as arising from its spinning literally around in space, but this image does give
+a loose picture to have in mind. by the way, we can now clarify an important issue we encountered
+earlier. in 1974, when scherk and schwarz proclaimed that string theory should be thought of as a
+quantum theory incorporating the gravitational force, they did so because they had found that strings
+necessarily  have  a  vibrational  pattern  in  their  repertoire  that  is massless  and  has  spin-2—the
+hallmark features of the graviton. w
+ 
+ ___________________________
+ 
+here there is a graviton there is also gravity.
+
+loophole in the coleman-mandula result concerning the possible symmetries of nature, mentioned in
+the preceding section.
+
+supersymmetry and superpartners
+
+as we have emphasized, the concept of spin, although superficially akin to the image of a spinning
+top, differs in substantial ways that are rooted in quantum mechanics. its discovery in 1925 revealed
+that  there  is  another  kind  of  rotational  motion  that  simply  would  not  exist  in  a  purely  classical
+universe.
+
+this suggests the following question: just as ordinary rotational motion allows for the symmetry
+principle of rotational invariance ("physics treats all spatial orientations on an equal footing"), could
+it be that the more subtle rotational motion associated with spin
+ 
+ ___________________________
+ 
+ leads to another possible symmetry of
+the  laws  of  nature?  by  1971  or  so,  physicists  showed  that  the  answer  to  this  question  was  yes.
+although  the  full  story  is  quite  involved,  the  basic  idea  is  that  when  spin  is  considered,  there  is
+precisely one more symmetry of the laws of nature that is mathematically possible. it is known as
+supersymmetry.3
+
+supersymmetry cannot be associated with a simple and intuitive change in observational vantage
+point; shifts in time, in spatial location, in angular orientation, and in velocity of motion exhaust these
+possibilities.  but  just  as  spin  is  "like  rotational  motion,  with  a  quantum-mechanical  twist,"
+supersymmetry  can  be  associated  with  a  ch
+ 
+ ___________________________
+ 
+e  a  rough  sense  of  where  supersymmetry  fits  into  the  larger  framework  of
+symmetry  principles.4  nevertheless,  although  understanding  the  origin  of  supersymmetry  is  rather
+subtle, we will focus on one of its primary implications—should the laws of nature incorporate its
+principles—and this is far easier to grasp.
+
+in  the  early  1970s,  physicists  realized  that  if  the  universe  is  supersymmetric,  the  particles  of
+nature  must  come  in pairs  whose  respective  spins  differ  by  half  a  unit.  such  pairs  of  particles—
+regardless of whether they are thought of as pointlike (as in the standard model) or as tiny vibrating
+loops—are called superpartners. since matter particles have spin-1/2 while some of the messenger
+particles  have  spin-1,  supersymmetry  appears  to  result  in  a  pairing—a  partnering—of  matter  and
+force  particles.  as  such,  it  seems  like  a  wonderful  unifying  concept.  the  problem  comes  in  the
+details.
+
+by the
+ 
+ ___________________________
+ 
+ mid-1970s, when physicists sought to incorporate supersymmetry into the standard model,
+they found that none of the known particles—those of tables 1.1 and 1.2—could be superpartners of
+one  another.  instead,  detailed  theoretical  analysis  showed  that  if  the  universe  incorporates
+supersymmetry, then every known particle must have an as-yet-undiscovered superpartner particle,
+whose  spin  is  half  a  unit  less  than  its  known  counterpart.  for  instance,  there  should  be  a  spin-0
+partner  of  the  electron;  this  hypothetical  particle  has  been  named  the selectron  (a  contraction  of
+supersymmetric-electron).  the  same  should  also  be  true  for  the  other  matter  particles,  with,  for
+example, the hypothetical spin-0 superpartners of neutrinos and quarks being called sneutrinos and
+squarks. similarly, the force particles should have spin-1/2 superpartners: for photons there should
+be photinos, for the gluons there should be gluinos, for the w and z bosons
+ 
+ ___________________________
+ 
+t hits a specified target on the moon with a margin of error no greater than the
+thickness  of  an  amoeba.  although  numerical  adjustments  of  an  analogous  precision  can  be  made
+within  the  standard  model,  many  physicists  are  quite  suspect  of  a  theory  that  is  so  delicately
+constructed that it falls apart if a number on which it depends is changed in the fifteenth digit after the
+decimal point.5
+
+supersymmetry  changes  this  drastically  because bosons—particles  whose  spin  is  a  whole
+number (named after the indian physicist satyendra bose)—and fermions—particles whose spin is
+half  of  a  whole  (odd)  number  (named  after  the  italian  physicist  enrico  fermi)—tend  to  give
+cancelling  quantum-mechanical  contributions.  like  opposite  ends  of  a  seesaw,  when  the  quantum
+jitters  of  a  boson  are  positive,  those  of  a  fermion  tend  to  be  negative,  and  vice  versa.  since
+supersymmetry ensures that bosons and fermions occur in pairs, 
+ 
+ ___________________________
+ 
+ing theory.
+
+supersymmetry in string theory
+
+the original string theory that emerged from veneziano's work in the late 1960s incorporated all of
+the symmetries discussed at the beginning of this chapter, but it did not incorporate supersymmetry
+(which  had  not  yet  been  discovered).  this  first  theory  based  on  the  string  concept  was,  more
+precisely,  called  the bosonic string theory.  the  name bosonic  indicates  that  all  of  the  vibrational
+patterns of the bosonic string have spins that are a whole number—there are no fermionic patterns,
+that is, no patterns with spins differing from a whole number by a half unit. this led to two problems.
+first,  if  string  theory  was  to  describe  all  forces  and  all  matter,  it  would  somehow  have  to
+incorporate  fermionic  vibrational  patterns,  since  the  known  matter  particles  all  have  spin-1/2.
+second, and far more troubling, was the realization that there was one pattern of vibration in bosonic
+string theory who
+ 
+ ___________________________
+ 
+ry  has  the  remarkable  property  of predicting
+gravity."1 what witten means by this is that both newton and einstein developed theories of gravity
+because their observations of the world clearly showed them that gravity exists, and that, therefore, it
+required an accurate and consistent explanation. on the contrary, a physicist studying string theory—
+even if he or she was completely unaware of general relativity—would be inexorably led to it by the
+string framework. through its massless spin-2 graviton pattern of vibration, string theory has gravity
+thoroughly sewn into its theoretical fabric. as witten has said, "the fact that gravity is a consequence
+of  string  theory  is  one  of  the  greatest  theoretical  insights  ever."2  in  acknowledging  that  this
+"prediction" is more precisely labeled a "postdiction" because physicists had discovered theoretical
+descriptions of gravity before they knew of string theory, witten points out that this is a mere accident
+of history on eart
+ 
+ ___________________________
+ 
+e  preceding  discussion  gives  some  idea  of  how  string  theory  may  one  day  explain  the
+properties of the matter particles recorded in table 1.1. string theorists believe that a similar story
+will one day also explain the properties of the messenger particles of the fundamental forces, listed in
+table 1.2. that is, as strings twist and vibrate while meandering through the extended and curled-up
+dimensions, a small subset of their vast oscillatory repertoire consists of vibrations with spin equal to
+1 or 2. these are the candidate force-carrying string-vibrational states. regardless of the shape of the
+calabi-yau space, there is always one vibrational pattern that is massless and has spin-2; we identify
+this pattern as the graviton. the precise list of spin-1 messenger particles—their number, the strength
+of the force they convey, the gauge symmetries they respect—though, does depend crucially on the
+precise geometrical form of the curled-up dimensions. and so, once again, we 
+ 
+ ___________________________
+ 
+hall return to other examples, but for now
+we focus on one: supersymmetry.
+
+as  we  have  discussed,  a  fundamental  property  of  string  theory  is  that  it  is  highly  symmetric,
+incorporating  not  only  intuitive  symmetry  principles  but  respecting,  as  well,  the  maximal
+mathematical extension of these principles, supersymmetry. this means, as discussed in chapter 7,
+that patterns of string vibrations come in pairs—superpartner pairs—differing from each other by a
+half unit of spin. if string theory is right, then some of the string vibrations will correspond to the
+known  elementary  particles.  and  due  to  the  supersymmetric  pairing,  string  theory  makes  the
+prediction  that  each  such  known  particle  will  have  a  superpartner.  we  can  determine  the  force
+charges that each of these superpartner particles should carry, but we do not currently have the ability
+to predict their masses. even so, the prediction that superpartners exist is a generic feature of
+ 
+ ___________________________
+ 
+hunk of space collapses—in this case, a spherical piece of a calabi-yau shape—as opposed to the
+collapse  of  a  complete  spatial  dimension,  the  argument  identifying  small  and  large  radii  is  not
+directly applicable. nevertheless, even though this idea for ruling out flop transitions does not stand
+up to scrutiny, the possibility that the fabric of space could tear still seemed rather unlikely.
+
+but  then,  in  1991  the  norwegian  physicist  andy  lütken  together  with  paul  aspinwall,  a
+graduate-school  classmate  of  mine  from  oxford  and  now  a  professor  at  duke  university,  asked
+themselves  what  proved  to  be  a  very  interesting  question:  if  the  spatial  fabric  of  the  calabi-yau
+portion of our universe were to undergo a space-tearing flop transition, what would it look like from
+the perspective of the mirror calabi-yau space? to understand the motivation for this question, you
+must recall that the physics emerging from either member of a mirror pa
+ 
+ ___________________________
+ 
+ir of calabi-yau shapes (if
+selected for the extra dimensions) is identical, but the complexity of the mathematics that a physicist
+
+must employ to extract the physics can differ significantly between the two. aspinwall and lütken
+speculated that the mathematically complicated flop transition of figures 11.3 and 11.4 might have a
+far  simpler  mirror  description—one  that  might  give  a  more  transparent  view  on  the  associated
+physics.
+
+at the time of their work, mirror symmetry was not understood at the depth required to answer
+the question they posed. however, aspinwall and lütken noted that there did not seem to be anything
+in the mirror description that would indicate a disastrous physical c
+ 
+ ___________________________
+ 
+ror  pairs  of  calabi-yau  shapes  (see  chapter  10)  unexpectedly  led  us  to  think  about  flop
+transitions  as  well.  it  is  a  well-known  mathematical  fact  that  gluing  various  points  together  as  in
+figure 10.4—the procedure we had used to construct mirror pairs—leads to geometrical situations
+that are identical to the pinch and puncture in figures 11.3 and 11.4. physically, though, plesser and i
+could find no associated calamity. moreover, inspired by the observations of aspinwall and lütken
+(as well as a previous paper of theirs with graham ross), plesser and i realized that we could repair
+the  pinch  mathematically  in  two  different  ways.  one  way  led  to  the  calabi-yau  shape  in  figure
+11.3(a)  while  the  other  led  to  that  in  figure  11.4(d).  this  suggested  to  us  that  the  evolution  from
+figure 11.3(a) through figure 11.4(d) was something that could actually occur in nature.
+
+by late 1991, then, at least a few string theorists had a strong 
+ 
+ ___________________________
+ 
+cial  details.  one  thing,  however,  was  clear:  the
+methods of his paper, if properly understood and applied, could very well open a new line of attack
+on the issue of space-tearing flop transitions.
+
+by  late  summer,  energized  by  these  developments,  i  decided  that  i  wanted  to  return  to  the
+problem of flops with full and undistracted intensity. i had learned from morrison that he was going
+on leave from duke to spend a year at the institute for advanced study, and i knew that aspinwall
+would also be there, as a postdoctoral fellow. after a few phone calls and e-mails, i arranged to take
+leave from cornell university and spend the fall of 1992 at the institute as well.
+
+a strategy emerges
+
+one would be hard pressed to think of a more ideal place for long hours of intense concentration than
+the institute for advanced study. founded in 1930, it is set within gently rolling fields on the border
+of an idyllic forest a few miles from the campus of princeton university. it is sa
+ 
+ ___________________________
+ 
+ the institute, because, well, there aren't any distractions.
+
+after leaving germany in 1933, einstein joined the institute and remained there for the duration
+of his life. it takes little imagination to picture him pondering unified field theory in the institute's
+quiet, lonely, almost ascetic surroundings. the legacy of deep thought infuses the atmosphere, which,
+depending on your own immediate state of progress, can be either exciting or oppressive.
+
+shortly after arriving at the institute, aspinwall and i were walking down nassau street (the
+main commercial street in the town of princeton) trying to agree on a place to have dinner. this was
+no small task since paul is as devout a meat eater as i am a vegetarian. in the midst of catching up on
+each other's lives as we were walking along, he asked me if i had any ideas about new things to work
+
+on. i told him i did, and recounted my take on the importance of establishing that the universe, if truly
+described by string theory, can underg
+ 
+ ___________________________
+ 
+tear in string theory. we realized that this question could be reduced to a
+calculation: extract the physical properties of the universe for the upper calabi-yau shape after the
+tear (using, say, the upper-right calabi-yau shape in figure 11.5) and for its supposed mirror (the
+lower-right calabi-yau shape in figure 11.5), and see if they are identical.
+
+figure 11.5 a space-tearing flop transition (top row) and its purported mirror rephrasing (bottom
+row).
+
+it  was  this  calculation  to  which aspinwall,  morrison,  and  i  devoted  ourselves  in  the  fall  of
+
+1992.
+
+late nights at einstein's final stomping ground
+
+edward  witten's  razor-sharp  intellect  is  clothed  in  a  soft-spoken  demeanor  that  often  has  a  wry,
+almost ironic, edge. he is widely regarded as einstein's successor in the role of the world's greatest
+living physicist. some would go even further and describe him as the greatest physicist of all time. he
+has an insatiable appetite for cutting-edge physics problems
+ 
+ ___________________________
+ 
+ planning to
+pursue.  he  lit  up  upon  hearing  the  ideas,  but  cautioned  that  he  thought  the  calculations  would  be
+horrendously difficult. he also pointed out a potential weak link in the strategy i described, having to
+do with some work i had done a few years earlier with vafa and warner. the issue he raised turned
+out to be only tangential to our approach for understanding flops, but it started him thinking about
+what ultimately turned out to be related and complementary issues.
+
+aspinwall,  morrison,  and  i  decided  to  split  our  calculation  in  two  pieces. at  first  a  natural
+division might have seemed to involve first extracting the physics associated with the final calabi-
+yau shape from the upper row of figure 11.5, and then doing the same for the final calabi-yau shape
+from the lower row of figure 11.5. if the mirror relationship is not shattered by the tear in the upper
+calabi-yau, then these two final calabi-yau shapes should yield identical physics, just like
+ 
+ ___________________________
+ 
+f figure 11.5—the putative mirror of
+the upper calabi-yau—and then in extracting the associated physics.
+
+a  procedure  for  accomplishing  the  second  task—extracting  the  physical  features  of  the  final
+calabi-yau space in the lower row, once its shape was precisely known—had been worked out a
+few years earlier by candelas. his approach, however, was calculationally intensive and we realized
+that it would require a clever computer program to carry it out in our explicit example. aspinwall,
+who  in  addition  to  being  a  renowned  physicist  is  a  crackerjack  programmer,  took  on  this  task.
+morrison  and  i  set  out  to  accomplish  the  first  task,  namely,  to  identify  the  precise  shape  of  the
+candidate mirror calabi-yau space.
+
+it  was  here  that  we  felt  batyrev's  work  could  provide  us  some  important  clues.  once  again,
+though, the cultural divide between mathematics and physics—in this case, between morrison and me
+—started to impede progres
+ 
+ ___________________________
+ 
+ an
+hour or two on the relevant mathematics. school would typically let out at about 11 p.m.
+
+we stuck to the program, day in and day out. progress was slow, but we could sense that things
+were starting to fall into place. meanwhile, witten was making significant headway on reformulating
+the weak link he had earlier identified. his work was establishing a new and more powerful method
+of  translation  between  the  physics  of  string  theory  and  the  mathematics  of  the  calabi-yau  spaces.
+aspinwall,  morrison,  and  i  had  almost  daily  impromptu  meetings  with  witten  at  which  he  would
+show us new insights following from his approach. as the weeks went by, it gradually became clear
+that unexpectedly, his work, from a vantage point completely different from our own, was converging
+on the issue of flop transitions. aspinwall, morrison, and i realized that if we didn't complete our
+calculation soon, witten would beat us to the punch.
+
+of six-packs and working weekends
+
+nothing fo
+ 
+ ___________________________
+ 
+cuses the mind of a physicist like a healthy dose of competition. aspinwall, morrison, and
+i went into high gear. it's important to note that this meant one thing to morrison and me, and quite
+another  to aspinwall. aspinwall  is  a  curious  mixture  of  upper-class  british  sensibility,  largely  a
+reflection of the decade he spent at oxford as both an undergraduate and a graduate student, infused
+ever  so  slightly  with  a  prankster's  roguishness. as  far  as  work  habits  go,  he  is  perhaps  the  most
+civilized physicist i know. while many of us work deep into the evening, he never works past 5 p.m.
+while many of us work weekends, aspinwall does not. he gets away with this because he is both
+sharp and
+ 
+ ___________________________
+ 
+ efficient. going into high gear for him merely amounts to notching up his efficiency level to
+even greater heights.
+
+by  this  time,  it  was  early  december.  morrison  and  i  had  been  lecturing  to  one  another  for
+several months and it was starting to pay off. we were very close to being able to identify the precise
+shape of the calabi-yau space we were seeking. moreover, aspinwall had just about finished his
+computer code, and he now awaited our result, which would be the required input for his program. it
+was a thursday night when morrison and i finally had confidence that we knew how to identify the
+sought-after calabi-yau shape. that, too, boiled down to a procedure that required its own, fairly
+simple,  computer  code.  by  friday  afternoon  we  had  written  the  program  and  debugged  it;  by  late
+friday night we had our result.
+
+but it was after 5 p.m. and 
+ 
+ ___________________________
+ 
+it was friday. aspinwall had gone home and would not return until
+monday. there was nothing we could do without his computer code. neither morrison nor i could
+imagine  waiting  out  the  whole  weekend.  we  were  on  the  verge  of  answering  the  long-pondered
+question  of  spatial  tears  in  the  fabric  of  the  cosmos,  and  the  suspense  was  too  much  to  bear.  we
+called aspinwall at home. at first he refused to come to work the next morning as we asked. but then,
+after much groaning, he consented to join us, as long as we bought him a six-pack of beer. we agreed.
+
+a moment of truth
+
+we  all  met  at  the  institute  saturday  morning  as  planned.  it  was  a  bright  sunny  morning,  and  the
+atmosphere was jokingly relaxed. i, for one, half expected that aspinwall would not show up; once he
+did,  i  spent  15  minutes  extolling  the  import  of  this  first  wee
+ 
+ ___________________________
+ 
+kend  he  had  come  into  the  office.  he
+assured me it wouldn't happen again.
+
+we  all  huddled  around  morrison's  computer  in  the  office  he  and  i  shared.  aspinwall  told
+morrison how to bring his program up on the screen and showed us the precise form for the required
+input. morrison appropriately formatted the results we had generated the previous night, and we were
+set to go.
+
+the  particular  calculation  we  were  performing  amounts,  roughly  speaking,  to  determining  the
+mass of a certain particle species—a specific vibrational pattern of a string—when moving through a
+universe whose calabi-yau component we had spent all fall identifying.
+ 
+ ___________________________
+ 
+, we
+all  realized  that  something  funny  must  be  going  on.  if  there  was  a  real  mismatch  in  the  physics
+following from the two shapes, it was extremely unlikely that the computer calculation should yield
+an answer so close to a whole number. if our ideas were wrong, there was no reason in the world to
+expect  anything  but  a  random  collection  of  digits.  we  had  gotten  a  wrong  answer,  but  one  that
+suggested, perhaps, that we had just made some simple arithmetic error. aspinwall and i went to the
+blackboard, and in a moment we found our mistake: we had dropped a factor of 3 in the "simpler"
+calculation we had done weeks before; the true result was 9. the computer answer was therefore just
+what we wanted.
+
+of  course,  the  after-the-fact  agreement  was  only  marginally  convincing.  when  you  know  the
+answer you want, it is often all too easy to figure out a way of getting it. we needed to do another
+example. having already written all of the necessary computer
+ 
+ ___________________________
+ 
+e mass on the upper calabi-yau shape, being careful this time to make no
+errors. we found the answer: 12. once again, we huddled around the computer and set it on its way.
+seconds  later  it  returned  11.999999. agreement.  we  had  shown  that  the  supposed  mirror is  the
+mirror, and hence space-tearing flop transitions are part of the physics of string theory.
+
+at this i jumped out of my chair and ran an unrestrained victory lap around the office. morrison
+beamed from behind the computer. aspinwall's reaction, though, was rather different. "that's great,
+but i knew it would work," he calmly said. "and where's my beer?"
+
+witten's approach
+
+that monday, we triumphantly went to witten and told him of our success. he was very pleased with
+our result. and, as it turned out, he too had just found a way of establishing that flop transitions occur
+
+in  string  theory.  his  argument  was  quite  different  from  ours,  and  it  significantly  illuminates  the
+microscopic understanding of why
+ 
+ ___________________________
+ 
+d performing the kinds of experiments carried out on earth.
+
+but the indirect approach of invoking symmetry under changes of locale is far easier. we could also
+learn about features on the left side of the perpetrator's face by tracking him down and examining it.
+but it is often far easier to invoke the left-right symmetry of faces.7
+
+supersymmetry  is  a  more  abstract  symmetry  principle  that  relates  physical  properties  of
+elementary  constituents  that  carry  different  amounts  of  spin.  at  best  there  are  only  hints  from
+experimental  results  that  the  microworld  incorporates  this  symmetry,  but,  for  reasons  discussed
+earlier, there is a strong belief that it does. it is certainly an integral part of string theory. in the 1990s,
+led by the pioneering work of nathan seiberg of the institute for advanced study, physicists have
+realized that supersymmetry provides a sharp and incisive tool that can answer some very difficult
+and important questions by indirect mean
+ 
+ ___________________________
+ 
+k. these physicists
+found  increasingly  persuasive  evidence  for  what  john  wheeler  has  summarized  by  the  statement
+"black holes have no hair." by this, wheeler meant that except for a small number of distinguishing
+features, all black holes appear to be alike. the distinguishing features? one, of course, is the black
+hole's mass. what are the others? research has revealed that they are the electric and certain other
+force charges a black hole can carry, as well as the rate at which it spins. and that's it. any two black
+holes with the same mass, force charges, and spin are completely identical. black holes do not have
+fancy "hairdos"—that is, other intrinsic traits—that distinguish one from another. this should ring a
+loud bell. recall that it is precisely such properties—mass, force charges, and spin—that distinguish
+one  elementary  particle  from  another.  the  similarity  of  the  defining  traits  has  led  a  number  of
+physicists  over  the  years  to  the  strang
+ 
+ ___________________________
+ 
+ can imagine a thought experiment in which we start with ever-lighter blobs of matter, crush them
+into  ever-smaller  black  holes,  and  compare  the  properties  of  the  resulting  black  holes  with  the
+properties of elementary particles. wheeler's no-hair statement leads us to conclude that for small
+enough masses the black holes we form in this manner will look very much like elementary particles.
+both will look like tiny bundles characterized completely by their mass, force charges, and spin.
+
+but there is a catch. astrophysical black holes, with masses many times that of the sun, are so
+large  and  heavy  that  quantum  mechanics  is  largely  irrelevant  and  only  the  equations  of  general
+relativity need be used to understand their properties. (we are here discussing the overall structure of
+the black hole, not the singular central point of collapse within a black hole, whose tiny size most
+certainly  requires  a  quantum-mechanical  description.) as  we  try  to  make  ever
+ 
+ ___________________________
+ 
+t we would need to work out before we could establish that our second half of the story did not
+introduce any singularities—that is, pernicious and physically unacceptable consequences. we each
+went home that evening with the tentative elation that we were sitting on a major new insight.
+
+a flurry of e-mail
+
+the next morning i received an e-mail from strominger asking me for any comments or reactions to
+his  paper.  he  mentioned  that  "it  should  tie  in  somehow  with  your  work  with  aspinwall  and
+morrison,"  because,  as  it  turned  out,  he  too  had  been  exploring  a  possible  connection  to  the
+phenomenon  of  topology  change.  i  immediately  sent  him  an  e-mail  describing  the  rough  outline
+morrison  and  i  had  come  up  with.  when  he  responded,  it  was  clear  that  his  level  of  excitement
+matched what morrison and i had been riding since the preceding day.
+
+during the next few days a continuous stream of e-mail messages circulated between the three of
+ 
+ ___________________________
+ 
+rable
+evolution to greater total entropy embodied in the second law of thermodynamics. he proposed that
+the area of the event horizon of a black hole provides a precise measure of its entropy.
+
+on closer inspection, though, there are two reasons why most physicists thought that bekenstein's
+idea could not be right. first, black holes would seem to be among the most ordered and organized
+objects in the whole universe. once one measures the black hole's mass, the force charges it carries,
+and its spin, its identity has been nailed down precisely. with so few defining features, a black hole
+appears to lack sufficient structure to allow for disorder. just as there is little havoc one can wreak
+on a desktop that holds solely a book and a pencil, black holes seem too simple to support disorder.
+the  second  reason  that  bekenstein's  proposal  was  hard  to  swallow  is  that  entropy,  as  we  have
+discussed it here, is a quantum-mechanical concept, whereas black holes, until recently, were fi
+ 
+ ___________________________
+ 
+ three are perhaps the most important ones to keep firmly in mind. first, gravity and quantum
+mechanics are part and parcel of how the universe works and therefore any purported unified theory
+must incorporate both. string theory accomplishes this. second, studies by physicists over the past
+century  have  revealed  that  there  are  other  key  ideas—many  of  which  have  been  experimentally
+confirmed—that appear central to our understanding of the universe. these include the concepts of
+spin, the family structure of matter particles, messenger particles, gauge symmetry, the equivalence
+principle,  symmetry  breaking,  and  supersymmetry,  to  name  a  few.  all  of  these  concepts  emerge
+naturally  from  string  theory.  third,  unlike  more  conventional  theories  such  as  the  standard  model,
+which  has  19  free  parameters  that  can  be  adjusted  to  ensure  agreement  with  experimental
+measurements,  string  theory  has  no  adjustable  parameters.  in  principle,  its
+ 
+ ___________________________
+ 
+ce—we are fulfilling our part, contributing our rung to the human ladder reaching
+for the stars.
+
+notes
+
+chapter 1
+
+1. the table below is an elaboration of table 1.1. it records the masses and force charges of the
+particles of all three families. each type of quark can carry three possible strong-force charges that
+are, somewhat fancifully, labeled as colors—they stand for numerical strong-force charges values.
+the weak charges recorded are, more precisely, the "third-component" of weak isospin. (we have
+not listed the "right-handed" components of the particles—they differ by having no weak charge.)
+
+2. strings can also have two freely moving ends (so-called open strings) in addition to the loops
+(closed strings) illustrated in figure 1.1. to ease our presentation, for the most part we will focus on
+closed strings, although essentially all of what we say applies to both.
+
+3. albert  einstein,  in  a  1942  letter  to  a  friend,  as  quoted  in  tony  hey  and  patrick  walters,
+
+e
+ 
+ ___________________________
+ 
+xt we have followed the spirit of einstein's own analysis, and
+in this endnote we continue to take this viewpoint and seek to clarify a couple of features that you may
+have  found  confusing.  first,  you  may  be  puzzled  about  why  the  circumference  of  the  ride  is  not
+lorentz contracted in exactly the same way as the ruler, and hence measured by slim to have the same
+length  as  we  originally  found.  bear  in  mind,  though,  that  throughout  our  discussion  the  ride  was
+always  spinning;  we never  analyzed  the  ride  when  it  was  at  rest.  thus,  from  our  perspective  as
+stationary  observers,  the  only  difference  between  our  and  slim's  measurement  of  the  ride's
+circumference is that slim's ruler is lorentz contracted; the spinning tornado ride was spinning when
+we performed our measurement, and it is spinning as we watch slim carry out his. since we see that
+
+his ruler is contracted, we realize that he will have to lay it out more times to traverse the e
+ 
+ ___________________________
+ 
+ntire
+circumference,  thereby  measuring  a  longer  length  than  we  did.  lorentz  contraction  of  the  ride's
+circumference  would  have  been  relevant  only  if  we  compared  the  properties  of  the  ride  when
+spinning and when at rest, but this is a comparison we did not need.
+
+second, notwithstanding the fact that we did not need to analyze the ride when it was at rest, you
+may still be wondering about what would happen when it does slow down and stop. now, it would
+seem,  we  must  take  account  of  the  changing  circumference  with  changing  speed  due  to  different
+degrees of lorentz contraction. but how can this be squared with an unchanging radius? this is a
+subtle problem whose resolution hing
+ 
+ ___________________________
+ 
+es on the fact that there are no fully rigid objects in the real
+world. objects can stretch and bend and thereby accommodate the stretching or contracting we have
+come  upon;  if  not,  as  einstein  pointed  out,  a  rotating  disk  that  was  initially  formed  by  allowing  a
+spinning cast of molten metal to cool while in motion would break apart if its rate of spinning were
+subsequently  changed.  for  more  details  on  the  history  of  the  rigidly  rotating  disk,  see  stachel,
+"einstein and the rigidly rotating disk."
+
+6. the expert reader will recognize that in the example of the tornado ride, that is, in the case of
+a uniformly rotating frame of reference, the curved three-dimensional spatial sections on which we
+have focused fit together into a four-dimensional spacetime whose curvature still vanishes.
+
+7. hermann minkowski, as quoted in fölsing
+ 
+ ___________________________
+ 
+f cannot be too heavy; studies show that its mass should certainly be
+no greater than about 1,000 times the mass of a proton. but it turns out that quantum fluctuations tend
+to contribute substantially to the mass of the higgs particle, potentially driving its mass all the way to
+the planck scale. theorists have found, however, that this outcome, which would uncover a major
+
+1.  albert  einstein,  as  quoted  in  r.  clark, einstein:  the  life  and  times  (new  york:  avon
+
+2. more precisely, spin-1/2 means that the angular momentum of the electron from its spin is 
+
+books, 1984), p. 287.
+
+/2.
+
+defect  in  the  standard  model,  can  be  avoided  if  certain  parameters  in  the  standard  model  (most
+notably, the so-called bare mass of the higgs particle) are finely tuned to better than 1 part in 1015 to
+cancel the effects of these quantum fluctuations on the higgs particle's mass.
+
+6. one subtle point to note about figure 7.1 is that the strength of the weak force is shown to be
+betw
+ 
+ ___________________________
+ 
+efly summarize the differences between the five string theories. to do so, we note that
+vibrational disturbances along a loop of string can travel clockwise or counterclockwise. the type
+iia  and  type  iib  strings  differ  in  that  in  the  latter  theory,  these  clockwise/counterclockwise
+vibrations  are  identical,  while  in  the  former,  they  are  exactly  opposite  in  form. opposite  has  a
+precise mathematical meaning in this context, but it's easiest to think about in terms of the spins of the
+resulting vibrational patterns in each theory. in the type iib theory, it turns out that all particles spin
+in the same direction (they have the same chirality), whereas in the type iia theory, they spin in both
+directions  (they  have  both  chiralities).  nevertheless,  each  theory  incorporates  supersymmetry.  the
+two  heterotic  theories  differ  in  a  similar  but  more  dramatic  way.  each  of  their  clockwise  string
+vibrations looks like those of the type ii string (when fo
+ 
+ ___________________________
+ 
+alent to gi = 1/gho. when one coupling constant is big
+the other is small.
+
+10. this is a close analog of the r, 1/r duality discussed previously. if we call the type iib
+string coupling constant giib then the statement that appears to be true is that the values giib and 1/giib
+describe the same physics. if giib is big, 1/giib is small, and vice versa.
+
+11. if all but four dimensions are curled up, a theory with more than eleven total dimensions
+necessarily gives rise to massless particles with spin greater than 2, something that both theoretical
+and experimental considerations rule out.
+
+12. a  notable  exception  is  the  important  1987  work  of  duff,  paul  howe,  takeo  inami,  and
+kelley stelle in which they drew on earlier insights of eric bergshoeff, ergin sezgin, and townsend
+to argue that ten-dimensional string theory should have a deep eleven-dimensional connection.
+
+13. more precisely, this diagram should be interpreted as saying that we have a single theory
+
+that  depends  
+ 
+ ___________________________
+ 
+nd compression.
+big crunch. one hypothesized future for the universe in which the current expansion stops, reverses,
+and results in all space and all matter collapsing together; a reversal of the big bang.
+black hole. an object whose immense gravitational field entraps anything, even light, that gets too
+close (closer than the black hole's event horizon).
+black-hole entropy the entropy embodied within a black hole.
+boson. a particle, or pattern of string vibration, with a whole number amount of spin; typically a
+messenger particle.
+bosonic string theory. first known string theory; contains vibrational patterns that are all bosons.
+bps states. configurations in a supersymmetric theory whose properties can be determined exactly
+by arguments rooted in symmetry.
+brane. any of the extended objects that arise in string theory. a one-brane is a string, a two-brane
+is a membrane, a three-brane has three extended dimensions, etc. more generally, a p-brane  has p
+spatial dimensions.
+calabi-yau  spac
+ 
+ ___________________________
+ 
+liar, as opposed to a curled-up dimension.
+extremal black holes. black holes endowed with the maximal amount of force charge possible for a
+given total mass.
+families. organization of matter particles into three groups, with each group being known as a family.
+the particles in each successive family differ from those in the previous by being heavier, but carry
+the same electric and nuclear force charges.
+fermion. a particle, or pattern of string vibration, with half a whole odd number amount of spin;
+typically a matter particle.
+feynman sum-over-paths. see sum-over-paths.
+field, force field.  from  a macroscopic perspective, the means by which a force communicates its
+influence; described by a collection of numbers at each point in space that reflect the strength and
+direction of the force at that point.
+flat.  subject  to  the  rules  of  geometry  codified  by  euclid;  a  shape,  like  the  surface  of  a  perfectly
+smooth tabletop, and its higher-dimensional generalizations.
+flop trans
+ 
+ ___________________________
+ 
+me enormous. the size of a typical string in string theory.
+planck  mass.  about  ten  billion  billion  times  the  mass  of  a proton;  about  one-hundredth  of  a
+thousandth  of  a  gram;  about  the  mass  of  a  small  grain  of  dust.  the  typical  mass  equivalent  of  a
+vibrating string in string theory.
+planck's  constant.  denoted  by  the  symbol h,  planck's  constant  is  a  fundamental  parameter  in
+quantum mechanics. it determines the size of the discrete units of energy, mass, spin, etc. into which
+the microscopic world is partitioned. its value is 1.05 × 10-27 grams-cm/sec.
+planck tension. about 1039 tons. the tension on a typical string in string theory.
+planck time. about 10-43 seconds. time at which the size of the universe was roughly the planck
+length; more precisely, time it takes light to travel the planck length.
+primordial nucleosynthesis. production of atomic nuclei occurring during the first three minutes after
+the big bang.
+principle of equivalence.  core  p
+ 
+ ___________________________
+ 
+-dimensional  ball  has  two
+dimensions  (which  can  be  labeled  by  two  numbers  such  as  "latitude"  and  "longitude,"  as  on  the
+surface of the earth). the concept of a sphere, though, applies more generally to balls and hence their
+surfaces, in any number of dimensions. a one-dimensional sphere is a fancy name for a circle; a zero-
+dimensional sphere is two points (as explained in the text). a three-dimensional sphere is harder to
+picture; it is the surface of a four-dimensional ball.
+spin.  a  quantum-mechanical  version  of  the  familiar  notion  of  the  same  name;  particles  have  an
+intrinsic  amount  of  spin  that  is  either  a  whole  number  or  half  a  whole  number  (in  multiples  of
+planck's constant), and which never changes.
+standard  model  of  cosmology.  big  bang  theory  together  with  an  understanding  of  the  three
+nongravitational forces as summarized by the standard model of particle physics.
+standard model of particle physics, standard model, stan
+ 
+ ___________________________
+ 
+ly coupled. theory whose string coupling constant is larger than 1.
+strong-weak duality. situation in which a strongly coupled theory is dual—physically identical—to
+a different, weakly coupled theory.
+sum-over-paths.  formulation  of quantum  mechanics  in  which  particles  are  envisioned  to  travel
+from one point to another along all possible paths between them.
+supergravity. class of point-particle theories combining general relativity and supersymmetry.
+superpartners. particles whose spins differ by 1/2 unit and that are paired by supersymmetry.
+superstring theory. string theory that incorporates supersymmetry.
+supersymmetric quantum field theory. quantum field theory incorporating supersymmetry.
+supersymmetric  standard  model.  generalization  of  the standard  model  of  particle  physics  to
+incorporate supersymmetry. entails a doubling of the known elementary particle species.
+supersymmetry. a symmetry principle that relates the properties of particles with a whole number
+a
+ 
+ ___________________________
+ 
+mount of spin (bosons) to those with half a whole (odd) number amount of spin (fermions).
+symmetry. a property of a physical system that does not change when the system is transformed in
+some manner. for instance, a sphere is rotationally symmetrical since its appearance does not change
+if it is rotated.
+symmetry  breaking.  a  reduction  in  the  amount  of symmetry  a  system  appears  to  have,  usually
+associated with a phase transition.
+tachyon.  particle  whose  mass  (squared)  is  negative;  its  presence  in  a  theory  generally  yields
+inconsistencies.
+thermod

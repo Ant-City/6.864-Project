@@ -1,0 +1,90 @@
+more dimensions than meet the eye
+9. the smoking gun: experimental signatures
+
+part iv: string theory and the fabric of spacetime
+10. quantum geometry
+11. tearing the fabric of space
+12. beyond strings: in search of m-theory
+13. black holes: a string/m-theory perspective
+14. reflections on cosmology
+
+part v: unification in the twenty-first century
+15. prospects
+
+notes
+glossary of scientific terms
+references and suggestions for further reading
+
+preface
+
+during the last thirty years of his life, albert einstein sought relentlessly for a so-called unified field
+theory—a  theory  capable  of  describing  nature's  forces  within  a  single,  all-encompassing,  coherent
+framework. einstein was not motivated by the things we often associate with scientific undertakings,
+such  as  trying  to  explain  this  or  that  piece  of  experimental  data.  instead,  he  was  driven  by  a
+passionate belief that the deepest understanding of the universe would reveal its truest wonder: the
+simplicity  and  power  o
+ 
+ ___________________________
+ 
+ings of the universe.
+a central thread in what follows will be those developments that carry forward the revolution in our
+understanding of space and time initiated by einstein's special and general theories of relativity. we
+will see that if string theory is correct, the fabric of our universe has properties that would likely have
+dazzled even einstein.
+
+part ii
+
+the dilemma of space, time, and the quanta
+
+chapter 2
+
+space, time, and the eye of the beholder
+
+in june 1905, twenty-six-year-old albert einstein submitted a technical article to the german annals
+of  physics  in  which  he  came  to  grips  with  a  paradox  about  light  that  had  first  troubled  him  as  a
+teenager, some ten years earlier. upon turning the final page of einstein's manuscript, the editor of the
+journal, max planck, realized that the accepted scientific order had been overthrown. without hoopla
+or fanfare, a patent clerk from bern, switzerland, had completely overturned the traditional notions of
+space  and  time  and 
+ 
+ ___________________________
+ 
+nuniform "real" gravitational field created by some collection of massive bodies is known
+as  the  "tidal"  gravitational  field  (since  it  accounts  for  the  moon's  gravitational  effect  on  tides  on
+earth). this endnote, therefore, can be summarized by saying that tidal gravitational fields become
+less noticeable as the size of your compartment gets smaller, making accelerated motion and a "real"
+gravitational field indistinguishable.
+
+3. albert einstein, as quoted in albrecht fölsing, albert einstein (new york: viking, 1997), p.
+
+315.
+
+4.  john  stachel,  "einstein  and  the  rigidly  rotating  disk,"  in general  relativity  and
+
+gravitation, ed. a. held (new york: plenum, 1980), p. 1.
+
+5. analysis of the tornado ride, or the "rigidly rotating disk," as it is called in more technical
+language, easily leads to confusion. in fact, to this day there is not universal agreement on a number of
+subtle aspects of this example. in the text we have followed the spirit of einstein's own analysis, and
+
+ 
+ ___________________________
+ 
+urns out, that is quite plausible in string theory), all extant experiments could well have
+overlooked it. new, highly sensitive gravitational experiments will look for such "large" curled-up
+dimensions in the near future. a positive result would be one of the greatest discoveries of all time.
+
+3. edwin abbott, flatland (princeton: princeton university press, 1991).
+4. a.  einstein  in  letter  to  t.  kaluza  as  quoted  in abraham  pais,  "subtle  is  the  lord":  the
+
+science and the life of albert einstein (oxford: oxford university press, 1982), p. 330.
+
+5. a. einstein in letter to t. kaluza as quoted in d. freedman and p. van nieuwenhuizen, "the
+
+hidden dimensions of spacetime," scientific american 252 (1985), 62.
+
+6. ibid.
+7. physicists found that the most difficult feature of the standard model to incorporate through a
+higher-dimensional  formulation  is  something  known  as chirality.  so  as  not  to  overburden  the
+
+discussion we have not covered this concept in the main text, but for re

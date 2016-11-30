@@ -1,0 +1,35 @@
+ quantum
+mechanics, it undeniably shows that the universe is founded on principles that, from the standpoint of
+our day-to-day experiences, are bizarre.
+
+the  meta-lesson  of  both  relativity  and  quantum  mechanics  is  that  when  we  deeply  probe  the
+fundamental workings of the universe we may come upon aspects that are vastly different from our
+expectations. the boldness of asking deep questions may require unforeseen flexibility if we are to
+accept the answers.
+
+feynman's perspective
+
+richard feynman was one of the greatest theoretical physicists since einstein. he fully accepted the
+probabilistic  core  of  quantum  mechanics,  but  in  the  years  following  world  war  ii  he  offered  a
+powerful  new  way  of  thinking  about  the  theory.  from  the  standpoint  of  numerical  predictions,
+feynman's perspective agrees exactly with all that went before. but its formulation is quite different.
+let's describe it in the context of the electron two-slit experiment.
+
+the troubling thing about
+ 
+ ___________________________
+ 
+selves be approximations to reality. but this notion of approximate
+has nothing to do with our discussion in this chapter. here we are concerned with the fact that within
+a chosen theory, it is often difficult, if not impossible, to extract the exact predictions that the theory
+makes.  instead,  we  have  to  extract  such  predictions  using  approximation  methods  based  on  a
+perturbative approach.
+
+4. these diagrams are string theory versions of the so-called feynman diagrams, invented by
+
+richard feynman for performing perturbative calculations in point-particle quantum field theory.
+
+5. more precisely, every virtual string pair, that is, every loop in a given diagram, contributes—
+among other more complicated terms—a multiplicative factor of the string coupling constant. more
+loops translate into more factors of the string coupling constant. if the string coupling constant is less
+than  1,  repeated  multiplications  make  the  overall  contribution  ever  smaller;  if  it  is  1  or  large

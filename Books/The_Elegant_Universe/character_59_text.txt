@@ -1,0 +1,226 @@
+an  once  jested,  "created  and  annihilated,  created  and  annihilated—
+what a waste of time."2 since the borrowing and repaying on average cancel each other out, an empty
+region  of  space  looks  calm  and  placid  when  examined  with  all  but  microscopic  precision.  the
+uncertainty principle, however, reveals that macroscopic averaging obscures a wealth of microscopic
+activity.3 as we will see shortly, this frenzy is the obstacle to merging general relativity and quantum
+mechanics.
+
+quantum field theory
+
+over  the  course  of  the  1930s  and  1940s  theoretical  physicists,  led  by  the  likes  of  paul  dirac,
+wolfgang pauli, julian schwinger, freeman dyson, sin-itiro tomonaga, and feynman, to name a few,
+struggled  relentlessly  to  find  a  mathematical  formalism  capable  of  dealing  with  this  microscopic
+obstreperousness.  they  found  that  schrödinger's  quantum  wave  equation  (mentioned  in  chapter  4)
+was actually only an approximate description of microscopic physics—an a
+ 
+ ___________________________
+ 
+luons, so to speak, provide the "glue" that keeps these subatomic particles stuck together. the weak
+force, which is responsible for certain kinds of particle transmutations involved in radioactive decay,
+is mediated by the weak gauge bosons.
+
+gauge symmetry
+
+you may have realized that the odd man out in our discussion of the quantum theory of the forces of
+nature is gravity. given the successful approach physicists have used with the other three forces, you
+might suggest that physicists seek a quantum field theory of the gravitational force—a theory in which
+
+recall that the gravitational force allows us to declare that all observers—regardless of their
+state of motion—are on absolutely equal footing. even those whom we would normally think of as
+accelerating  may  claim  to  be  at  rest,  since  they  can  attribute  the  force  they  feel  to  their  being
+immersed in a gravitational field. in this sense, gravity enforces the symmetry: it ensures the equal
+validity of all possible observational
+ 
+ ___________________________
+ 
+ applies to the weak and electromagnetic forces, showing that their existence, too, is bound
+up with yet other gauge symmetries—the so-called weak and electromagnetic gauge symmetries. and
+
+hence, all four forces are directly associated with principles of symmetry.
+
+this common feature of the four forces would seem to bode well for the suggestion made at the
+beginning  of  this  section.  namely,  in  our  effort  to  incorporate  quantum  mechanics  into  general
+relativity we should seek a quantum field theory of the gravitational force, much as physicists have
+discovered successful quantum field theories of the other three forces. over the years, such reasoning
+has inspired a prodigious and distinguished group of physicists to follow this path vigorously, but the
+terrain has proven to be fraught with danger, and no one has succeeded in traversing it completely.
+let's see why.
+
+general relativity vs. quantum mechanics
+
+the usual realm of applicability of general relativity is that of large, astronomi
+ 
+ ___________________________
+ 
+ertheless, the major initial impact of the work of ramond, and also of neveu and schwarz,
+was not actually in string theory. by 1973, the physicists julius wess and bruno zumino realized that
+supersymmetry—the new symmetry emerging from the reformulation of string theory—was applicable
+even to theories based on point particles. they rapidly made important strides toward incorporating
+supersymmetry  into  the  framework  of  point-particle  quantum  field  theory. and  since,  at  the  time,
+quantum field theory was the central rage of the mainstream particle-physics community—with string
+theory increasingly becoming a subject on the fringe—the insights of wess and zumino launched a
+tremendous amount of subsequent research on what has come to be called supersymmetric quantum
+field theory. the supersymmetric standard model, discussed in the preceding section, is one of the
+crowning theoretical achievements of these pursuits; we now see that, through historical twists and
+turns, even this point-parti
+ 
+ ___________________________
+ 
+ein and others continued, now and then, to dabble with the possibility of extra curled-up
+dimensions, but it quickly came to be an enterprise on the outskirts of theoretical physics.
+
+in a real sense, kaluza's idea was way ahead of its time. the 1920s marked the start of a bull
+market for theoretical and experimental physics concerned with understanding the basic laws of the
+microworld.  theorists  had  their  hands  full  as  they  sought  to  develop  the  structure  of  quantum
+mechanics and quantum field theory. experimentalists had the detailed properties of the atom as well
+
+as  numerous  other  elementary  material  constituents  to  discover.  theory  guided  experiment  and
+experiment  refined  theory  as  physicists  pushed  forward  for  half  a  century,  ultimately  to  reveal  the
+standard model. it is no wonder that speculations on extra dimensions took a distant backseat during
+these  productive  and  heady  times.  with  physicists  exploring  powerful  quantum  methods,  the
+implication
+ 
+ ___________________________
+ 
+f experiments ultimately show
+that neutrinos do have a tiny but nonzero mass. second, there are certain hypothetical processes that
+are forbidden by the standard model, but that may be allowed by string theory. among these are the
+possible  disintegration  of  the  proton  (don't  worry,  such  disintegration,  if  true,  would  happen  very
+slowly) and the possible transmutations and decays of various combinations of quarks, in violation of
+certain long-established properties of point-particle quantum field theory.20 these kinds of processes
+are  especially  interesting  because  their  absence  from  conventional  theory  makes  them  sensitive
+signals  of  physics  that  cannot  be  accounted  for  without  invoking  new  theoretical  principles.  if
+observed,  any  one  of  these  processes  would  provide  fertile  ground  for  string  theory  to  offer  an
+explanation. third, for certain choices of the calabi-yau shape there are particular patterns of string
+vibration that can effectively contribute
+ 
+ ___________________________
+ 
+eories changed dramatically. as emphasized repeatedly, if we examine a string with
+the precision available currently and for the foreseeable future, it looks like a point particle. we can
+make  this  informal  remark  precise:  when  studying  low-energy  processes  in  string  theory—those
+processes that do not have enough energy to probe the ultramicroscopic, extended nature of the string
+—we can approximate a string by a structureless point particle, using the framework of point-particle
+quantum field theory. we cannot use this approximation when dealing with short-distance or high-
+energy processes because we know that the extended nature of the string is crucial to its ability to
+resolve the conflicts between general relativity and quantum mechanics that a point-particle theory
+cannot. but at low enough energies—large enough distances—these problems are not encountered,
+and such an approximation is often made for the sake of calculational convenience.
+
+the  quantum  field  theory  that  most
+ 
+ ___________________________
+ 
+theless,  witten's  arguments  and  those  of  other  physicists  during  the  second
+superstring  revolution  do  give  strong  evidence  that  the  type  iia  and  heterotic-e  "strings"  are,
+fundamentally, two-dimensional membranes living in an eleven-dimensional universe.
+
+but  what is  this  eleven-dimensional  theory?  at  low  energies  (low  compared  to  the  planck
+
+energy),  witten  and  others  argued,  it  is  approximated  by  the  long-neglected  eleven-dimensional
+supergravity quantum field theory. but for higher energies, how can we describe this theory? this
+topic  is  currently  under  intense  scrutiny.  we  know  from  figures  12.7  and  12.8  that  the  eleven-
+dimensional theory contains two-dimensional extended objects—two-dimensional membranes. and
+as we shall soon discuss, extended objects of other dimensions play an important role as well. but
+beyond  a  hodgepodge  of  properties, no  one  knows  what  this  eleven-dimensional  theory  is.  are
+membranes  its  fundamental 
+ 
+ ___________________________
+ 
+uch smaller than a
+hundredth of a second—form cosmic epochs during which long-lasting features of the world were
+first imprinted. and so, physicists have continued to push onward, trying to explain the universe at
+ever  earlier  times.  since  the  universe  gets  ever  smaller,  hotter,  and  denser  as  we  push  back,  an
+accurate quantum-mechanical description of matter and the forces becomes increasingly important. as
+we have seen from other viewpoints in earlier chapters, point-particle quantum field theory works
+until typical particle energies are around the planck energy. in a cosmological context, this occurred
+when the whole of the known universe fit within a planck-sized nugget, yielding a density so great that
+it strains one's ability to find a fitting metaphor or an enlightening analogy: the density of the universe
+at  the  planck  time  was  simply colossal.  at  such  energies  and  densities  gravity  and  quantum
+mechanics can no longer be treated as two separate entities as they are in
+ 
+ ___________________________
+ 
+ were all one "grand unified" or "super" force. in
+this  state  the  universe  was  far  more  symmetric  than  it  is  today.  like  the  homogeneity  that  follows
+when a collection of disparate metals is heated to a smooth molten liquid, the significant differences
+between  the  forces  as  we  now  observe  them  were  all  erased  by  the  extremes  of  energy  and
+temperature encountered in the very early universe. but as time went by and the universe expanded
+and cooled, the formalism of quantum field theory shows that this symmetry would have been sharply
+reduced through a number of rather abrupt steps, ultimately leading to the comparatively asymmetric
+form with which we are familiar.
+
+it's not hard to understand the physics behind such reduction of symmetry, or symmetry breaking,
+as it is more precisely called. picture a large container filled with water. the molecules of h2o are
+uniformly spread throughout the container and regardless of the angle from which you view it, the
+water  looks  the  
+ 
+ ___________________________
+ 
+hing to do with our discussion in this chapter. here we are concerned with the fact that within
+a chosen theory, it is often difficult, if not impossible, to extract the exact predictions that the theory
+makes.  instead,  we  have  to  extract  such  predictions  using  approximation  methods  based  on  a
+perturbative approach.
+
+4. these diagrams are string theory versions of the so-called feynman diagrams, invented by
+
+richard feynman for performing perturbative calculations in point-particle quantum field theory.
+
+5. more precisely, every virtual string pair, that is, every loop in a given diagram, contributes—
+among other more complicated terms—a multiplicative factor of the string coupling constant. more
+loops translate into more factors of the string coupling constant. if the string coupling constant is less
+than  1,  repeated  multiplications  make  the  overall  contribution  ever  smaller;  if  it  is  1  or  larger,
+repeated multiplications yield a contribution with the same or larger magnit
+ 
+ ___________________________
+ 
+normous expansion.
+initial conditions. data describing the beginning state of a physical system.
+interference pattern. wave pattern that emerges from the overlap and the intermingling of waves
+emitted from different locations.
+kaluza-klein  theory.  class  of  theories  incorporating  extra curled-up  dimensions,  together  with
+quantum mechanics.
+kelvin. a temperature scale in which temperatures are quoted relative to absolute zero.
+klein-gordon equation. a fundamental equation of relativistic quantum field theory.
+laplacian determinism. clockwork conception of the universe in which complete knowledge of the
+state of the universe at one moment completely determines its state at all future and past moments.
+light clock. a hypothetical clock that measures elapsed time by counting the number of round-trip
+journeys completed by a single photon between two mirrors.
+lorentz contraction.  feature  emerging  from special relativity, in which a moving object appears
+shortened along its direction of motion.
+macros
+ 
+ ___________________________
+ 
+ quantum  field  theory  of  the strong  force  and
+quarks, incorporating special relativity.
+quantum claustrophobia. see quantum fluctuations.
+quantum determinism.  property  of quantum mechanics  that  knowledge  of  the  quantum  state  of  a
+system at one moment completely determines its quantum state at future and past moments. knowledge
+of the quantum state, however, determines only the probability that one or another future will actually
+ensue.
+quantum electrodynamics (qed). relativistic quantum field theory of the electromagnetic force
+and electrons, incorporating special relativity.
+quantum electroweak theory. see electroweak theory.
+quantum field theory. see relativistic quantum field theory.
+quantum fluctuation. turbulent behavior of a system on microscopic scales due to the uncertainty
+principle.
+quantum foam. see spacetime foam.
+quantum  geometry.  modification  of riemannian  geometry  required  to  describe  accurately  the
+physics of space on ultramicroscopic scales, where quantum effects 
+ 
+ ___________________________
+ 
+hysically identical—to
+a different, weakly coupled theory.
+sum-over-paths.  formulation  of quantum  mechanics  in  which  particles  are  envisioned  to  travel
+from one point to another along all possible paths between them.
+supergravity. class of point-particle theories combining general relativity and supersymmetry.
+superpartners. particles whose spins differ by 1/2 unit and that are paired by supersymmetry.
+superstring theory. string theory that incorporates supersymmetry.
+supersymmetric quantum field theory. quantum field theory incorporating supersymmetry.
+supersymmetric  standard  model.  generalization  of  the standard  model  of  particle  physics  to
+incorporate supersymmetry. entails a doubling of the known elementary particle species.
+supersymmetry. a symmetry principle that relates the properties of particles with a whole number
+amount of spin (bosons) to those with half a whole (odd) number amount of spin (fermions).
+symmetry. a property of a physical system that does not change when the

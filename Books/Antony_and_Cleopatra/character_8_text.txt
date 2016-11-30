@@ -1,0 +1,363 @@
+ caesar
+proculeius, friend to caesar
+thyreus,    friend to caesar
+gallus,     friend to caesar
+menas,        friend to pompey
+menecrates,   friend to pompey
+varrius,      friend to pompey
+taurus, lieutenant-general to caesar
+canidius, lieutenant-general to antony
+silius, an officer in ventidius's army
+euphronius, an ambassador from antony to caesar
+alexas,   attendant on cleopatra
+mardian,  attendant on cleopatra
+seleucus, attendant on cleopatra
+diomedes, attendant on cleopatra
+a soothsayer
+a clown
+
+cleopatra, queen of egypt
+octavia,   sister to caesar and wife to antony
+charmian,  attendant on cleopatra
+iras,      attendant on cleopatra
+
+officers, soldiers, messengers, and other attendants
+
+
+scene: dispersed, in several parts of the roman empire.
+
+
+act i.
+
+scene i. alexandria. a room in cleopatra's palace.
+
+[enter demetrius and philo.]
+
+philo.
+nay, but this dotage of our general's
+o'erflows the measure: those his goodly eyes,
+that o'er the files and musters
+ 
+ ___________________________
+ 
+ony and cleopatra, with their train.]
+
+demetrius.
+is caesar with antonius priz'd so slight?
+
+philo.
+sir, sometimes when he is not antony,
+he comes too short of that great property
+which still should go with antony.
+
+demetrius.
+i am full sorry
+that he approves the common liar, who
+thus speaks of him at rome: but i will hope
+of better deeds to-morrow. rest you happy!
+
+[exeunt.]
+
+
+
+scene ii. alexandria. another room in cleopatra's palace.
+
+[enter charmian, iras, alexas, and a soothsayer.]
+
+charmian.
+lord alexas, sweet alexas, most anything alexas, almost
+most absolute alexas, where's the soothsayer that you praised so
+to the queen? o that i knew this husband, which you say must
+charge his horns with garlands!
+
+alexas.
+soothsayer,--
+
+soothsayer.
+your will?
+
+charmian.
+is this the man?--is't you, sir, that know things?
+
+soothsayer.
+in nature's infinite book of secrecy
+a little i can read.
+
+alexas.
+show him your hand.
+
+[enter enobarbus.]
+
+enobarbus.
+brin
+ 
+ ___________________________
+ 
+g in the banquet quickly; wine enough
+cleopatra's health to drink.
+
+charmian.
+good, sir, give me good fortune.
+
+soothsayer.
+i make not, but foresee.
+
+charmian.
+pray, then, foresee me one.
+
+soothsayer.
+you shall be yet far fairer than you are.
+
+charmian.
+he means in flesh.
+
+iras.
+no, you shall paint when you are old.
+
+charmian.
+wrinkles forbid!
+
+alexas.
+vex not his prescience; be attentive.
+
+charmian.
+hush!
+
+soothsayer.
+you shall be more beloving than beloved.
+
+charmian.
+i had rather heat my liver with drinking.
+
+alexas.
+nay, hear him.
+
+charmian.
+good now, some excellent fortune! let me be married to three
+kings in a forenoon, and widow them all: let me have a child at
+fifty, to whom herod of jewry may do homage: find me to marry me
+with octavius caesar, and companion me with my mistress.
+
+soothsayer.
+you shall outlive the lady whom you serve.
+
+charmian.
+o, excellent! i love long life bette
+ 
+ ___________________________
+ 
+r than figs.
+
+soothsayer.
+you have seen and prov'd a fairer former fortune
+than that which is to approach.
+
+charmian.
+then belike my children shall have no names:--pr'ythee, how many
+boys and wenches must i have?
+
+soothsayer.
+if every of your wishes had a womb,
+and fertile every wish, a million.
+
+charmian.
+out, fool! i forgive thee for a witch.
+
+alexas.
+you think none but your sheets are privy to your wishes.
+
+charmian.
+nay, come, tell iras hers.
+
+alexas.
+we'll know all our fortunes.
+
+enobarbus.
+mine, and most of our fortunes, to-night, shall be--
+drunk to bed.
+
+iras.
+there's a palm presages chastity, if nothing else.
+
+charmian.
+e'en as the o'erflowing nilus presageth famine.
+
+iras.
+go, y
+ 
+ ___________________________
+ 
+ou wild bedfellow, you cannot soothsay.
+
+charmian.
+nay, if an oily palm be not a fruitful prognostication, i cannot
+scratch mine ear.--pr'ythee, tell her but worky-day fortune.
+
+soothsayer.
+your fortunes are alike.
+
+iras.
+but how, but how? give me particulars.
+
+soothsayer.
+i have said.
+
+iras.
+am i not an inch of fortune better than she?
+
+charmian.
+well, if you were but an inch of fortune better than i, where
+would you choose it?
+
+iras.
+not in my husband's nose.
+
+charmian.
+our worser thoughts heavens mend!--alexas,--come, his fortune!
+his fortune!--o, let him marry a woman that cannot go, sweet
+isis, i beseech thee! and let her die too, and give him a worse!
+and let worse follow worse, till the worst of all follow him
+laughing to his grave, fift
+ 
+ ___________________________
+ 
+n.
+
+[enter cleopatra.]
+
+cleopatra.
+saw you my lord?
+
+enobarbus.
+no, lady.
+
+cleopatra.
+was he not here?
+
+charmian.
+no, madam.
+
+cleopatra.
+he was dispos'd to mirth; but on the sudden
+a roman thought hath struck him.--enobarbus,--
+
+enobarbus.
+madam?
+
+cleopatra.
+seek him, and bring him hither.--where's alexas?
+
+alexas.
+here, at your service.--my lord approaches.
+
+cleopatra.
+we will not look upon him: go with us.
+
+[exeunt cleopatra, enobarbus, char., iras, alex., and
+soothsayer.]
+
+[enter antony, with a messenger and attendants.]
+
+messenger.
+fulvia thy wife first came into the field.
+
+antony.
+against my brother lucius.
+
+messenger.
+ay:
+but soon that war had end, and the time's state
+made friends of them, jointing their force 'gainst caesar;
+whose better issue in the war, from italy
+upon the first encounter, drave them.
+
+antony.
+well, what worst?
+
+messenger.
+the nature of bad news infects the teller.
+
+antony.
+when it concerns the fool or coward.--
+ 
+ ___________________________
+ 
+tavia between them, and attendants.]
+
+antony.
+the world and my great office will sometimes
+divide me from your bosom.
+
+octavia.
+all which time
+before the gods my knee shall bow my prayers
+to them for you.
+
+antony.
+good night, sir.--my octavia,
+read not my blemishes in the world's report:
+i have not kept my square; but that to come
+shall all be done by the rule. good night, dear lady.--
+
+octavia.
+good night, sir.
+
+caesar.
+good night.
+
+[exeunt caesar and octavia.]
+
+[enter soothsayer.]
+
+antony.
+now, sirrah, you do wish yourself in egypt?
+
+soothsayer.
+would i had never come from thence, nor you
+thither!
+
+antony.
+if you can, your reason.
+
+soothsayer.
+i see it in my motion, have it not in my tongue; but yet
+hie you to egypt again.
+
+antony.
+say to me,
+whose fortunes shall rise higher, caesar's or mine?
+
+soothsayer.
+caesar's.
+therefore, o antony, stay not by his side:
+thy demon, that thy spirit which keeps thee, is
+noble, courageous, high, unmatchable,
+w
+ 
+ ___________________________
+ 
+here caesar's is not; but near him thy angel
+becomes a fear, as being o'erpower'd: therefore
+make space enough between you.
+
+antony.
+speak this no more.
+
+soothsayer.
+to none but thee; no more but when to thee.
+if thou dost play with him at any game,
+thou art sure to lose; and of that natural luck
+he beats thee 'gainst the odds: thy lustre thickens
+when he shines by: i say again, thy spirit
+is all afraid to govern thee near him;
+but, he away, 'tis noble.
+
+antony.
+get thee gone:
+say to ventidius i would speak with him:--
+
+[exit soothsayer.]
+
+he shall to parthia.--be it art or hap,
+he hath spoken true: the very dice obey him;--
+and in our spo

@@ -1,0 +1,79 @@
+on  is  enormous,  the  fundamental  minimal
+energies are, on the usual scales of elementary particle physics, similarly huge. they are multiples of
+what is known as the planck energy. to get a sense of scale, if we translate the planck energy into a
+
+mass using einstein's famous conversion formula e = mc2, they correspond to masses that are on the
+order  of  ten  billion  billion  (1019)  times  that  of  a  proton.  this  gargantuan  mass—by  elementary
+particle standards—is known as the planck mass; it's about equal to the mass of a grain of dust or a
+collection of a million average bacteria. and so, the typical mass-equivalent of a vibrating loop in
+string theory is generally some whole number (1, 2, 3,. . .) times the planck mass. physicists often
+express this by saying that the "natural" or "typical" energy scale (and hence mass scale) of string
+theory is the planck scale.
+
+this raises a crucial question directly related to the goal of reproducing the particle properties
+in tables 1.1 
+ 
+ ___________________________
+ 
+ore symmetric union when the temperature of the universe dropped
+to about a million billion degrees above absolute zero (1015 kelvin), georgi and glashow showed
+that the union with the strong force would have been apparent only at a temperature some ten trillion
+times higher—around ten billion billion billion degrees above absolute zero (1028 kelvin). from the
+point of view of energy, this is about a million billion times the mass of the proton, or about four
+orders of magnitude less than the planck mass. georgi and glashow boldly took theoretical physics
+into  an  energy  realm  many  orders  of  magnitude  beyond  that  which  anyone  had  previously  dared
+explore.
+
+subsequent work at harvard by georgi, helen quinn, and weinberg in 1974 made the potential
+unity of the nongravitational forces within the grand unified framework even more manifest. as their
+contribution continues to play an important role in unifying the forces and in assessing the relevance
+of supersymmetry to the natural worl
+ 
+ ___________________________
+ 
+re for string theory.
+
+as with the situation with superpartners, no such exotically charged particles have ever been
+observed, and our understanding of string theory does not allow for a definitive prediction of their
+masses should the extra dimensions have the correct properties to generate them. one explanation for
+not seeing them, again, is that if they do exist, their masses must be beyond our present technological
+means—in fact, it is likely that their masses would be on the order of the planck mass. but should a
+future experiment come across such exotic electric charges, it would constitute very strong evidence
+for string theory.
+
+some longer shots
+
+there are yet other ways in which evidence for string theory might be found. for example, witten has
+pointed out the long-shot possibility that astronomers might one day see a direct signature of string
+theory in the data they collect from observing the heavens. as encountered in chapter 6, the size of a
+string is typically the planck length,
+ 
+ ___________________________
+ 
+ensional extended objects—are special for
+the following reason. physicists have shown that the mass of the extended objects of every dimension
+except  for  one-dimensional  strings  is inversely  proportional  to  the  value  of  the  associated  string
+coupling constant when we are in any of the five string regions of figure 12.11. this means that with
+weak string coupling, in any of the five formulations, all but the strings will be enormously massive—
+orders of magnitude heavier than the planck mass. because they are so heavy and, therefore, from e =
+mc2, require such unimaginably high energy to be produced, branes have only a small effect on much
+of physics (but not on all, as we shall see in the next chapter). however, when we venture outside the
+peninsular  regions  of  figure  12.11,  the  higher-dimensional  branes  become  lighter  and  hence
+increasingly important.14
+
+and  so,  the  image  you  should  have  in  mind  is  the  following.  in  the  central  region  of  figure
+12.11, 
+ 
+ ___________________________
+ 
+  general
+relativity need be used to understand their properties. (we are here discussing the overall structure of
+the black hole, not the singular central point of collapse within a black hole, whose tiny size most
+certainly  requires  a  quantum-mechanical  description.) as  we  try  to  make  ever  less  massive  black
+holes, however, there comes a point when they are so light and small that quantum mechanics does
+comes into play. this happens if the total mass of the black hole is about the planck mass or less.
+(from the point of view of elementary particle physics, the planck mass is huge—some ten billion
+billion times the mass of a proton. from the point of view of black holes, though, the planck mass,
+being equal to that of an average grain of dust, is quite tiny.) and so, physicists who speculated that
+tiny  black  holes  and  elementary  particles  might  be  closely  related  immediately  ran  up  against  the
+incompatibility  between  general  relativity—the  theoretical  heart  of

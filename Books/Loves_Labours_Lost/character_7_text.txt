@@ -1,0 +1,1005 @@
+love's labour's lost
+
+by william shakespeare
+
+
+
+dramatis personae.
+
+  ferdinand, king of navarre
+  berowne,    lord attending on the king
+  longaville,  "      "      "   "   "
+  dumain,      "      "      "   "   "
+  boyet,   lord attending on the princess of france
+  marcade,   "     "       "  "     "      "    "
+  don adriano de armado, fantastical spaniard
+  sir nathaniel, a curate
+  holofernes, a schoolmaster
+  dull, a constable
+  costard, a clown
+  moth, page to armado
+  a forester
+
+  the princess of france
+  rosaline, lady attending on the princess
+  maria,      "     "       "  "     "
+  katharine, lady attending on the princess
+  jaquenetta, a country wench
+
+  lords, attendants, etc.
+
+
+
+
+<<this electronic version of the complete works of william
+shakespeare is copyright 1990-1993 by world library, inc., and is
+provided by project gutenberg etext of carnegie mellon university
+with permission.  electronic and
+ 
+ ___________________________
+ 
+right and wrong
+    have chose as umpire of their mutiny.
+    this child of fancy, that armado hight,
+    for interim to our studies shall relate,
+    in high-born words, the worth of many a knight
+    from tawny spain lost in the world's debate.
+    how you delight, my lords, i know not, i;
+    but i protest i love to hear him lie,
+    and i will use him for my minstrelsy.
+  berowne. armado is a most illustrious wight,
+    a man of fire-new words, fashion's own knight.
+  longaville. costard the swain and he shall be our sport;
+    and so to study three years is but short.
+
+      enter dull, a constable, with a letter, and costard
+
+  dull. which is the duke's own person?
+  berowne. this, fellow. what wouldst?
+  dull. i myself reprehend his own person, for i am his grace's
+    farborough; but i would see his own person in flesh and
+blood.
+  berowne. this is he.
+  dull. signior arme- arme- commends you. there's villainy
+abroad;
+    this letter will tell you more.
+  cost
+ 
+ ___________________________
+ 
+ard. sir, the contempts thereof are as touching me.
+  king. a letter from the magnificent armado.
+  berowne. how low soever the matter, i hope in god for high
+words.
+  longaville. a high hope for a low heaven. god grant us
+patience!
+  berowne. to hear, or forbear hearing?
+  longaville. to hear meekly, sir, and to laugh moderately; or,
+to
+    forbear both.
+  berowne. well, sir, be it as the style shall give us cause to
+climb
+    in the merriness.
+  costard. the matter is to me, sir, as concerning jaquenetta.
+    the manner of it is, i was taken with the manner.
+  berowne. in what manner?
+  costard. in manner and form following, sir; all those three: i
+was
+    seen with her in the manor-house, sitting with her upon the
+form,
+    and taken following her into the park; which, put together,
+is in
+    manner and form following. now, sir, for the manner- it is
+the
+    manner of a man to speak to a woman. for the form- in some
+form.
+  berow
+ 
+ ___________________________
+ 
+ne. for the following, sir?
+  costard. as it shall follow in my correction; and god defend
+the
+    right!
+  king. will you hear this letter with attention?
+  berowne. as we would hear an oracle.
+  costard. such is the simplicity of man to hearken after the
+flesh.
+  king. [reads] 'great deputy, the welkin's vicegerent and sole
+    dominator of navarre, my soul's earth's god and body's
+fost'ring
+    patron'-
+  costard. not a word of costard yet.
+  king. [reads] 'so it is'-
+  costard. it may be so; but if he say it is so, he is, in
+telling
+    true, but so.
+  king. peace!
+  costard. be to me, and every man that dares not fight!
+  king. no words!
+  costard. of other men's secrets, i beseech you.
+  king. [reads] 'so it is, besieged with sable-coloured
+melancholy, i
+    did commend the black oppressing humour to the most wholesome
+    physic of thy health-giving air; and, as i am a gentleman,
+betook
+    myself to walk. the time when? about the sixth hour; when
+bea
+ 
+ ___________________________
+ 
+ which? which, i mean, i upon; it is ycleped thy park.
+then
+    for the place where? where, i mean, i did encounter that
+obscene
+    and most prepost'rous event that draweth from my snow-white
+pen
+    the ebon-coloured ink which here thou viewest, beholdest,
+    surveyest, or seest. but to the place where? it standeth
+    north-north-east and by east from the west corner of thy
+    curious-knotted garden. there did i see that low-spirited
+swain,
+    that base minnow of thy mirth,'
+  costard. me?
+  king. 'that unlettered small-knowing soul,'
+  costard. me?
+  king. 'that shallow vassal,'
+  costard. still me?
+  king. 'which, as i remember, hight costard,'
+  costard. o, me!
+  king. 'sorted and consorted, contrary to thy established
+proclaimed
+    edict and continent canon; which, with, o, with- but with
+this i
+    passion to say wherewith-'
+  costard. with a wench.
+    king. 'with a child of our grandmother eve, a female; or, for
+thy
+    more sweet understanding, a woma
+ 
+ ___________________________
+ 
+ weaker vessel called, which i
+    apprehended with the aforesaid swain- i keep her as a vessel
+of
+    thy law's fury; and shall, at the least of thy sweet notice,
+    bring her to trial. thine, in all compliments of devoted and
+    heart-burning heat of duty,
+                                         don adriano de armado.'
+
+  berowne. this is not so well as i look'd for, but the best that
+    ever i heard.
+  king. ay, the best for the worst. but, sirrah, what say you to
+    this?
+  costard. sir, i confess the wench.
+  king. did you hear the proclamation?
+  costard. i do confess much of the hearing it, but little of the
+    marking of it.
+  king. it was proclaimed a year's imprisonment to be taken with
+a
+    wench.
+  costard. i was taken with none, sir; i was taken with a damsel.
+  king. well, it was proclaimed damsel.
+  costard. this was no damsel neither, sir; she was a virgin.
+  king. it is so varied too, for it was proclaimed virgin.
+  costard. if it were, i deny he
+ 
+ ___________________________
+ 
+r virginity; i was taken with a
+maid.
+  king. this 'maid' not serve your turn, sir.
+  costard. this maid will serve my turn, sir.
+  king. sir, i will pronounce your sentence: you shall fast a
+week
+    with bran and water.
+  costard. i had rather pray a month with mutton and porridge.
+  king. and don armado shall be your keeper.
+    my lord berowne, see him delivered o'er;
+    and go we, lords, to put in practice that
+    which each to other hath so strongly sworn.
+                             exeunt king, longaville, and dumain
+  berowne. i'll lay my head to any good man's hat
+    these oaths and laws will prove an idle scorn.
+    sirrah, come on.
+  costard. i suffer for the truth, sir; for true it is i was
+take
+ 
+ ___________________________
+ 
+ the reason of white and
+red.
+  armado. is there not a ballad, boy, of the king and the beggar?
+  moth. the world was very guilty of such a ballad some three
+ages
+    since; but i think now 'tis not to be found; or if it were,
+it
+    would neither serve for the writing nor the tune.
+  armado. i will have that subject newly writ o'er, that i may
+    example my digression by some mighty precedent. boy, i do
+love
+    that country girl that i took in the park with the rational
+hind
+    costard; she deserves well.
+  moth. [aside] to be whipt; and yet a better love than my
+master.
+  armado. sing, boy; my spirit grows heavy in love.
+  moth. and that's great marvel, loving a light wench.
+  armado. i say, sing.
+  moth. forbear till this company be past.
+
+                enter dull, costard, and jaquenetta
+
+  dull. sir, the duke's pleasure is that you keep costard safe;
+and
+    you must suffer him to take no delight nor no penance; but 'a
+    must fast three days a week. for t
+ 
+ ___________________________
+ 
+man!
+  armado. i will visit thee at the lodge.
+  jaquenetta. that's hereby.
+  armado. i know where it is situate.
+  jaquenetta. lord, how wise you are!
+  armado. i will tell thee wonders.
+  jaquenetta. with that face?
+  armado. i love thee.
+  jaquenetta. so i heard you say.
+  armado. and so, farewell.
+  jaquenetta. fair weather after you!
+  dull. come, jaquenetta, away.             exit with jaquenetta
+  armado. villain, thou shalt fast for thy offences ere thou be
+    pardoned.
+  costard. well, sir, i hope when i do it i shall do it on a full
+    stomach.
+  armado. thou shalt be heavily punished.
+  costard. i am more bound to you than your fellows, for they are
+but
+    lightly rewarded.
+  armado. take away this villain; shut him up.
+  moth. come, you transgressing slave, away.
+  costard. let me not be pent up, sir; i will fast, being loose.
+  moth. no, sir; that were fast, and loose. thou shalt to prison.
+  costard. well, if ever i do see the merry days of desolation
+ 
+ ___________________________
+ 
+
+that i
+    have seen, some shall see.
+  moth. what shall some see?
+  costard. nay, nothing, master moth, but what they look upon. it
+is
+    not for prisoners to be too silent in their words, and
+therefore
+    i will say nothing. i thank god i have as little patience as
+    another man, and therefore i can be quiet.
+                                         exeunt moth and costard
+  armado. i do affect the very ground, which is base, where her
+shoe,
+    which is baser, guided by her foot, which is basest, doth
+tread.
+    i shall be forsworn- which is a great argument of falsehood-
+if i
+    love. and how can that be true love which is falsely
+attempted?
+    love is a familiar; love is a devil. there is no evil angel
+but
+    love. yet was samson so tempted, and he had an excellent
+    strength; yet was solomon so seduced, and he had a very good
+wit.
+    cupid
+ 
+ ___________________________
+ 
+sir, to say so:
+    is that lead slow which is fir'd from a gun?
+  armado. sweet smoke of rhetoric!
+    he reputes me a cannon; and the bullet, that's he;
+    i shoot thee at the swain.
+  moth. thump, then, and i flee.                            exit
+  armado. a most acute juvenal; volable and free of grace!
+    by thy favour, sweet welkin, i must sigh in thy face;
+    most rude melancholy, valour gives thee place.
+    my herald is return'd.
+
+                       re-enter moth with costard
+
+  moth. a wonder, master! here's a costard broken in a shin.
+  armado. some enigma, some riddle; come, thy l'envoy; begin.
+  costard. no egma, no riddle, no l'envoy; no salve in the mail,
+sir.
+    o, sir, plantain, a plain plantain; no l'envoy, no l'envoy;
+no
+    salve, sir, but a plantain!
+  armado. by virtue thou enforcest laughter; thy silly thought,
+my
+    spleen; the heaving of my lungs provokes me to ridiculous
+    smiling. o, pardon me, my stars! doth the inconsiderate take
+ 
+ ___________________________
+ 
+pe, and the humble-bee,
+           were still at odds, being but three.
+  moth.    until the goose came out of door,
+           and stay'd the odds by adding four.
+    now will i begin your moral, and do you follow with my
+l'envoy.
+           the fox, the ape, and the humble-bee,
+           were still at odds, being but three.
+  armado.  until the goose came out of door,
+           staying the odds by adding four.
+  moth. a good l'envoy, ending in the goose; would you desire
+more?
+  costard. the boy hath sold him a bargain, a goose, that's flat.
+    sir, your pennyworth is good, an your goose be fat.
+    to sell a bargain well is as cunning as fast and loose;
+    let me see: a fat l'envoy; ay, that's a fat goose.
+  armado. come hither, come hither. how did this argument begin?
+  moth. by saying that a costard was broken in a shin.
+    then call'd you for the l'envoy.
+  costard. true, and i for a plantain. thus came your argument
+in;
+    then the boy's fat l'envoy, the goo
+ 
+ ___________________________
+ 
+se that you bought;
+    and he ended the market.
+  armado. but tell me: how was there a costard broken in a shin?
+  moth. i will tell you sensibly.
+  costard. thou hast no feeling of it, moth; i will speak that
+      l'envoy.
+    i, costard, running out, that was safely within,
+    fell over the threshold and broke my shin.
+  armado. we will talk no more of this matter.
+  costard. till there be more matter in the shin.
+  armado. sirrah costard. i will enfranchise thee.
+  costard. o, marry me to one frances! i smell some l'envoy, some
+    goose, in this.
+  armado. by my sweet soul, i mean setting thee at liberty,
+    enfreedoming thy person; thou wert immured, restrained,
+    captivated, bound.
+  costard. true, true; and now you will be my purgation, and let
+me
+    loose.
+  armado. i give thee thy liberty, set thee from durance; and, in
+
+    lieu thereof, impose on thee nothing but this: bear this
+    significant [giving a letter] to the country maid jaquenet
+ 
+ ___________________________
+ 
+ta;
+    there is remuneration, for the best ward of mine honour is
+    rewarding my dependents. moth, follow.                  exit
+  moth. like the sequel, i. signior costard, adieu.
+  costard. my sweet ounce of man's flesh, my incony jew!
+                                                       exit moth
+    now will i look to his remuneration. remuneration! o, that's
+the
+    latin word for three farthings. three farthings-
+remuneration.
+    'what's the price of this inkle?'- 'one penny.'- 'no, i'll
+give
+    you a remuneration.' why, it carries it. remuneration! why,
+it is
+    a fairer name than french crown. i will never buy and sell
+out of
+    this word.
+
+             
+ 
+ ___________________________
+ 
+             enter berowne
+
+  berowne. my good knave costard, exceedingly well met!
+  costard. pray you, sir, how much carnation ribbon may a man buy
+for
+    a remuneration?
+  berowne. what is a remuneration?
+  costard. marry, sir, halfpenny farthing.
+  berowne. why, then, three-farthing worth of silk.
+  costard. i thank your worship. god be wi' you!
+  berowne. stay, slave; i must employ thee.
+    as thou wilt win my favour, good my knave,
+    do one thing for me that i shall entreat.
+  costard. when would you have it done, sir?
+  berowne. this afternoon.
+  costard. well, i will do it, sir; fare you well.
+  berowne. thou knowest not what it is.
+  costard. i shall know, sir, when i have done it.
+  berowne. why, villain, thou must know first.
+  costard. i will come to your worship to-morrow mor
+ 
+ ___________________________
+ 
+ning.
+  berowne. it must be done this afternoon.
+    hark, slave, it is but this:
+    the princess comes to hunt here in the park,
+    and in her train there is a gentle lady;
+    when tongues speak sweetly, then they name her name,
+    and rosaline they call her. ask for her,
+    and to her white hand see thou do commend
+    this seal'd-up counsel. there's thy guerdon; go.
+                                         [giving him a shilling]
+  costard. gardon, o sweet gardon! better than remuneration; a
+    'leven-pence farthing better; most sweet gardon! i will do
+it,
+    sir, in print. gardon- remuneration!                    exit
+  berowne. and i, forsooth, in love; i, that have been love's
+whip;
+    a very beadle to a humorous sigh;
+    a critic, nay, a night-watch constable;
+    a domineering pedant o'er the boy,
+    than whom no mortal so magnificent!
+    this wimpled, whining, purblind, wayward boy,
+    this senior-junior, 
+ 
+ ___________________________
+ 
+uilty of detested crimes,
+    when, for fame's sake, for praise, an outward part,
+    we bend to that the working of the heart;
+    as i for praise alone now seek to spill
+    the poor deer's blood that my heart means no ill.
+  boyet. do not curst wives hold that self-sovereignty
+    only for praise sake, when they strive to be
+    lords o'er their lords?
+  princess of france. only for praise; and praise we may afford
+    to any lady that subdues a lord.
+
+                       enter costard
+
+  boyet. here comes a member of the commonwealth.
+  costard. god dig-you-den all! pray you, which is the head lady?
+  princess of france. thou shalt know her, fellow, by the rest
+that
+    have no heads.
+  costard. which is the greatest lady, the highest?
+  princess of france. the thickest and the tallest.
+  costard. the thickest and the tallest! it is so; truth is
+truth.
+    an your waist, mistress, were as slender as my wit,
+    one o' these maids' girdles for your waist should be
+ 
+ ___________________________
+ 
+ fit.
+    are not you the chief woman? you are the thickest here.
+  princess of france. what's your will, sir? what's your will?
+  costard. i have a letter from monsieur berowne to one
+    lady rosaline.
+  princess of france. o, thy letter, thy letter! he's a good
+friend
+      of mine.
+    stand aside, good bearer. boyet, you can carve.
+    break up this capon.
+  boyet. i am bound to serve.
+    this letter is mistook; it importeth none here.
+    it is writ to jaquenetta.
+  princess of france. we will read it, i swear.
+    break the neck of the wax, and every one give ear.
+  boyet. [reads] 'by heaven, that thou art fair
+ 
+ ___________________________
+ 
+france. what plume of feathers is he that indited
+this
+      letter?
+    what vane? what weathercock? did you ever hear better?
+  boyet. i am much deceived but i remember the style.
+  princess of france. else your memory is bad, going o'er it
+    erewhile.
+  boyet. this armado is a spaniard, that keeps here in court;
+    a phantasime, a monarcho, and one that makes sport
+    to the prince and his book-mates.
+  princess of france. thou fellow, a word.
+    who gave thee this letter?
+  costard. i told you: my lord.
+  princess of france. to whom shouldst thou give it?
+  costard. from my lord to my lady.
+  princess of france. from which lord to which lady?
+  costard. from my lord berowne, a good master of mine,
+    to a lady of france that he call'd rosaline.
+  princess of france. thou hast mistaken his letter. come, lords,
+
+      away.
+    [to rosaline] here, sweet, put up this; 'twill be thine
+another
+      day.                             exeunt princess and train
+  boye
+ 
+ ___________________________
+ 
+when king pepin of france was a little boy, as touching the
+hit
+    it?
+  boyet. so i may answer thee with one as old, that was a woman
+when
+    queen guinever of britain was a little wench, as touching the
+hit
+    it.
+  rosaline. [singing]
+            thou canst not hit it, hit it, hit it,
+            thou canst not hit it, my good man.
+  boyet.    an i cannot, cannot, cannot,
+            an i cannot, another can.
+                                   exeunt rosaline and katharine
+  costard. by my troth, most pleasant! how both did fit it!
+  maria. a mark marvellous well shot; for they both did hit it.
+  boyet. a mark! o, mark but that mark! a mark, says my lady!
+    let the mark have a prick in't, to mete at, if it may be.
+  maria. wide o' the bow-hand! i' faith, your hand is out.
+  costard. indeed, 'a must shoot nearer, or he'll ne'er hit the
+    clout.
+  boyet. an if my hand be out, then belike your hand is in.
+  costard. then will she get the upshoot by cleaving the pi
+ 
+ ___________________________
+ 
+n.
+  maria. come, come, you talk greasily; your lips grow foul.
+  costard. she's too hard for you at pricks, sir; challenge her
+to
+    bowl.
+  boyet. i fear too much rubbing; good-night, my good owl.
+                                          exeunt boyet and maria
+  costard. by my soul, a swain, a most simple clown!
+    lord, lord! how the ladies and i have put him down!
+    o' my troth, most sweet jests, most incony vulgar wit!
+    when it comes so smoothly off, so obscenely, as it were, so
+fit.
+    armado a th' t'one side- o, a most dainty man!
+    to see him walk before a lady and to bear her fan!
+    to see him kiss his hand, and how most sweetly 'a will swear!
+    and his page a t' other side, that handful of wit!
+    ah, heavens, it is a most pathet
+ 
+ ___________________________
+ 
+ical nit!
+    sola, sola!                                     exit costard
+
+
+
+
+scene ii.
+the park
+
+from the shooting within, enter holofernes, sir nathaniel, and
+dull
+
+  nathaniel. very reverent sport, truly; and done in the
+testimony of
+    a good conscience.
+  holofernes. the deer was, as you know, sanguis, in blood; ripe
+as
+    the pomewater, who now hangeth like a jewel in the ear of
+caelo,
+    the sky, the welkin, the heaven; and anon falleth like a crab
+on
+    the face of terra, the soil, the land, the earth.
+  nathaniel. truly, master holof
+ 
+ ___________________________
+ 
+l for it.
+  nathaniel. sir, i praise the lord for you, and so may my
+    parishioners; for their sons are well tutor'd by you, and
+their
+    daughters profit very greatly under you. you are a good
+member of
+    the commonwealth.
+  holofernes. mehercle, if their sons be ingenious, they shall
+want
+    no instruction; if their daughters be capable, i will put it
+to
+    them; but, vir sapit qui pauca loquitur. a soul feminine
+saluteth
+    us.
+
+                    enter jaquenetta and costard
+
+  jaquenetta. god give you good morrow, master person.
+  holofernes. master person, quasi pers-one. and if one should be
+    pierc'd which is the one?
+  costard. marry, master schoolmaster, he that is likest to a
+    hogshead.
+  holofernes. piercing a hogshead! a good lustre of conceit in a
+turf
+    of earth; fire enough for a flint, pearl enough for a swine;
+'tis
+    pretty; it is well.
+  jaquenetta. good master parson, be so good as read me this
+letter;
+    it was given me by c
+ 
+ ___________________________
+ 
+    writing to the person written unto: 'your ladyship's in all
+    desired employment, berowne.' sir nathaniel, this berowne is
+one
+    of the votaries with the king; and here he hath framed a
+letter
+    to a sequent of the stranger queen's which accidentally, or
+by
+    the way of progression, hath miscarried. trip and go, my
+sweet;
+    deliver this paper into the royal hand of the king; it may
+    concern much. stay not thy compliment; i forgive thy duty.
+adieu.
+  jaquenetta. good costard, go with me. sir, god save your life!
+  costard. have with thee, my girl.
+                                   exeunt costard and jaquenetta
+  nathaniel. sir, you have done this in the fear of god, very
+    religiously; and, as a certain father saith-
+  holofernes. sir, tell not me of the father; i do fear
+colourable
+    colours. but to return to the verses: did they please you,
+sir
+    nathaniel?
+  nathaniel. marvellous well for the pen.
+  holofernes. i do dine to-day at the father's 
+ 
+ ___________________________
+ 
+keeping company
+    with men like you, men of inconstancy.
+    when shall you see me write a thing in rhyme?
+    or groan for joan? or spend a minute's time
+    in pruning me? when shall you hear that i
+    will praise a hand, a foot, a face, an eye,
+    a gait, a state, a brow, a breast, a waist,
+    a leg, a limb-
+  king. soft! whither away so fast?
+    a true man or a thief that gallops so?
+  berowne. i post from love; good lover, let me go.
+
+                 enter jaquenetta and costard
+
+  jaquenetta. god bless the king!
+  king. what present hast thou there?
+  costard. some certain treason.
+  king. what makes treason here?
+  costard. nay, it makes nothing, sir.
+  king. if it mar nothing neither,
+    the treason and you go in peace away together.
+  jaquenetta. i beseech your grace, let this letter be read;
+    our person misdoubts it: 'twas treason, he said.
+  king. berowne, read it over.        [berowne reads the letter]
+    where hadst thou it?
+  jaquenetta. of c
+ 
+ ___________________________
+ 
+ostard.
+  king. where hadst thou it?
+  costard. of dun adramadio, dun adramadio.
+                                      [berowne tears the letter]
+  king. how now! what is in you? why dost thou tear it?
+  berowne. a toy, my liege, a toy! your grace needs not fear it.
+  longaville. it did move him to passion, and therefore let's
+hear
+     it.
+  dumain. it is berowne's writing, and here is his name.
+                                       [gathering up the pieces]
+  berowne. [ to costard] ah, you whoreson loggerhead, you were
+born
+      to do me shame.
+    guilty, my lord, guilty! i confess, i confess.
+  king. what?
+  berowne. that you three fools lack'd me fool to make up the
+mess;
+    he, he, and you- and you, my liege!- and i
+    are pick-purses in love, and we deserve to die.
+    o, dismiss this audience, and i shall tell you more.
+    dumain. now the number is even.
+  berowne. true, true, we are four.
+    will these turtles be gone?
+  king. hence, sirs, away.
+ 
+ ___________________________
+ 
+
+  costard. walk aside the true folk, and let the traitors stay.
+                                   exeunt costard and jaquenetta
+  berowne. sweet lords, sweet lovers, o, let us embrace!
+    as true we are as flesh and blood can be.
+    the sea will ebb and flow, heaven show his face;
+    young blood doth not obey an old decree.
+    we cannot cross the cause why we were born,
+    therefore of all hands must we be forsworn.
+  king. what, did these rent lines show some love of thine?
+  berowne. 'did they?' quoth you. who sees the heavenly rosaline
+    that, like a rude and savage man of inde
+    at 
+ 
+ ___________________________
+ 
+ubt';
+    'det' when he should pronounce 'debt'- d, e, b, t, not d, e,
+t.
+    he clepeth a calf 'cauf,' half 'hauf'; neighbour vocatur
+    'nebour'; 'neigh' abbreviated 'ne.' this is abhominable-
+which he
+    would call 'abbominable.' it insinuateth me of insanie: ne
+    intelligis, domine? to make frantic, lunatic.
+  nathaniel. laus deo, bone intelligo.
+  holofernes. 'bone'?- 'bone' for 'bene.' priscian a little
+    scratch'd; 'twill serve.
+
+                 enter armado, moth, and costard
+
+  nathaniel. videsne quis venit?
+  holofernes. video, et gaudeo.
+  armado. [to moth] chirrah!
+  holofernes. quare 'chirrah,' not 'sirrah'?
+  armado. men of peace, well encount'red.
+  holofernes. most military sir, salutation.
+  moth. [aside to costard] they have been at a great feast of
+    languages and stol'n the scraps.
+  costard. o, they have liv'd long on the alms-basket of words. i
+    marvel thy master hath not eaten thee for a word, for thou
+are
+    not so long by the head
+ 
+ ___________________________
+ 
+des it: o, u.
+  armado. now, by the salt wave of the mediterraneum, a sweet
+touch,
+    a quick venue of wit- snip, snap, quick and home. it
+rejoiceth my
+    intellect. true wit!
+  moth. offer'd by a child to an old man; which is wit-old.
+  holofernes. what is the figure? what is the figure?
+  moth. horns.
+  holofernes. thou disputes like an infant; go whip thy gig.
+  moth. lend me your horn to make one, and i will whip about your
+    infamy circum circa- a gig of a cuckold's horn.
+  costard. an i had but one penny in the world, thou shouldst
+have it
+    to buy ginger-bread. hold, there is the very remuneration i
+had
+    of thy master, thou halfpenny purse of wit, thou pigeon-egg
+of
+    discretion. o, an the heavens were so pleased that thou wert
+but
+    my bastard, what a joyful father wouldst thou make me! go to;
+    thou hast it ad dunghill, at the fingers' ends, as they say.
+  holofernes. o, i smell false latin; 'dunghill' for unguem.
+  armado. arts-man, preambulate;
+ 
+ ___________________________
+ 
+ th' squier,
+    and laugh upon the apple of her eye?
+    and stand between her back, sir, and the fire,
+    holding a trencher, jesting merrily?
+    you put our page out. go, you are allow'd;
+    die when you will, a smock shall be your shroud.
+    you leer upon me, do you? there's an eye
+    wounds like a leaden sword.
+  boyet. full merrily
+    hath this brave manage, this career, been run.
+  berowne. lo, he is tilting straight! peace; i have done.
+
+                          enter costard
+
+    welcome, pure wit! thou part'st a fair fray.
+  costard. o lord, sir, they would know
+     whether the three worthies shall come in or no?
+  berowne. what, are there but three?
+  costard. no, sir; but it is vara fine,
+    for every one pursents three.
+  berowne. and three times thrice is nine.
+  costard. not so, sir; under correction, sir,
+    i hope it is not so.
+    you cannot beg us, sir, i can assure you, sir; we know what
+we
+      know;
+    i hope, sir, three times thrice
+ 
+ ___________________________
+ 
+, sir-
+  berowne. is not nine.
+  costard. under correction, sir, we know whereuntil it doth
+amount.
+  berowne. by jove, i always took three threes for nine.
+  costard. o lord, sir, it were pity you should get your living
+by
+    reck'ning, sir.
+  berowne. how much is it?
+  costard. o lord, sir, the parties themselves, the actors, sir,
+will
+    show whereuntil it doth amount. for mine own part, i am, as
+they
+    say, but to parfect one man in one poor man, pompion the
+great,
+    sir.
+  berowne. art thou one of the worthies?
+  costard. it pleased them to think me worthy of pompey the
+great;
+    for mine own part, i know not the degree of the worthy; but i
+am
+    to stand for him.
+  berowne. go, bid them prepare.
+  costard. we will turn it finely off, sir; we 
+ 
+ ___________________________
+ 
+will take some
+care.
+                                                    exit costard
+  king. berowne, they will shame us; let them not approach.
+  berowne. we are shame-proof, my lord, and 'tis some policy
+    to have one show worse than the king's and his company.
+  king. i say they shall not come.
+  princess of france. nay, my good lord, let me o'errule you now.
+    that sport best pleases that doth least know how;
+    where zeal strives to content, and the contents
+    dies in the zeal of that which it presents.
+    their form confounded makes most form in mirth,
+ 
+ 
+ ___________________________
+ 
+abaeus.
+    and if these four worthies in their first show thrive,
+    these four will change habits and present the other five.
+  berowne. there is five in the first show.
+  king. you are deceived, 'tis not so.
+  berowne. the pedant, the braggart, the hedge-priest, the fool,
+and
+    the boy:
+    abate throw at novum, and the whole world again
+    cannot pick out five such, take each one in his vein.
+  king. the ship is under sail, and here she comes amain.
+
+                   enter costard, armed for pompey
+
+  costard. i pompey am-
+  berowne. you lie, you are not he.
+  costard. i pompey am-
+  boyet. with libbard's head on knee.
+  berowne. well said, old mocker; i must needs be friends with
+thee.
+  costard. i pompey am, pompey surnam'd the big-
+   dumain. the great.
+  costard. it is great, sir.
+    pompey surnam'd the great,
+    that oft in field, with targe and shield, did make my foe to
+      sweat;
+    and travelling along this coast, i bere am come by chance,
+  
+ 
+ ___________________________
+ 
+  and lay my arms before the legs of this sweet lass of france.
+
+    if your ladyship would say 'thanks, pompey,' i had done.
+  princess of france. great thanks, great pompey.
+  costard. 'tis not so much worth; but i hope i was perfect.
+    i made a little fault in great.
+  berowne. my hat to a halfpenny, pompey proves the best worthy.
+
+                 enter sir nathaniel, for alexander
+
+  nathaniel. when in the world i liv'd, i was the world's
+commander;
+    by east, west, north, and south, i spread my conquering
+might.
+    my scutcheon plain declares that i am alisander-
+  boyet. your nose says, no, you are not; for it stands to right.
+
+  berowne. your nose sme
+ 
+ ___________________________
+ 
+lls 'no' in this, most tender-smelling
+    knight.
+  princess of france. the conqueror is dismay'd. proceed, good
+    alexander.
+  nathaniel. when in the world i liv'd, i was the world's
+commander-
+  boyet. most true, 'tis right, you were so, alisander.
+  berowne. pompey the great!
+  costard. your servant, and costard.
+  berowne. take away the conqueror, take away alisander.
+  costard. [to sir nathaniel] o, sir, you have overthrown
+alisander
+    the conqueror! you will be scrap'd out of the painted cloth
+for
+    this. your lion, that holds his poleaxe sitting on a
+close-stool,
+    will be given to ajax. he will be the ninth worthy. a
+conqueror
+    and afeard to speak! run away for shame, alisander.
+    [sir nathaniel retires] there, an't shall please you, a
+foolish
+    mild man; an honest man, look you, and soon dash'd. he is a
+    marvellous good neighbour, fait
+ 
+ ___________________________
+ 
+ longaville. that columbine.
+  armado. sweet lord longaville, rein thy tongue.
+  longaville. i must rather give it the rein, for it runs against
+    hector.
+  dumain. ay, and hector's a greyhound.
+  armado. the sweet war-man is dead and rotten; sweet chucks,
+beat
+    not the bones of the buried; when he breathed, he was a man.
+but
+    i will forward with my device. [to the princess] sweet
+royalty,
+    bestow on me the sense of hearing.
+
+          [berowne steps forth, and speaks to costard]
+
+  princess of france. speak, brave hector; we are much delighted.
+  armado. i do adore thy sweet grace's slipper.
+  boyet. [aside to dumain] loves her by the foot.
+  dumain. [aside to boyet] he may not by the yard.
+  armado. this hector far surmounted hannibal-
+  costard. the party is gone, fellow hector, she is gone; she is
+two
+    months on her way.
+  armado. what meanest thou?
+  costard. faith, unless you play the honest troyan, the poor
+wench
+    is cast away. she's quick; th
+ 
+ ___________________________
+ 
+e child brags in her belly
+already;
+    'tis yours.
+  armado. dost thou infamonize me among potentates? thou shalt
+die.
+  costard. then shall hector be whipt for jaquenetta that is
+quick by
+    him, and hang'd for pompey that is dead by him.
+  dumain. most rare pompey!
+  boyet. renowned pompey!
+  berowne. greater than great! great, great, great pompey! pompey
+the
+    huge!
+  dumain. hector trembles.
+  berowne. pompey is moved. more ates, more ates! stir them on!
+stir
+    them on!
+  dumain. hector will challenge him.
+  berowne. ay, if 'a have no more man's blood in his belly than
+will
+    sup a flea.
+  arma
+ 
+ ___________________________
+ 
+do. by the north pole, i do challenge thee.
+  costard. i will not fight with a pole, like a northern man;
+i'll
+    slash; i'll do it by the sword. i bepray you, let me borrow
+my
+    arms again.
+  dumain. room for the incensed worthies!
+  costard. i'll do it in my shirt.
+  dumain. most resolute pompey!
+  moth. master, let me take you a buttonhole lower. do you not
+see
+    pompey is uncasing for the combat? what mean you? you will
+lose
+    your reputation.
+  armado. gentlemen and soldiers, pardon me; i will not combat in
+my
+    shirt.
+  dumain. you may not deny it: pompey hath made the challenge.
+  armado. sweet bloods, i both may and will.
+  berowne. what reason have you for 't?
+  armado. the naked truth of it is: i have no

@@ -1,0 +1,1485 @@
+title.
+
+qc794.6.s85g75 1999
+
+539.7'258—dc21 98-25695
+
+cip
+
+w. w. norton & company, inc.
+
+500 fifth avenue, new york, n.y. 10110
+
+www.wwnorton.com
+
+w. w. norton & company ltd.
+
+castle house, 75/76 wells street, london w1t 3qt
+
+contents
+
+preface
+
+part i: the edge of knowledge
+1. tied up with string
+
+part ii: the dilemma of space, time, and the quanta
+2. space, time, and the eye of the beholder
+3. of warps and ripples
+4. microscopic weirdness
+5. the need for a new theory: general relativity vs. quantum mechanics
+
+part iii: the cosmic symphony
+6. nothing but music: the essentials of superstring theory
+7. the "super" in superstrings
+8. more dimensions than meet the eye
+9. the smoking gun: experimental signatures
+
+part iv: string theory and the fabric of spacetime
+10. quantum geometry
+11. tearing the fabric of space
+12. beyond strings: in search of m-theory
+13. black holes: a string/m-theory perspective
+14. reflections on cosmology
+
+part v: unification in the twenty-first century
+15. prospects
+
+notes
+glos
+ 
+ ___________________________
+ 
+even in the midst
+of some of the greatest scientific achievements in history—physicists have been quietly aware of a
+dark cloud looming on a distant horizon. the problem is this: there are two foundational pillars upon
+which modern physics rests. one is albert einstein's general relativity, which provides a theoretical
+framework for understanding the universe on the largest of scales: stars, galaxies, clusters of galaxies,
+and beyond to the immense expanse of the universe itself. the other is quantum mechanics, which
+provides a theoretical framework for understanding the universe on the smallest of scales: molecules,
+atoms,  and  all  the  way  down  to  subatomic  particles  like  electrons  and  quarks.  through  years  of
+research,  physicists  have  experimentally  confirmed  to  almost  unimaginable  accuracy  virtually  all
+predictions  made  by  each  of  these  theories.  but  these  same  theoretical  tools  inexorably  lead  to
+another  disturbing  conclusion:  as  they  are  currently  for
+ 
+ ___________________________
+ 
+  depths  of  a  black  hole  an  enormous  mass  is
+crushed to a minuscule size. at the moment of the big bang the whole of the universe erupted from a
+microscopic nugget whose size makes a grain of sand look colossal. these are realms that are tiny
+and  yet  incredibly  massive,  therefore  requiring  that  both  quantum  mechanics  and  general  relativity
+simultaneously be brought to bear. for reasons that will become increasingly clear as we proceed,
+the equations of general relativity and quantum mechanics, when combined, begin to shake, rattle, and
+gush  with  steam  like  a  red-lined  automobile.  put  less  figuratively,  well-posed  physical  questions
+elicit nonsensical answers from the unhappy amalgam of these two theories. even if you are willing
+to keep the deep interior of a black hole and the beginning of the universe shrouded in mystery, you
+can't help feeling that the hostility between quantum mechanics and general relativity cries out for a
+deeper  level  of  understanding.  can  it
+ 
+ ___________________________
+ 
+  really  be  that  the  universe  at  its  most  fundamental  level  is
+divided, requiring one set of laws when things are large and a different, incompatible set when things
+are small?
+
+superstring theory, a young upstart compared with the venerable edifices of quantum mechanics
+and  general  relativity,  answers  with  a  resounding  no.  intense  research  over  the  past  decade  by
+physicists and mathematicians around the world has revealed that this new approach to describing
+
+matter  at  its  most  fundamental  level  resolves  the  tension  between  general  relativity  and  quantum
+mechanics. in fact, superstring theory shows more: within this new framework, general relativity and
+quantum  mechanics require  one  another  for  the  theory  to  make  sense.  ac
+ 
+ ___________________________
+ 
+sical principle, one master equation.
+
+because these features of string theory require that we drastically change our understanding of
+space, time, and matter, they will take some time to get used to, to sink in at a comfortable level. but
+as shall become clear, when seen in its proper context, string theory emerges as a dramatic yet natural
+outgrowth of the revolutionary discoveries of physics during the past hundred years. in fact, we shall
+see that the conflict between general relativity and quantum mechanics is actually not the first, but the
+third in a sequence of pivotal conflicts encountered during the past century, each of whose resolution
+has resulted in a stunning revision of our understanding of the universe.
+
+the three conflicts
+
+the first conflict, recognized as far back as the late 1800s, concerns puzzling properties of the motion
+of light. briefly put, according to isaac newton's laws of motion, if you run fast enough you can catch
+up  with  a  departing  beam  of  light,  whereas  accor
+ 
+ ___________________________
+ 
+gravity  from  one  place  to  another.  space  and  time,
+therefore, can no longer to be thought of as an inert backdrop on which the events of the universe play
+themselves  out;  rather,  through  special  and  then  general  relativity,  they  are  intimate  players  in  the
+events themselves.
+
+once again the pattern repeated itself: the discovery of general relativity, while resolving one
+conflict, led to another. over the course of the three decades beginning in 1900, physicists developed
+quantum mechanics (discussed in chapter 4) in response to a number of glaring problems that arose
+when  nineteenth-century  conceptions  of  physics  were  applied  to  the  microscopic  world.  and  as
+mentioned  above,  the  third  and  deepest  conflict  arises  from  the  incompatibility  between  quantum
+mechanics and general relativity. as we will see in chapter 5, the gently curving geometrical form of
+space  emerging  from  general  relativity  is  at  loggerheads  with  the  frantic,  roiling,  microsco
+ 
+ ___________________________
+ 
+pic
+behavior of the universe implied by quantum mechanics. as it was not until the mid-1980s that string
+theory  offered  a  resolution,  this  conflict  is  rightly  called  the  central  problem  of  modern  physics.
+moreover, building on special and general relativity, string theory requires its own severe revamping
+of our conceptions of space and time. for example, most of us take for granted that our universe has
+three spatial dimensions. but this is not so according to string theory, which claims that our universe
+has many more dimensions than m
+ 
+ ___________________________
+ 
+��gravity and electromagnetism—deeply troubling. einstein did
+not accept that nature is founded on such an extravagant design. this launched his thirty-year voyage
+in search of the so-called unified field theory that he hoped would show that these two forces are
+really manifestations of one grand underlying principle. this quixotic quest isolated einstein from the
+mainstream  of  physics,  which,  understandably,  was  far  more  excited  about  delving  into  the  newly
+emerging framework of quantum mechanics. he wrote to a friend in the early 1940s, "i have become a
+lonely  old  chap  who  is  mainly  known  because  he  doesn't  wear  socks  and  who  is  exhibited  as  a
+curiosity on special occasions."3
+
+einstein was simply ahead of his time. more than half a century later, his dream of a unified
+theory  has  become  the  holy  grail  of  modern  physics.  and  a  sizeable  part  of  the  physics  and
+mathematics  community  is  becoming  increasingly  convinced  that  string  theory  may  provi
+ 
+ ___________________________
+ 
+ the heart and the soul of darkness, the
+german  physicist  max  planck  shed  the  first  ray  of  light  on  quantum  mechanics,  a  conceptual
+framework that proclaims, among other things, that the h-bar experiences of george and gracie—
+when  scaled  down  to  the  microscopic  realm—need  not  be  attributed  to  clouded  faculties.  such
+unfamiliar  and  bizarre  happenings  are  typical  of  how  our  universe,  on  extremely  small  scales,
+actually behaves.
+
+the quantum framework
+
+quantum mechanics is a conceptual framework for understanding the microscopic properties of the
+universe.  and  just  as  special  relativity  and  general  relativity  require  dramatic  changes  in  our
+worldview when things are moving very quickly or when they are very massive, quantum mechanics
+reveals that the universe has equally if not more startling properties when examined on atomic and
+subatomic distance scales. in 1965, richard feynman, one of the greatest practitioners of quantum
+mechanics, wrote,
+
+t
+ 
+ ___________________________
+ 
+here was a time when the newspapers said that only twelve men understood the theory of
+relativity. i do not believe there ever was such a time. there might have been a time when
+only one man did because he was the only guy who caught on, before he wrote his paper.
+but after people read the paper a lot of people understood the theory of relativity in one
+way or other, certainly more than twelve. on the other hand i think i can safely say that
+nobody understands quantum mechanics.1
+
+although  feynman  expressed  this  view  more  than  three  decades  ago,  it  applies  equally  well
+today. what he meant is that although the special and general theories of relativity require a drastic
+revision of previous ways of seeing the world, when one fully accepts the basic principles underlying
+them,  the  new  and  unfamiliar  implications  for  space  and  time  follow  directly  from  careful  logical
+reasoning.  if  you  ponder  the  descriptions  of  einstein's  work  in  th
+ 
+ ___________________________
+ 
+e  preceding  two  chapters  with
+adequate  intensity,  you  will—if  even  for  just  a  moment—recognize  the  inevitability  of  the
+conclusions  we  have  drawn.  quantum  mechanics  is  different.  by  1928  or  so,  many  of  the
+mathematical formulas and rules of quantum mechanics had been put in place and, ever since, it has
+been  used  to  make the most precise and successful numerical predictions in the history of science.
+but in a real sense those who use quantum mechanics find themselves following rules and formulas
+laid down by the "founding fathers" of the theory—calculational procedures that are straightforward
+to carry out—without really understanding why the procedures work or what they really mean. unlike
+relativity, few if any people ever grasp quantum mechanics at a "soulful" level.
+
+what are we to make of this? does it mean that on a microscopic level the universe operates in
+ways so obscure and unfamiliar that the human mind, evolved over eons to c
+ 
+ ___________________________
+ 
+ope with phenomena on
+familiar everyday scales, is unable to fully grasp "what really goes on"? or, might it be that through
+historical  accident  physicists  have  constructed  an  extremely  awkward  formulation  of  quantum
+mechanics  that,  although  quantitatively  successful,  obfuscates  the  true  nature  of  reality?  no  one
+knows. maybe some time in the future some clever person will see clear to a new formulation that
+will fully reveal the "whys" and the "whats" of quantum mechanics. and then again, maybe not. the
+only thing we know with certainty is that quantum mechanics absolutely and unequivocally shows us
+that a number of basic concepts essential to our understanding of the familiar everyday world fail to
+have  any  meaning  when  our  focus  narrows  to  the  microscopic  realm.  as  a  result,  we  must
+significantly modify both our language and our reasoning when attempting to understand and explain
+the universe on atomic and subatomic scales.
+
+in the following sec
+ 
+ ___________________________
+ 
+tions we will develop the basics of this language and describe a number of
+the remarkable surprises it entails. if along the way quantum mechanics seems to you to be altogether
+bizarre  or  even  ludicrous,  you  should  bear  in  mind  two  things.  first,  beyond  the  fact  that  it  is  a
+mathematically coherent theory, the only reason we believe in quantum mechanics is because it yields
+predictions  that  have  been  verified  to  astounding  accuracy.  if  someone  can  tell  you  volumes  of
+intimate details of your childhood in excruciating detail, it's hard not to believe their claim of being
+
+your long-lost sibling. second, you are not alone in having this reaction to quantum mechanics. it is a
+view held to a greater or lesser extent by some of the most revered physicists of all time. einstein
+refused  to  accept  quantum  mechanics  fully. and  even
+ 
+ ___________________________
+ 
+  niels  bohr,  one  of  the  central  pioneers  of
+quantum  theory  and  one  of  its  strongest  proponents,  once  remarked  that  if  you  do  not  get  dizzy
+sometimes when you think about quantum mechanics, then you have not really understood it.
+
+it's too hot in the kitchen
+
+the road to quantum mechanics began with a puzzling problem. imagine that your oven at home is
+perfectly insulated, that you set it to some temperature, say 400 degrees fahrenheit, and you give it
+enough  time  to  heat  up.  even  if  you  had  sucked  all  the  air  from  the  oven  before  turning  it  on,  by
+heating its walls you generate waves of radiation in its interior. this is the same kind of radiation—
+heat and light in the form of electromagnetic waves—that is emitted by the surface of the sun, or a
+glowing
+ 
+ ___________________________
+ 
+
+however,  some  of  newton's  colleagues,  most  notably  the  dutch  physicist  christian  huygens,
+disagreed  with  him  and  argued  that  light  is  a  wave.  the  debate  raged  but  ultimately  experiments
+carried  out  by  the  english  physicist  thomas young  in  the  early  1800s  showed  that  newton  was
+wrong.
+
+a  version  of  young's  experimental  setup—known  as 
+
+the  double-slit  experiment—is
+schematically illustrated in figure 4.3. feynman was fond of saying that all of quantum mechanics can
+be  gleaned  from  carefully  thinking  through  the  implications  of  this  single  experiment,  so  it's  well
+worth discussing. as we see from figure 4.3, light is shone on a thin solid barrier in which two slits
+are  cut.  a  photographic  plate  records  the  light  that  gets  through  the  slits—brighter  areas  of  the
+photograph  indicate  more  incident  light.  the  experiment  consists  of  comparing  the  images  on
+photographic plates that result when either or both of the 
+ 
+ ___________________________
+ 
+e-slit experiment really
+bring the lesson home. the photoelectric effect shows that light has particle properties. the double-
+slit experiment shows that light manifests the interference properties of waves. together they show
+that light has both wave-like and particle-like properties. the microscopic world demands that we
+shed our intuition that something is either a wave or a particle and embrace the possibility that it is
+both. it is here that feynman's pronouncement that "nobody understands quantum mechanics" comes to
+the fore. we can utter words such as "wave-particle duality." we can translate these words into a
+mathematical  formalism  that  describes  real-world  experiments  with  amazing  accuracy.  but  it  is
+extremely hard to understand at a deep, intuitive level this dazzling feature of the microscopic world.
+
+matter particles are also waves
+
+in the first few decades of the twentieth century, many of the greatest theoretical physicists grappled
+tirelessly to develop a mathematically sound
+ 
+ ___________________________
+ 
+ and the evolution of probability waves, or as they came to be known,
+wave  functions.  it  was  not  long  before  schrödinger's  equation  and  the  probabilistic  interpretation
+were being used to make wonderfully accurate predictions. by 1927, therefore, classical innocence
+had been lost. gone were the days of a clockwork universe whose individual constituents were set in
+motion at some moment in the past and obediently fulfilled their inescapable, uniquely determined
+destiny. according to quantum mechanics, the universe evolves according to a rigorous and precise
+mathematical formalism, but this framework determines only the probability that any particular future
+will happen—not which future actually ensues.
+
+many find this conclusion troubling or even downright unacceptable. einstein was one. in one of
+physics' most time-honored utterances, einstein admonished the quantum stalwarts that "god does not
+play dice with the universe." he felt that probability was turning up in fundamental physics b
+ 
+ ___________________________
+ 
+ads toward the left slit, but suddenly changes
+course and heads through the right. it meanders back and forth, finally passing through the left slit. it
+goes on a long journey to the andromeda galaxy before turning back and passing through the left slit
+on its way to the screen. and on and on it goes—the electron, according to feynman, simultaneously
+"sniffs" out every possible path connecting its starting location with its final destination.
+
+figure 4.10 according to feynman's formulation of quantum mechanics, particles must be viewed as
+travelling  from  one  location  to  another  along  every  possible  path.  here,  a  few  of  the  infinity  of
+trajectories for a single electron travelling from the source to the phosphorescent screen are shown.
+notice that this one electron actually goes through both slits.
+
+feynman showed that he could assign a number to each of these paths in such a way that their
+combined  average  yields  exactly  the  same  result  for  the  probability  calculated  using 
+ 
+ ___________________________
+ 
+ the  wave-
+function approach. and so from feynman's perspective no probability wave needs to be associated
+with the electron. instead, we have to imagine something equally if not more bizarre. the probability
+that the electron—always viewed as a particle through and through—arrives at any chosen point on
+the screen is built up from the combined effect of every possible way of getting there. this is known
+as feynman's "sum-over-paths" approach to quantum mechanics.7
+
+at this point your  classical  upbringing  is  balking:  how  can  one  electron simultaneously  take
+different paths—and no less than an infinite number of them? this seems like a defensible objection,
+but quantum mechanics—the physics of our world—requires that you hold such pedestrian complaints
+in  abeyance.  the  result  of  calculations  using  feynman's  approach  agree  with  those  of  the  wave
+function method, which agree with experiments. you must allow nature to dictate wh
+ 
+ ___________________________
+ 
+ion. but for microscopic objects, feynman's
+rule for assigning numbers to paths shows that many different paths can and often do contribute to an
+object's motion. in the double-slit experiment, for example, some of these paths pass through different
+slits, giving rise to the interference pattern observed. in the microscopic realm we therefore cannot
+assert  that  an  electron  passes  through  only  one  slit  or  the  other.  the  interference  pattern  and
+feynman's alternative formulation of quantum mechanics emphatically attest to the contrary.
+
+just as we may find that varying interpretations of a book or a film can be more or less helpful in
+aiding our understanding of different aspects of the work, the same is true of the different approaches
+to  quantum  mechanics.  although  their  predictions  always  agree  completely,  the  wave  function
+approach  and  feynman's  sum-over-paths  approach  give  us  different  ways  of  thinking  about  what's
+going on. as we shall see later on, for some ap
+ 
+ ___________________________
+ 
+plications, one or the other approach can provide an
+invaluable explanatory framework.
+
+quantum weirdness
+
+by now you should have some sense of the dramatically new way that the universe works according
+to quantum mechanics. if you have not as yet fallen victim to bohr's dizziness dictum, the quantum
+weirdness we now discuss should at least make you feel a bit lightheaded.
+
+even  more  so  than  with  the  theories  of  relativity,  it  is  hard  to  embrace  quantum  mechanics
+viscerally—to  think  like  a  miniature  person  born  and  raised  in  the  microscopic  realm.  there  is,
+though, one aspect of the theory that can act as a guidepost for your intuition, as it is the hallmark
+feature  that  fundamenta
+ 
+ ___________________________
+ 
+en  they  are  examined  and
+confined to ever smaller regions of space.
+
+the uncertainty principle also gives rise to a striking effect known as quantum tunneling. if you
+fire  a  plastic  pellet  against  a  ten-foot-thick  concrete  wall,  classical  physics  confirms  what  your
+instincts tell you will happen: the pellet will bounce back at you. the reason is that the pellet simply
+does not have enough energy to penetrate such a formidable obstacle. but at the level of fundamental
+particles, quantum mechanics shows unequivocally that the wave functions—that is, the probability
+waves—of the particles making up the pellet all have a tiny piece that spills out through the wall.
+this means that there is a small—but not zero—chance that the pellet actually can penetrate the wall
+and emerge on the other side. how can this be? the reason comes down, once again, to heisenberg's
+uncertainty principle.
+
+the mathematics of quantum mechanics shows that the greater the energy barrier, the lower the
+proba
+ 
+ ___________________________
+ 
+t no one
+has the money to lend. you remember, though, that an old friend of yours works for an airline and you
+implore him with the same request. again, he cannot afford to lend you the money but he does offer a
+solution. the accounting system of the airline is such that if you wire the ticket payment within 24
+hours of arrival at your destination, no one will ever know that it was not paid for prior to departure.
+in this way you are able to claim your inheritance.
+
+the accounting procedures of quantum mechanics are quite similar. just as heisenberg showed
+that  there  is  a  trade-off  between  the  precision  of  measurements  of  position  and  velocity,  he  also
+showed that there is a similar trade-off in the precision of energy  measurements  and how long one
+takes  to  do  the  measurement.  quantum  mechanics  asserts  that  you  can't  say  that  a  particle  has
+precisely such-and-such energy at precisely such-and-such moment in time. ever increasing precision
+of energy measurements require e
+ 
+ ___________________________
+ 
+at the energy a particle has can wildly fluctuate so long as this fluctuation is over a short enough
+time scale. so, just as the accounting system of the airline "allows" you to "borrow" the money for a
+plane  ticket  provided  you  pay  it  back  quickly  enough,  quantum  mechanics  allows  a  particle  to
+"borrow"  energy  so  long  as  it  can  relinquish  it  within  a  time  frame  determined  by  heisenberg's
+uncertainty principle.
+
+tunneling is commonplace. but the probability rules of quantum mechanics—and, in particular, the
+actual smallness of h in the real world—show that if you walked into a solid wall every second, you
+would  have  to  wait  longer  than  the  current  age  of  the  universe  to  have  a  good  chance  of  passing
+through it on one of your attempts. with eternal patience (and longevity), though, you could—sooner
+or later—emerge on the other side.
+
+the uncertainty principle captures the heart of quantum mechanics. features that we normally
+think of as being so bas
+ 
+ ___________________________
+ 
+tivity  do  not  provide  this
+deepest  level  of  understanding.  since  their  usual  domains  of  applicability  are  so  different,  most
+situations  require  the  use  of  quantum  mechanics or  general  relativity,  but  not  both.  under  certain
+extreme conditions, however, where things are very massive and very small—near the central point
+of  black  holes  or  the  whole  universe  at  the  moment  of  the  big  bang,  to  name  two  examples—we
+require both general relativity and quantum mechanics for proper understanding. but like the mixing
+of fire and gunpowder, when we try to combine quantum mechanics and general relativity, their union
+brings violent catastrophe. well-formulated physical problems elicit nonsensical answers when the
+equations of both these theories are commingled. the nonsense often takes the form of a prediction
+that  the  quantum-mechanical  probability  for  some  process  is  not  20  percent  or  73  percent  or  91
+percent but infinity. what in the world does a
+ 
+ ___________________________
+ 
+ probability greater than one mean, let alone one that is
+infinite? we are forced to conclude that there is something seriously wrong. by closely examining the
+basic properties of general relativity and quantum mechanics, we can identify what that something is.
+
+the heart of quantum mechanics
+
+when  heisenberg  discovered  the  uncertainty  principle,  physics  turned  a  sharp  corner,  never  to
+retrace  its  steps.  probabilities,  wave  functions,  interference,  and  quanta  all  involve  radically  new
+ways of seeing reality. nevertheless, a die-hard "classical" physicist might still have hung on to a
+thread of hope that when all was said and done these departures would add up to a framework not too
+distant from old ways of thinking. but the uncertainty principle cleanly and d
+ 
+ ___________________________
+ 
+y principle
+tells  us  that  from  a  microscopic  vantage  point  there  is  a  tremendous  amount  of  activity. and  this
+activity gets increasingly agitated on ever smaller distance and time scales.
+
+quantum accounting is essential to understand this. we saw in the preceding chapter that just as
+you might temporarily borrow money to overcome an important financial obstacle, a particle such as
+an electron can temporarily borrow energy to overcome a literal physical barrier. this is true. but
+quantum mechanics forces us to take the analogy one important step further. imagine someone who is
+a  compulsive  borrower  and  goes  from  friend  to  friend  asking  for  money.  the  shorter  the  time  for
+which  a  friend  can  lend  him  money,  the  larger  the  loan  he  seeks.  borrow  and  return,  borrow  and
+return—over and over again with unflagging intensity he takes in money only to give it back in short
+order.  like  stock  prices  on  a  wild,  roller-coaster  day  on  wall  street,  the  amo
+ 
+ ___________________________
+ 
+capable  of  dealing  with  this  microscopic
+obstreperousness.  they  found  that  schrödinger's  quantum  wave  equation  (mentioned  in  chapter  4)
+was actually only an approximate description of microscopic physics—an approximation that works
+extremely  well  when  one  does  not  probe  too  deeply  into  the  microscopic  frenzy  (either
+experimentally or theoretically), but that certainly fails if one does.
+
+the central piece of physics that schrödinger ignored in his formulation of quantum mechanics is
+special  relativity.  in  fact,  schrödinger did  try  to  incorporate  special  relativity  initially,  but  the
+quantum equation to which this led him made predictions that proved to be at odds with experimental
+measurements of hydrogen. this inspired schrödinger to adopt the time-honored tradition in physics
+of divide and conquer: rather than trying, through one leap, to incorporate all we know about the
+physical universe in developing a new theory, it is often far more profitable to ta
+ 
+ ___________________________
+ 
+  to  incorporate  quantum  mechanics  into  general
+relativity we should seek a quantum field theory of the gravitational force, much as physicists have
+discovered successful quantum field theories of the other three forces. over the years, such reasoning
+has inspired a prodigious and distinguished group of physicists to follow this path vigorously, but the
+terrain has proven to be fraught with danger, and no one has succeeded in traversing it completely.
+let's see why.
+
+general relativity vs. quantum mechanics
+
+the usual realm of applicability of general relativity is that of large, astronomical distance scales. on
+such  distances  einstein's  theory  implies  that  the  absence  of  mass  means  that  space  is  flat,  as
+illustrated in figure 3.3. in seeking to merge general relativity with quantum mechanics we must now
+change  our  focus  sharply  and  examine  the microscopic  properties  of  space.  we  illustrate  this  in
+figure 5.1 by zooming in and sequentially magnifying ever smaller region
+ 
+ ___________________________
+ 
+ure
+5.1, the structure of space retains the same basic form. reasoning from a purely classical standpoint,
+we would expect this placid and flat image of space to persist all the way to arbitrarily small length
+scales.  but  quantum  mechanics  changes  this  conclusion  radically. everything  is  subject  to  the
+quantum  fluctuations  inherent  in  the  uncertainty  principle—even  the  gravitational  field.  although
+classical reasoning implies that empty space has zero gravitational field, quantum mechanics shows
+that on average it is zero, but that its actual value undulates up and down due to quantum fluctuations.
+moreover, the uncertainty principle tells us that the size of the undulations of the gravitational field
+gets  larger  as  we  focus  our  attention  on  smaller  regions  of  space.  quantum  mechanics  shows  that
+nothing likes to be cornered; narrowing the spatial focus leads to ever larger undulations.
+
+as  gravitational  fields  are  reflected  by  curvature,  these  quantum  fluc
+ 
+ ___________________________
+ 
+ illustrated  in  the
+uppermost  part  of  the  figure.  john  wheeler  coined  the  term quantum  foam  to  describe  the  frenzy
+revealed by such an ultramicroscopic examination of space (and time)—it describes an unfamiliar
+arena of the universe in which the conventional notions of left and right, back and forth, up and down
+(and even of before and after) lose their meaning. it is on such short distance scales that we encounter
+the fundamental incompatibility between general relativity and quantum mechanics. the notion of a
+smooth  spatial  geometry,  the  central  principle  of  general  relativity,  is  destroyed  by  the  violent
+fluctuations of the quantum world on short distance scales. on ultramicroscopic scales, the central
+feature of quantum mechanics—the uncertainty principle—is in direct conflict with the central feature
+of general relativity—the smooth geometrical model of space (and of spacetime).
+
+figure  5.1  by  sequentially  magnifying  a  region  of  space,  its  ultramicro
+ 
+ ___________________________
+ 
+ length
+would barely expand to the height of an average tree.
+
+and  so  we  see  that  the  incompatability  between  general  relativity  and  quantum  mechanics
+becomes apparent only in a rather esoteric realm of the universe. for this reason you might well ask
+whether it's worth worrying about. in fact, the physics community does not speak with a unified voice
+when  addressing  this  issue.  there  are  those  physicists  who  are  willing  to  note  the  problem,  but
+happily go about using quantum mechanics and general relativity for problems whose typical lengths
+far exceed the planck length, as their research requires. there are other physicists, however, who are
+deeply unsettled by the fact that the two foundational pillars of physics as we know it are at their core
+fundamentally  incompatible,  regardless  of  the  ultramicroscopic  distances  that  must  be  probed  to
+expose the problem. the incompatibility, they argue, points to an essential flaw in our understanding
+of  the  physical  univ
+ 
+ ___________________________
+ 
+rticles  out  of  which  atoms  themselves  are  made.  the  strings  of  string  theory  are  so  small—on
+average they are about as long as the planck length—that they appear pointlike even when examined
+with our most powerful equipment.
+
+yet  the  simple  replacement  of  point  particles  with  strands  of  string  as  the  fundamental
+ingredients of everything has far-reaching consequences. first and foremost, string theory appears to
+resolve the conflict between general relativity and quantum mechanics. as we shall see, the spatially
+extended nature of a string is the crucial new element allowing for a single harmonious framework
+incorporating both theories. second, string theory provides a truly unified theory, since all matter and
+all forces are proposed to arise from one basic ingredient: oscillating strings. finally, as discussed
+
+more fully in subsequent chapters, beyond these remarkable achievements, string theory once again
+radically changes our understanding of spacetime.1
+
+a brief h
+ 
+ ___________________________
+ 
+ suggested that string theory had failed in its initial attempt because physicists had
+unduly constrained its scope. string theory is not just a theory of the strong force, they proclaimed; it
+is a quantum theory that includes gravity as well.3
+
+the  physics  community  did  not  receive  this  suggestion  with  unbridled  enthusiasm.  in  fact,
+schwarz recounts that "our work was universally ignored."4 the path of progress was already littered
+with numerous failed attempts to unite gravity and quantum mechanics. string theory had been shown
+wrong in its initial effort to describe the strong force, and it seemed to many that it was senseless to
+try to use the theory to pursue an even grander goal. even more devastating, subsequent studies during
+the late 1970s and early 1980s showed that string theory and quantum mechanics suffered from their
+own subtle conflicts. it appeared that the gravitational force had, once again, resisted incorporation
+into the microscopic description of the universe.
+
+such  wa
+ 
+ ___________________________
+ 
+ating string is determined by two things: the
+precise manner in which it vibrates (more frantic patterns corresponding to higher energies) and the
+tension of the string (higher tension corresponding to higher energy). at first, this description might
+lead  you  to  think  that  by  taking  on  ever  gentler  vibrational  patterns—patterns  with  ever  smaller
+amplitudes and fewer peaks and troughs—a string can embody less and less energy. but as we found
+in chapter 4 in a different context, quantum mechanics tells us that this reasoning is not right. like all
+vibrations or wavelike disturbances, quantum mechanics implies that they can exist only in discrete
+units. roughly speaking, just as the money carried by a comrade in the warehouse is a whole number
+multiple of the monetary denomination with which he or she is entrusted, the energy embodied in a
+string vibrational pattern is a whole number multiple of a minimal energy denomination. in particular,
+this  minimal  energy  denomination  is  propor
+ 
+ ___________________________
+ 
+ying that the "natural" or "typical" energy scale (and hence mass scale) of string
+theory is the planck scale.
+
+this raises a crucial question directly related to the goal of reproducing the particle properties
+in tables 1.1 and 1.2: if the "natural" energy scale of string theory is some ten billion billion times
+that of a proton, how can it possibly account for the far-lighter particles—electrons, quarks, photons,
+and so on—making up the world around us?
+
+the answer, once again, comes from quantum mechanics. the uncertainty principle ensures that
+nothing is ever perfectly at rest. all objects undergo quantum jitter, for if they didn't we would know
+where  they  were  and  how  fast  they  were  moving  with  complete  precision,  in  violation  of
+heisenberg's dictum. this holds true for the loops in string theory as well; no matter how placid a
+string appears it will always experience some amount of quantum vibration. the remarkable thing, as
+originally worked out in the 1970s, is that there can 
+ 
+ ___________________________
+ 
+ent day, as such super-
+heavy particles are usually unstable, relinquishing their enormous mass by decaying into a cascade of
+ever  lighter  particles,  ending  with  the  familiar,  relatively  light  particles  in  the  world  around  us.
+however, it is possible that such a super-heavy vibrational string state—a relic from the big bang—
+did survive to the present. finding such particles, as we discuss more fully in chapter 9, would be a
+monumental discovery, to say the least.
+
+gravity and quantum mechanics in string theory
+
+the unified framework that string theory presents is compelling. but its real attraction is the ability to
+ameliorate  the  hostilities  between  the  gravitational  force  and  quantum  mechanics.  recall  that  the
+problem in merging general relativity and quantum mechanics turns up when the central tenet of the
+former—that  space  and  time  constitute  a  smoothly  curving  geometrical  structure—confronts  the
+essential feature of the latter—that everything in the u
+ 
+ ___________________________
+ 
+ich
+indicates the window of uncertainty in its position. this fact reflects our discussion of heisenberg's
+uncertainty principle in chapter 4, in which we found that the margin of error incurred when using a
+point  particle  as  a  probe  (we  focused  on  photon  probes  but  the  discussion  applies  to  all  other
+particles) is about equal to the probe particle's quantum wave-length. in somewhat looser language,
+the probing sensitivity of a point particle is smeared out by the jitteriness of quantum mechanics, in
+much the same way that the precision of a surgeon's scalpel is compromised if he or she has hands
+that  shake.  but  recall  that  in  chapter  4  we  also  noted  the  important  fact  that  a  particle's  quantum
+wavelength is inversely proportional to its momentum, which, roughly speaking, is its energy. and so,
+by increasing a point particle's energy, its quantum wavelength can be made shorter and shorter—
+quantum smearing can be decreased further and further—and hence we can use it
+ 
+ ___________________________
+ 
+ion between point particles and strands of string becomes manifest.
+just as was the case for plastic pellets probing the surface features of a peach pit, the string's inherent
+spatial extent prevents it from probing the structure of anything substantially smaller than its own size
+—in  this  case  structures  arising  on  length  scales  shorter  than  the  planck  length.  somewhat  more
+precisely, in 1988 david gross, then of princeton university, and his student paul mende showed that
+when quantum mechanics is taken into account, continually increasing the energy of a string does not
+continually increase its ability to probe finer structures, in direct contrast with what happens for a
+point particle. they found that when the energy of a string is increased, it is at first able to probe
+shorter-scale structures, just like an energetic point particle. but when its energy is increased beyond
+the value required for probing structures on the scale of the planck length, the additional energy does
+not sh
+ 
+ ___________________________
+ 
+it's as if a string, unlike a point particle, has two sources of
+smearing: quantum jitters, as for a point particle, and also its own inherent spatial extent. increasing a
+string's energy decreases the smearing from the first source but ultimately increases the smearing from
+the second. the upshot is that no matter how hard you try, the extended nature of a string prevents you
+from using it to probe phenomena on sub-planck-length distances.
+
+but the whole conflict between general relativity and quantum mechanics arises from the sub-
+planck-length properties of the spatial fabric. if the elementary constituent of the universe cannot
+probe sub-planck-scale distances, then neither it nor anything made from it can be affected by the
+
+supposedly disastrous short-distance quantum undulations. this is similar to what happens as we
+draw our hand across a highly polished granite surface. although at a microscopic level the granite is
+discrete,  grainy,  and  bumpy,  our  fingers  are  unable  to  detect  these
+ 
+ ___________________________
+ 
+ic
+discreteness.  similarly,  since  the  string  has  spatial  extent,  it  also  has  limits  on  its  short-distance
+sensitivity. it cannot detect variations on sub-planck-distance scales. like our fingers on granite, the
+string  smears  out  the  jittery  ultramicroscopic  fluctuations  of  the  gravitational  field.  although  the
+resulting  fluctuations  are  still  substantial,  this  smearing  smooths  them  out  just  enough  to  cure  the
+incompatibility between general relativity and quantum mechanics. and, in particular, the pernicious
+infinities (discussed in the preceding chapter) that arise in the point-particle approach to forming a
+quantum theory of gravity are done away with by string theory.
+
+an essential difference between the granite analogy and our real concern with the spatial fabric
+is that there are ways in which the microscopic discreteness of the granite's surface can be exposed:
+finer, more precise probes than our fingers can be used. an electron microscope has the ability t
+ 
+ ___________________________
+ 
+is discussion may leave you feeling dissatisfied. instead of showing that string theory tames the
+sub-planck-length quantum undulations of space, we seem to have used the string's nonzero size to
+skirt the whole issue completely. have we actually solved anything? we have. the following two
+points will serve to emphasize this.
+
+first, what the preceding argument implies is that the supposedly problematic sub-planck-length
+spatial fluctuations are an artifact of formulating general relativity and quantum mechanics in a point-
+particle framework. in a sense, therefore, the central conflict of contemporary theoretical physics has
+been a problem of our own making. because we previously envisioned all matter particles and all
+force particles to be pointlike objects with literally no spatial extent, we were obligated to consider
+properties of the universe on arbitrarily short distance scales. and on the tiniest of distances we ran
+into seemingly insurmountable problems. string theory tells us that we encounte
+ 
+ ___________________________
+ 
+l sense, a limit to how finely our conventional
+notion of distance can even be applied to the ultramicroscopic structure of the cosmos. the supposed
+pernicious spatial fluctuations are now seen to have arisen in our theories because we were unaware
+of  these  limits  and  were  thus  led  by  a  point-particle  approach  to  grossly  overstep  the  bounds  of
+
+physical reality.
+
+given  the  apparent  simplicity  of  this  solution  for  overcoming  the  problem  between  general
+relativity and quantum mechanics, you might wonder why it took so long for someone to suggest that
+the point-particle description is merely an idealization and that in the real world elementary particles
+do have some spatial extent. this takes us to our second point. long ago, some of the greatest minds
+in  theoretical  physics,  such  as  pauli,  heisenberg,  dirac,  and  feynman, did  suggest  that  nature's
+constituents might not actually be points but rather small undulating "blobs" or "nuggets." they and
+others found, how
+ 
+ ___________________________
+ 
+ocation of the interaction.
+
+like  viewing  the  world  through  glasses  that  are  too  weak  or  too  strong,  fine  sub-planckian
+details that would be accessible to a point-particle probe are smeared together by string theory and
+rendered harmless. and unlike the case with poor eyesight, if string theory is the ultimate description
+of the universe, there is no corrective lens to bring the supposed sub-planck-scale fluctuations into
+sharp focus. the incompatibility of general relativity and quantum mechanics—which would become
+apparent only on sub-planck-scale distances—is avoided in a universe that has a lower limit on the
+distances that can be accessed, or even said to exist, in the conventional sense. such is the universe
+described  by  string  theory,  in  which  we  see  that  the  laws  of  the  large  and  the  small  can  be
+harmoniously merged together as the supposed catastrophe arising on ultramicroscopic distances is
+summarily done away with.
+
+figure 6.11 observers in relative moti
+ 
+ ___________________________
+ 
+ecessarily  have  a  vibrational  pattern  in  their  repertoire  that  is massless  and  has  spin-2—the
+hallmark features of the graviton. where there is a graviton there is also gravity.
+
+loophole in the coleman-mandula result concerning the possible symmetries of nature, mentioned in
+the preceding section.
+
+supersymmetry and superpartners
+
+as we have emphasized, the concept of spin, although superficially akin to the image of a spinning
+top, differs in substantial ways that are rooted in quantum mechanics. its discovery in 1925 revealed
+that  there  is  another  kind  of  rotational  motion  that  simply  would  not  exist  in  a  purely  classical
+universe.
+
+this suggests the following question: just as ordinary rotational motion allows for the symmetry
+principle of rotational invariance ("physics treats all spatial orientations on an equal footing"), could
+it be that the more subtle rotational motion associated with spin leads to another possible symmetry of
+the  laws  of  nature?  by  1971  o
+ 
+ ___________________________
+ 
+owning theoretical achievements of these pursuits; we now see that, through historical twists and
+turns, even this point-particle theory owes a great debt to string theory.
+
+with the resurgence of superstring theory in the mid-1980s, supersymmetry has re-emerged in the
+context  of  its  original  discovery.  and  in  this  framework,  the  case  for  supersymmetry  goes  well
+beyond that presented in the preceding section. string theory is the only way we know of to merge
+general relativity and quantum mechanics. but it's only the supersymmetric version of string theory
+that  avoids  the  pernicious  tachyon  problem  and  that  has  fermionic  vibrational  patterns  that  can
+account  for  the  matter  particles  constituting  the  world  around  us.  supersymmetry  therefore  comes
+
+hand-in-hand with string theory's proposal for a quantum theory of gravity, as well as with its grand
+claim  of  uniting  all  forces  and  all  of  matter.  if  string  theory  is  right,  physicists  expect  that  so  
+ 
+ ___________________________
+ 
+ 1970s  and  early  1980s  many  of  its
+predictions had been verified experimentally, and most particle physicists concluded that it was just a
+matter of time before the rest were confirmed as well. although a few important details remained
+unresolved,  many  felt  that  the  major  questions  concerning  the  strong,  weak,  and  electromagnetic
+forces had been answered.
+
+the time was finally ripe to return to the grandest question of all: the enigmatic conflict between
+general relativity and quantum mechanics. the success in formulating a quantum theory of three of
+nature's forces emboldened physicists to try to bring the fourth, gravity, into the fold. having pursued
+numerous  ideas  that  all  ultimately  failed,  the  mind-set  of  the  community  became  more  open  to
+comparatively radical approaches. after being left for dead in the late 1920s, kaluza-klein theory
+was resuscitated.
+
+modern kaluza-klein theory
+
+the understanding of physics had significantly changed and substantially deepened in
+ 
+ ___________________________
+ 
+ the six decades
+since kaluza's original proposal. quantum mechanics had been fully formulated and experimentally
+verified.  the  strong  and  the  weak  forces,  unknown  in  the  1920s,  had  been  discovered  and  were
+largely understood. some physicists suggested that kaluza's original proposal had failed because he
+was unaware of these other forces and had therefore been too conservative in his revamping of space.
+more  forces  meant  the  need  for  even  more  dimensions.  it  was  argued  that  a  single  new,  circular
+dimension,  although  able  to  sh
+ 
+ ___________________________
+ 
+t's accept it. now, we all know that probabilities are
+always numbers between 0 and 1—equivalently, when expressed as percentages, probabilities are
+numbers between 0 and 100. physicists have found that a key signal that a quantum-mechanical theory
+has  gone  haywire  is  that  particular  calculations  yield  "probabilities"  that  are not  within  this
+acceptable  range.  for  instance,  we  mentioned  earlier  that  a  sign  of  the  grinding  incompatibility
+between general relativity and quantum mechanics in a point-particle framework is that calculations
+result in infinite probabilities. as we have discussed, string theory cures these infinities. but what we
+have not as yet mentioned is that a residual, somewhat more subtle problem still remains. in the early
+days of string theory physicists found that certain calculations yielded negative probabilities, which
+are also outside of the acceptable range. so, at first sight, string theory appeared to be awash in its
+own quantum-mechanical hot water
+ 
+ ___________________________
+ 
+ades to come.4
+
+and he even questioned whether string theorists should "be paid by physics departments and allowed
+to pervert impressionable students," warning that string theory was was undermining science, much as
+medieval theology did during the middle ages.5
+
+richard feynman, shortly before he died, made it clear that he did not believe that string theory
+the unique  cure  for  the  problems—the  pernicious  infinities,  in  particular—besetting  a
+
+was 
+harmonious merger of gravity and quantum mechanics:
+
+my feeling has been—and i could be wrong—that there is more than one way to skin a
+cat. i don't think that there's only one way to get rid of the infinities. the fact that a theory
+gets rid of infinities is to me not a sufficient reason to believe its uniqueness.6
+
+and howard georgi, glashow's eminent harvard colleague and collaborator, was also a vociferous
+string critic in the late 1980s:
+
+if  we  allow  ourselves  to  be  beguiled  by  the  siren  call  of  the  "ultimate"  unificatio
+ 
+ ___________________________
+ 
+he possibility that the heavens are dotted with neutron stars and black holes are three
+prominent ideas of precisely this sort—ideas that we now embrace fully but that, at their inception,
+seemed more like musings of science fiction than aspects of science fact.
+
+the motivation for introducing string theory is at least as compelling as any of these three ideas
+—in fact, string theory has been hailed as the most important and exciting development in theoretical
+physics since the discovery of quantum mechanics. this comparison is particularly apt because the
+history of quantum mechanics teaches us that revolutions in physics can easily take many decades to
+reach  maturity.  and  compared  to  today's  string  theorists,  the  physicists  working  out  quantum
+mechanics had a great advantage: quantum mechanics, even when only partially formulated, could
+make  direct  contact  with  experimental  results.  even  so,  it  took  close  to  30  years  for  the  logical
+structure of quantum mechanics to be
+ 
+ ___________________________
+ 
+  but  will  it  be  sufficient  to
+overcome present hurdles and yield definitive, experimentally testable predictions? will the indirect
+tests we have discussed above result in a true smoking gun for string theory? these questions are of
+central concern to all string theorists, but they are also questions about which nothing can really be
+said. only the passage of time will reveal the answers. the beautiful simplicity of string theory, the
+way in which it tames the conflict between gravity and quantum mechanics, its ability to unify all of
+nature's  ingredients,  and  its  potential  of  limitless  predictive  power  all  serve  to  provide  rich
+inspiration that makes the risk worth taking.
+
+these  lofty  considerations  have  been  continually  reinforced  by  the  ability  of  string  theory  to
+uncover  remarkably  new  physical  characteristics  of  a  string-based  universe—characteristics  that
+reveal a subtle and deep coherence in the workings of nature. in the language introduced above, man
+ 
+ ___________________________
+ 
+star, a planet, and down to the size of an orange, a pea, a grain of sand, and further, according
+
+to general relativity, to the size of a molecule, an atom, and in a final inexorable cosmic crunch to no
+size at all. according to conventional theory, the universe began with a bang from an initial state of
+zero size, and if it has enough mass, it will end with a crunch to a similar state of ultimate cosmic
+compression.
+
+but when the distance scales involved are around the planck length or less, quantum mechanics
+invalidates the equations of general relativity, as we are now well aware. we must instead make use
+of  string  theory. and  so,  whereas  einstein's  general  relativity  allows  the  geometrical  form  of  the
+universe  to  get  arbitrarily  small—in  exactly  the  same  way  that  the  mathematics  of  riemannian
+geometry allows an abstract shape to take on as small a size as the intellect can imagine—we are led
+to  ask  how  string  theory  modifies  the  picture. as  we  shall  now  se
+ 
+ ___________________________
+ 
+rom  this  cosmic  "singularity"  by  the  event  horizon  of  the  black  hole,  which  prevents
+anything from escaping its gravitational grip. this reasoning led roger penrose of oxford university
+to speculate on a "cosmic censorship hypothesis" that allows these kinds of spatial irregularities to
+occur only if they are deeply hidden from our view behind the shroud of an event horizon. on the
+other hand, prior to the discovery of string theory, some physicists surmised that a proper merger of
+quantum mechanics and general relativity would show that the apparent puncture of space is actually
+smoothed out—"sewn up," so to speak—by quantum considerations.
+
+with  the  discovery  of  string  theory  and  the  harmonious  merger  of  quantum  mechanics  and
+gravity,  we  are  finally  poised  to  study  these  issues. as  yet,  string  theorists  have  not  been  able  to
+answer  them  fully,  but  during  the  last  few  years  closely  related  issues have  been  solved.  in  this
+chapter  we  discus
+ 
+ ___________________________
+ 
+s aspects of the geometrical degeneration of the spatial fabric.
+you might well ask, what if such a tear should occur, and it just so happens that there are no
+strings in the vicinity to shield it? moreover, you might also be concerned that at the instant in time
+that a tear occurs, a string—an infinitely thin loop—would provide as effective a barrier as shielding
+yourself from a cluster bomb by hiding behind a hula hoop. the resolution to both of these issues
+relies on a central feature of quantum mechanics that we discussed in chapter 4. there we saw that in
+feynman's formulation of quantum mechanics, an object, be it a particle or a string, travels from one
+location to another by "sniffing out" all possible trajectories. the resulting motion that is observed is
+a combination of all possibilities, with the relative contributions of each possible trajectory precisely
+determined by the mathematics of quantum mechanics. should a tear in the fabric of space occur, then
+among the possible trajectories
+ 
+ ___________________________
+ 
+ of travelling strings are those that encircle the tear—trajectories such
+as those in figure 11.6. even if no strings seem to be near the tear when it occurs, quantum mechanics
+takes account of physical effects from all possible string trajectories and among these are numerous
+(infinite, in fact) protective paths that encircle the tear. it is these contributions that witten showed
+precisely to cancel out the cosmic calamity that the tear would otherwise create.
+
+figure  11.6  the  world-sheet  swept  out  by  a  string  provides  a  shield  that  cancels  the  potentially
+cataclysmic effects associated with a tear in the fabric of space.
+
+in january 1993, witten and t
+ 
+ ___________________________
+ 
+rgy  processes  in  string  theory—those
+processes that do not have enough energy to probe the ultramicroscopic, extended nature of the string
+—we can approximate a string by a structureless point particle, using the framework of point-particle
+quantum field theory. we cannot use this approximation when dealing with short-distance or high-
+energy processes because we know that the extended nature of the string is crucial to its ability to
+resolve the conflicts between general relativity and quantum mechanics that a point-particle theory
+cannot. but at low enough energies—large enough distances—these problems are not encountered,
+and such an approximation is often made for the sake of calculational convenience.
+
+the  quantum  field  theory  that  most  closely  approximates  string  theory  in  this  manner  is  none
+other  than  ten-dimensional  supergravity.  the  special  properties  of  ten-dimensional  supergravity
+discovered  in  the  1970s  and  1980s  are  now  understood  to  be  low-e
+ 
+ ___________________________
+ 
+cs  with  sufficient  precision  to  allow  comparisons  with
+experiment. as witten has said, "understanding what m-theory really is—the physics it embodies—
+would  transform  our  understanding  of  nature  at  least  as  radically  as  occurred  in  any  of  the  major
+scientific upheavals of the past."15 this is the program for unification in the twenty-first century.
+
+chapter 13
+
+black holes: a string/m-theory perspective
+
+the pre–string theory conflict between general relativity and quantum mechanics was an affront to
+our visceral sense that the laws of nature should fit together in a seamless, coherent whole. but this
+antagonism  was  more  than  a  towering  abstract  disjunction.  the  extreme  physical  conditions  that
+occurred  at  the  moment  of  the  big  bang  and  that  prevail  within  black  holes cannot  be  understood
+without  a  quantum  mechanical  formulation  of  the  gravitational  force.  with  the  discovery  of  string
+theory, we now have a hope of solving these deep 
+ 
+ ___________________________
+ 
+so
+large  and  heavy  that  quantum  mechanics  is  largely  irrelevant  and  only  the  equations  of  general
+relativity need be used to understand their properties. (we are here discussing the overall structure of
+the black hole, not the singular central point of collapse within a black hole, whose tiny size most
+certainly  requires  a  quantum-mechanical  description.) as  we  try  to  make  ever  less  massive  black
+holes, however, there comes a point when they are so light and small that quantum mechanics does
+comes into play. this happens if the total mass of the black hole is about the planck mass or less.
+(from the point of view of elementary particle physics, the planck mass is huge—some ten billion
+billion times the mass of a proton. from the point of view of black holes, though, the planck mass,
+being equal to that of an average grain of dust, is quite tiny.) and so, physicists who speculated that
+tiny  black  holes  and  elementary  particles  might  be  closely  related  immediately  r
+ 
+ ___________________________
+ 
+hases  of  a  single  theory.
+even after curling up all extra dimensions, the unity of figure 12.11 firmly holds.
+
+black hole entropy
+
+for many years, some of the most accomplished theoretical physicists speculated about the possibility
+of  space-tearing  processes  and  of  a  connection  between  black  holes  and  elementary  particles.
+although such speculations might have sounded like science fiction at first, the discovery of string
+theory, with its ability to merge general relativity and quantum mechanics, has allowed us now to
+plant these possibilities firmly at the forefront of cutting-edge science. this success emboldens us to
+ask  whether  any  of  the  other  mysterious  properties  of  our  universe  that  have  stubbornly  resisted
+resolution for decades might also succumb to the powers of string theory. foremost among these is the
+notion of black hole entropy. this is the arena in which string theory has most impressively flexed its
+muscles, successfully solving a quarter-century-old pro
+ 
+ ___________________________
+ 
+; they supposedly do not emit anything.
+hawking  and  most  everyone  else  agreed  that  this  definitively  ruled  out  bekenstein's  suggestion.
+instead, hawking was willing to accept that if matter carrying entropy is dropped into a black hole,
+this entropy is lost, plain and simple. so much for the second law of thermodynamics.
+
+this  was  the  case  until  hawking,  in  1974,  discovered  something  truly  amazing.  black  holes,
+hawking announced, are not completely black. if one ignores quantum mechanics and invokes only
+the laws of classical general relativity, then as originally found some six decades previously, black
+holes  certainly  do  not  allow  anything—not  even  light—to  escape  their  gravitational  grip.  but  the
+inclusion of quantum mechanics modifies this conclusion in a profound way. even though he was not
+in possession of a quantum-mechanical version of general relativity, hawking was able to finesse a
+partial union of these two theoretical tools that yielded some limite
+ 
+ ___________________________
+ 
+ by
+about 78 zeros! and the more massive the hole, the greater the entropy. the success of hawking's
+calculations  unequivocally  established  that  this  truly  reflects  the  enormous  amount  of  disorder
+embodied by a black hole.
+
+but disorder of what? as we have seen, black holes appear to be terribly simple objects, so
+what  is  the  source  of  this  overwhelming  disorder?  on  this  question,  hawking's  calculations  were
+completely silent. his partial merger of general relativity and quantum mechanics could be used to
+find the numerical value of a black hole's entropy, but offered no insight into its microscopic meaning.
+for nearly a quarter of a century, some of the greatest physicists tried to understand what possible
+microscopic properties of black holes could account for their entropy. but without a fully trustworthy
+amalgam  of  quantum  mechanics  and  general  relativity,  glimpses  of  an  answer  may  have  been
+uncovered, but the mystery remained unsolved.
+
+enter string theory
+
+or,
+ 
+ ___________________________
+ 
+y  principle  undercuts  laplacian  determinism  because  we  fundamentally  cannot  know  the
+precise positions and velocities of the constituents of the universe. instead, these classical properties
+are replaced by quantum wave functions, which tell us only the probability that any given particle is
+here or there, or that it has this or that velocity.
+
+the downfall of laplace's vision, however, does not leave the concept of determinism in total
+ruins. wave functions—the probability waves of quantum mechanics—evolve in time according to
+precise  mathematical  rules,  such  as  the  schrödinger  equation  (or  its  more  precise  relativistic
+counterparts,  such  as  the  dirac  equation  and  the  klein-gordon  equation).  this  informs  us  that
+quantum determinism replaces laplace's classical determinism: knowledge of the wave functions of
+all  of  the  fundamental  ingredients  of  the  universe  at  some  moment  in  time  allows  a  "vast  enough"
+intelligence to determine the wave functions
+ 
+ ___________________________
+ 
+that tenuously attaches to ours only at a black hole's center. roughly speaking,
+where time in our universe comes to an end, time in the attached universe just begins.
+
+we will take up some of the implications of this mind-boggling possibility in the next chapter,
+
+but for now we want to stress one important point. we must recall the central lesson: extremes of
+huge mass and small size leading to unimaginably large density invalidate the sole use of einstein's
+classical theory and require that quantum mechanics be brought to bear as well. this leads us to ask,
+what does string theory have to say about the spacetime singularity at the center of a black hole? this
+is a topic of intense current research, but as with the question of information loss, it has not yet been
+settled. string theory deftly deals with a variety of other singularities—the rips and tears in space
+discussed in chapter 11 and in the first part of this chapter. 15 but if you have seen one singularity you
+have not  seen  them  all.  
+ 
+ ___________________________
+ 
+ for  the  rationale—the  principle—that  drives  its  evolution.  the
+astounding  thing  is  that  humanity  has  now  come  to  a  point  where  a  framework  is  emerging  for
+answering some of these questions scientifically.
+
+the currently accepted scientific theory of creation declares that the universe experienced the
+most  extreme  of  conditions—enormous  energy,  temperature,  and  density—during  its  earliest
+moments. these conditions, as is by now familiar, require that both quantum mechanics and gravity be
+taken into account, and hence the birth of the universe provides a profound arena for exercising the
+insights  of  superstring  theory.  we  will  discuss  these  nascent  insights  shortly,  but  first,  we  briefly
+recount the pre–string theory cosmological story, which is often referred to as the standard model of
+cosmology.
+
+the standard model of cosmology
+
+the modern theory of cosmic origins dates from the decade and a half after einstein's completion of
+general relativity
+ 
+ ___________________________
+ 
+he universe continues to get ever smaller, ever hotter, and ever denser, as we move backward in
+time toward the bang. at time zero, as the size of the universe vanishes, the temperature and density
+soar to infinity, giving us the most extreme signal that this theoretical model of the universe, firmly
+rooted in the classical gravitational framework of general relativity, has completely broken down.
+
+nature is telling us emphatically that under such conditions we must merge general relativity and
+quantum mechanics—in other words, we must make use of string theory. currently, research on the
+implications of string theory for cosmology is at an early stage of development. perturbative methods
+can,  at  best,  give  skeletal  insights,  since  the  extremes  of  energy,  temperature,  and  density  require
+precision  analysis. although  the  second  superstring  revolution  has  provided  some  nonperturbative
+techniques,  it  will  be  some  time  before  they  are  honed  for  the  kinds  of  calculatio
+ 
+ ___________________________
+ 
+what  the  more
+complete framework for incorporating space and time may involve.
+
+finding the correct mathematical apparatus for formulating string theory without recourse to a
+pre-existing notion of space and time is one of the most important issues facing string theorists. an
+understanding  of  how  space  and  time  emerge  would  take  us  a  huge  step  closer  to  answering  the
+crucial question of which geometrical form actually does emerge.
+
+will string theory lead to a reformulation of quantum mechanics?
+
+the universe is governed by the principles of quantum mechanics to fantastic accuracy. even so, in
+formulating theories over the past half century, physicists have followed a strategy that, structurally
+speaking,  places  quantum  mechanics  in  a  somewhat  secondary  position.  in  devising  theories,
+physicists often start by working in a purely classical language that ignores quantum probabilities,
+wave functions, and so forth—a language that would be perfectly intelligible to physicist
+ 
+ ___________________________
+ 
+are directly incorporated. in
+
+fact,  in  chapter  12  we  have  seen  this  procedure  in  action:  the  loop  processes  (see  figure  12.6)
+incorporate quantum concepts—in this case, the momentary quantum-mechanical creation of virtual
+string  pairs—with  the  number  of  loops  determining  the  precision  with  which  quantum-mechanical
+effects are accounted for.
+
+the strategy of beginning with a theoretical description that is classical and then subsequently
+including the features of quantum mechanics has been extremely fruitful for many years. it underlies,
+for example, the standard model of particle physics. but it is possible, and there is growing evidence
+that it is likely, that this method is too conservative for dealing with theories that are as far-reaching
+as string theory and m-theory. the reason is that once we realize that the universe is governed by
+quantum-mechanical principles, our theories really should be quantum mechanical from the start. we
+have successfully gotten away wit
+ 
+ ___________________________
+ 
+sing will at first appear to have little to do with the original description, but, in
+fact,  this  is  simply  the  power  of  duality  at  work:  through  duality,  one  physical  process  can  be
+described in a number of vastly different ways. these results are both subtle and remarkable, but we
+have not yet mentioned what may well be their most important feature.
+
+that 
+
+the duality translations often take a process, described in one of the five string theories, that is
+strongly dependent on quantum mechanics (for example, a process involving string interactions that
+would  not  happen  if  the  world  were  governed  by  classical,  as  opposed  to  quantum,  physics)  and
+reformulate it as a process that is weakly dependent on quantum mechanics from the perspective of
+one  of  the  other  string  theories  (for  example,  a  process  whose  detailed  numerical  properties  are
+influenced by quantum considerations but whose qualitative form is similar to what it would be in a
+purely  classical  wor
+ 
+ ___________________________
+ 
+roughly  intertwined  within  the
+string/m-theory:  they  are inherently  quantum-mechanical
+duality 
+symmetries, since one of the dual descriptions is strongly influenced by quantum considerations. this
+indicates  forcefully 
+that
+fundamentally  incorporates  the  newfound  duality  symmetries—cannot  begin  classically  and  then
+undergo  quantization,  in  the  traditional  mold.  a  classical  starting  point  will  necessarily  omit  the
+duality symmetries, since they hold true only when quantum mechanics is taken into account. rather, it
+appears that the complete formulation of string/m-theory must break the traditional mold and spring
+into existence as a full-fledged quantum-mechanical theory.
+
+the  complete  formulation  of  string/m-theory—a  formulation 
+
+symmetries  underlying 
+
+currently, no one knows how to do this. but many string theorists foresee a reformulation of how
+quantum principles are incorporated into our theoretical description of the universe as the next major
+upheaval in 
+ 
+ ___________________________
+ 
+our understanding. for example, as cumrun vafa has said, "i think that a reformulation of
+quantum mechanics which will resolve many of its puzzles is just around the corner. i think many
+share the view that the recently uncovered dualities point toward a new, more geometrical framework
+for  quantum  mechanics,  in  which  space,  time,  and  quantum  properties  will  be  inseparably  joined
+together."5 and according to edward witten, "i believe the logical status of quantum mechanics is
+going to change in a manner that is similar to the way that the logical status of gravity changed when
+
+einstein  discovered  the  equivalence  principle.  this  process  is  far  from  complete  with  quantum
+mechanics, but i think that people will one day look back on our epoch as the period when it began."6
+with guarded optimism, we can envision that a reframing of the principles of quantum mechanics
+within string theory may yield a more powerful formalism that is capable of giving us an
+ 
+ ___________________________
+ 
+
+calculate the masses of the quarks or the strength of the electromagnetic force, numbers whose precise
+values dictate so much about the universe? as in the previous sections, we will have to surmount
+numerous theoretical hurdles on the way to these goals—currently, the most prominent is achieving a
+full nonperturbative formulation of string/m-theory.
+
+but is it possible that even if we had an exact understanding of string/-m-theory, framed within a
+new and far more transparent formulation of quantum mechanics, we could still fail in our quest to
+calculate  particle  masses  and  force  strength?  is  it  possible  that  we  would  still  have  to  resort  to
+experimental  measurements,  rather  than  theoretical  calculations,  for  their  values? and,  moreover,
+might it be that this failing does not mean that we need to look for an even deeper theory, but simply
+reflects that there is no explanation for these observed properties of reality?
+
+one immediate answer to all these questions is yes. as e
+ 
+ ___________________________
+ 
+eak, and electromagnetic forces has finally emerged.
+and  the  challenges  these  developments  pose  to  our  previous  way  of  seeing  the  world  are
+monumental: loops of strings and oscillating globules, uniting all of creation into vibrational patterns
+that are meticulously executed in a universe with numerous hidden dimensions capable of undergoing
+extreme contortions in which their spatial fabric tears apart and then repairs itself. who could have
+guessed that the merging of gravity and quantum mechanics into a unified theory of all matter and all
+forces would yield such a revolution in our understanding of how the universe works?
+
+no  doubt,  there  are  even  grander  surprises  in  store  for  us  as  we  continue  to  seek  a  full  and
+calculationally tractable understanding of superstring theory. already, through studies in m-theory,
+we have seen glimpses of a strange new domain of the universe lurking beneath the planck length,
+possibly one in which there is no notion of time or space. a
+ 
+ ___________________________
+ 
+tribution  (according  to  nineteenth-century  thermodynamics)  are
+exponentially suppressed. this suppression is increasingly sharp as we examine waves of ever larger
+frequency.
+
+4. planck's constant is 1.05 × 10-27 grams-centimeters2/second.
+5. timothy ferris, coming of age in the milky way (new york: anchor, 1989), p. 286.
+6. stephen hawking, lecture at the amsterdam symposium on gravity, black holes, and string
+
+theory, june 21, 1997.
+
+7. it is worthwhile to note that feynman's approach to quantum mechanics can be used to derive
+the  approach  based  on  wave  functions,  and  vice  versa;  the  two  approaches,  therefore,  are  fully
+equivalent.  nevertheless,  the  concepts,  the  language,  and  the  interpretation  that  each  approach
+emphasizes are rather different, even though the answers each gives are absolutely identical.
+
+8.  richard  feynman, qed:  the  strange  theory  of  light  and  matter  (princeton:  princeton
+
+university press, 1988).
+
+chapter 5
+
+1. stephen hawking, a brief his
+ 
+ ___________________________
+ 
+act symbols must be tied to physical features of the world if the theory is to make
+contact with reality. in particular, we must introduce a system of units so that if a symbol, say, is
+meant  to  refer  to  a  length,  we  have  a  scale  by  which  its  value  can  be  interpreted.  after  all,  if
+equations  show  that  the  length  in  question  is  5,  we  need  to  know  if  that  means  5  centimeters,  5
+kilometers, or 5 light years, etc. in a theory that involves general relativity and quantum mechanics, a
+choice of units emerges naturally, in the following way. there are two constants of nature upon which
+general  relativity  depends:  the  speed  of  light, c,  and  newton's  gravitation  constant, g.  quantum
+. by examining the units of these constants (e.g., c is a
+mechanics depends on one constant of nature 
+velocity, so is expressed as distance divided by time, etc.), one can see that the combination  g/c3
+has the units of a length; in fact, it is 1.616 × 10-33 centimeters. this is the 
+ 
+ ___________________________
+ 
+me dependence: in this case, "rotating" the quark
+colors differently at different locations in space and moments in time.
+
+6. during the development of the quantum theories of the three nongravitational forces, physicists
+also  came  upon  calculations  that  gave  infinite  results.  in  time,  though,  they  gradually  realized  that
+these  infinities  could  be  done  away  with  through  a  tool  known  as renormalization.  the  infinities
+arising in attempts to merge general relativity and quantum mechanics are far more severe and are not
+amenable  to  the  renormalization  cure.  even  more  recently,  physicists  have  realized  that  infinite
+answers are a signal that a theory is being used to analyze a realm that is beyond the bounds of its
+applicability. since the goal of current research is to find a theory whose range of applicability is, in
+principle,  unbounded—the  "ultimate"  or  "final"  theory—physicists  want  to  find  a  theory  in  which
+infinite answers do not crop up, regard
+ 
+ ___________________________
+ 
+less of how extreme the physical system being analyzed might
+be.
+
+involves gravitational and spacetime inputs (g and c) and has a quantum mechanical dependence ( )
+as well, it sets the scale for measurements—the natural unit of length—in any theory that attempts to
+merge general relativity and quantum mechanics. when we use the term "planck length" in the text, it
+is often meant in an approximate sense, indicating a length that is within a few orders of magnitude of
+10–33 centimeters.
+
+8. currently, in addition to string theory, two other approaches for merging general relativity and
+quantum mechanics are being pursued vigorously. one approach is led by roger penrose of oxford
+university and is known as twistor theory. the other approach—inspired in part by penrose's work
+—is  led  by abhay asht
+ 
+ ___________________________
+ 
+ekar  of  pennsylvania  state  university  and  is  known  as  the new  variables
+method. although these other approaches will not be discussed further in this book, there is growing
+speculation  that  they  may  have  a  deep  connection  to  string  theory  and  that  possibly,  together  with
+string theory, all three approaches are honing in on the same solution for merging general relativity
+and quantum mechanics.
+
+chapter 6
+
+1. the expert reader will recognize that this chapter focuses solely on perturbative string theory;
+
+nonperturbative aspects are discussed in chapters 12 and 13.
+
+2. interview with john schwarz, december 23, 1997.
+3. similar suggestions were made independently by tamiaki yoneya and by korkut bardakci
+and  martin  halpern.  the  swedish  physicist  lars  brink  also  contributed  significantly  to  the  early
+development of string theory.
+
+4. interview with john schwarz, december 23
+ 
+ ___________________________
+ 
+l
+weight  determined  by  feynman).  in  figures  6.6  and  6.7  we  show one  of  the  infinite  number  of
+possible trajectories followed by point particles (figure 6.6) or by strings (figure 6.7) taking them
+from their initial positions to their final destinations. the discussion in this section, however, applies
+equally  well  to  any  of  the  other  possible  trajectories  and  therefore  applies  to  the  whole  quantum-
+mechanical process itself. (feynman's formulation of point-particle quantum mechanics in the sum-
+over-paths framework was generalized to string theory through the work of stanley mandelstam of the
+university of california at berkeley and by the russian physicist alexander polyakov, who is now on
+the faculty of the physics department of princeton university.)
+
+chapter 7
+
+3. the discovery and development of supersymmetry has a complicated history. in addition to
+those  cited  in  the  text,  essential  early  contributions  were  made  by  r.  haag,  m.  sohnius,  j.  t.
+lopuszan
+ 
+ ___________________________
+ 
+rough  work  that  ultimately  has  played  a  pivotal  part  in  the
+second  superstring  revolution,  in  1989  joe  polchinski  from  the  university  of  california  at  santa
+barbara  and  two  of  his  students,  jian-hui  dai  and  robert  leigh,  showed  how  open  strings  fit
+perfectly into the conclusions we find in this chapter.
+
+2. in case you are wondering why the possible uniform vibrational energies are whole number
+multiples of 1/r, you need only think back to the discussion of quantum mechanics—the warehouse in
+particular—from  chapter  4.  there  we  learned  that  quantum  mechanics  implies  that  energy,  like
+money,  comes  in  discrete  lumps:  whole  number  multiples  of  various  energy  denominations.  in  the
+case of uniform vibrational string motion in the garden-hose universe, this energy denomination is
+precisely  1/r,  as  we  demonstrated  in  the  text  using  the  uncertainty  principle.  thus  the  uniform
+vibrational energies are whole number multiples of 1/r.
+
+ 
+ ___________________________
+ 
+e  precisely,  these  are  examples  of extremal  black  holes:  black  holes  that  have  the
+minimum mass consistent with the force charges they carry, just like the bps states in chapter 12.
+similar black holes will also play a pivotal role in the following discussion on black hole entropy.
+
+3. the radiation emitted from a black hole should be just like that emitted from a hot oven—the
+very problem, discussed at the outset of chapter 4, that played such a pivotal role in the development
+of quantum mechanics.
+
+4.  it  turns  out  that  because  the  black  holes  involved  in  space-tearing  conifold  transitions  are
+
+extremal, they do not hawking radiate, regardless of how light they become.
+
+5. stephen hawking, lecture at amsterdam symposium on gravity, black holes, and strings,
+
+june 21, 1996.
+
+6. in their initial calculation, strominger and vafa found that the mathematics was made easier
+by working with five—not four—extended spacetime dimensions. surprisingly, after completing their
+calcu
+ 
+ ___________________________
+ 
+s from the heterotic-e string theory.
+higher-dimensional  supergravity.  class  of supergravity  theories  in  more  than  four spacetime
+dimensions.
+horizon problem. cosmological puzzle associated with the fact that regions of the universe that are
+separated  by  vast  distances  nevertheless  have  nearly  identical  properties  such  as  temperature.
+inflationary cosmology offers a solution.
+infinities. typical nonsensical answer emerging from calculations that involve general relativity and
+quantum mechanics in a point-particle framework.
+inflation, inflationary cosmology.  modification  to  the  earliest  moments  of  the  standard big  bang
+cosmology in which universe undergoes a brief burst of enormous expansion.
+initial conditions. data describing the beginning state of a physical system.
+interference pattern. wave pattern that emerges from the overlap and the intermingling of waves
+emitted from different locations.
+kaluza-klein  theory.  class  of  theories  incorporating  extra curled-up  dim
+ 
+ ___________________________
+ 
+ensions,  together  with
+quantum mechanics.
+kelvin. a temperature scale in which temperatures are quoted relative to absolute zero.
+klein-gordon equation. a fundamental equation of relativistic quantum field theory.
+laplacian determinism. clockwork conception of the universe in which complete knowledge of the
+state of the universe at one moment completely determines its state at all future and past moments.
+light clock. a hypothetical clock that measures elapsed time by counting the number of round-trip
+journeys completed by a single ph
+ 
+ ___________________________
+ 
+ the scale below which quantum fluctuations in the fabric of
+spacetime would become enormous. the size of a typical string in string theory.
+planck  mass.  about  ten  billion  billion  times  the  mass  of  a proton;  about  one-hundredth  of  a
+thousandth  of  a  gram;  about  the  mass  of  a  small  grain  of  dust.  the  typical  mass  equivalent  of  a
+vibrating string in string theory.
+planck's  constant.  denoted  by  the  symbol h,  planck's  constant  is  a  fundamental  parameter  in
+quantum mechanics. it determines the size of the discrete units of energy, mass, spin, etc. into which
+the microscopic world is partitioned. its value is 1.05 × 10-27 grams-cm/sec.
+planck tension. about 1039 tons. the tension on a typical string in string theory.
+planck time. about 10-43 seconds. time at which the size of the universe was roughly the planck
+length; more precisely, time it takes light to travel the planck length.
+primordial nucleosynthesis. production of atomic nuclei occurring during the first 
+ 
+ ___________________________
+ 
+cal set of physical laws and that, therefore, every constant-velocity
+observer is justified in claiming that he or she is at rest. this principle is generalized by the principle
+of equivalence.
+product. the result of multiplying two numbers.
+proton.  positively  charged  particle,  typically  found  in  the  nucleus  of  an atom,  consisting  of  three
+quarks (two up-quarks and one down-quark).
+quanta. the smallest physical units into which something can be partitioned, according to the laws
+of quantum mechanics. for instance, photons are the quanta of the electromagnetic field.
+
+quantum  chromodynamics  (qcd).  relativistic  quantum  field  theory  of  the strong  force  and
+quarks, incorporating special relativity.
+quantum claustrophobia. see quantum fluctuations.
+quantum determinism.  property  of quantum mechanics  that  knowledge  of  the  quantum  state  of  a
+system at one moment completely determines its quantum state at future and past moments. knowledge
+of the quantum state, however, determi
+ 
+ ___________________________
+ 
+ior of a system on microscopic scales due to the uncertainty
+principle.
+quantum foam. see spacetime foam.
+quantum  geometry.  modification  of riemannian  geometry  required  to  describe  accurately  the
+physics of space on ultramicroscopic scales, where quantum effects become important.
+quantum gravity. a  theory  that  successfully  mergers quantum  mechanics  and general  relativity,
+possibly involving modifications of one or both. string theory is an example of a theory of quantum
+gravity.
+quantum mechanics. framework of laws governing the universe whose unfamiliar features such as
+uncertainty,  quantum  fluctuations,  and wave-particle  duality  become  most  apparent  on  the
+microscopic scales of atoms and subnuclear particles.
+quantum tunneling. feature of quantum mechanics showing that objects can pass through barriers
+that should be impenetrable according to newton's classical laws of physics.
+quark. a particle that is acted upon by the strong force. quarks exist in six varieties (up, down,
+
+ 
+ ___________________________
+ 
+g flop transition. see flop transition.
+spacetime. a union of space and time originally emerging from special relativity. can be viewed as
+the "fabric" out of which the universe is fashioned; it constitutes the dynamical arena within which the
+events of the universe take place.
+spacetime foam. frothy, writhing, tumultuous character of the spacetime fabric on ultramicroscopic
+scales,  according  to  a  conventional  point-particle  perspective.  an  essential  reason  for  the
+incompatibility of quantum mechanics and general relativity prior to string theory.
+special  relativity.  einstein's  laws  of  space  and  time  in  the  absence  of  gravity  (see  also general
+relativity).
+sphere.  the  outer  surface  of  a  ball.  the  surface  of  a  familiar  three-dimensional  ball  has  two
+dimensions  (which  can  be  labeled  by  two  numbers  such  as  "latitude"  and  "longitude,"  as  on  the
+surface of the earth). the concept of a sphere, though, applies more generally to balls and hence their
+surfa
+ 
+ ___________________________
+ 
+y  such  equations  are  not  understood  well  enough  to  yield  any
+useful information. coupling constants less than 1 imply that perturbative methods are valid.
+string mode. a possible configuration (vibrational pattern, winding configuration) that a string can
+assume.
+string theory. unified theory of the universe postulating that fundamental ingredients of nature are
+
+not zero-dimensional point particles but tiny one-dimensional filaments called strings. string theory
+harmoniously  unites quantum mechanics  and general relativity,  the  previously  known  laws  of  the
+small and the large, that are otherwise incompatible. often short for superstring theory.
+strong  force,  strong  nuclear  force.  strongest  of  the  four  fundamental  forces,  responsible  for
+keeping quarks locked inside protons  and neutrons and for keeping protons and neutrons crammed
+inside of atomic nuclei.
+strong force symmetry. gauge symmetry underlying the strong force, associated with invariance of
+a physical system und
+ 
+ ___________________________
+ 
+ne of the five superstring theories; involves both open and closed strings.
+type iia string theory.  one of the five superstring theories; involves closed strings with left-right
+symmetric vibrational patterns.
+type iib string theory. one of the five superstring theories; involves closed strings with left-right
+asymmetric vibrational patterns.
+ultramicroscopic. length scales shorter than the planck length (and also time scales shorter than the
+planck time).
+uncertainty principle.  principle  of quantum mechanics,  discovered  by  heisenberg,  that  there  are
+features  of  the  universe,  like  the  position  and velocity  of  a  particle,  that  cannot  be  known  with
+complete precision. such uncertain aspects of the microscopic world become ever more severe as the
+distance  and  time  scales  on  which  they  are  considered  become  ever  smaller.  particles  and  fields
+undulate and jump between all possible values consistent with the quantum uncertainty. this implies
+that the microscopic realm is
+ 
+ ___________________________
+ 
+ as well as their amplitude as a string
+oscillates.
+vibration  number.   whole  number  describing  the  energy  in  the uniform  vibrational  motion  of  a
+string; the energy in its overall motion as opposed to that associated with changes in its shape.
+virtual particles. particles that erupt from the vacuum momentarily; they exist on borrowed energy,
+consistent with the uncertainty principle, and rapidly annihilate, thereby repaying the energy loan.
+wave function. probability waves upon which quantum mechanics is founded.
+wavelength. the distance between successive peaks or troughs of a wave.
+wave-particle duality. basic feature of quantum mechanics that objects manifest both wavelike and
+particle-like properties.
+w bosons. see weak gauge boson.
+
+weak force, weak nuclear force.  one  of  the  four  fundamental  forces,  best  known  for  mediating
+radioactive decay.
+weak gauge boson. smallest bundle of the weak force field; messenger particle of the weak force;
+called w or z boson.
+weak gauge symmet

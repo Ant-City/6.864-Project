@@ -1,0 +1,735 @@
+the tragedy of romeo and juliet
+
+by william shakespeare
+
+
+
+dramatis personae
+
+  chorus.
+
+
+  escalus, prince of verona.
+
+  paris, a young count, kinsman to the prince.
+
+  montague, heads of two houses at variance with each other.
+
+  capulet, heads of two houses at variance with each other.
+
+  an old man, of the capulet family.
+
+  romeo, son to montague.
+
+  tybalt, nephew to lady capulet.
+
+  mercutio, kinsman to the prince and friend to romeo.
+
+  benvolio, nephew to montague, and friend to romeo
+
+  tybalt, nephew to lady capulet.
+
+  friar laurence, franciscan.
+
+  friar john, franciscan.
+
+  balthasar, servant to romeo.
+
+  abram, servant to montague.
+
+  sampson, servant to capulet.
+
+  gregory, servant to capulet.
+
+  peter, servant to juliet's nurse.
+
+  an apothecary.
+
+  three musicians.
+
+  an officer.
+
+
+  lady montague, wife to montague.
+
+  lady capulet, wife to capulet.
+
+  juliet, daughter to capulet.
+
+  nurse to juliet.
+
+
+  citizen
+ 
+ ___________________________
+ 
+                [exit.]
+
+
+
+
+act i. scene i.
+verona. a public place.
+
+enter sampson and gregory (with swords and bucklers) of the house
+of capulet.
+
+
+  samp. gregory, on my word, we'll not carry coals.
+
+  greg. no, for then we should be colliers.
+
+  samp. i mean, an we be in choler, we'll draw.
+
+  greg. ay, while you live, draw your neck out of collar.
+
+  samp. i strike quickly, being moved.
+
+  greg. but thou art not quickly moved to strike.
+
+  samp. a dog of the house of montague moves me.
+
+  greg. to move is to stir, and to be valiant is to stand.
+    therefore, if thou art moved, thou runn'st away.
+
+  samp. a dog of that house shall move me to stand. i will take
+    the wall of any man or maid of montague's.
+
+  greg. that shows thee a weak slave; for the weakest goes to the
+    wall.
+
+  samp. 'tis true; and therefore women, being the weaker vessels,
+    are ever thrust to the wall. therefore i will push montague's men
+    from the wall and thrust his maid
+ 
+ ___________________________
+ 
+men, i will be cruel with the maids- i will cut off
+    their heads.
+
+  greg. the heads of the maids?
+
+  samp. ay, the heads of the maids, or their maidenheads.
+    take it in what sense thou wilt.
+
+  greg. they must take it in sense that feel it.
+
+  samp. me they shall feel while i am able to stand; and 'tis known i
+    am a pretty piece of flesh.
+
+  greg. 'tis well thou art not fish; if thou hadst, thou hadst
+    been poor-john. draw thy tool! here comes two of the house of
+    montagues.
+
+           enter two other servingmen [abram and balthasar].
+
+
+  samp. my naked weapon is out. quarrel! i will back thee.
+
+  greg. how? turn thy back and run?
+
+  samp. fear me not.
+
+  greg. no, marry. i fear thee!
+
+  samp. let us take the law of our sides; let them begin.
+
+  greg. i will frown as i pass by, and let them take it as they list.
+
+  samp. nay, as they dare. i will bite my thumb at them; which is
+    disgrace to them, if they bear it.
+
+  abr. do you bite your t
+ 
+ ___________________________
+ 
+
+                                                     they fight.
+
+  ben. part, fools! [beats down their swords.]
+    put up your swords. you know not what you do.
+
+                          enter tybalt.
+
+
+  tyb. what, art thou drawn among these heartless hinds?
+    turn thee benvolio! look upon thy death.
+
+  ben. i do but keep the peace. put up thy sword,
+    or manage it to part these men with me.
+
+  tyb. what, drawn, and talk of peace? i hate the word
+    as i hate hell, all montagues, and thee.
+    have at thee, coward!                            they fight.
+
+     enter an officer, and three or four citizens with clubs or
+                          partisans.
+
+
+  officer. clubs, bills, and partisans! strike! beat them down!
+
+  citizens. down with the capulets! down with the montagues!
+
+           enter old capulet in his gown, and his wife.
+
+
+  cap. what noise is this? give me my long sword, ho!
+
+  wife. a crutch, a crutch! why call you for a sword?
+
+  cap
+ 
+ ___________________________
+ 
+. my sword, i say! old montague is come
+    and flourishes his blade in spite of me.
+
+                 enter old montague and his wife.
+
+
+  mon. thou villain capulet!- hold me not, let me go.
+
+  m. wife. thou shalt not stir one foot to seek a foe.
+
+                enter prince escalus, with his train.
+
+
+  prince. rebellious subjects, enemies to peace,
+    profaners of this neighbour-stained steel-
+    will they not hear? what, ho! you men, you beasts,
+    that quench the fire of your pernicious rage
+    with purple fountains issuing from your veins!
+    on pain of torture, from those bloody hands
+ 
+ 
+ ___________________________
+ 
+   throw your mistempered weapons to the ground
+    and hear the sentence of your moved prince.
+    three civil brawls, bred of an airy word
+    by thee, old capulet, and montague,
+    have thrice disturb'd the quiet of our streets
+    and made verona's ancient citizens
+    cast by their grave beseeming ornaments
+    to wield old partisans, in hands as old,
+    cank'red with peace, to part your cank'red hate.
+    if ever you disturb our streets again,
+    your lives shall pay the forfeit of the peace.
+    for this time all the rest depart away.
+    you, capulet, shall go along with me;
+    and, montague, come you this afternoon,
+    to know our farther pleasur
+ 
+ ___________________________
+ 
+e in this case,
+    to old freetown, our common judgment place.
+    once more, on pain of death, all men depart.
+              exeunt [all but montague, his wife, and benvolio].
+
+  mon. who set this ancient quarrel new abroach?
+    speak, nephew, were you by when it began?
+
+  ben. here were the servants of your adversary
+    and yours, close fighting ere i did approach.
+    i drew to part them. in the instant came
+    the fiery tybalt, with his sword prepar'd;
+    which, as he breath'd defiance to my ears,
+    he swung about his head and cut the winds,
+    who, nothing hurt withal, hiss'd him in scorn.
+    while we were interchangi
+ 
+ ___________________________
+ 
+an envious worm
+    ere he can spread his sweet leaves to the air
+    or dedicate his beauty to the sun.
+    could we but learn from whence his sorrows grow,
+    we would as willingly give cure as know.
+
+                       enter romeo.
+
+
+  ben. see, where he comes. so please you step aside,
+    i'll know his grievance, or be much denied.
+
+  mon. i would thou wert so happy by thy stay
+    to hear true shrift. come, madam, let's away,
+                                     exeunt [montague and wife].
+
+  ben. good morrow, cousin.
+
+  rom. is the day so young?
+
+  ben. but new struck nine.
+
+  rom. ay me! sad hours seem long.
+    was that my father that went hence so fast?
+
+  ben. it was. what sadness lengthens romeo's hours?
+
+  rom. not having that which having makes them short.
+
+  ben. in love?
+
+  rom. out-
+
+  ben. of love?
+
+  rom. out of her favour where i am in love.
+
+  ben. alas that love, so gentle in his view,
+    should be so tyrannous and rough in proo
+ 
+ ___________________________
+ 
+ack puts us in mind they hide the fair.
+    he that is strucken blind cannot forget
+    the precious treasure of his eyesight lost.
+    show me a mistress that is passing fair,
+    what doth her beauty serve but as a note
+    where i may read who pass'd that passing fair?
+    farewell. thou canst not teach me to forget.
+
+  ben. i'll pay that doctrine, or else die in debt.      exeunt.
+
+
+
+
+scene ii.
+a street.
+
+enter capulet, county paris, and [servant] -the clown.
+
+
+  cap. but montague is bound as well as i,
+    in penalty alike; and 'tis not hard, i think,
+    for men so old as we to keep the peace.
+
+  par. of honourable reckoning are you both,
+    and pity 'tis you liv'd at odds so long.
+    but now, my lord, what say you to my suit?
+
+  cap. but saying o'er what i have said before:
+    my child is yet a stranger in the world,
+    she hath not seen the change of fourteen years;
+    let two more summers wither in their pride
+    ere we may think her ripe to be a b
+ 
+ ___________________________
+ 
+rs;
+      my fair niece rosaline and livia;
+      signior valentio and his cousin tybalt;
+      lucio and the lively helena.'
+
+    [gives back the paper.] a fair assembly. whither should they
+    come?
+
+  serv. up.
+
+  rom. whither?
+
+  serv. to supper, to our house.
+
+  rom. whose house?
+
+  serv. my master's.
+
+  rom. indeed i should have ask'd you that before.
+
+  serv. now i'll tell you without asking. my master is the great
+    rich capulet; and if you be not of the house of montagues, i pray
+    come and crush a cup of wine. rest you merry!               exit.
+
+  ben. at this same ancient feast of capulet's
+    sups the fair rosaline whom thou so lov'st;
+    with all the admired beauties of verona.
+    go thither, and with unattainted eye
+    compare her face with some that i shall show,
+    and i will make thee think thy swan a crow.
+
+  rom. when the devout religion of mine eye
+    maintains such falsehood, then turn tears to fires;
+    and these, who, often d
+ 
+ ___________________________
+ 
+s to burn bright!
+    it seems she hangs upon the cheek of night
+    like a rich jewel in an ethiop's ear-
+    beauty too rich for use, for earth too dear!
+    so shows a snowy dove trooping with crows
+    as yonder lady o'er her fellows shows.
+    the measure done, i'll watch her place of stand
+    and, touching hers, make blessed my rude hand.
+    did my heart love till now? forswear it, sight!
+    for i ne'er saw true beauty till this night.
+
+  tyb. this, by his voice, should be a montague.
+    fetch me my rapier, boy. what, dares the slave
+    come hither, cover'd with an antic face,
+    to fleer and scorn at our solemnity?
+    now, by the stock and honour of my kin,
+    to strike him dead i hold it not a sin.
+
+  cap. why, how now, kinsman? wherefore storm you so?
+
+  tyb. uncle, this is a montague, our foe;
+    a villain, that is hither come in spite
+    to scorn at our solemnity this night.
+
+  cap. young romeo is it?
+
+  tyb. 'tis he, that villain romeo.
+
+  cap.
+ 
+ ___________________________
+ 
+i'll to my rest.
+                              exeunt [all but juliet and nurse].
+
+  jul. come hither, nurse. what is yond gentleman?
+
+  nurse. the son and heir of old tiberio.
+
+  jul. what's he that now is going out of door?
+
+  nurse. marry, that, i think, be young petruchio.
+
+  jul. what's he that follows there, that would not dance?
+
+  nurse. i know not.
+
+  jul. go ask his name.- if he be married,
+    my grave is like to be my wedding bed.
+
+  nurse. his name is romeo, and a montague,
+    the only son of your great enemy.
+
+  jul. my only love, sprung from my only hate!
+    too early seen unknown, and known too late!
+    prodigious birth of love it is to me
+    that i must love a loathed enemy.
+
+  nurse. what's this? what's this?
+
+  jul. a rhyme i learnt even now
+    of one i danc'd withal.
+                                     one calls within, 'juliet.'
+
+  nurse. anon, anon!
+    come, let's away; the strangers all are gone.        exeunt.
+
+
+
+
+prologue
+
+ 
+ ___________________________
+ 
+ unto the white-upturned wond'ring eyes
+    of mortals that fall back to gaze on him
+    when he bestrides the lazy-pacing clouds
+    and sails upon the bosom of the air.
+
+  jul. o romeo, romeo! wherefore art thou romeo?
+    deny thy father and refuse thy name!
+    or, if thou wilt not, be but sworn my love,
+    and i'll no longer be a capulet.
+
+  rom. [aside] shall i hear more, or shall i speak at this?
+
+  jul. 'tis but thy name that is my enemy.
+    thou art thyself, though not a montague.
+    what's montague? it is nor hand, nor foot,
+    nor arm, nor face, nor any other part
+    belonging to a man. o, be some other name!
+    what's in a name? that which we call a rose
+    by any other name would smell as sweet.
+    so romeo would, were he not romeo call'd,
+    retain that dear perfection which he owes
+    without that title. romeo, doff thy name;
+    and for that name, which is no part of thee,
+    take all myself.
+
+  rom. i take thee at thy word.
+    call me but 
+ 
+ ___________________________
+ 
+love, and i'll be new baptiz'd;
+    henceforth i never will be romeo.
+
+  jul. what man art thou that, thus bescreen'd in night,
+    so stumblest on my counsel?
+
+  rom. by a name
+    i know not how to tell thee who i am.
+    my name, dear saint, is hateful to myself,
+    because it is an enemy to thee.
+    had i it written, i would tear the word.
+
+  jul. my ears have yet not drunk a hundred words
+    of that tongue's utterance, yet i know the sound.
+    art thou not romeo, and a montague?
+
+  rom. neither, fair saint, if either thee dislike.
+
+  jul. how cam'st thou hither, tell me, and wherefore?
+    the orchard walls are high and hard to climb,
+    and the place death, considering who thou art,
+    if any of my kinsmen find thee here.
+
+  rom. with love's light wings did i o'erperch these walls;
+    for stony limits cannot hold love out,
+    and what love can do, that dares love attempt.
+    therefore thy kinsmen are no let to me.
+
+  jul. if they do see thee, they 
+ 
+ ___________________________
+ 
+ dwell on form- fain, fain deny
+    what i have spoke; but farewell compliment!
+    dost thou love me, i know thou wilt say 'ay';
+    and i will take thy word. yet, if thou swear'st,
+    thou mayst prove false. at lovers' perjuries,
+    they say jove laughs. o gentle romeo,
+    if thou dost love, pronounce it faithfully.
+    or if thou thinkest i am too quickly won,
+    i'll frown, and be perverse, and say thee nay,
+    so thou wilt woo; but else, not for the world.
+    in truth, fair montague, i am too fond,
+    and therefore thou mayst think my haviour light;
+    but trust me, gentleman, i'll prove more true
+    than those that have more cunning to be strange.
+    i should have been more strange, i must confess,
+    but that thou overheard'st, ere i was ware,
+    my true-love passion. therefore pardon me,
+    and not impute this yielding to light love,
+    which the dark night hath so discovered.
+
+  rom. lady, by yonder blessed moon i swear,
+    that tips with silver all
+ 
+ ___________________________
+ 
+u didst request it;
+    and yet i would it were to give again.
+
+  rom. would'st thou withdraw it? for what purpose, love?
+
+  jul. but to be frank and give it thee again.
+    and yet i wish but for the thing i have.
+    my bounty is as boundless as the sea,
+    my love as deep; the more i give to thee,
+    the more i have, for both are infinite.
+    i hear some noise within. dear love, adieu!
+                                           [nurse] calls within.
+    anon, good nurse! sweet montague, be true.
+    stay but a little, i will come again.                [exit.]
+
+  rom. o blessed, blessed night! i am afeard,
+    being in night, all this is but a dream,
+    too flattering-sweet to be substantial.
+
+                       enter juliet above.
+
+
+  jul. three words, dear romeo, and good night indeed.
+    if that thy bent of love be honourable,
+    thy purpose marriage, send me word to-morrow,
+    by one that i'll procure to come to thee,
+    where and what time thou wilt
+ 
+ ___________________________
+ 
+the prince will doom thee death
+    if thou art taken. hence, be gone, away!
+
+  rom. o, i am fortune's fool!
+
+  ben. why dost thou stay?
+                                                     exit romeo.
+                      enter citizens.
+
+
+  citizen. which way ran he that kill'd mercutio?
+    tybalt, that murtherer, which way ran he?
+
+  ben. there lies that tybalt.
+
+  citizen. up, sir, go with me.
+    i charge thee in the prince's name obey.
+
+
+  enter prince [attended], old montague, capulet, their wives,
+                     and [others].
+
+
+  prince. where are the vile beginners of this fray?
+
+  ben. o noble prince. i can discover all
+    the unlucky manage of this fatal brawl.
+    there lies the man, slain by young romeo,
+    that slew thy kinsman, brave mercutio.
+
+  cap. wife. tybalt, my cousin! o my brother's child!
+    o prince! o husband! o, the blood is spill'd
+    of my dear kinsman! prince, as thou art true,
+    for blood of ours shed blood of montag
+ 
+ ___________________________
+ 
+ile arm beats down their fatal points,
+    and 'twixt them rushes; underneath whose arm
+    an envious thrust from tybalt hit the life
+    of stout mercutio, and then tybalt fled;
+    but by-and-by comes back to romeo,
+    who had but newly entertain'd revenge,
+    and to't they go like lightning; for, ere i
+    could draw to part them, was stout tybalt slain;
+    and, as he fell, did romeo turn and fly.
+    this is the truth, or let benvolio die.
+
+  cap. wife. he is a kinsman to the montague;
+    affection makes him false, he speaks not true.
+    some twenty of them fought in this black strife,
+    and all those twenty could but kill one life.
+    i beg for justice, which thou, prince, must give.
+    romeo slew tybalt; romeo must not live.
+
+  prince. romeo slew him; he slew mercutio.
+    who now the price of his dear blood doth owe?
+
+  mon. not romeo, prince; he was mercutio's friend;
+    his fault concludes but what the law should end,
+    the life of tybalt.
+
+  prin
+ 
+ ___________________________
+ 
+e thou that.
+    live, and be prosperous; and farewell, good fellow.
+
+  bal. [aside] for all this same, i'll hide me hereabout.
+    his looks i fear, and his intents i doubt.        [retires.]
+
+  rom. thou detestable maw, thou womb of death,
+    gorg'd with the dearest morsel of the earth,
+    thus i enforce thy rotten jaws to open,
+    and in despite i'll cram thee with more food.
+                                           romeo opens the tomb.
+
+  par. this is that banish'd haughty montague
+    that murd'red my love's cousin- with which grief
+    it is supposed the fair creature died-
+    and here is come to do some villanous shame
+    to the dead bodies. i will apprehend him.
+    stop thy unhallowed toil, vile montague!
+    can vengeance be pursu'd further than death?
+    condemned villain, i do apprehend thee.
+    obey, and go with me; for thou must die.
+
+  rom. i must indeed; and therefore came i hither.
+    good gentle youth, tempt not a desp'rate man.
+    fly henc
+ 
+ ___________________________
+ 
+              enter [paris's] boy and watch.
+
+
+  boy. this is the place. there, where the torch doth burn.
+
+  chief watch. 'the ground is bloody. search about the churchyard.
+    go, some of you; whoe'er you find attach.
+                                     [exeunt some of the watch.]
+    pitiful sight! here lies the county slain;
+    and juliet bleeding, warm, and newly dead,
+    who here hath lain this two days buried.
+    go, tell the prince; run to the capulets;
+    raise up the montagues; some others search.
+                                   [exeunt others of the watch.]
+    we see the ground whereon these woes do lie,
+    but the true ground of all these piteous woes
+    we cannot without circumstance descry.
+
+     enter [some of the watch,] with romeo's man [balthasar].
+
+  2. watch. here's romeo's man. we found him in the churchyard.
+
+  chief watch. hold him in safety till the prince come hither.
+
+          enter friar [laurence] and another watchman.
+
+  3. wa
+ 
+ ___________________________
+ 
+ch startles in our ears?
+
+  chief watch. sovereign, here lies the county paris slain;
+    and romeo dead; and juliet, dead before,
+    warm and new kill'd.
+
+  prince. search, seek, and know how this foul murder comes.
+
+  chief watch. here is a friar, and slaughter'd romeo's man,
+    with instruments upon them fit to open
+    these dead men's tombs.
+
+  cap. o heavens! o wife, look how our daughter bleeds!
+    this dagger hath mista'en, for, lo, his house
+    is empty on the back of montague,
+    and it missheathed in my daughter's bosom!
+
+  wife. o me! this sight of death is as a bell
+    that warns my old age to a sepulchre.
+
+               enter montague [and others].
+
+
+  prince. come, montague; for thou art early up
+    to see thy son and heir more early down.
+
+  mon. alas, my liege, my wife is dead to-night!
+    grief of my son's exile hath stopp'd her breath.
+    what further woe conspires against mine age?
+
+  prince. look, and thou shalt see.
+
+  mon. o thou
+ 
+ ___________________________
+ 
+h make good the friar's words,
+    their course of love, the tidings of her death;
+    and here he writes that he did buy a poison
+    of a poor pothecary, and therewithal
+    came to this vault to die, and lie with juliet.
+    where be these enemies? capulet, montage,
+    see what a scourge is laid upon your hate,
+    that heaven finds means to kill your joys with love!
+    and i, for winking at you, discords too,
+    have lost a brace of kinsmen. all are punish'd.
+
+  cap. o brother montague, give me thy hand.
+    this is my daughter's jointure, for no more
+    can i demand.
+
+  mon. but i can give thee more;
+    for i will raise her statue in pure gold,
+    that whiles verona by that name is known,
+    there shall no figure at such rate be set
+    as that of true and faithful juliet.
+
+  cap. as rich shall romeo's by his lady's lie-
+    poor sacrifices of our enmity!
+
+  prince. a glooming peace this morning with it brings.
+    the sun for sorrow will not show his head.

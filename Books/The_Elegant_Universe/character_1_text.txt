@@ -1,0 +1,11 @@
+stion  made  by  austrian  physicist  erwin
+schrödinger was that the waves were "smeared-out" electrons. this captured some of the "feeling" of
+an electron wave, but it was too rough. when you smear something out, part of it is here and part of it
+is there. however, one never encounters half of an electron or a third of an electron or any other
+fraction,  for  that  matter.  this  makes  it  hard  to  grasp  what  a  smeared  electron  actually  is. as  an
+alternative, in 1926 german physicist max born sharply refined schrödinger's interpretation of an
+electron wave, and it is his interpretation—amplified by bohr and his colleagues—that is still with us
+today.  born's  suggestion  is  one  of  the  strangest  features  of  quantum  theory,  but  is  supported
+nonetheless by an enormous amount of experimental data. he asserted that an electron wave must be
+interpreted from the standpoint of probability. places where the magnitude (a bit more correctly, the
+square of magnitude) of the wave 

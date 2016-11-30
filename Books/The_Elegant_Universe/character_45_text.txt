@@ -1,0 +1,2084 @@
+cond  conflict.  one
+conclusion of einstein's work is that no object—in fact, no influence or disturbance of any sort—can
+travel faster than the speed of light. but, as we shall discuss in chapter 3, newton's experimentally
+successful  and  intuitively  pleasing  universal  theory  of  gravitation  involves  influences  that  are
+transmitted over vast distances of space instantaneously. it was einstein, again, who stepped in and
+resolved  the  conflict  by  offering  a  new  conception  of  gravity  with  his  1915  general  theory  of
+relativity. just as special relativity overturned previous conceptions of space and time, so too did
+general relativity. not only are space and time influenced by one's state of motion, but they can warp
+and curve in response to the presence of matter or energy. such distortions to the fabric of space and
+time,  as  we  shall  see,  transmit  the  force  of  gravity  from  one  place  to  another.  space  and  time,
+therefore, can no longer to be thought of
+ 
+ ___________________________
+ 
+ twisting,  or  crushing  them;  or  by  freezing,  heating,  or
+burning them. during the past hundred years physicists have accumulated mounting evidence that all
+of  these  interactions  between  various  objects  and  materials,  as  well  as  any  of  the  millions  upon
+millions of others encountered daily, can be reduced to combinations of four fundamental forces. one
+of these is the gravitational force. the other three are the electromagnetic force, the weak force, and
+the strong force.
+
+gravity is the most familiar of the forces, being responsible for keeping us in orbit around the
+sun as well as for keeping our feet firmly planted on earth. the mass of an object measures how much
+gravitational force it can exert as well as feel. the electromagnetic force is the next most familiar of
+the  four.  it  is  the  force  driving  all  of  the  conveniences  of  modern  life—lights,  computers,  tvs,
+telephones—and  underlies  the  awesome  might  of  lightning  storms  and  the  gentle 
+ 
+ ___________________________
+ 
+ touch  of  a  human
+hand. microscopically, the electric charge of a particle plays the same role for the electromagnetic
+force as mass does for gravity: it determines how strongly the particle can exert as well as respond
+electromagnetically.
+
+the strong and the weak forces are less familiar because their strength rapidly diminishes over
+all  but  subatomic  distance  scales;  they  are  the  nuclear  forces.  this  is  why  these  two  forces  were
+discovered  only  much  more  recently.  the  strong  force  is  responsible  for  keeping  quarks  "glued"
+together inside of protons and neutrons and keeping protons and neutrons tightly crammed 
+ 
+ ___________________________
+ 
+ think of gluons as the microscopic ingredient in the strong glue holding atomic nuclei together.)
+by 1984 experimenters had definitively established the existence and the detailed properties of these
+three kinds of force particles, recorded in table 1.2. physicists believe that the gravitational force
+also  has  an  associated  particle—the  graviton—but  its  existence  has  yet  to  be  confirmed
+experimentally.
+
+the second common feature of the forces is that just as mass determines how gravity affects a
+particle,  and  electric  charge  determines  how  the  electromagnetic  force  affects  it,  particles  are
+endowed  with  certain  amounts  of  "strong  charge"  and  "weak  charge"  that  determine  how  they  are
+affected by the strong and weak forces. (these properties are detailed in the table in the endnotes to
+this chapter.1) but as with particle masses, beyond the fact that experimental physicists have carefully
+measured  these  properties,  no  one  has  any  explanation  of
+ 
+ ___________________________
+ 
+ why  our  universe  is  composed  of  these
+particular particles, with these particular masses and force charges.
+
+force particle
+force
+strong
+gluon
+electromagnetic photon
+weak
+gravity
+
+weak gauge
+bosons
+graviton
+
+mass
+0
+0
+86,
+97
+0
+
+table 1.2 the four forces of nature, together with their associated force particles and their masses in
+multiples  of  the  proton  mass.  (the  weak  force  particles  come  in  varieties  with  the  two  possible
+masses listed. theoretical studies show that the graviton should be massless.)
+
+notwithstanding  their  common  features,  an  examination  of  the  fundamental  forces  themselves
+serves only to compound the questions. why, for instanc
+ 
+ ___________________________
+ 
+e, are there four fundamental forces? why not
+five or three or perhaps only one? why do the forces have such different properties? why are the
+strong  and  weak  forces  confined  to  operate  on  microscopic  scales  while  gravity  and  the
+electromagnetic  force  have  an  unlimited  range  of  influence? and  why  is  there  such  an  enormous
+spread in the intrinsic strength of these forces?
+
+to  appreciate  this  last  question,  imagine  holding  an  electron  in  your  left  hand  and  another
+electron  in  your  right  hand  and  bringing  these  two  identical  electrically  charged  particles  close
+together.  their  mutual  gravitational  attraction  will  favor  their  getting  closer  while  their
+electromagn
+ 
+ ___________________________
+ 
+etic repulsion will try to drive them apart. which is stronger? there is no contest: the
+electromagnetic repulsion is about a million billion billion billion billion (1042)  times  stronger!  if
+your right bicep represents the strength of the gravitational force, then your left bicep would have to
+
+extend beyond the edge of the known universe to represent the strength of the electromagnetic force.
+the  only  reason  the  electromagnetic  force  does  not  completely  overwhelm  gravity  in  the  world
+around  us  is  that  most  things  are  composed  of  an  equal  amount  of  positive  and  negative  electric
+charges whose forces cancel each other out. on the other hand, since gravity is always attractive,
+there are no analogous cancellations—more stuff means greater gravitational force. but fundamentally
+speaking, gravity is an extremely feeble force. (this fact accounts for the difficulty in experimentally
+confirming  the  existence  of  the  graviton.  searching  for  
+ 
+ ___________________________
+ 
+dous achievement, but it is only part of the reason
+string theory has generated such excitement.
+
+figure  1.1  matter  is  composed  of  atoms,  which  in  turn  are  made  from  quarks  and  electrons.
+according to string theory, all such particles are actually tiny loops of vibrating string.
+
+string theory as the unified theory of everything
+
+in  einstein's  day,  the  strong  and  the  weak  forces  had  not  yet  been  discovered,  but  he  found  the
+existence of even two distinct forces—gravity and electromagnetism—deeply troubling. einstein did
+not accept that nature is founded on such an extravagant design. this launched his thirty-year voyage
+in search of the so-called unified field theory that he hoped would show that these two forces are
+really manifestations of one grand underlying principle. this quixotic quest isolated einstein from the
+mainstream  of  physics,  which,  understandably,  was  far  more  excited  about  delving  into  the  newly
+emerging framework of quantum m
+ 
+ ___________________________
+ 
+it as its speed approaches that of light, it would require a push
+with an infinite amount of energy to reach or to cross the light barrier. this, of course, is impossible
+and hence absolutely nothing can travel faster than the speed of light.
+
+as we shall see in the next chapter, this conclusion plants the seeds for the second major conflict
+faced  by  physics  during  the  past  century  and  ultimately  spells  doom  for  another  venerable  and
+cherished theory—newton's universal theory of gravity.
+
+chapter 3
+
+of warps and ripples
+
+through special relativity einstein resolved the conflict between the "age-old intuition" about motion
+and  the  constancy  of  the  speed  of  light.  in  short,  the  solution  is  that  our  intuition  is  wrong—it  is
+informed by motion that typically is extremely slow compared to the speed of light, and such low
+speeds obscure the true character of space and time. special relativity reveals their nature and shows
+them  to  differ  radically  from  prev
+ 
+ ___________________________
+ 
+ious  conceptions.  tinkering  with  our  understanding  of  the
+foundations of space and time, though, was no small undertaking. einstein soon realized that of the
+numerous  reverberations  following  from  the  revelations  of  special  relativity,  one  was  especially
+profound: the dictum that nothing can outrun light proves to be incompatible with newton's revered
+universal  theory  of  gravity,  proposed  in  the  latter  half  of  the  seventeenth  century. and  so,  while
+resolving one conflict, special relativity gave rise to another. after a decade of intense, sometimes
+tormented study, einstein resolved the dilemma with his general theory of relativity. in this theory,
+einstein once again revolutionized our understanding of space and time by showing that they warp
+and distort to communicate the force of gravity.
+
+newton's view of gravity
+
+isaac  newton,  born  in  1642  in  linc
+ 
+ ___________________________
+ 
+arch  by
+bringing  the  full  force  of  mathematics  to  the  service  of  physical  inquiry.  newton's  was  such  a
+monumental intellect that, for example, when he found that the mathematics required for some of his
+investigations did not exist, he invented it. nearly three centuries would pass before the world would
+host a comparable scientific genius. of newton's numerous profound insights into the workings of the
+universe, the one that primarily concerns us here is his universal theory of gravity.
+
+the force of gravity pervades everyday life. it keeps us and all of the objects around us fixed to
+the earth's surface; it keeps the air we breathe from escaping to outer space; it keeps the moon in orbit
+around the earth and it keeps the earth bound in orbit around the sun. gravity dictates the rhythm of the
+cosmic  dance  that  is  tirelessly  and  meticulously  executed  by  billions  upon  billions  of  cosmic
+inhabitants,  from  asteroids  to  planets  to  stars  to  galaxies.  more  tha
+ 
+ ___________________________
+ 
+n  three  centuries  of  newton's
+influence causes us to take for granted that a single force—gravity—is responsible for this wealth of
+terrestrial  and  extraterrestrial  happenings.  but  before  newton  there  was  no  understanding  that  an
+apple falling to earth from a tree bore witness to the same physical principle that keeps the planets
+revolving  around  the  sun.  with  an  audacious  step  in  the  service  of  scientific  hegemony,  newton
+united  the  physics  governing  both  heaven  and  earth  and  declared  the  force  of  gravity  to  be  the
+invisible hand at work in each 
+ 
+ ___________________________
+ 
+realm.
+
+newton's  view  of  gravity  might  be  called  the  great  equalizer.  he  declared  that  absolutely
+everything  exerts  an  attractive  gravitational  force  on  absolutely  everything  else.  regardless  of
+
+physical composition, everything exerts as well as feels the force of gravity. based on a close study
+of  johannes  kepler's  analysis  of  planetary  motion,  newton  deduced  that  the  strength  of  the
+gravitational  attraction  between  two  bodies  depends  on precisely  two  things:  the  amount  of  stuff
+composing each of the bodies and the distance between them. "stuff" means matter—this comprises
+the total number of protons, neutrons, and electrons, which in turn determines the mass of the object.
+newton's  universal  theory  of  gravity  asserts  that  the 
+ 
+ ___________________________
+ 
+
+attraction is larger for smaller separations between the objects and smaller for larger separations.
+
+newton  went  much  further  than  this  qualitative  description  and  wrote  down  equations  that
+quantitatively describe the strength of the gravitational force between two objects. in words, these
+equations state that the gravitational force between two bodies is proportional to the product of their
+masses and inversely proportional to the square of the distance between them. this "law of gravity"
+can be used to predict the motion of planets and comets around the sun, the moon about the earth, and
+rockets  heading  off  for  planetary  explorations,  as  well  as  more  earthbound  applications  such  as
+baseballs  flying  through  the  air  and  divers  spiraling  poolward  from  springboards.  the  agreement
+between the predictions and the actual observed motion of such objects is spectacular. this success
+gave  newton's  theory  unequivocal  support  until  the  early  part  of  the 
+ 
+ ___________________________
+ 
+ twentieth  century.  einstein's
+discovery of special relativity, however, raised what proved to be an insurmountable obstacle for
+newton's theory.
+
+the incompatibility of newtonian gravity and special relativity
+
+a  central  feature  of  special  relativity  is  the  absolute  speed  barrier  set  by  light.  it  is  important  to
+realize that this limit applies not only to material objects but also to signals and influences of any
+kind. there is simply no way to communicate information or a disturbance from one place to another
+at faster than light speed. of course, the world is full of ways for transmitting disturbances at slower
+than the speed of light. your speech and all oth
+ 
+ ___________________________
+ 
+ after you see the
+ball being hit. a similar thing happens in a thunderstorm. although lightning and thunder are produced
+simultaneously, you see the lightning before hearing the thunder. again, this reflects the substantial
+speed difference between light and sound. the success of special relativity informs us that the reverse
+situation,  in  which  some  signal  reaches  us before  the  light  it  emits,  is  just  not  possible.  nothing
+outruns photons.
+
+here's the rub. in newton's theory of gravity, one body exerts a gravitational pull on another
+with  a  strength  determined  solely  by  the  mass  of  the  objects  involved  and  the  magnitude  of  their
+separation.  the  strength  has  nothing  to  do  with  how  long  the  objects  have  been  in  each  other's
+presence. this means that if their mass or their separation should change, the objects will, according
+to newton, immediately feel a change in their mutual gravitational attraction. for instance, newton's
+theory of gravity cla
+ 
+ ___________________________
+ 
+uld be instantaneously transmitted to the earth through the
+
+sudden change in the gravitational force governing its motion.
+
+this  conclusion  is  in  direct  conflict  with  special  relativity,  since  the  latter  ensures  that  no
+information can be transmitted faster than the speed of light—instantaneous transmission violates this
+precept maximally.
+
+in  the  early  part  of  the  twentieth  century,  therefore,  einstein  realized  that  the  tremendously
+successful newtonian theory of gravity was in conflict with his special theory of relativity. confident
+in  the  veracity  of  special  relativity  and  notwithstanding  the  mountain  of  experimental  support  for
+newton's  theory,  einstein  sought  a  new  theory  of  gravity  compatible  with  special  relativity.  this
+ultimately led him to the discovery of general relativity, in which the character of space and time
+again went through a remarkable transformation.
+
+einstein's happiest thought
+
+even  before  the  discovery  of 
+ 
+ ___________________________
+ 
+ special  relativity,  newton's  theory  of  gravity  was  lacking  in  one
+important respect. although it can be used to make highly accurate predictions about how objects will
+move under the influence of gravity, it offers no insight into what gravity is. that is, how is it that two
+bodies that are physically separate from another, possibly hundreds of millions of miles apart if not
+more, nonetheless influence each other's motion? by what means does gravity execute its mission?
+this is a problem of which newton himself was well aware. in his own words,
+
+it is inconceivable, that inanimate brute matter, should, without the mediation of something
+else,  which  is  not  material,  operate  upon  and  affect  other  matter  without  mutual  contact.
+that gravity should be innate, inherent and essential to matter so that one body may act
+upon another at a distance thro' a vacuum without the mediation of anything else, by and
+through which their action 
+ 
+ ___________________________
+ 
+and force may be conveyed, from one to another, is to me so
+great  an  absurdity  that  i  believe  no  man  who  has  in  philosophical  matters  a  competent
+faculty of thinking can ever fall into it. gravity must be caused by an agent acting constantly
+according to certain laws; but whether this agent be material or immaterial, i have left to
+the consideration of my readers.1
+
+that is, newton accepted the existence of gravity and went on to develop equations that accurately
+describe its effects, but he never offered any insight into how it actually works. he gave the world an
+"owner's  manual"  for  gravity  which  delineated  how  to  "use"  it—instructions  that  physicists,
+astronomers,  and  engineers  have  exploited  successfully  to  plot  the  course  of  rockets  to  the  moon,
+mars, and other planets in the solar system; to predict solar and lunar eclipses; to predict the motion
+of comets, and so on. but
+ 
+ ___________________________
+ 
+ he left the inner workings—the contents of the "black box" of gravity—a
+complete mystery. when you use your cd player or your personal computer, you may find yourself in
+a similar state of ignorance regarding how it works internally. so long as you know how to operate
+the equipment neither you nor anyone else needs to know how it accomplishes the tasks you set for it.
+but if your cd player or personal computer breaks, its repair relies crucially on knowledge of its
+internal workings. similarly, einstein realized that hundreds of years of experimental confirmati
+ 
+ ___________________________
+ 
+on
+notwithstanding, special relativity implied that in some subtle way newton's theory was "broken" and
+that its repair required coming to grips with the question of the true and full nature of gravity.
+
+in  1907,  while  pondering  these  issues  at  his  desk  in  the  patent  office  in  bern,  switzerland,
+
+einstein had the central insight that, through fits and starts, would eventually lead him to a radically
+new theory of gravity—an approach that would not merely fill in the gap in newton's theory, but,
+rather, would completely reformulate thinking about gravity and, of utmost importance, would do so
+in a manner fully consistent with special relativity.
+
+the  insight  einstein  had  is  relevant  for  a  question  that  may  have  troubled  you  in  chapter  2.
+there we emphasized that we were interested in understanding how the world appears to individuals
+undergoing  constant-velocity  relative  motion.  by  careful
+ 
+ ___________________________
+ 
+ct, come to think of it, there is even another problem," your assistant albert says. "this problem is
+as important as isaac's objection but somewhat more subtle, so bear with me as i explain it." wanting
+a moment to think through isaac's objection, you try to hush albert, but as usual, once he begins there
+is no stopping him.
+
+suggestions. at that moment, albert has a stunning revelation: "on second thought," he continues, "i
+do not think that your idea is dead at all. isaac's observation that gravity diminishes as the device is
+lifted into space means that the reading on the scale will go down. my observation that the upward
+acceleration of the rocket will cause the device to push harder against the scale means that the reading
+will  go up.  taken  together,  this  means  that  if  we  carefully  adjust  the  precise  moment-to-moment
+acceleration  of  the  rocket  as  it  moves  upward,  these  two  effects  can cancel  each  other  out!
+specifically,  in  the  early  stages  of  liftoff, 
+ 
+ ___________________________
+ 
+ when  the  rocket  still  feels  the  full  force  of  the  earth's
+gravity, it can accelerate, just not too severely, so that we stay within the 50 percent window. as the
+rocket gets farther and farther from the earth—and therefore feels the earth's gravity less and less—
+we need to increase its upward acceleration to compensate. the increase in the reading from upward
+acceleration  can  exactly  equal  the  decrease  in  the  reading  from  the  diminishing  gravitational
+attraction, so, in fact, we can keep the actual reading on the scale from changing at all!"
+
+albert's  suggestion  slowly  begins  to  make  sense.  "in  other  words,"  you  respond,  "an  upward
+acceleration can provide a stand-in or a substitute for gravity. we can imitate 
+ 
+ ___________________________
+ 
+the effect of gravity
+through suitably accelerated motion."
+
+"exactly," responds albert.
+"so,"  you  continue,  "we can  launch  the  bomb  into  space  and  by  judiciously  adjusting  the
+acceleration of the rocket we can ensure that the reading on the scale does not change, thus avoiding
+detonation until it is a safe distance from earth." and so by playing off gravity and accelerated motion
+—using the precision of twenty-first-century rocket science—you are able to stave off disaster.
+
+the recognition that gravity and accelerated motion are profoundly interwoven is the key insight
+that einstein had one happy day in the bern patent office. although the bomb experience highlights the
+essence  of  his  idea,  it  is  worth  rephrasing  it  in  a  framework  closer  to  that  of  chapter  2.  for  this
+purpose, recall that if you are put into a sealed, windo
+ 
+ ___________________________
+ 
+  your  forward-facing  chair  is  bolted  to  the  floor  and  your  compartment  is  being
+accelerated forward, you will feel the force of your seat on your back just as with the car described
+by albert. similarly, if your compartment is being accelerated upward you will feel the force of the
+floor on your feet. einstein's realization was that within the confines of your tiny compartment, you
+will not be able to distinguish these accelerated situations from ones without acceleration  but with
+gravity: when their magnitudes are judiciously adjusted, the force you feel from a gravitational field
+or from accelerated motion are indistinguishable. if your compartment is placidly sitting upright on
+the earth's surface, you will feel the familiar force of the floor on your feet, just as in the scenario of
+upward  acceleration;  this  is  exactly  the  same  equivalence  albert  exploited  in  his  solution  for
+launching the terrorist bomb into space. if your compartment is resting on its back end
+ 
+ ___________________________
+ 
+ you will feel
+the force of your seat on your back (preventing you from falling), just as when you were accelerating
+horizontally.  einstein  called  the  indistinguishability  between  accelerated  motion  and  gravity  the
+equivalence principle. it plays a central role in general relativity.2
+
+this  description  shows  that  general  relativity  finishes  a  job  initiated  by  special  relativity.
+through  its  principle  of  relativity,  the  special  theory  of  relativity  declares  a  democracy  of
+observational  vantage  points:  the  laws  of  physics  appear  identical  to  all  observers  undergoing
+
+constant-velocity motion. but this is limited democracy indeed, for it excludes an enormous number
+
+ 
+ ___________________________
+ 
+erence between an accelerated vantage point without a gravitational
+field  and  a  nonaccelerated  vantage  point with  a  gravitational  field,  we  can  invoke  the  latter
+perspective and declare that all observers, regardless of their state of motion, may proclaim that
+they  are  stationary  and  "the  rest  of  the  world  is  moving  by  them,"  so  long  as  they  include  a
+suitable gravitational field in the description of their own surroundings. in this sense, through the
+inclusion of gravity, general relativity ensures that all possible observational vantage points are on
+equal footing. (as we shall see later, this means that distinctions between observers in chapter 2 that
+relied on accelerated motion—as when george chased after gracie by turning on his jet-pack and
+aged less than she—admit an equivalent description without acceleration, but with gravity.)
+
+this  deep  connection  between  gravity  and  accelerated  motion  is  certainly  a  remarkable
+realization,  but  why  
+ 
+ ___________________________
+ 
+did  it  make  einstein  so  happy?  the  reason,  simply  put,  is  that  gravity  is
+mysterious. it is a grand force permeating the life of the cosmos, but it is elusive and ethereal. on the
+other hand, accelerated motion, although somewhat more complicated than constant-velocity motion,
+is  concrete  and  tangible.  by  finding  a  fundamental  link  between  the  two,  einstein  realized  that  he
+could use his understanding of motion as a powerful tool toward gaining a similar understanding of
+gravity.  putting  this  strategy  into  practice  was  no  small  task,  even
+ 
+ ___________________________
+ 
+  for  the  genius  of  einstein,  but
+ultimately this approach bore the fruit of general relativity. achieving this end required that einstein
+forge a second link in the chain uniting gravity and accelerated motion: the curvature of space and
+time, to which we now turn.
+
+acceleration and the warping of space and time
+
+einstein worked on the problem of understanding gravity with extreme, almost obsessive, intensity.
+about five years after his happy revelation in the bern patent office, he wrote to the physicist arnold
+sommerfeld, "i am now working exclusively on the gravity problem. . .. [o]ne thing is certain—that
+never in my life have i tormented myself anything like this. . .. compared to this problem the original
+[i.e., special] relativity theory is child's play."3
+
+he appears to have made the next key breakthrough, a simple yet subtle consequence of applyin
+ 
+ ___________________________
+ 
+g
+special relativity to the link between gravity and accelerated motion, in 1912. to understand this step
+in  einstein's  reasoning  it  is  easiest  to  focus,  as  apparently  he  did,  on  a  particular  example  of
+accelerated motion.4 recall that an object is accelerating if either the speed or the direction of its
+motion changes. for simplicity we will focus on accelerated motion in which only the direction of
+our object's motion changes while its speed stays fixed. specifically, we consider motion in a circle
+such  as  what  one  exper
+ 
+ ___________________________
+ 
+, keeping you moving in a circle. (in fact, although not
+relevant for the present discussion, the spinning motion "pins" your body to the plexiglas with such a
+force that when the ledge on which you are standing drops away you do not slip downward.) if the
+ride is extremely smooth and you close your eyes, the pressure of the ride on your back—like the
+
+support of a bed—can almost make you feel that you are lying down. the "almost" comes from the
+fact that you still feel ordinary "vertical" gravity, so your brain cannot be fully fooled. but if you were
+to ride the tornado in outer space, and if it were to spin at just the right rate, it would feel just like
+lying in a stationary bed on earth. moreover, were you to "get up" and walk along the interior of the
+spinning plexiglas, your feet would press against it just as they do against an earthbound floor. in fact,
+space stations are designed to spin in this manner to create an artificial feeling of gravity in outer
+space.
+
+what about the ra
+ 
+ ___________________________
+ 
+'s-eye view we see that he is going to find the same answer as we did. the
+reason is that the ruler is not pointing along the instantaneous direction of the motion of the ride (as it
+is when measuring the circumference). instead, it is pointed at a ninety-degree angle to the motion,
+and  therefore  it  is not  contracted  along  its  length.  jim  will  therefore  find  exactly  the  same  radial
+length as we did.
+
+having  used  the  accelerated  motion  of  the  spinning  tornado  to  imitate  gravity,  we  can  now
+follow einstein and set out to see how space and time appear to someone on the ride. his reasoning,
+adapted  to  this  situation,  went  as  follows.  we  stationary  observers  can  easily  measure  the
+circumference and the radius of the spinning ride. for instance, to measure the circumference we can
+carefully  lay  out  a  ruler—head  to  tail—alongside  the  ride's  spinning  girth;  for  its  radius  we  can
+similarly use the head-to-tail method working our way from the
+ 
+ ___________________________
+ 
+  crawls  out  along  the  strut.  he  will  feel  an  increasingly  strong  outward  pull
+
+because not only does speed increase, but his acceleration increases as well, the farther he is from the
+spinning  ride's  center.  on  the  tornado  ride,  then,  we  see  that  greater  acceleration  is  tied  up  with
+slower clocks—that is, greater acceleration results in a more significant warping of time.
+
+these  observations  took  einstein  to  the  final  leap.  since  he  had  already  shown  gravity  and
+accelerated motion to be effectively indistinguishable, and since he now had shown that accelerated
+motion  is  associated  with  the  warping  of  space  and  time,  he  made  the  following  proposal  for  the
+innards of the "black box" of gravity—the mechanism by which gravity operates. gravity, according
+to einstein, is the warping of space and time. let's see what this means.
+
+the basics of general relativity
+
+to get a feel for this new view of gravity, let's consider the prototypic
+ 
+ ___________________________
+ 
+al situation of a planet, such as
+the earth, revolving around a star, such as the sun. in newtonian gravity the sun keeps the earth in
+orbit with an unidentified gravitational "tether" that somehow instantaneously reaches out across vast
+distances of space and grabs hold of the earth (and, similarly, the earth reaches out and grabs hold of
+the sun). einstein provided a new conception of what actually happens. it will aid in our discussion
+of  einstein's  approach  to  have  a  concrete  visual  model  of  spacetime  that  we  can  conveniently
+manipulate. to do so, we will simplify things in two ways
+ 
+ ___________________________
+ 
+emselves out. the chain of einstein's reasoning that
+we have been following, however, leads to a different conclusion.
+
+a massive body like the sun, and indeed any body, exerts a gravitational force on other objects.
+in the example of the terrorist bomb, we learned that gravitational forces are indistinguishable from
+accelerated motion. in the example of the tornado ride, we learned that a mathematical description of
+accelerated motion requires the relations of curved space. these links between gravity, accelerated
+motion, and curved space led einstein to the remarkable suggestion that the presence of mass, such as
+the sun, causes the fabric of space around it to warp, as shown in figure 3.4. a useful, and oft-quoted,
+analogy is that much like a rubber membrane on which a bowling ball has been placed, the fabric of
+space  becomes  distorted  due  to  the  presence  of  a  massive  object  like  the  sun. according  to  this
+radical  proposal,  space  is  not  merely  a  passive  forum  provid
+ 
+ ___________________________
+ 
+s absent, the
+rubber membrane will be flat and the ball bearing will travel along a straight line. if the bowling ball
+is present and thereby warps the membrane, the ball bearing will travel along a curved path. in fact,
+ignoring friction, if we set the ball bearing moving with just the right speed in just the right direction,
+it will continue to move in a recurring curved path around the bowling ball—in effect, it will "go into
+orbit." our language presages the application of this analogy to gravity.
+
+the sun, like the bowling ball, warps the fabric of space surrounding it, and the earth's motion,
+like that of the ball bearing, is determined by the shape of the warp. the earth, like the ball bearing,
+will move in orbit around the sun if its speed and orientation have suitable values. this effect on the
+motion of the earth is what we normally would refer to as the gravitational influence of the sun, and is
+illustrated  in  figure  3.5.  the  difference,  now,  is  that  unlike  newton,  ein
+ 
+ ___________________________
+ 
+stein  has  specified  the
+mechanism by which gravity is transmitted: the warping of space. in einstein's view, the gravitational
+tether holding the earth in orbit is not some mysterious instantaneous action of the sun; rather, it is the
+
+warping of the spatial fabric caused by the sun's presence.
+
+figure 3.5 the earth is kept in orbit around the sun because it rolls along a valley in the warped
+spatial fabric. in more precise language, it follows a "path of least resistance" in the distorted region
+around the sun.
+
+this picture allows us to unde
+ 
+ ___________________________
+ 
+rstand the two essential features of gravity in a new way. first, the
+more massive the bowling ball, the greater the distortion it causes in the rubber membrane; similarly,
+in einstein's description of gravity the more massive an object is, the greater the distortion it causes
+in the surrounding space. this implies that the more massive an object, the greater the gravitational
+influence it can exert on other bodies, precisely in accord with our experiences. second, just as the
+distortion of the rubber membrane due to the bowling ball gets smaller as one gets farther from it, the
+amount of spatial warping due to a massive body such as the sun decreases as one's distance from it
+increases. this, again,
+ 
+ ___________________________
+ 
+ jibes with our understanding of gravity, whose influence becomes weaker as
+the distance between objects becomes larger.
+
+an important point to note is that the ball bearing itself warps the rubber membrane, although
+only slightly. similarly, the earth, being a massive body in its own right, also warps the fabric of
+space, although far less than the sun. this is how, in the language of general relativity, the earth keeps
+the moon in orbit, and it is also how the earth keeps each of us bound to its surface. as a skydiver
+plunges earthw
+ 
+ ___________________________
+ 
+ard, he or she is sliding down a depression in the spatial fabric caused by the earth's
+mass.  moreover,  each  of  us—like  any  massive  object—also  warps  the  spatial  fabric  in  close
+proximity  to  our  bodies,  although  the  comparatively  small  mass  of  a  human  body  makes  this  a
+minuscule indentation.
+
+in summary then, einstein fully agreed with newton's statement that "gravity must be caused by
+an  agent"  and  rose  to  newton's  challenge  in  which  the  identity  of  the  agent  was  left  "to  the
+consideration of my readers." the agent of gravity, according to einstein, is the fabric of the cosmos.
+
+a few caveats
+
+the  rubber  membrane–bowling  ball  analogy  is  valuable  because  it  gives  us  a  visual  image  with
+which we can grasp tangibly what we mean by a warp in the spatial fabric of the universe. physicists
+often use this and similar analogies to g
+ 
+ ___________________________
+ 
+uide their own intuition regarding gravitation and curvature.
+however, its usefulness notwithstanding, the rubber membrane–bowling ball analogy is not perfect
+and for clarity we call attention to a few of its shortcomings.
+
+first,  when  the  sun  causes  the  fabric  of  space  around  it  to  warp  this  is  not  due  to  its  "being
+pulled downward" by gravity as in the case of the bowling ball, which warps the rubber membrane
+because it is pulled earthward by gravity. in the case of the sun, there is no other object to "do the
+pulling." instead, einstein has taught us that the warping of space is gravity. the mere presence of an
+object with mass causes space to respond by warping. similarly, the earth is not kept in orbit because
+the gravitational pull of some other external object guides it along the valleys in the warped spatial
+environment, as occurs for a ball bearing on the warped rubber membrane. instead, einstein showed
+that objects move through spac
+ 
+ ___________________________
+ 
+precisely) along the shortest possible paths—the
+"easiest possible paths" or the "paths of least resistance." if the space is warped, such paths will be
+curved. and so, although the rubber membrane–bowling ball model provides a good visual analogy
+of how an object such as the sun warps the space around it and thereby influences the motion of other
+bodies,  the  physical  mechanism  by  which  these  distortions  occur  is  totally  different.  the  former
+appeals  to  our  intuition  about  gravity  in  the  traditional  newtonian  framework,  whereas  the  latter
+expresses a reformulation of gravity in terms of curved space.
+
+a second shortcoming of the analogy stems from the rubber membrane's being two-dimensional.
+in  reality,  although  harder  to  visualize,  the  sun  (and  all  other  massive  objects)  actually  warps  the
+three-dimensional space surrounding it. figure 3.6 is a rough attempt to depict this; all of the space
+surrounding  the  sun—"below,"  "on  the  sides,"  on  
+ 
+ ___________________________
+ 
+ the earth slam into the "vertical part" of curved space in the image? bear in
+mind, though, that space, unlike the rubber membrane, is not a solid barrier. instead, the warped grids
+in the image are but a couple of thin slices through the full three-dimensional warped space in which
+you, the earth, and everything else are immersed fully and move freely. perhaps you find that this only
+makes the problem seem worse: why don't we feel space if we are immersed within its fabric? but
+we do. we feel gravity, and space is the medium by which the gravitational force is communicated.
+as  the  eminent  physicist  john  wheeler  has  often  said  in  describing  gravity,  "mass  grips  space  by
+telling it how to curve, space grips mass by telling it how to move."8
+
+a third, related shortcoming of the analogy is that we have suppressed the time dimension. we
+have done this for visual clarity because, notwithstanding the declaration of special relativity that we
+should think of the time dimension on par
+ 
+ ___________________________
+ 
+ with the three familiar spatial dimensions, it is significantly
+harder to "see" time. but, as illustrated by the example of the tornado ride, acceleration—and hence
+gravity—warps both space and time. (in fact, the mathematics of general relativity shows that in the
+case of a relatively slow-moving body like the earth revolving around a typical star like the sun, the
+warping of time actually has a far more significant impact on the earth's motion than does the warping
+of space.) we will return to a discussion of the warping of time after the next section.
+
+figure 3.6 a sampling of the warped three-dimensional space surrounding the sun.
+
+important as these three 
+ 
+ ___________________________
+ 
+caveats are, so long as you hold them in the back of your mind, it is
+perfectly acceptable to invoke the warped-space image provided by the bowling ball on the rubber
+membrane as an intuitive summary of einstein's new view of gravity.
+
+conflict resolution
+
+by introducing space and time as dynamic players, einstein provided a clear conceptual image of
+how gravity works. the central question, though, is whether this reformulation of the gravitational
+force  resolves  the  conflict  with  special  relativity  that  afflicts  newton's  theory  of  gravity.  it  does.
+again, the rubber membrane analogy gives the essential idea. imagine that we have a ball bearing
+rolling in a straight line along the flat membrane in the absence of the bowling ball. as we place the
+bowling  ball  on  the  membrane  the  motion  of  the  ball  bearing  will  be  affected,  bu
+ 
+ ___________________________
+ 
+elf  toward  the  sun. as  he  does  so,  he
+periodically  stops  so  that  he  and  gracie  can  compare  the  rate  at  which  time  is  elapsing  on  their
+clocks.  the  warping  of  time  predicted  by  einstein's  general  relativity  implies  that  george's  clock
+will  run  slower  and  slower  compared  with  gracie's  as  the  gravitational  field  he  experiences  gets
+stronger and stronger. that is, the closer he gets to the sun the slower his clock will run. it is in this
+sense that gravity distorts time as well as space.
+
+you should note that unlike the case in chapter 2 in which george and gracie were in empty
+space moving relative to each other with constant velocity, in the present setting there is no symmetry
+between them. george, unlike gracie, feels the force of gravity getting stronger and stronger—he has
+to hold the cable tighter and tighter as he gets closer to the sun to avoid being pulled in. each of them
+agrees that george's clock is running slow. there is no "equal
+ 
+ ___________________________
+ 
+l  field
+would cause his clock to tick at about 76 percent of the rate of gracie's. stronger gravitational fields,
+such as those just outside a black hole (as discussed below), cause the flow of time to slow even
+further; stronger gravitational fields cause a more severe warping of time.
+
+experimental verification of general relativity
+
+most people who study general relativity are captivated by its aesthetic elegance. by replacing the
+cold,  mechanistic  newtonian  view  of  space,  time,  and  gravity  with  a  dynamic  and  geometric
+description involving curved spacetime, einstein wove gravity into the basic fabric of the universe.
+rather than being imposed as an additional structure, gravity becomes part and parcel of the universe
+at its most fundamental level. breathing life into space and time by allowing them to curve, warp, and
+ripple results in what we commonly refer to as gravity.
+
+aesthetics  aside,  the  ultimate  test  of  a  physical  theory  is  its  ability  to  explain  and  
+ 
+ ___________________________
+ 
+predict
+physical  phenomena  accurately.  since  its  inception  in  the  late  1600s  until  the  beginning  of  this
+century,  newton's  theory  of  gravity  passed  this  test  with  flying  colors.  whether  applied  to  balls
+thrown up in the air, objects dropped from leaning towers, comets whirling around the sun, or planets
+going  about  their  solar  orbits,  newton's  theory  provides  extremely  accurate  explanations  of  all
+
+observations  as  well  as  predictions  that  have  been  verified  innumerable  times  in  a  wealth  of
+situations.  the  motivation  for  questioning  this  experimentally  successful  theory,  as  we  have
+emph
+ 
+ ___________________________
+ 
+asized, was its property of instantaneous transmission of the gravitational force, in conflict with
+special relativity.
+
+the effects of special relativity, although central to a fundamental understanding of space, time,
+and  motion,  are  extremely  small  in  the  slow-velocity  world  we  typically  inhabit.  similarly,  the
+deviations  between  einstein's  general  relativity—a  theory  of  gravity  compatible  with  special
+relativity—and newton's theory of gravity are also extremely small in most common situations. this
+is both good and bad. it is good because any theory purporting to supplant newton's theory of gravity
+had  better  closely  agree  with  it  when  applied  in  those  arenas  in  which  newton's  theory  has  been
+experimentally verified. it is bad because it makes it difficult to adjudicate between the two theories
+experimentally. distinguishing between newton's and einstein's theories requires extremely precise
+measurements applied to e
+ 
+ ___________________________
+ 
+xperiments that are very sensitive to the ways in which the two theories
+differ. if you throw a baseball, newtonian and einsteinian gravity can be used to predict where it
+will  land,  and  the  answers  will  be  different,  but  the  differences  will  be  so  slight  that  they  are
+generally beyond our capacity to detect experimentally. a more clever experiment is called for, and
+einstein suggested one.10
+
+we see stars at night, but of course they are also there during the day. we usually don't see them
+because their distant, pinpoint light is overwhelmed by the light emitted by the sun. during a solar
+eclipse, however, the moo
+ 
+ ___________________________
+ 
+ath is bent can be measured in a simple way. the bending of
+the starlight's path results in a shift in the apparent position of the star. the shift can be accurately
+measured  by  comparing  this  apparent  position  with  the  star's actual  location  known  from
+observations of the star at night (in the absence of the sun's warping influence), carried out when the
+earth is at an appropriate position, some six months earlier or later. in november of 1915, einstein
+used his new understanding of gravity to calculate the angle through which starlight signals that just
+graze the sun would be bent and found the answer to be about.00049 of a degree (1.75 arcseconds,
+where an arcsecond is 1/3600 of a degree). this tiny angle is equal to that subtended by a quarter
+placed upright and viewed from nearly two miles away. the detection of such a small angle was,
+however, within reach of the technology of the day. at the urging of sir frank dyson, director of the
+greenwich observatory, sir arthur eddingt
+ 
+ ___________________________
+ 
+utiny.  numerous  difficult  and  subtle  aspects  of  the  measurement  made  it  hard  to
+reproduce  and  raised  some  questions  regarding  the  trustworthiness  of  the  original  experiment.
+nevertheless, in the last 40 years a variety of experiments making use of technological advancements
+have tested numerous aspects of general relativity with great precision. the predictions of general
+relativity have been uniformly confirmed. there is no longer any doubt that einstein's description of
+gravity is not only compatible with special relativity, but yields predictions closer to experimental
+results than those of newton's theory.
+
+black holes, the big bang, and the expansion of space
+
+whereas special relativity is most manifest when things are moving fast, general relativity comes into
+its own when things are very massive and the warps in space and time are correspondingly severe.
+let's describe two examples.
+
+the  first  is  a  discovery  made  by  the  german  astronomer  karl  schwarzsc
+ 
+ ___________________________
+ 
+hild  while  studying
+einstein's  revelations  on  gravity  in  between  his  own  calculations  of  artillery  trajectories  at  the
+russian  front  during  world  war  i  in  1916.  remarkably,  just  months  after  einstein  had  put  the
+finishing touches on general relativity, schwarzschild was able to use the theory to gain a complete
+and exact understanding of the way space and time warp in the vicinity of a perfectly spherical star.
+schwarzschild  sent  his  results  from  the  russian  front  to  einstein,  who  presented  them  on
+schwarzschi
+ 
+ ___________________________
+ 
+ky way galaxy. and even this
+seemingly gargantuan black hole pales in comparison to what astronomers believe to reside in the
+core  of  the  astonishingly  luminous  quasars  that  are  scattered  throughout  the  cosmos:  black  holes
+whose masses may well be billions of times that of the sun.
+
+schwarzschild  died  only  a  few  months  after  finding  his  solution,  from  a  skin  disease  he
+contracted at the russian front. he was 42. his tragically brief encounter with einstein's theory of
+gravity uncovered one of the most striking and mysterious facets of the natural world.
+
+the  second  example  in  which  general  relativity  flexes  its  muscle  concerns  the  origin  and
+evolution of the whole universe. as we have seen, einstein showed that space and time respond to the
+presence of mass and energy. this distortion of spacetime affects the motion of other cosmic bodies
+moving in the vicinity of the resulting warps. in turn, the precise way in which these bodies move, by
+virtue of the
+ 
+ ___________________________
+ 
+ve been found in experiments performed
+with  our  present  level  of  technology.  only  time  will  tell  if  greater  experimental  precision  will
+ultimately uncover some, thereby showing this theory, too, to be only an approximate description of
+how nature actually works. the systematic testing of theories to greater and greater levels of accuracy
+is, certainly, one of the ways science progresses, but it is not the only way. in fact, we have already
+seen this: the search for a new theory of gravity was initiated, not by an experimental refutation of
+newton's  theory,  but  rather  by  the  conflict  of  newtonian  gravity  with  another theory—special
+relativity. it was only after the discovery of general relativity as a competing theory of gravity that
+experimental flaws in newton's theory were identified by seeking out tiny but measurable ways in
+which the two theories differ. thus, internal theoretical inconsistencies can play as pivotal a role in
+driving progress as do experimental 
+ 
+ ___________________________
+ 
+data.
+
+for  the  last  half  century,  physics  has  been  faced  with  still  another  theoretical  conflict  whose
+
+severity  is  on  par  with  that  between  special  relativity  and  newtonian  gravity.  general  relativity
+appears  to  be  fundamentally  incompatible  with  another  extremely  well-tested  theory: quantum
+mechanics.  regarding  the  material  covered  in  this  chapter,  the  conflict  prevents  physicists  from
+understanding  what  really  happens  to  space,  time,  and  matter  when  crushed  together  fully  at  the
+moment of the big bang or at the central point of a black hole. but more generally, the conflict alerts
+us to a fundamental deficiency in our conception of n
+ 
+ ___________________________
+ 
+nt and his results matched figure 4.8,
+thereby confirming the wave picture. newton's corpuscular view was defeated (although it took quite
+some time before physicists accepted this). the prevailing wave view of light was subsequently put
+on a mathematically firm foundation by maxwell.
+
+figure 4.8 if light is a wave, then when both slits are open there will be interference between the
+portions of the wave emerging from each slit.
+
+but einstein, the man who brought down newton's revered theory of gravity, seems now to have
+resurrected newton's particle model of light by his introduction of photons. of course, we still face
+the  same  question:  how  can  a  particle  perspective  account  for  the  interference  pattern  shown  in
+figure  4.8?  at  first  blush  you  might  make  the  following  suggestion.  water  is  composed  of  h 2o
+molecules—the "particles" of water. nevertheless, when a lot of these molecules stream along with
+one another they can produce water waves, with the attendan
+ 
+ ___________________________
+ 
+ uncertainty principle captures the heart of quantum mechanics. features that we normally
+think of as being so basic as to be beyond question—that objects have definite positions and speeds
+and that they have definite energies at definite moments—are now seen as mere artifacts of planck's
+constant being so tiny on the scales of the everyday world. of prime importance is that when this
+quantum realization is applied to the fabric of spacetime, it shows fatal imperfections in the "stitches
+of gravity" and leads us to the third and primary conflict physics has faced during the past century.
+
+chapter 5
+
+the need for a new theory: general relativity vs. quantum
+
+mechanics
+
+our  understanding  of  the  physical  universe  has  deepened  profoundly  during  the  past  century.  the
+theoretical  tools  of  quantum  mechanics  and  general  relativity  allow  us  to  understand  and  make
+testable  predictions  about  physical  happenings  from  the  atomic  and  subatomic  realms  all  the  way
+
+ 
+ ___________________________
+ 
+, which keeps quarks
+locked  up  inside  of  protons  and  neutrons,  arises  from  individual  quarks  exchanging  gluons.  the
+gluons, so to speak, provide the "glue" that keeps these subatomic particles stuck together. the weak
+force, which is responsible for certain kinds of particle transmutations involved in radioactive decay,
+is mediated by the weak gauge bosons.
+
+gauge symmetry
+
+you may have realized that the odd man out in our discussion of the quantum theory of the forces of
+nature is gravity. given the successful approach physicists have used with the other three forces, you
+might suggest that physicists seek a quantum field theory of the gravitational force—a theory in which
+
+recall that the gravitational force allows us to declare that all observers—regardless of their
+state of motion—are on absolutely equal footing. even those whom we would normally think of as
+accelerating  may  claim  to  be  at  rest,  since  they  can  attribute  the  force  they  feel  to  their  bei
+ 
+ ___________________________
+ 
+ng
+immersed in a gravitational field. in this sense, gravity enforces the symmetry: it ensures the equal
+validity of all possible observational points of view, all possible frames of reference. the similarity
+with the strong, weak, and electromagnetic forces is that they too are all connected with enforcing
+symmetries, albeit ones that are significantly more abstract than the one associated with gravity.
+
+to  get  a  rough  feel  for  these  rather  subtle  symmetry  principles,  let's  consider  one  important
+example. as we recorded in the table in endnote 1 of chapter 1, each quark comes in three "colors"
+(fancifully called red, green, and blue, although these are merely labels and have no relation to color
+in the usual visual sense), which determine how it responds to the strong force in much the same way
+that its electric charge determines how it responds to the electromagnetic force. all
+ 
+ ___________________________
+ 
+the physical
+interactions  between  the  particles  completely  unchanged.  for  the  case  of  the  gauge  symmetry
+associated with shifting quark-color charges, the required force is none other than the strong force
+itself.  that  is,  without  the  strong  force,  physics would  change  under  the  kinds  of  shifts  of  color
+charges indicated above. this realization shows that, although the gravitational force and the strong
+force have vastly different properties (recall, for example, that gravity is far feebler than the strong
+force and operates over enormously larger distances), they do have a somewhat similar heritage: they
+are  each  required  in  order  that  the  universe  embody  particular  symmetries.  moreover,  a  similar
+discussion applies to the weak and electromagnetic forces, showing that their existence, too, is bound
+up with yet other gauge symmetries—the so-called weak and electromagnetic gauge symmetries. and
+
+hence, all four forces are directly associated with prin
+ 
+ ___________________________
+ 
+n universe.
+
+by contrast, the standard model views the elementary constituents of the universe as pointlike
+ingredients  with  no  internal  structure.  as  powerful  as  this  approach  is  (as  we  have  mentioned,
+essentially  every  prediction  about  the  microworld  made  by  the  standard  model  has  been  verified
+down to about a billionth of a billionth of a meter, the present-day technological limit), the standard
+model cannot be a complete or final theory because it does not include gravity. moreover, attempts to
+incorporate gravity into its quantum-mechanical framework have failed due to the violent fluctuations
+in  the  spatial  fabric  that  appear  at  ultramicroscopic  distances—that  is,  distances  shorter  than  the
+planck  length.  the  unresolved  conflict  has  impelled  a  search  for  an  even  deeper  understanding  of
+nature. in 1984, the physicists michael green, then of queen mary college, and john schwarz of the
+california institute of technology provided the f
+ 
+ ___________________________
+ 
+avitational  force  have,  as  yet,  never  been
+seen, theorists can confidently predict certain basic features that they must possess, and scherk and
+
+schwarz found these properties to be realized exactly by certain vibrational patterns. based on this,
+scherk and schwarz suggested that string theory had failed in its initial attempt because physicists had
+unduly constrained its scope. string theory is not just a theory of the strong force, they proclaimed; it
+is a quantum theory that includes gravity as well.3
+
+the  physics  community  did  not  receive  this  suggestion  with  unbridled  enthusiasm.  in  fact,
+schwarz recounts that "our work was universally ignored."4 the path of progress was already littered
+with numerous failed attempts to unite gravity and quantum mechanics. string theory had been shown
+wrong in its initial effort to describe the strong force, and it seemed to many that it was senseless to
+try to use the theory to pursue an even grander goal. even more devastating, subs
+ 
+ ___________________________
+ 
+  1984. although  i  was  excited  to  be
+learning  about  the  likes  of  quantum  field  theory,  gauge  theory,  and  general  relativity,  there  was  a
+pervasive  feeling  among  the  older  graduate  students  that  there  was  little  or  no  future  for  particle
+physics.  the  standard  model  was  in  place  and  its  remarkable  success  at  predicting  experimental
+outcomes indicated that its verification was merely a matter of time and details. going beyond its
+limits  to  include  gravity  and  possibly  to explain the experimental input on which it relies—the 19
+numbers summarizing the elementary particle masses, their force charges, and the relative strengths of
+the  forces,  numbers  that  are  known  from  experiment  but  are  not  understood  theoretically—was  so
+daunting a task that all but the most courageous physicists recoiled at the challenge. but six months
+later  the  mood  had  swung  completely  around.  the  success  of  green  and  schwarz  finally  trickle
+ 
+ ___________________________
+ 
+ vis
+a vis other forces. the electric charge, the weak charge, and the strong charge carried by a particular
+string, for instance, are determined by the precise way it vibrates. moreover, exactly the same idea
+holds for the messenger particles themselves. particles like photons, weak gauge bosons, and gluons
+are yet other resonant patterns of string vibration. and of particular importance, among the vibrational
+string patterns, one matches perfectly the properties of the graviton, ensuring that gravity is an integral
+part of string theory.7
+
+so we see that, according to string theory, the observed properties of each elementary particle
+arise because its internal string undergoes a particular resonant vibrational pattern. this perspective
+differs sharply from that espoused by physicists before the discovery of string theory; in the earlier
+perspective the differences among the fundamental particles were explained by saying that, in effect,
+each  particle  species  was  "cut  from  a  different
+ 
+ ___________________________
+ 
+ to the present day, as such super-
+heavy particles are usually unstable, relinquishing their enormous mass by decaying into a cascade of
+ever  lighter  particles,  ending  with  the  familiar,  relatively  light  particles  in  the  world  around  us.
+however, it is possible that such a super-heavy vibrational string state—a relic from the big bang—
+did survive to the present. finding such particles, as we discuss more fully in chapter 9, would be a
+monumental discovery, to say the least.
+
+gravity and quantum mechanics in string theory
+
+the unified framework that string theory presents is compelling. but its real attraction is the ability to
+ameliorate  the  hostilities  between  the  gravitational  force  and  quantum  mechanics.  recall  that  the
+problem in merging general relativity and quantum mechanics turns up when the central tenet of the
+former—that  space  and  time  constitute  a  smoothly  curving  geometrical  structure—confronts  the
+essential feature of the latter—th
+ 
+ ___________________________
+ 
+distance scales. like our fingers on granite, the
+string  smears  out  the  jittery  ultramicroscopic  fluctuations  of  the  gravitational  field.  although  the
+resulting  fluctuations  are  still  substantial,  this  smearing  smooths  them  out  just  enough  to  cure  the
+incompatibility between general relativity and quantum mechanics. and, in particular, the pernicious
+infinities (discussed in the preceding chapter) that arise in the point-particle approach to forming a
+quantum theory of gravity are done away with by string theory.
+
+an essential difference between the granite analogy and our real concern with the spatial fabric
+is that there are ways in which the microscopic discreteness of the granite's surface can be exposed:
+finer, more precise probes than our fingers can be used. an electron microscope has the ability to
+resolve surface features to less than a millionth of a centimeter; this is sufficiently small to reveal the
+numerous  surface  imperfections.  by  contrast,  in  s
+ 
+ ___________________________
+ 
+ime,
+therefore,  it  seemed  impossible  to  find  a  sensible  quantum  theory  based  on  anything  but  point
+particles.  the  truly  impressive  feature  of  string  theory  is  that  more  than  twenty  years  of  exacting
+research has shown that although certain features are unfamiliar, string theory does respect all of the
+requisite properties inherent in any sensible physical theory. and furthermore, through its graviton
+pattern of vibration, string theory is a quantum theory containing gravity.
+
+the more precise answer
+
+the rough answer captures the essence of why string theory prevails where previous point-particle
+theories failed. and so, if you like, you can go on to the next section without losing the logical flow of
+our  discussion.  but  having  developed  the  essential  ideas  of  special  relativity  in  chapter  2,  we
+already have the necessary tools for describing more accurately how string theory calms the violent
+quantum jitters.
+
+in the more precise answer, we rely upo
+ 
+ ___________________________
+ 
+vity spread,
+a student asked einstein about what he would have thought if eddington's experiment had not found
+the predicted bending of starlight. einstein replied, "then i would have been sorry for the dear lord,
+for the theory is correct."1 of course, had experiments truly failed to confirm einstein's predictions,
+the  theory  would  not  be  correct  and  general  relativity  would  not  have  become  a  pillar  of  modern
+physics. but what einstein meant is that general relativity describes gravity with such a deep inner
+elegance, with such simple yet powerful ideas, that he found it hard to imagine that nature could pass
+it by. general relativity, in einstein's view, was almost too beautiful to be wrong.
+
+aesthetic  judgments  do  not  arbitrate  scientific  discourse,  however.  ultimately,  theories  are
+judged  by  how  they  fare  when  faced  with  cold,  hard,  experimental  facts.  but  this  last  remark  is
+subject to an immensely important qualification. while a theory is being
+ 
+ ___________________________
+ 
+ definitively  rule  out  the
+possibility that a whole new kind of physics prevails elsewhere, but everything points to the contrary.
+again, this does not mean that the universe looks the same—or has the same detailed properties
+—in different locations. an astronaut jumping on a pogo stick on the moon can do all sorts of things
+that are impossible to do on earth. but we recognize that the difference arises because the moon is far
+less massive than the earth; it does not mean that the law of gravity is somehow changing from place
+to place. newton's, or more precisely, einstein's, law of gravity is the same on earth as it is on the
+moon.  the  difference  in  the  astronaut's  experience  is  one  of  change  in  environmental  detail,  not
+variation of physical law.
+
+physicists describe these two properties of physical laws—that they do not depend on when or
+where you use them—as symmetries of nature. by this usage physicists mean that nature treats every
+moment in time and every locat
+ 
+ ___________________________
+ 
+ laws.
+
+through  the  equivalence  principle  of  general  relativity,  einstein  significantly  extended  this
+symmetry by showing that the laws of physics are actually identical for all observers, even if they are
+undergoing complicated accelerated motion. recall that einstein accomplished this by realizing that
+an accelerated observer is also perfectly justified in declaring himself or herself to be at rest, and in
+claiming that the force he or she feels is due to a gravitational field. once gravity is included in the
+framework, all possible observational vantage points are on a completely equal footing. beyond the
+intrinsic aesthetic appeal of this egalitarian treatment of all motion, we have seen that these symmetry
+principles played a pivotal role in the stunning conclusions regarding gravity that einstein found.
+
+are there any other symmetry principles having to do with space, time, and motion that the laws
+of nature should respect? if you think about this you might come up with one mo
+ 
+ ___________________________
+ 
+ of the electron. in the language of the trade, physicists say that matter
+particles  all  have  "spin-1/2,"  where  the  value  1/2  is,  roughly  speaking,  a  quantum-mechanical
+measure  of  how  quickly  the  particles  rotate.2  moreover,  physicists  have  shown  that  the
+nongravitational force carriers—photons, weak gauge bosons, and gluons—also possess an intrinsic
+spinning characteristic that turns out to be twice that of the matter particles. they all have "spin-1."
+
+what  about  gravity?  well,  even  before  string  theory,  physicists  were  able  to  determine  what
+spin the hypothesized graviton must have to be the transmitter of the gravitational force. the answer:
+twice the spin of photons, weak gauge bosons, and gluons—i.e., "spin-2."
+
+in the context of string theory, spin—just like mass and force charges—is associated with the
+pattern of vibration that a string executes. as with point particles, it's a bit misleading to think of the
+spin carried by a string as ar
+ 
+ ___________________________
+ 
+s image does give
+a loose picture to have in mind. by the way, we can now clarify an important issue we encountered
+earlier. in 1974, when scherk and schwarz proclaimed that string theory should be thought of as a
+quantum theory incorporating the gravitational force, they did so because they had found that strings
+necessarily  have  a  vibrational  pattern  in  their  repertoire  that  is massless  and  has  spin-2—the
+hallmark features of the graviton. where there is a graviton there is also gravity.
+
+loophole in the coleman-mandula result concerning the possible symmetries of nature, mentioned in
+the preceding section.
+
+supersymmetry and superpartners
+
+as we have emphasized, the concept of spin, although superficially akin to the image of a spinning
+top, differs in substantial ways that are rooted in quantum mechanics. its discovery in 1925 revealed
+that  there  is  another  kind  of  rotational  motion  that  simply  would  not  exist  in  a  purely  classical
+universe.
+
+this suggests t
+ 
+ ___________________________
+ 
+tandpoint, physicists find it hard to believe that nature would respect almost,
+but not quite all of the symmetries that are mathematically possible. of course, it is possible that an
+incomplete utilization of symmetry is what actually occurs, but it would be such a shame. it would be
+as if bach, after developing numerous intertwining voices to fill out an ingenious pattern of musical
+symmetry, left out the final, resolving measure.
+
+second, even within the standard model, a theory that ignores gravity, thorny technical issues
+that are associated with quantum processes are swiftly solved if the theory is supersymmetric. the
+basic problem is that every distinct particle species makes its own contribution to the microscopic
+quantum-mechanical  frenzy.  physicists  have  found  that  in  the  bath  of  this  frenzy,  certain  processes
+involving particle interactions remain consistent only if numerical parameters in the standard model
+are fine-tuned—to better than one part in a million billion
+ 
+ ___________________________
+ 
+ry  goes  well
+beyond that presented in the preceding section. string theory is the only way we know of to merge
+general relativity and quantum mechanics. but it's only the supersymmetric version of string theory
+that  avoids  the  pernicious  tachyon  problem  and  that  has  fermionic  vibrational  patterns  that  can
+account  for  the  matter  particles  constituting  the  world  around  us.  supersymmetry  therefore  comes
+
+hand-in-hand with string theory's proposal for a quantum theory of gravity, as well as with its grand
+claim  of  uniting  all  forces  and  all  of  matter.  if  string  theory  is  right,  physicists  expect  that  so  is
+supersymmetry.
+
+until  the  mid-1990s,  however,  one  particularly  troublesome  aspect  plagued  supersymmetric
+
+string theory.
+
+a super-embarrassment of riches
+
+if someone tells you that they have solved the mystery of amelia earhart's fate, you might be skeptical
+at first, but if they have a well-documented, thoroughly pondered explanation, you 
+ 
+ ___________________________
+ 
+in's.  but  because  he  included  an  extra  space  dimension,  not
+surprisingly kaluza found extra equations beyond those einstein originally derived. after studying the
+extra  equations  associated  with  the  new  dimension,  kaluza  realized  that  something  amazing  was
+going on. the extra equations were none other than those maxwell had written down in the 1880s for
+describing  the  electromagnetic  force!  by  adding  another  space  dimension,  kaluza  had  united
+einstein's theory of gravity with maxwell's theory of light.
+
+before  kaluza's  suggestion,  gravity  and  electromagnetism  were  thought  of  as  two  unrelated
+forces;  nothing  had  even  hinted  that  there  might  be  a  relation  between  them.  by  having  the  bold
+creativity to imagine that our universe has an additional space dimension, kaluza suggested that there
+was  a  deep  connection,  indeed.  his  theory  argued  that  both  gravity  and  electromagnetism  are
+associated with ripples in the fabric of spac
+ 
+ ___________________________
+ 
+e. gravity is carried by ripples in the familiar three space
+dimensions, while electromagnetism is carried by ripples involving the new, curled-up dimension.
+
+kaluza sent his paper to einstein, and at first einstein was quite intrigued. on april 21, 1919,
+einstein wrote back to kaluza and told him that it had never occurred to him that unification might be
+achieved "through a five-dimensional [four space and one time] cylinder-world." he added, "at first
+glance, i like your idea enormously."4 about a week
+ 
+ ___________________________
+ 
+t a
+matter of time before the rest were confirmed as well. although a few important details remained
+unresolved,  many  felt  that  the  major  questions  concerning  the  strong,  weak,  and  electromagnetic
+forces had been answered.
+
+the time was finally ripe to return to the grandest question of all: the enigmatic conflict between
+general relativity and quantum mechanics. the success in formulating a quantum theory of three of
+nature's forces emboldened physicists to try to bring the fourth, gravity, into the fold. having pursued
+numerous  ideas  that  all  ultimately  failed,  the  mind-set  of  the  community  became  more  open  to
+comparatively radical approaches. after being left for dead in the late 1920s, kaluza-klein theory
+was resuscitated.
+
+modern kaluza-klein theory
+
+the understanding of physics had significantly changed and substantially deepened in the six decades
+since kaluza's original proposal. quantum mechanics had been fully formulated and experimentally
+verified.  the  s
+ 
+ ___________________________
+ 
+riment has yet revealed their existence.
+
+figure 8.7 two extra dimensions curled up into the shape of a sphere.
+
+figure 8.8 two extra dimensions curled up in the shape of a hollow doughnut, or torus.
+
+the  most  promising  of  the  higher-dimensional  proposals  were  those  that  also  incorporated
+supersymmetry. physicists hoped that the partial cancelling of the most severe quantum fluctuations,
+arising from the pairing of superpartner particles, would help to soften the hostilities between gravity
+and  quantum  mechanics.  they  coined  the  name higher-dimensional supergravity  to  describe  those
+theories encompassing gravity, extra dimensions, and supersymmetry.
+
+as  had  been  the  case  with  kaluza's  original  attempt,  various  versions  of  higher-dimensional
+supergravity looked quite promising at first. the new equations resulting from the extra dimensions
+were strikingly reminiscent of those used in the description of electromagnetism, and the strong and
+the weak forces. but d
+ 
+ ___________________________
+ 
+t any theory describes
+our  world  without  subjecting  its  predictions  to  experimental  verification.  and  no  matter  how
+compelling a picture string theory paints, if it does not accurately describe our universe, it will be no
+more relevant than an elaborate game of dungeons and dragons.
+
+edward  witten  is  fond  of  declaring  that  string  theory  has  already  made  a  dramatic  and
+experimentally  confirmed  prediction:  "string  theory  has  the  remarkable  property  of predicting
+gravity."1 what witten means by this is that both newton and einstein developed theories of gravity
+because their observations of the world clearly showed them that gravity exists, and that, therefore, it
+required an accurate and consistent explanation. on the contrary, a physicist studying string theory—
+even if he or she was completely unaware of general relativity—would be inexorably led to it by the
+string framework. through its massless spin-2 graviton pattern of vibration, string theory has g
+ 
+ ___________________________
+ 
+ravity
+thoroughly sewn into its theoretical fabric. as witten has said, "the fact that gravity is a consequence
+of  string  theory  is  one  of  the  greatest  theoretical  insights  ever."2  in  acknowledging  that  this
+"prediction" is more precisely labeled a "postdiction" because physicists had discovered theoretical
+descriptions of gravity before they knew of string theory, witten points out that this is a mere accident
+of history on earth. in other advanced civilizations in the universe, witten fancifully argues, it is quite
+possible  that  string  theory  was  discovered  first,  and  a  theory  of  gravity  found  as  a  stunning
+consequence.
+
+since  we  are  bound  to  the  history  of  science  on  our  planet,  there  are  many  who  find  this
+postdiction of gravity unconvincing experimental confirmation of string theory. 
+ 
+ ___________________________
+ 
+hich for
+decades to come.4
+
+and he even questioned whether string theorists should "be paid by physics departments and allowed
+to pervert impressionable students," warning that string theory was was undermining science, much as
+medieval theology did during the middle ages.5
+
+richard feynman, shortly before he died, made it clear that he did not believe that string theory
+the unique  cure  for  the  problems—the  pernicious  infinities,  in  particular—besetting  a
+
+was 
+harmonious merger of gravity and quantum mechanics:
+
+my feeling has been—and i could be wrong—that there is more than one way to skin a
+cat. i don't think that there's only one way to get rid of the infinities. the fact that a theory
+gets rid of infinities is to me not a sufficient reason to believe its uniqueness.6
+
+and howard georgi, glashow's eminent harvard colleague and collaborator, was also a vociferous
+string critic in the late 1980s:
+
+if  we  allow  ourselves  to  be  beguiled  by  the  siren  call  of  the  
+ 
+ ___________________________
+ 
+"ultimate"  unification  at
+distances  so  small  that  our  experimental  friends  cannot  help  us,  then  we  are  in  trouble,
+because we will lose that crucial process of pruning of irrelevant ideas which distinguishes
+physics from so many other less interesting human activities.7
+
+as with many issues of great importance, for each of these naysayers, there is an enthusiastic
+supporter. witten has said that when he learned how string theory incorporates gravity and quantum
+mechanics, it was "the greatest intellectual thrill" of his life.8 cumrun vafa, a leading string theorist
+from harvard university, has said that "string theory is definitely revealing the deepest understanding
+of the universe which we have ever had."9 and nobel prize–winner murray gell-mann has said that
+string theory is "a fantastic thing" and that he expects that some version of string theory will someday
+be the theory of the whole world.10
+
+as you can see, the debate is fueled 
+ 
+ ___________________________
+ 
+ecise geometrical form of the curled-up dimensions. and so, once again, we come to realize that
+string  theory  provides  a  framework  for  explaining  the  observed  messenger-particle  content  of  our
+universe,  that  is,  for  explaining  the  properties  of  the  fundamental  forces,  but  that  without  knowing
+exactly which calabi-yau shape the extra dimensions are curled into, we cannot make any definitive
+predictions or postdictions (beyond witten's remark regarding the postdiction of gravity).
+
+why can't we figure out which is the "right" calabi-yau shape? most string theorists blame this
+on the inadequacy of the theoretical tools currently being used to analyze string theory. as we shall
+discuss in some detail in chapter 12, the mathematical framework of string theory is so complicated
+that physicists have been able to perform only approximate calculations through a formalism known
+as perturbation theory. in this approximation scheme, each possible calabi-yau shape appears to be
+o
+ 
+ ___________________________
+ 
+l  continue,  but  will  it  be  sufficient  to
+overcome present hurdles and yield definitive, experimentally testable predictions? will the indirect
+tests we have discussed above result in a true smoking gun for string theory? these questions are of
+central concern to all string theorists, but they are also questions about which nothing can really be
+said. only the passage of time will reveal the answers. the beautiful simplicity of string theory, the
+way in which it tames the conflict between gravity and quantum mechanics, its ability to unify all of
+nature's  ingredients,  and  its  potential  of  limitless  predictive  power  all  serve  to  provide  rich
+inspiration that makes the risk worth taking.
+
+these  lofty  considerations  have  been  continually  reinforced  by  the  ability  of  string  theory  to
+uncover  remarkably  new  physical  characteristics  of  a  string-based  universe—characteristics  that
+reveal a subtle and deep coherence in the workings of nature. in the language
+ 
+ ___________________________
+ 
+ess of currently unknown details, will be basic properties of
+a  universe  built  of  strings.  of  these,  the  most  astonishing  have  had  a  profound  effect  on  our  ever
+
+evolving understanding of space and time.
+
+part iv
+
+string theory and the fabric of spacetime
+
+chapter 10
+
+quantum geometry
+
+in  the  course  of  about  a  decade,  einstein  singlehandedly  overthrew  the  centuries-old  newtonian
+framework and gave the world a radically new and demonstrably deeper understanding of gravity. it
+does  not  take  much  to  get  experts  and  nonexperts  alike  to  gush  over  the  sheer  brilliance  and
+monumental  originality  of  einstein's  accomplishment  in  fashioning  general  relativity.  nevertheless,
+we  should  not  lose  sight  of  the  favorable  historical  circumstances  that  strongly  contributed  to
+einstein's success. foremost among these are the nineteenth-century mathematical insights of georg
+bernhard riemann that firmly established the geometrical apparatus fo
+ 
+ ___________________________
+ 
+athematical
+treatment  of  geometry  on  all  varieties  of  curved  surfaces.  it  is  riemann's  insights  that  provide  the
+mathematics for quantitatively analyzing warped spaces such as those illustrated in figures 3.4 and
+3.6.  einstein's  genius  lay  in  recognizing  that  this  body  of  mathematics  was  tailor-made  for
+implementing  his  new  view  of  the  gravitational  force.  he  boldly  declared  that  the  mathematics  of
+riemann's geometry aligns perfectly with the physics of gravity.
+
+but  now,  almost  a  century  after  einstein's  tour-de-force,  string  theory  gives  us  a  quantum-
+mechanical description of gravity that, by necessity, modifies general relativity when the distances
+involved become as short as the planck length. since riemannian geometry is the mathematical core
+of  general  relativity,  this  means  that  it  too  must  be  modified  in  order  to  reflect  faithfully  the  new
+short-distance physics of string theory. whereas general relativity assert
+ 
+ ___________________________
+ 
+�reflects  the
+distorted distance relations between its points. physically, the gravitational force felt by an object is
+a direct reflection of this distortion. in fact, by making the object smaller and smaller, the physics and
+the  mathematics  align  ever  more  precisely  as  we  get  closer  and  closer  to  physically  realizing  the
+abstract  mathematical  concept  of  a  point.  but  string  theory  limits  how  precisely  riemann's
+geometrical formalism can be realized by the physics of gravity, because there is a limit to how small
+we can make any object. once you get down to strings, you can't go any further. the traditional notion
+of  a  point  particle  does  not  exist  in  string  theory—an  essential  element  in  its  ability  to  give  us  a
+quantum theory of gravity. this concretely shows us that riemann's geometrical framework, which
+relies fundamentally upon distances between points, is modified on ultramicroscopic scales by string
+theory.
+
+this  observation  has  a  ver
+ 
+ ___________________________
+ 
+ollapsing.  the  general  belief  among  string
+theorists is that, regardless of shape, there is a minimum limiting size, much as in the case of circular
+
+dimensions, so long as we are shrinking a full spatial dimension. establishing this expectation is an
+important goal for further research because it has a direct impact on a number of aspects of string
+theory, including its implications for cosmology.
+
+mirror symmetry
+
+through general relativity, einstein forged a link between the physics of gravity and the geometry of
+spacetime.  at  first  blush,  string  theory  strengthens  and  broadens  the  link  between  physics  and
+geometry, since the properties of vibrating strings—their mass and the force charges they carry—are
+largely determined by the properties of the curled-up component of space. we have just seen, though,
+that  quantum  geometry—the  geometry-physics  association  in  string  theory—has  some  surprising
+twists. in general relativity, and in "conventional" geometry
+ 
+ ___________________________
+ 
+nds of spatial irregularities to
+occur only if they are deeply hidden from our view behind the shroud of an event horizon. on the
+other hand, prior to the discovery of string theory, some physicists surmised that a proper merger of
+quantum mechanics and general relativity would show that the apparent puncture of space is actually
+smoothed out—"sewn up," so to speak—by quantum considerations.
+
+with  the  discovery  of  string  theory  and  the  harmonious  merger  of  quantum  mechanics  and
+gravity,  we  are  finally  poised  to  study  these  issues. as  yet,  string  theorists  have  not  been  able  to
+answer  them  fully,  but  during  the  last  few  years  closely  related  issues have  been  solved.  in  this
+chapter  we  discuss  how  string  theory,  for  the  first  time,  definitively  shows  that  there  are  physical
+
+circumstances—differing from wormholes and black holes in certain ways—in which the fabric of
+space can tear.
+
+a tantalizing possibility
+
+in  1987,  shing-
+ 
+ ___________________________
+ 
+ak  coupling  properties  of  the  type  i  string,  and  vice  versa.  moreover,  the  strong  coupling
+physics of the type iib string is identical to its own properties when its coupling is weak. these
+unexpected links encourage us to follow witten and press on to the other two string theories, type iia
+and  heterotic-e,  to  see  how  they  fit  into  the  overall  picture.  here  we  will  find  even  more  exotic
+surprises. to prepare ourselves, we need a brief historical digression.
+
+supergravity
+
+in  the  late  1970s  and  early  1980s,  before  the  surge  of  interest  in  string  theory,  many  theoretical
+physicists  sought  a  unified  theory  of  quantum  mechanics,  gravity,  and  the  other  forces  in  the
+framework  of  point-particle  quantum  field  theory.  the  hope  was  that  the  inconsistencies  between
+point-particle  theories  involving  gravity  and  quantum  mechanics  would  be  overcome  by  studying
+theories with a great deal of symmetry. in 1976 stanley deser 
+ 
+ ___________________________
+ 
+and bruno zumino working at cern,
+and independantly, daniel freedman, sergio ferrara, and peter van nieuwenhuizen, all then of the
+state  university  of  new  york  at  stony  brook,  discovered  that  the  most  promising  were  those
+involving  supersymmetry,  since  the  tendency  of  bosons  and  fermions  to  give  cancelling  quantum
+fluctuations helps to calm the violent microscopic frenzy. the authors coined the term supergravity to
+describe  supersymmetric  quantum  field  theories  that  try  to  incorporate  general  relativity.  such
+attempts  to  merge  general  relativity  with  quantum  mechanics  ultimately  met  with  failure.
+nevertheless,  as  mentioned  in  chapter  8,  there  was  a  prescient  lesson  to  be  learned  from  these
+investigations, one that presaged the development of string theory.
+
+the lesson, which perhaps became most clear through the work of eugene cremmer, bernard
+julia,  and  scherk,  
+ 
+ ___________________________
+ 
+all  of  the  ecole  normale  superieure  in  1978,  was  that  the  attempts  that  came
+closest  to  success  were  supergravity  theories  formulated  not  in  four  dimensions,  but  in  more.
+specifically, the most promising were the versions calling for ten or eleven dimensions, with eleven
+dimensions, it turns out, being the maximal possible.11 contact with four observed dimensions was
+accomplished in the framework, once again, of kaluza and klein: the extra dimensions were curled
+up. in the ten-dimensional theories, as in string theory, six dimensions were curled up, while seven
+were curled up for the eleven-dimens
+ 
+ ___________________________
+ 
+ional theory.
+
+when  string  theory  took  physicists  by  storm  in  1984,  the  perspective  on  point-particle
+supergravity theories changed dramatically. as emphasized repeatedly, if we examine a string with
+the precision available currently and for the foreseeable future, it looks like a point particle. we can
+make  this  informal  remark  precise:  when  studying  low-energy  processes  in  string  theory—those
+processes that do not have enough energy to probe the ultramicroscopic, extended nature of the string
+—we can approximate a string by a structureless point particle, using the framework of point-partic
+ 
+ ___________________________
+ 
+e know that the extended nature of the string is crucial to its ability to
+resolve the conflicts between general relativity and quantum mechanics that a point-particle theory
+cannot. but at low enough energies—large enough distances—these problems are not encountered,
+and such an approximation is often made for the sake of calculational convenience.
+
+the  quantum  field  theory  that  most  closely  approximates  string  theory  in  this  manner  is  none
+other  than  ten-dimensional  supergravity.  the  special  properties  of  ten-dimensional  supergravity
+discovered  in  the  1970s  and  1980s  are  now  understood  to  be  low-energy  relics  of  the  underlying
+power of string theory. researchers studying ten-dimensional supergravity had uncovered the tip of a
+very  deep  iceberg—the  rich  structure  of  superstring  theory.  in  fact,  it  turns  out  that  there  are  four
+different  ten-dimensional  supergravity  theories  that  differ  in  details  regarding  the  precise  wa
+ 
+ ___________________________
+ 
+y  in
+which  supersymmetry  is  incorporated.  three  of  these  turn  out  to  be  the  low-energy  point-particle
+approximations to the type iia string, the type iib string, and the heterotic-e string. the fourth gives
+the the low-energy point-particle approximation to both the type i string and the heterotic-o string;
+in retrospect, this was the first indication of the close connection between these two string theories.
+
+this is a very tidy story except that eleven-dimensional supergravity seems to have been left out
+in  the  cold.  string  theory,  formulated  in  ten  dimensions,  appears  to  have  no  room  for  an  eleven-
+dimensional theory. for a number of years, the general view held by most but not all string theorists
+was that eleven-dimensional supergravity was a mathematical oddity without any connection to the
+physics of string theory.12
+
+glimmers of m-theory
+
+the view now is very different. at strings '95, witten argued that if we start with the type iia string
+and 
+ 
+ ___________________________
+ 
+increase its coupling constant from a value much less than 1 to a value much greater than 1, the
+physics we are still able to analyze (essentially that of the bps saturated configurations) has a low-
+energy approximation that is eleven-dimensional supergravity.
+
+when witten announced this discovery, it stunned the audience and it has since rocked the string
+theory community. for almost everyone in the field, it was a completely unexpected development.
+your first reaction to this result may echo that of most experts in the field: how can a theory specific
+to eleven dimensions be relevant to a different theory in ten?
+
+the  answer  is  of  deep  significance.  to  understand  it,  we  must  describe  witten's  result  more
+precisely. actually, it's eas
+ 
+ ___________________________
+ 
+.  nevertheless,  witten's  arguments  and  those  of  other  physicists  during  the  second
+superstring  revolution  do  give  strong  evidence  that  the  type  iia  and  heterotic-e  "strings"  are,
+fundamentally, two-dimensional membranes living in an eleven-dimensional universe.
+
+but  what is  this  eleven-dimensional  theory?  at  low  energies  (low  compared  to  the  planck
+
+energy),  witten  and  others  argued,  it  is  approximated  by  the  long-neglected  eleven-dimensional
+supergravity quantum field theory. but for higher energies, how can we describe this theory? this
+topic  is  currently  under  intense  scrutiny.  we  know  from  figures  12.7  and  12.8  that  the  eleven-
+dimensional theory contains two-dimensional extended objects—two-dimensional membranes. and
+as we shall soon discuss, extended objects of other dimensions play an important role as well. but
+beyond  a  hodgepodge  of  properties, no  one  knows  what  this  eleven-dimensional  theory  is.  are
+membran
+ 
+ ___________________________
+ 
+ vary the coupling and
+geometric parameters, we can pass from any one theory to any other, so long as we also include the
+unifying central region of m-theory; this is shown in figure 12.2. even though we have only a scant
+understanding of m-theory, these indirect arguments lend strong support to the claim that it provides a
+unifying substrate for our five naively distinct string theories. moreover, we have learned that m-
+theory is closely related to yet a sixth theory—eleven-dimensional supergravity—and this is recorded
+in figure 12.11, a more precise version of figure 12.2.13
+
+figure  12.11  illustrates  that  the  fundamental  ideas  and  equations  of  m-theory,  although  only
+partially understood at the moment, unify those of all of the formulations of string theory. m-theory is
+the  theoretical  elephant  that  has  opened  the  eyes  of  string  theorists  to  a  far  grander  unifying
+framework.
+
+figure 12.11 by incorporating the dualities, all five string theories, eleven-dimens
+ 
+ ___________________________
+ 
+ional supergravity,
+and m-theory are merged together into a unified framework.
+
+a surprising feature of m-theory: democracy in extension
+
+when the string coupling constant is small in any of the upper five peninsular regions of the theory
+map in figure 12.11, the fundamental ingredient of the theory appears to be a one-dimensional string.
+we  have,  however,  just  gained  a  new  perspective  on  this  observation.  if  we  start  in  either  the
+heterotic-e or type iia regions and turn the value of the respecti
+ 
+ ___________________________
+ 
+rons,  surrounded  by
+orbiting  electrons,  strominger  and  vafa  showed  how  some  of  the  newfound  ingredients  in  string
+theory could similarly be molded together to yield particular black holes.
+
+in  actuality,  black  holes  are  one  possible  end  product  of  stellar  evolution.  after  a  star  has
+burned all its nuclear fuel through billions of years of atomic fusion, it no longer has the strength—the
+outward-directed  pressure—to  withstand  the  enormous  inward  force  of  gravity.  under  a  broad
+spectrum  of  conditions,  this  results  in  a  cataclysmic  implosion  of  the  star's  enormous  mass;  it
+violently collapses under its own tremendous weight, forming a black hole. contrary to this realistic
+means of formation, strominger and vafa advocated "designer" black holes. they turned the tables on
+black  hole  formation  by  showing  how  they  could  be  systematically  constructed—in  a  theorist's
+imagination—by carefully, slowly, and meticulously weaving t
+ 
+ ___________________________
+ 
+�the  principle—that  drives  its  evolution.  the
+astounding  thing  is  that  humanity  has  now  come  to  a  point  where  a  framework  is  emerging  for
+answering some of these questions scientifically.
+
+the currently accepted scientific theory of creation declares that the universe experienced the
+most  extreme  of  conditions—enormous  energy,  temperature,  and  density—during  its  earliest
+moments. these conditions, as is by now familiar, require that both quantum mechanics and gravity be
+taken into account, and hence the birth of the universe provides a profound arena for exercising the
+insights  of  superstring  theory.  we  will  discuss  these  nascent  insights  shortly,  but  first,  we  briefly
+recount the pre–string theory cosmological story, which is often referred to as the standard model of
+cosmology.
+
+the standard model of cosmology
+
+the modern theory of cosmic origins dates from the decade and a half after einstein's completion of
+general relativity. although e
+ 
+ ___________________________
+ 
+. as
+we have seen from other viewpoints in earlier chapters, point-particle quantum field theory works
+until typical particle energies are around the planck energy. in a cosmological context, this occurred
+when the whole of the known universe fit within a planck-sized nugget, yielding a density so great that
+it strains one's ability to find a fitting metaphor or an enlightening analogy: the density of the universe
+at  the  planck  time  was  simply colossal.  at  such  energies  and  densities  gravity  and  quantum
+mechanics can no longer be treated as two separate entities as they are in point-particle quantum field
+theory. instead, the central message of this book is that at and beyond these enormous energies we
+must  invoke  string  theory.  in  temporal  terms,  we  encounter  these  energies  and  densities  when  we
+probe  earlier  than  the  planck  time  of  10-43  seconds  atb,  and  hence  this  earliest  epoch  is  the
+cosmological arena of string theory.
+
+let's head toward this e
+ 
+ ___________________________
+ 
+ward the beginning of time. so far back, in
+fact, that there is not enough time for any physical influence to have traveled from one region to the
+other. the difficulty, therefore, is that as we run the cosmological film backward and approach the
+big bang, the universe does not shrink at a fast enough rate.
+
+well,  that's  the  rough  idea,  but  it's  worthwhile  sharpening  the  description  a  bit.  the  horizon
+problem stems from the fact that like a ball tossed upward, the dragging pull of gravity causes the
+expansion rate of the universe to slow down. this means that, for example, to halve the separation
+between  two  locations  in  the  cosmos  we  must  run  the  film  back  more  than  halfway  toward  its
+beginning. in turn, we see that to halve the separation we must more than halve the time since the big
+bang. less time since the bang—proportionally speaking—means it is harder for the two regions to
+communicate, even though they get closer.
+
+guth's resolution of the horizon pr
+ 
+ ___________________________
+ 
+concrete considerations. the way things in the universe appear to us today—way on the
+far right-hand side of the time line in figure 14.1—depends upon the fundamental laws of physics, to
+be sure, but it may also depend on aspects of cosmological evolution, from the far left-hand side of
+the time line, that potentially lie outside the scope of even the deepest theory.
+
+it's not hard to imagine how this might be. think of what happens, for example, when you toss a
+ball in the air. the laws of gravity govern the ball's subsequent motion, but we can't predict where the
+ball will land exclusively from those laws. we must also know the velocity of the ball—its speed and
+direction—as  it  left  your  hand.  that  is,  we  must  know  the initial  conditions  of  the  ball's  motion.
+similarly, there are features of the universe that also have a historical contingency—the reason why a
+star  formed  here  or  a  planet  there  depends  upon  a  complicated  chain  of  events  that,  at  leas
+ 
+ ___________________________
+ 
+ingly have to rely on the cosmological accelerator of the big bang, and the relics it has
+left for us throughout the universe, for our experimental data. with luck and perseverance, we may
+finally be able to answer questions such as how the universe began, and why it has evolved to the
+form we behold in the heavens and on earth. there is, of course, much uncharted territory between
+where we are and where full answers to these fundamental questions lie. but the development of a
+quantum theory of gravity through superstring theory lends credence to the hope that we now possess
+theoretical tools for pushing into the vast regions of the unknown, and, no doubt after many a struggle,
+possibly emerging with answers to some of the deepest questions ever posed.
+
+part v
+
+unification in the twenty-first century
+
+chapter 15
+
+prospects
+
+centuries from now, superstring theory, or its evolution within m-theory, may have developed so far
+beyond our current formulation that it might be unrecognizable even t
+ 
+ ___________________________
+ 
+he general theory of relativity, is based on the equivalence
+
+principle—the  extension  of  the  principle  of  relativity  to  embrace  all  possible  vantage  points
+regardless  of  the  complexity  of  their  states  of  motion. and  the  strong,  weak,  and  electromagnetic
+forces are based on the more abstract gauge symmetry principles.
+
+physicists, as we have discussed, tend to elevate symmetry principles to a place of prominence
+by putting them squarely on the pedestal of explanation. gravity, in this view, exists in order that all
+possible observational vantage points are on completely equal footing—i.e., so that the equivalence
+principle  holds.  similarly,  the  nongravitational  forces exist  in  order  that  nature  respect  their
+associated  gauge  symmetries.  of  course,  this  approach  shifts  the  question  of  why  a  certain  force
+exists to why nature respects its associated symmetry principle. but this certainly feels like progress,
+especially  when  the  symmetry  
+ 
+ ___________________________
+ 
+in  question  is  one  that  seems  eminently  natural.  for  example,  why
+should  one  observer's  frame  of  reference  be  treated  differently  from  another's?  it  seems  far  more
+natural  for  the  laws  of  the  universe  to  treat  all  observational  vantage  points  equally;  this  is
+accomplished through the equivalence principle and the introduction of gravity into the structure of
+the cosmos. although it requires some mathematical background to appreciate fully, as we indicated
+in  chapter  5,  there  is  a  similar  rationale  behind  the  gauge  symmetries  underlying  the  three
+nongravitational forces.
+
+string theory takes us down another notch on the scale of explanatory depth because all of these
+symmetry  principles,  as  well  as  another—supersymmetry—emerge  from  its  structure.  in  fact,  had
+history followed a different course—an
+ 
+ ___________________________
+ 
+d had physicists come upon string theory some hundred years
+earlier—we can imagine that these symmetry principles would have all been discovered by studying
+its properties. but bear in mind that whereas the equivalence principle gives us some understanding
+of why gravity exists, and the gauge symmetries give us some sense of why the nongravitational forces
+exist, in the context of string theory these symmetries are consequences; although their importance is
+in no way diminished, they are part of the end product of a much larger theoretical structure.
+
+this  discussion  brings  the  following  question  into  sharp  relief:  is  string  theory  itself  an
+inevitable  consequence  of  some  broader  principle—possibly  but  not  necessarily  a  symmetry
+princip
+ 
+ ___________________________
+ 
+ of  space  and  of
+spacetime.  in  chapter  2  we  described  einstein's  realization  that  space  and  time  are  inextricably
+interwoven  by  the  unexpected  fact  that  an  object's  motion  through  space  has  an  influence  on  its
+passage  through  time.  in  chapter  3,  we  deepened  our  understanding  of  spacetime's  role  in  the
+unfolding  of  the  cosmos  through  general  relativity,  which  shows  that  the  detailed  shape  of  the
+spacetime fabric communicates the force of gravity from one place to another. the violent quantum
+undulations in the microscopic structure of the fabric, as discussed in chapters 4 and 5, established
+the need for a new theory, leading us to string theory. and finally, in a number of the chapters that
+followed, we have seen that string theory proclaims that the universe has many more dimensions than
+we  are  aware  of,  some  of  which  are  curled  up  into  tiny  but  complicated  shapes  that  can  undergo
+wondrous transformations in which th
+ 
+ ___________________________
+ 
+ curled  up  into  one  of  the  shapes  allowed  by  the
+equations of the theory. but this is somewhat like assessing an artist's creative talent by requiring that
+she work from a paint-by-number kit. she will, undoubtedly, add a personal flair here or there, but by
+so tightly constraining the format of her work, we are blinding ourselves to all but a slender view of
+her  abilities.  similarly,  since  the  triumph  of  string  theory  is  its  natural  incorporation  of  quantum
+mechanics and gravity, and since gravity is bound up with the form of space and time, we should not
+constrain the theory by forcing it to operate within an already existing spacetime framework. rather,
+just as we should allow our artist to work from a blank canvas, we should allow string theory to
+create its own spacetime arena by starting in a spaceless and timeless configuration.
+
+the hope is that from this blank slate starting point—possibly in an era that existed before the
+big  bang  or  the  pre–big  bang 
+ 
+ ___________________________
+ 
+formulation of
+quantum mechanics which will resolve many of its puzzles is just around the corner. i think many
+share the view that the recently uncovered dualities point toward a new, more geometrical framework
+for  quantum  mechanics,  in  which  space,  time,  and  quantum  properties  will  be  inseparably  joined
+together."5 and according to edward witten, "i believe the logical status of quantum mechanics is
+going to change in a manner that is similar to the way that the logical status of gravity changed when
+
+einstein  discovered  the  equivalence  principle.  this  process  is  far  from  complete  with  quantum
+mechanics, but i think that people will one day look back on our epoch as the period when it began."6
+with guarded optimism, we can envision that a reframing of the principles of quantum mechanics
+within string theory may yield a more powerful formalism that is capable of giving us an answer to
+the question of how the universe began and why there are such things as space and 
+ 
+ ___________________________
+ 
+time—a formalism
+that will take us one step closer to answering leibniz's question of why there is something rather than
+nothing.
+
+can string theory be experimentally tested?
+
+among  the  many  features  of  string  theory  that  we  have  discussed  in  the  preceding  chapters,  the
+following three are perhaps the most important ones to keep firmly in mind. first, gravity and quantum
+mechanics are part and parcel of how the universe works and therefore any purported unified theory
+must incorporate both. string theory accomplishes this. second, studies by physicists over the past
+century  have  revealed  that  there  are  other  key  ideas—many  of  which  have  been  experimentally
+confirmed—that appear central to our understanding of the universe. these include the concepts of
+spin, the family structure of matter particles, messenger particles, gauge symmet
+ 
+ ___________________________
+ 
+he strong, weak, and electromagnetic forces has finally emerged.
+and  the  challenges  these  developments  pose  to  our  previous  way  of  seeing  the  world  are
+monumental: loops of strings and oscillating globules, uniting all of creation into vibrational patterns
+that are meticulously executed in a universe with numerous hidden dimensions capable of undergoing
+extreme contortions in which their spatial fabric tears apart and then repairs itself. who could have
+guessed that the merging of gravity and quantum mechanics into a unified theory of all matter and all
+forces would yield such a revolution in our understanding of how the universe works?
+
+no  doubt,  there  are  even  grander  surprises  in  store  for  us  as  we  continue  to  seek  a  full  and
+calculationally tractable understanding of superstring theory. already, through studies in m-theory,
+we have seen glimpses of a strange new domain of the universe lurking beneath the planck length,
+possibly one in which there is no noti
+ 
+ ___________________________
+ 
+e multiverse. these ideas are at the current edge of speculation, but
+they may presage the next leap in our understanding of the universe.
+
+as we fix our sight on the future and anticipate all the wonders yet in store for us, we should
+also reflect back and marvel at the journey we have taken so far. the search for the fundamental laws
+of the universe is a distinctly human drama, one that has stretched the mind and enriched the spirit.
+einstein's vivid description of his own quest to understand gravity—"the years of anxious searching
+in  the  dark,  with  their  intense  longing,  their  alternations  of  confidence  and  exhaustion,  and  final
+
+emergence into the light"8—encompasses, surely, the whole human struggle. we are all, each in our
+own way, seekers of the truth and we each long for an answer to why we are here. as we collectively
+scale  the  mountain  of  explanation,  each  generation  stands  firmly  on  the  shoulders  of  the  previous,
+bravely reaching for the peak. wheth
+ 
+ ___________________________
+ 
+versity press, 1997).
+
+4. steven weinberg, dreams of a final theory (new york: pantheon, 1992), p.52.
+5. interview with edward witten, may 11, 1998.
+
+chapter 2
+
+1.  the  presence  of  massive  bodies  like  the  earth  does  complicate  matters  by  introducing
+gravitational  forces.  since  we  are  now  focusing  on  motion  in  the  horizontal  direction—not  the
+vertical direction—we can and will ignore the earth's presence. in the next chapter we will undertake
+a thorough discussion of gravity.
+
+2. more precisely, the speed of light through the vacuum of empty space is 670 million miles
+per hour. when light travels through a substance such as air or glass its speed is decreased in roughly
+the same way that a rock dropped from a cliff is dragged to a slower speed when it enters a body of
+water.  this  slowing  of  light  relative  to  its  speed  through  a  vacuum  is  of  no  consequence  for  our
+discussion of relativity and is justifiably ignored throughout the text.
+
+3.  for  the
+ 
+ ___________________________
+ 
+e of the harvard-smithsonian
+astrophysical  observatory,  together  with  collaboraters  at  the  national  aeronautics  and  space
+administration (nasa), launched a scout d rocket from wallops island, virginia, that carried an
+atomic clock accurate to about a trillionth of a second per hour. they hoped to show that as the rocket
+gained altitude (thereby decreasing the effect of the earth's gravitational pull), an identical earthbound
+atomic clock (still subject to the full force of the earth's gravity) would tick more slowly. through a
+two-way stream of microwave signals, the researchers were able to compare the rate of ticking of the
+two atomic clocks and, indeed, at the rocket's maximum altitude of 6,000 miles, its atomic clock ran
+fast  by  about  4  parts  per  billion  relative  to  its  counterpart  on  earth,  agreeing  with  theoretical
+predictions to better than a hundredth of a percent.
+
+10.  in  the  mid-1800s,  the  french  scientist  urbain  jean  joseph  le  verrier  discovered
+ 
+ ___________________________
+ 
+  that  the
+planet mercury deviates slightly from the orbit around the sun that is predicted by newton's law of
+gravity.  for  more  than  half  a  century,  explanations  for  this  so-called  excess  orbital  perihelion
+precession  (in  plain  language,  at  the  end  of  each  orbit,  mercury  does  not  quite  wind  up  where
+newton's theory says it should) ran the gamut—the gravitational influence of an undiscovered planet
+or planetary ring, an undiscovered moon, the effect of interplanetary dust, the oblateness of the sun—
+but  none  was  sufficiently  compelling  to  win  general  acceptance.  in  191
+ 
+ ___________________________
+ 
+re precisely, planck showed that waves whose minimum energy content exceeds
+their  purported average  energy  contribution  (according  to  nineteenth-century  thermodynamics)  are
+exponentially suppressed. this suppression is increasingly sharp as we examine waves of ever larger
+frequency.
+
+4. planck's constant is 1.05 × 10-27 grams-centimeters2/second.
+5. timothy ferris, coming of age in the milky way (new york: anchor, 1989), p. 286.
+6. stephen hawking, lecture at the amsterdam symposium on gravity, black holes, and string
+
+theory, june 21, 1997.
+
+7. it is worthwhile to note that feynman's approach to quantum mechanics can be used to derive
+the  approach  based  on  wave  functions,  and  vice  versa;  the  two  approaches,  therefore,  are  fully
+equivalent.  nevertheless,  the  concepts,  the  language,  and  the  interpretation  that  each  approach
+emphasizes are rather different, even though the answers each gives are absolutely identical.
+
+8.  richard  feynman, qed:  the  strange  t
+ 
+ ___________________________
+ 
+esses occur, you will know that you are watching a mirror-reflected image of the experiment, as
+opposed to the experiment itself. since mirrors interchange left and right, the work of lee, yang, and
+wu established that the universe is not perfectly left-right symmetric—in the language of the field, the
+universe  is chiral.  it  is  this  feature  of  the  standard  model  (the  weak  force,  in  particular)  that
+physicists found nearly impossible to incorporate into a higher-dimensional supergravity framework.
+to avoid confusion, we note that in chapter 10 we will discuss a concept in string theory known as
+"mirror symmetry," but the use of the word "mirror" in that context is completely different from its use
+here.
+
+8.  for  the  mathematically  inclined  reader,  we  note  that  a  calabi-yau  manifold  is  a  complex
+kähler  manifold  with  vanishing  first  chern  class.  in  1957  calabi  conjectured  that  every  such
+manifold admits a ricci-flat metric, and in 1977 yau proved this 
+ 
+ ___________________________
+ 
+ constant  and  a
+particular form for the spacetime geometry—but within our current theoretical understanding, we do
+not know how to accomplish this. and so, to understand the theory better string theorists study its
+properties as the values of these parameters are varied over all possibilities. if the parameter values
+are chosen to lie in any of the six peninsular regions of figure 12.11, the theory has the properties
+inherent to one of the five string theories, or to eleven-dimensional supergravity, as marked. if the
+parameter  values  are  chosen  to  lie  in  the  central  region,  the  physics  is  governed  by  the  still
+mysterious m-theory.
+
+14. we should note, though, that even in the peninsular regions there are some exotic ways in
+which branes can have an effect on familiar physics. for example, it has been suggested that our three
+extended spatial dimensions might themselves be a three-brane that is large and unfurled. if so, as we
+go  about  our  daily  business  we  would  be 
+ 
+ ___________________________
+ 
+iscussion on black hole entropy.
+
+3. the radiation emitted from a black hole should be just like that emitted from a hot oven—the
+very problem, discussed at the outset of chapter 4, that played such a pivotal role in the development
+of quantum mechanics.
+
+4.  it  turns  out  that  because  the  black  holes  involved  in  space-tearing  conifold  transitions  are
+
+extremal, they do not hawking radiate, regardless of how light they become.
+
+5. stephen hawking, lecture at amsterdam symposium on gravity, black holes, and strings,
+
+june 21, 1996.
+
+6. in their initial calculation, strominger and vafa found that the mathematics was made easier
+by working with five—not four—extended spacetime dimensions. surprisingly, after completing their
+calculation of the entropy of such a five-dimensional black hole they realized that no theoretician had
+as yet constructed such hypothetical extremal black holes in the setting of five-dimensional general
+relativity. since only by comparing their answer to 
+ 
+ ___________________________
+ 
+'s  event  horizon.  but  it  is  interesting  to
+realize that because the black hole solution was found later, strominger and vafa did not know the
+answer  they  were  shooting  for  while  undertaking  their  entropy  calculation.  since  their  work,
+
+verlag, 1995).
+
+princeton university press, 1995), p. 41.
+
+strings, june 21, 1997.
+
+9. stephen hawking, in hawking and roger penrose, the nature of space and time (princeton:
+
+10.  stephen  hawking,  lecture  at  the  amsterdam  symposium  on  gravity,  black  holes,  and
+
+numerous  researchers,  led  most  notably  by  princeton  physicist  curtis  callan,  have  succeeded  in
+extending the entropy calculations to the more familiar setting of four extended spacetime dimensions,
+and all are in agreement with hawking's predictions.
+
+7. interview with sheldon glashow, december 29, 1997.
+8. laplace, philosophical essay on probabilities, trans. andrew i. dale (new york: springer-
+
+11. interview with andrew strominger, december 29, 1997.
+12. inte
+ 
+ ___________________________
+ 
+rview with cumrun vafa, january 12, 1998.
+13.  stephen  hawking,  lecture  at  the  amsterdam  symposium  on  gravity,  black  holes,  and
+
+strings, june 21, 1997.
+
+14. this issue also has some bearing on the information-loss question, as some physicists have
+speculated over the years that there might be a central "nugget" embedded in the depths of a black
+hole that stores all of the information carried by matter that gets trapped within the hole's horizon.
+
+15. in fact, the space-tearing conifold transitions discussed in this chapter involve black holes
+and hence might seem to be tied up with the question of 
+ 
+ ___________________________
+ 
+s.
+electromagnetic radiation. the energy carried by an electromagnetic wave.
+electromagnetic wave. a wavelike disturbance in an electromagnetic field; all such waves travel
+at the speed of light. visible light, x rays, microwaves, and infrared radiation are examples.
+electron. negatively charged particle, typically found orbiting the nucleus of an atom.
+electroweak  theory.  relativistic  quantum  field  theory  describing 
+electromagnetic force in one unified framework.
+eleven-dimensional supergravity. promising higher-dimensional supergravity theory developed in
+the 1970s, subsequently ignored, and more recently shown to be an important part of string theory.
+entropy.  a  measure  of  the  disorder  of  a  physical  system;  the  number  of  rearrangements  of  the
+
+the weak  force  and  the
+
+ingredients of a system that leave its overall appearance intact.
+equivalence principle. see principle of equivalence.
+event horizon. the one-way surface of a black hole; once penetrated, the laws of 
+ 
+ ___________________________
+ 
+gravity ensure that
+there is no turning back, no escaping the powerful gravitational grip of the black hole.
+extended  dimension.  a  space  (and spacetime)  dimension  that  is  large  and  directly  apparent;  a
+dimension with which we are ordinarily familiar, as opposed to a curled-up dimension.
+extremal black holes. black holes endowed with the maximal amount of force charge possible for a
+given total mass.
+families. organization of matter particles into three groups, with each group being known as
+ 
+ ___________________________
+ 
+particle determines how it responds to the electromagnetic force.
+frequency. the number of complete wave cycles a wave completes each second.
+gauge symmetry. symmetry principle underlying the quantum-mechanical description of the three
+nongravitational  forces;  the  symmetry  involves  the  invariance  of  a  physical  system  under  various
+shifts in the values of force charges, shifts that can change from place to place and from moment to
+moment.
+general relativity. einstein's formulation of gravity, which shows that space and time communicate
+the gravitational force through their curvature.
+gluon. smallest bundle of the strong force field; messenger particle of the strong force.
+grand  unification.  class  of  theories  that  merge  all  three  nongravitational  forces  into  a  single
+theoretical framework.
+gravitational force. the weakest of the four fundamental forces of nature. described by newton's
+universal theory of gravity, and subsequently by einstein's general relativity.
+gravit
+ 
+ ___________________________
+ 
+ involve  those  of  the bosonic  string.  differs  in  important  but  subtle
+ways from the heterotic-o string theory.
+heterotic-o string theory (heterotic o(32) string theory). one of the five superstring theories;
+involves  closed  strings  whose  right-moving  vibrations  resemble  those  of  the type  ii  string  and
+whose  left-moving  vibrations  involve  those  of  the bosonic  string.  differs  in  important  but  subtle
+ways from the heterotic-e string theory.
+higher-dimensional  supergravity.  class  of supergravity  theories  in  more  than  four spacetime
+dimensions.
+horizon problem. cosmological puzzle associated with the fact that regions of the universe that are
+separated  by  vast  distances  nevertheless  have  nearly  identical  properties  such  as  temperature.
+inflationary cosmology offers a solution.
+infinities. typical nonsensical answer emerging from calculations that involve general relativity and
+quantum mechanics in a point-particle framework.
+inflation, inflationa
+ 
+ ___________________________
+ 
+ separate and distinct universes.
+neutrino. electrically neutral particle, subject only to the weak force.
+neutron. electrically neutral particle, typically found in the nucleus of an atom, consisting of three
+quarks (two down-quarks, one up-quark).
+newton's  laws  of  motion.  laws  describing  the  motion  of  bodies  based  on  the  conception  of  an
+absolute and immutable space and time; these laws held sway until einstein's discovery of special
+relativity.
+newton's  universal  theory  of  gravity.  theory  of  gravity  declaring  that  the  force  of  attraction
+between two bodies is proportional to the product of their masses and inversely proportional to the
+square of the distance between them. subsequently supplanted by einstein's general relativity.
+nonperturbative. feature of a theory whose validity is not dependent on approximate, perturbative
+calculations; an exact feature of a theory.
+nucleus. the core of an atom, consisting of protons and neutrons.
+observer.  idealized  person 
+ 
+ ___________________________
+ 
+rce
+and electrons, incorporating special relativity.
+quantum electroweak theory. see electroweak theory.
+quantum field theory. see relativistic quantum field theory.
+quantum fluctuation. turbulent behavior of a system on microscopic scales due to the uncertainty
+principle.
+quantum foam. see spacetime foam.
+quantum  geometry.  modification  of riemannian  geometry  required  to  describe  accurately  the
+physics of space on ultramicroscopic scales, where quantum effects become important.
+quantum gravity. a  theory  that  successfully  mergers quantum  mechanics  and general  relativity,
+possibly involving modifications of one or both. string theory is an example of a theory of quantum
+gravity.
+quantum mechanics. framework of laws governing the universe whose unfamiliar features such as
+uncertainty,  quantum  fluctuations,  and wave-particle  duality  become  most  apparent  on  the
+microscopic scales of atoms and subnuclear particles.
+quantum tunneling. feature of quantum mechanics showing tha
+ 
+ ___________________________
+ 
+c" out of which the universe is fashioned; it constitutes the dynamical arena within which the
+events of the universe take place.
+spacetime foam. frothy, writhing, tumultuous character of the spacetime fabric on ultramicroscopic
+scales,  according  to  a  conventional  point-particle  perspective.  an  essential  reason  for  the
+incompatibility of quantum mechanics and general relativity prior to string theory.
+special  relativity.  einstein's  laws  of  space  and  time  in  the  absence  of  gravity  (see  also general
+relativity).
+sphere.  the  outer  surface  of  a  ball.  the  surface  of  a  familiar  three-dimensional  ball  has  two
+dimensions  (which  can  be  labeled  by  two  numbers  such  as  "latitude"  and  "longitude,"  as  on  the
+surface of the earth). the concept of a sphere, though, applies more generally to balls and hence their
+surfaces, in any number of dimensions. a one-dimensional sphere is a fancy name for a circle; a zero-
+dimensional sphere is two points (as expla
+ 
+ ___________________________
+ 
+ing the strong force, associated with invariance of
+a physical system under shifts in the color charges of quarks.
+strongly coupled. theory whose string coupling constant is larger than 1.
+strong-weak duality. situation in which a strongly coupled theory is dual—physically identical—to
+a different, weakly coupled theory.
+sum-over-paths.  formulation  of quantum  mechanics  in  which  particles  are  envisioned  to  travel
+from one point to another along all possible paths between them.
+supergravity. class of point-particle theories combining general relativity and supersymmetry.
+superpartners. particles whose spins differ by 1/2 unit and that are paired by supersymmetry.
+superstring theory. string theory that incorporates supersymmetry.
+supersymmetric quantum field theory. quantum field theory incorporating supersymmetry.
+supersymmetric  standard  model.  generalization  of  the standard  model  of  particle  physics  to
+incorporate supersymmetry. entails a doubling of the known elementar
+ 
+ ___________________________
+ 
+ford
+university press, 1982.
+penrose, roger. the emperor's new mind. oxford, eng.: oxford university press, 1989.
+rees, martin j. before the beginning. reading, mass.: addison-wesley, 1997.
+smolin, lee. the life of the cosmos. new york: oxford university press, 1997.
+thorne, kip. black holes and time warps. new york: norton, 1994.
+weinberg, steven. the first three minutes. new york: basic books, 1993.
+———. dreams of a final theory. new york: pantheon, 1992.
+wheeler, john a. a journey into gravity and spacetime. new york: scientific american library,
+1990.
+
+* some of the ideas in this and the next few sections are rather subtle, so don’t be put off if you have
+trouble following every link in the explanatory chain—especially in a single reading.
+
+* those readers who skipped over the “more precise answer” section of chapter 6 might find it
+helpful to skim the beginning part of that section.
+
+

@@ -1,0 +1,114 @@
+finitive
+predictions or postdictions (beyond witten's remark regarding the postdiction of gravity).
+
+why can't we figure out which is the "right" calabi-yau shape? most string theorists blame this
+on the inadequacy of the theoretical tools currently being used to analyze string theory. as we shall
+discuss in some detail in chapter 12, the mathematical framework of string theory is so complicated
+that physicists have been able to perform only approximate calculations through a formalism known
+as perturbation theory. in this approximation scheme, each possible calabi-yau shape appears to be
+on equal footing with every other; none is fundamentally singled out by the equations. and since the
+physical  consequences  of  string  theory  depend  sensitively  on  the  precise  form  of  the  curled-up
+dimensions,  without  the  ability  to  select  one  calabi-yau  space  from  the  many,  no  definitive
+experimentally testable conclusions can be drawn. a driving force behind present-day research is to
+develop t
+ 
+ ___________________________
+ 
+ to the initial estimate.
+
+when  perturbation  theory  is  properly  and  effectively  applied,  the  initial  estimate  will  be
+reasonably close to the final answer; when incorporated, the fine details ignored in the initial estimate
+make  small  differences  in  the  final  result.  but  sometimes  when  you  go  to  pay  a  final  bill  it  is
+shockingly  different  from  the  initial  estimate. although  you  might  use  other,  more  emotive  terms,
+technically this is called a failure of perturbation theory. this means that the initial approximation
+was not a good guide to the final answer because the "refinements," rather than causing relatively
+small deviations, resulted in large changes to the ballpark estimate.
+
+as indicated briefly in earlier chapters, our discussion of string theory to this point has relied on
+a  perturbative  approach  somewhat  analogous  to  that  used  by  the  mechanic.  the  "incomplete
+understanding" of string theory that we have referred to from time to time has its 
+ 
+ ___________________________
+ 
+roots, in one way or
+another, in this approximation method. let's build up to an understanding of this important remark by
+discussing perturbation theory in a context that is less abstract than string theory but closer to its string
+
+theory application than the example of the mechanic.
+
+a classical example of perturbation theory
+
+understanding the motion of the earth through the solar system provides a classic example of using a
+perturbative approach. on such large distance scales, we need consider only the gravitational force,
+but  unless  further  approximations  are  made,  the  equations  encountered  are  extremely  complicated.
+remember that according to both newton and einstein, everything exerts a gravitational influence on
+everything else, and this quickly leads to a complex and mathematically intractable grav
+ 
+ ___________________________
+ 
+eir  values  transcend  the
+perturbative  approximation  scheme.  for  this  reason,  you  can  also  think  of  bps  as  standing  for
+"beyond perturbative states."
+
+the bps properties exhaust only a small part of the full physics of a chosen string theory when
+its  coupling  constant  is  large,  but  they  nonetheless  give  us  a  tangible  grip  on  some  of  its  strong
+coupling characteristics. as the coupling constant in a chosen string theory is increased beyond the
+realm accessible to perturbation theory, we anchor our limited understanding in the bps states. like a
+few choice words in a foreign tongue, we will find that they will take us quite far.
+
+duality in string theory
+
+following witten, let's start with one of the five string theories, say the type i string, and imagine that
+all of its nine space dimensions are flat and unfurled. this, of course, is not at all realistic, but it
+makes the discussion simpler; we will return to curled-up dimensions shortly. we begin by assuming
+that the str
+ 
+ ___________________________
+ 
+ one  we  started  with.  similar  to  what  we  found  in  trying  to  squeeze  a
+circular dimension to a sub-planck-scale length, if we try to increase the type iib coupling to a value
+larger than 1, the self-duality shows that the resulting theory is precisely equivalent to the type iib
+string with a coupling smaller than 1.
+
+a summary, so far
+
+let's  see  where  we  are.  by  the  mid-1980s,  physicists  had  constructed  five  different  superstring
+theories. in the approximation scheme of perturbation theory, they all appear to be distinct. but this
+approximation method is valid only if the string coupling constant in a given string theory is less than
+1. the expectation has been that physicists should be able to calculate the precise value of the string
+coupling  constant  in  any  given  string  theory,  but  the  form  of  the  approximate  equations  currently
+available  makes  this  impossible.  for  this  reason,  physicists  aim  to  study  each  of  the  five  string
+theories  for  a  range
+ 
+ ___________________________
+ 
+l to the
+square of the distance between them. subsequently supplanted by einstein's general relativity.
+nonperturbative. feature of a theory whose validity is not dependent on approximate, perturbative
+calculations; an exact feature of a theory.
+nucleus. the core of an atom, consisting of protons and neutrons.
+observer.  idealized  person  or  piece  of  equipment,  often  hypothetical,  that  measures  relevant
+properties of a physical system.
+one-loop process. contribution to a calculation in perturbation theory in which one virtual pair of
+strings (or particles in a point-particle theory) is involved.
+open string. a type of string with two free ends.
+oscillatory pattern. see vibrational pattern.
+particle  accelerator.  machine  for  boosting  particles  to  nearly  light  speed  and  slamming  them
+together in order to probe the structure of matter.
+perturbation  theory.  framework  for  simplifying  a  difficult  problem  by  finding  an  approximate
+solution that is subsequently refined as more deta
+ 
+ ___________________________
+ 
+ils, initially ignored, are systematically included.
+
+the electromagnetic  force  field;  messenger  particle  of  the
+
+perturbative approach, perturbative method. see perturbation theory.
+phase. when used in reference to matter, describes its possible states: solid phase, liquid phase, gas
+phase. more generally, refers to the possible descriptions of a physical system as features on which it
+depends (temperature, string coupling constant values, form of spacetime, etc.) are varied.
+phase transition. evolution of a physical system from one phase to another.
+photoelectric effect. phenomenon in which electrons are ejected from a metallic surface when light
+is shone upon it.
+photon

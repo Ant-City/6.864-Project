@@ -1,0 +1,1367 @@
+measure for measure
+
+by william shakespeare
+
+
+
+dramatis personae
+
+  vincentio, the duke
+  angelo, the deputy
+  escalus, an ancient lord
+  claudio, a young gentleman
+  lucio, a fantastic
+  two other like gentlemen
+  varrius, a gentleman, servant to the duke
+  provost
+  thomas, friar
+  peter, friar
+  a justice
+  elbow, a simple constable
+  froth, a foolish gentleman
+  pompey, a clown and servant to mistress overdone
+  abhorson, an executioner
+  barnardine, a dissolute prisoner
+
+  isabella, sister to claudio
+  mariana, betrothed to angelo
+  juliet, beloved of claudio
+  francisca, a nun
+  mistress overdone, a bawd
+
+  lords, officers, citizens, boy, and attendants
+
+
+
+
+<<this electronic version of the complete works of william
+shakespeare i
+ 
+ ___________________________
+ 
+. why, here's a change indeed in the commonwealth!
+    what shall become of me?
+  pompey. come, fear not you: good counsellors lack no clients.
+    though you change your place you need not change your trade;
+i'll
+    be your tapster still. courage, there will be pity taken on
+you;
+    you that have worn your eyes almost out in the service, you
+will
+    be considered.
+  mrs. overdone. what's to do here, thomas tapster? let's
+withdraw.
+  pompey. here comes signior claudio, led by the provost to
+prison;
+    and there's madam juliet.                             exeunt
+
+            enter provost, claudio, juliet, and officers;
+                            lucio following
+
+  claudio. fellow, why dost thou show me thus to th' world?
+    bear me to prison, where i am committed.
+  provost. i do it not in evil disposition,
+    but from lord angelo by special charge.
+  claudio. thus can the demigod authority
+    make us pay down for our offence by weight
+    the words of heaven:
+ 
+ ___________________________
+ 
+res do pursue,
+    like rats that ravin down their proper bane,
+    a thirsty evil; and when we drink we die.
+  lucio. if i could speak so wisely under an arrest, i would send
+for
+    certain of my creditors; and yet, to say the truth, i had as
+lief
+    have the foppery of freedom as the morality of imprisonment.
+    what's thy offence, claudio?
+  claudio. what but to speak of would offend again.
+  lucio. what, is't murder?
+  claudio. no.
+  lucio. lechery?
+  claudio. call it so.
+  provost. away, sir; you must go.
+  claudio. one word, good friend. lucio, a word with you.
+  lucio. a hundred, if they'll do you any good. is lechery so
+look'd
+    after?
+  claudio. thus stands it with me: upon a true contract
+    i got possession of julietta's bed.
+    you know the lady; she is fast my wife,
+    save that we do the denunciation lack
+    of outward order; this we came not to,
+    only for propagation of a dow'r
+    remaining in the coffer of her friends.
+    from whom we th
+ 
+ ___________________________
+ 
+ the hideous law,
+    as mice by lions- hath pick'd out an act
+    under whose heavy sense your brother's life
+    falls into forfeit; he arrests him on it,
+    and follows close the rigour of the statute
+    to make him an example. all hope is gone,
+    unless you have the grace by your fair prayer
+    to soften angelo. and that's my pith of business
+    'twixt you and your poor brother.
+  isabella. doth he so seek his life?
+  lucio. has censur'd him
+    already, and, as i hear, the provost hath
+    a warrant for his execution.
+  isabella. alas! what poor ability's in me
+    to do him good?
+  lucio. assay the pow'r you have.
+  isabella. my power, alas, i doubt!
+  lucio. our doubts are traitors,
+    and make us lose the good we oft might win
+    by fearing to attempt. go to lord angelo,
+    and let him learn to know, when maidens sue,
+    men give like gods; but when they weep and kneel,
+    all their petitions are as freely theirs
+    as they themselves would owe them.
+ 
+ ___________________________
+ 
+93 by world library, inc., and is
+provided by project gutenberg etext of carnegie mellon university
+with permission.  electronic and machine readable copies may be
+distributed so long as such copies (1) are for your or others
+personal use only, and (2) are not distributed or used
+commercially.  prohibited commercial distribution includes by any
+service that charges for download time or for membership.>>
+
+
+
+act ii. scene i.
+a hall in angelo's house
+
+enter angelo, escalus, a justice, provost, officers, and other
+attendants
+
+  angelo. we must not make a scarecrow of the law,
+    setting it up to fear the birds of prey,
+    and let it keep one shape till custom make it
+    their perch, and not their terror.
+  escalus. ay, but yet
+    let us be keen, and rather cut a little
+    than fall and bruise to death. alas! this gentleman,
+    whom i would save, had a most noble father.
+    let but your honour know,
+    whom i believe to be most strait in virtue,
+    that, in the w
+ 
+ ___________________________
+ 
+   that thieves do pass on thieves? 'tis very pregnant,
+    the jewel that we find, we stoop and take't,
+    because we see it; but what we do not see
+    we tread upon, and never think of it.
+    you may not so extenuate his offence
+    for i have had such faults; but rather tell me,
+    when i, that censure him, do so offend,
+    let mine own judgment pattern out my death,
+    and nothing come in partial. sir, he must die.
+  escalus. be it as your wisdom will.
+  angelo. where is the provost?
+  provost. here, if it like your honour.
+  angelo. see that claudio
+    be executed by nine to-morrow morning;
+    bring him his confessor; let him be prepar'd;
+    for that's the utmost of his pilgrimage.        exit provost
+  escalus. [aside] well, heaven forgive him! and forgive us all!
+    some rise by sin, and some by virtue fall;
+    some run from breaks of ice, and answer none,
+    and some condemned for a fault alone.
+
+         enter elbow and officers with froth and pompey
+ 
+ ___________________________
+ 
+even, sir.
+  escalus. i pray you home to dinner with me.
+  justice. i humbly thank you.
+  escalus. it grieves me for the death of claudio;
+    but there's no remedy.
+  justice. lord angelo is severe.
+  escalus. it is but needful:
+    mercy is not itself that oft looks so;
+    pardon is still the nurse of second woe.
+    but yet, poor claudio! there is no remedy.
+    come, sir.                                            exeunt
+
+
+
+
+scene ii.
+another room in angelo's house
+
+enter provost and a servant
+
+  servant. he's hearing of a cause; he will come straight.
+    i'll tell him of you.
+  provost. pray you do. [exit servant] i'll know
+    his pleasure; may be he will relent. alas,
+    he hath but as offended in a dream!
+    all sects, all ages, smack of this vice; and he
+    to die for 't!
+
+                            enter angelo
+
+  angelo. now, what's the matter, provost?
+  provost. is it your will claudio shall die to-morrow?
+  angelo. did not i tell thee yea? h
+ 
+ ___________________________
+ 
+adst thou not order?
+    why dost thou ask again?
+  provost. lest i might be too rash;
+    under your good correction, i have seen
+    when, after execution, judgment hath
+    repented o'er his doom.
+  angelo. go to; let that be mine.
+    do you your office, or give up your place,
+    and you shall well be spar'd.
+  provost. i crave your honour's pardon.
+    what shall be done, sir, with the groaning juliet?
+    she's very near her hour.
+  angelo. dispose of her
+    to some more fitter place, and that with speed.
+
+                           re-enter servant
+
+  servant. here is the sister of the man condemn'd
+    desires access to you.
+  angelo. hath he a sister?
+  provost. ay, my good lord; a very virtuous maid,
+    and to be shortly of a sisterhood,
+    if not already.
+  angelo. well, let her be adm
+ 
+ ___________________________
+ 
+itted.                exit servant
+    see you the fornicatress be remov'd;
+    let her have needful but not lavish means;
+    there shall be order for't.
+
+                         enter lucio and isabella
+
+  provost. [going] save your honour!
+  angelo. stay a little while. [to isabella] y'are welcome;
+what's
+    your will?
+  isabella. i am a woeful suitor to your honour,
+    please but your honour hear me.
+  angelo. well; what's your suit?
+  isabella. there is a vice that most i do abhor,
+    and most desire should meet the blow of justice;
+    for which i would not plead, but that i must;
+    for which i must not plead, but that i am
+    at war 'twixt will and will not.
+  angelo. well; the mat
+ 
+ ___________________________
+ 
+ter?
+  isabella. i have a brother is condemn'd to die;
+    i do beseech you, let it be his fault,
+    and not my brother.
+  provost. [aside] heaven give thee moving graces.
+  angelo. condemn the fault and not the actor of it!
+    why, every fault's condemn'd ere it be done;
+    mine were the very cipher of a function,
+    to fine the faults whose fine stands in record,
+    and let go by the actor.
+  isabella. o just but severe law!
+    i had a brother, then. heaven keep your honour!
+  lucio. [to isabella] give't not o'er so; to him again, entreat
+him,
+    kneel down before him, hang upon his gown;
+    you are too
+ 
+ ___________________________
+ 
+hy sharp and sulphurous bolt,
+    splits the unwedgeable and gnarled oak
+    than the soft myrtle. but man, proud man,
+    dress'd in a little brief authority,
+    most ignorant of what he's most assur'd,
+    his glassy essence, like an angry ape,
+    plays such fantastic tricks before high heaven
+    as makes the angels weep; who, with our speens,
+    would all themselves laugh mortal.
+  lucio. [to isabella] o, to him, to him, wench! he will relent;
+    he's coming; i perceive 't.
+  provost. [aside] pray heaven she win him.
+  isabella. we cannot weigh our brother with ourself.
+    great men may jest with saints: 'tis wit in them;
+    but in the less foul profanation.
+  lucio. [to isabella] thou'rt i' th' right, girl; more o' that.
+  isabella. that in the captain's but a choleric word
+    which in the soldier is flat blasphemy.
+  lucio. [to isabella] art avis'd o' that? more on't.
+  angelo. why do you put these sayings upon me?
+  isabella. because authority, though it err 
+ 
+ ___________________________
+ 
+s't i dream on?
+    o cunning enemy, that, to catch a saint,
+    with saints dost bait thy hook! most dangerous
+    is that temptation that doth goad us on
+    to sin in loving virtue. never could the strumpet,
+    with all her double vigour, art and nature,
+    once stir my temper; but this virtuous maid
+    subdues me quite. ever till now,
+    when men were fond, i smil'd and wond'red how.          exit
+
+
+
+
+scene iii.
+a prison
+
+enter, severally, duke, disguised as a friar, and provost
+
+  duke. hail to you, provost! so i think you are.
+  provost. i am the provost. what's your will, good friar?
+  duke. bound by my charity and my blest order,
+    i come to visit the afflicted spirits
+    here in the prison. do me the common right
+    to let me see them, and to make me know
+    the nature of their crimes, that i may minister
+    to them accordingly.
+  provost. i would do more than that, if more were needful.
+
+                          enter juliet
+
+    look, here c
+ 
+ ___________________________
+ 
+omes one; a gentlewoman of mine,
+    who, falling in the flaws of her own youth,
+    hath blister'd her report. she is with child;
+    and he that got it, sentenc'd- a young man
+    more fit to do another such offence
+    than die for this.
+  duke. when must he die?
+  provost. as i do think, to-morrow.
+    [to juliet] i have provided for you; stay awhile
+    and you shall be conducted.
+  duke. repent you, fair one, of the sin you carry?
+  juliet. i do; and bear the shame most patiently.
+  duke. i'll teach you how you shall arraign your conscience,
+    and try your penitence, if it be sound
+    or hollowly put on.
+  juliet. i'll gladly learn.
+  duke. love you the man that wrong'd you?
+  juliet. yes, as i love the woman that wrong'd him.
+  duke. so then, it
+ 
+ ___________________________
+ 
+rd ourselves, not heaven,
+    showing we would not spare heaven as we love it,
+    but as we stand in fear-
+  juliet. i do repent me as it is an evil,
+    and take the shame with joy.
+  duke. there rest.
+    your partner, as i hear, must die to-morrow,
+    and i am going with instruction to him.
+    grace go with you! benedicite!                          exit
+  juliet. must die to-morrow! o, injurious law,
+    that respites me a life whose very comfort
+    is still a dying horror!
+  provost. 'tis pity of him.                              exeunt
+
+
+
+
+scene iv.
+angelo's house
+
+enter angelo
+
+  angelo. when i would pray and think, i think and pray
+    to several subjects. heaven hath my empty words,
+    whilst my invention, hearing not my tongue,
+    anchors on isabel. heaven in my mouth,
+    as if i did but only chew his name,
+    and in my heart the strong and swelling evil
+    of my conception. the state whereon i studied
+    is, like a good thing being often read,
+ 
+ ___________________________
+ 
+993 by world library, inc., and is
+provided by project gutenberg etext of carnegie mellon university
+with permission.  electronic and machine readable copies may be
+distributed so long as such copies (1) are for your or others
+personal use only, and (2) are not distributed or used
+commercially.  prohibited commercial distribution includes by any
+service that charges for download time or for membership.>>
+
+
+
+act iii. scene i.
+the prison
+
+enter duke, disguised as before, claudio, and provost
+
+  duke. so, then you hope of pardon from lord angelo?
+  claudio. the miserable have no other medicine
+    but only hope:
+    i have hope to eve, and am prepar'd to die.
+  duke. be absolute for death; either death or life
+    shall thereby be the sweeter. reason thus with life.
+    if i do lose thee, i do lose a thing
+    that none but fools would keep. a breath thou art,
+    servile to all the skyey influences,
+    that dost this habitation where thou keep'st
+    hourly afflict. me
+ 
+ ___________________________
+ 
+ of palsied eld; and when thou art old and rich,
+    thou hast neither heat, affection, limb, nor beauty,
+    to make thy riches pleasant. what's yet in this
+    that bears the name of life? yet in this life
+    lie hid moe thousand deaths; yet death we fear,
+    that makes these odds all even.
+  claudio. i humbly thank you.
+    to sue to live, i find i seek to die;
+    and, seeking death, find life. let it come on.
+  isabella. [within] what, ho! peace here; grace and good
+company!
+  provost. who's there? come in; the wish deserves a welcome.
+  duke. dear sir, ere long i'll visit you again.
+  claudio. most holy sir, i thank you.
+
+                        enter isabella
+
+  isabella. my business is a word or two with claudio.
+  provost. and very welcome. look, signior, here's your sister.
+  duke. provost, a word with you.
+  provost. as many as you please.
+  duke. bring me to hear them speak, where i may be conceal'd.
+                                         exeunt duke and 
+ 
+ ___________________________
+ 
+provost
+  claudio. now, sister, what's the comfort?
+  isabella. why,
+    as all comforts are; most good, most good, indeed.
+    lord angelo, having affairs to heaven,
+    intends you for his swift ambassador,
+    where you shall be an everlasting leiger.
+    therefore, your best appointment make with speed;
+    to-morrow you set on.
+  claudio. is there no remedy?
+  isabella. none, but such remedy as, to save a head,
+    to cleave a heart in twain.
+  claudio. but is there any?
+  isabella. y
+ 
+ ___________________________
+ 
+aving the truth of honour in
+her,
+    hath made him that gracious denial which he is most glad to
+    receive. i am confessor to angelo, and i know this to be
+true;
+    therefore prepare yourself to death. do not satisfy your
+    resolution with hopes that are fallible; to-morrow you must
+die;
+    go to your knees and make ready.
+  claudio. let me ask my sister pardon. i am so out of love with
+life
+    that i will sue to be rid of it.
+  duke. hold you there. farewell. [exit claudio] provost, a word
+with
+    you.
+
+                          re-enter provost
+
+  provost. what's your will, father?
+  duke. that, now you are come, you will be gone. leave me a
+while
+    with the maid; my mind promises with my habit no loss shall
+touch
+    her by my company.
+  provost. in good time.                            exit provost
+  duke. the hand that hath made you fair hath made you good; the
+    goodness that is cheap in beauty makes beauty brief in
+goodness;
+    but grace, being
+ 
+ ___________________________
+ 
+hee again, would eat mutton on fridays. he's
+not
+    past it yet; and, i say to thee, he would mouth with a beggar
+    though she smelt brown bread and garlic. say that i said so.
+    farewell.                                               exit
+  duke. no might nor greatness in mortality
+    can censure scape; back-wounding calumny
+    the whitest virtue strikes. what king so strong
+    can tie the gall up in the slanderous tongue?
+    but who comes here?
+
+             enter escalus, provost, and officers with
+                           mistress overdone
+
+  escalus. go, away with her to prison.
+  mrs. overdone. good my lord, be good to me; your honour is
+    accounted a merciful man; good my lord.
+  escalus. double and treble admonition, and still forfeit in the
+    same kind! this would make mercy swear and play the tyrant.
+  provost. a bawd of eleven years' continuance, may it please
+your
+    honour.
+  mrs. overdone. my lord, this is one lucio's information against
+me
+ 
+ ___________________________
+ 
+.
+    mistress kate keepdown was with child by him in the duke's
+time;
+    he promis'd her marriage. his child is a year and a quarter
+old
+    come philip and jacob; i have kept it myself; and see how he
+goes
+    about to abuse me.
+  escalus. that fellow is a fellow of much license. let him be
+call'd
+    before us. away with her to prison. go to; no more words.
+[exeunt
+    officers with mistress overdone]  provost, my brother angelo
+will
+    not be alter'd: claudio must die to-morrow. let him be
+furnish'd
+    with divines, and have all charitable preparation. if my
+brother
+    wrought by my pity, it should not be so with him.
+  provost. so please you, this friar hath been with him, and
+advis'd
+    him for th' entertainment of death.
+  escalus. good even, good father.
+  duke. bliss and goodness on you!
+  escalus. of whence are you?
+  duke. not of this country, though my chance is now
+    to 
+ 
+ ___________________________
+ 
+y debt of your calling. i have labour'd for the poor
+    gentleman to the extremest shore of my modesty; but my
+brother
+    justice have i found so severe that he hath forc'd me to tell
+him
+    he is indeed justice.
+  duke. if his own life answer the straitness of his proceeding,
+it
+    shall become him well; wherein if he chance to fail, he hath
+    sentenc'd himself.
+  escalus. i am going to visit the prisoner. fare you well.
+  duke. peace be with you!            exeunt escalus and provost
+
+         he who the sword of heaven will bear
+         should be as holy as severe;
+         pattern in himself to know,
+         grace to stand, and virtue go;
+         more nor less to others paying
+         than by self-offences weighing.
+         shame to him whose cruel striking
+         kills for faults of his own liking!
+         twice treble shame on angelo,
+         to weed my vice and let his grow!
+         o, what may man within him hide,
+         though angel on the ou
+ 
+ ___________________________
+ 
+entreaty too.
+  isabella. little have you to say,
+    when you depart from him, but, soft and low,
+    'remember now my brother.'
+  mariana. fear me not.
+  duke. nor, gentle daughter, fear you not at all.
+    he is your husband on a pre-contract.
+    to bring you thus together 'tis no sin,
+    sith that the justice of your title to him
+    doth flourish the deceit. come, let us go;
+    our corn's to reap, for yet our tithe's to sow.       exeunt
+
+
+
+
+scene ii.
+the prison
+
+enter provost and pompey
+
+  provost. come hither, sirrah. can you cut off a man's head?
+  pompey. if the man be a bachelor, sir, i can; but if he be a
+    married man, he's his wife's head, and i can never cut of a
+    woman's head.
+  provost. come, sir, leave me your snatches and yield me a
+direct
+    answer. to-morrow morning are to die claudio and barnardine.
+here
+    is in our prison a common executioner, who in his office
+lacks a
+    helper; if you will take it on you to assist him, it shall
+ 
+ ___________________________
+ 
+
+redeem
+    you from your gyves; if not, you shall have your full time of
+    imprisonment, and your deliverance with an unpitied whipping,
+for
+    you have been a notorious bawd.
+  pompey. sir, i have been an unlawful bawd time out of mind; but
+yet
+    i will be content to be a lawful hangman. i would be glad to
+    receive some instructions from my fellow partner.
+  provost. what ho, abhorson! where's abhorson there?
+
+                          enter abhorson
+
+  abhorson. do you call, sir?
+  provost. sirrah, here's a fellow will help you to-morrow in
+your
+    execution. if you think it meet, compound with him by the
+year,
+    and let him abide here with you; if not, use him for the
+present,
+    and dismiss him. he cannot plead his estimation with you; he
+hath
+    been a bawd.
+  abhorson. a bawd, sir? fie upon him! he will discredit our
+mystery.
+  pr
+ 
+ ___________________________
+ 
+, using painting,
+do
+    prove my occupation a mystery; but what mystery there should
+be
+    in hanging, if i should be hang'd, i cannot imagine.
+  abhorson. sir, it is a mystery.
+  pompey. proof?
+  abhorson. every true man's apparel fits your thief: if it be
+too
+    little for your thief, your true man thinks it big enough; if
+it
+    be too big for your thief, your thief thinks it little
+enough; so
+    every true man's apparel fits your thief.
+
+                          re-enter provost
+
+  provost. are you agreed?
+  pompey. sir, i will serve him; for i do find your hangman is a
+more
+    penitent trade than your bawd; he doth oftener ask
+forgiveness.
+  provost. you, sirrah, provide your block and your axe to-morrow
+    four o'clock.
+  abhorson. come on, bawd; i will instruct thee in my trade;
+follow.
+  pompey. i do desire to learn, sir; and i hope, if you have
+occasion
+    to use me for your own turn, you shall find me yare; for
+truly,
+    sir, for your kindness 
+ 
+ ___________________________
+ 
+i owe you a good turn.
+  provost. call hither barnardine and claudio.
+                                      exeunt abhorson and pompey
+    th' one has my pity; not a jot the other,
+    being a murderer, though he were my brother.
+
+                           enter claudio
+
+    look, here's the warrant, claudio, for thy death;
+    'tis now dead midnight, and by eight to-morrow
+    thou must be made immortal. where's barnardine?
+  claudio. as fast lock'd up in sleep as guiltless labour
+    when it lies starkly in the t
+ 
+ ___________________________
+ 
+raveller's bones.
+    he will not wake.
+  provost. who can do good on him?
+    well, go, prepare yourself. [knocking within] but hark, what
+      noise?
+    heaven give your spirits comfort!               exit claudio
+    [knocking continues] by and by.
+    i hope it is some pardon or reprieve
+    for the most gentle claudio.
+
+                 enter duke, disguised as before
+
+    welcome, father.
+  duke. the best and wholesom'st spirits of the night
+    envelop you, good provost! who call'd here of late?
+  provost. none, since the curfew rung.
+  duke. not isabel?
+  provost. no.
+  duke. they will then, ere't be long.
+  provost. what comfort is for claudio?
+  duke. there's some in hope.
+  provost. it is a bitter deputy.
+  duke. not so, not so; his life is parallel'd
+    even with the stroke and line of his great justice;
+    he doth with holy abstinence subdue
+    that in himself which he spurs on his pow'r
+    to qualify in others. were he meal'd with that
+
+ 
+ ___________________________
+ 
+    which he corrects, then were he tyrannous;
+    but this being so, he's just. [knocking within] now are they
+      come.                                         exit provost
+    this is a gentle provost; seldom when
+    the steeled gaoler is the friend of men. [knocking within]
+    how now, what noise! that spirit's possess'd with haste
+    that wounds th' unsisting postern with these strokes.
+
+                        re-enter provost
+
+  provost. there he must stay until the officer
+    arise to let him in; he is call'd up.
+  duke. have you no countermand for claudio yet
+    but he must die to-morrow?
+  provost. none, sir, none.
+  duke. as near the dawning, provost, as it is,
+    you shall hear more ere morning.
+  provost. happily
+    you something know; yet i believe there comes
+    no countermand; no such example have we.
+    besides, upon the very siege of justice,
+    lord angelo hath to the public ear
+    profess'd the
+ 
+ ___________________________
+ 
+ contrary.
+
+                         enter a messenger
+    this is his lordship's man.
+  duke. and here comes claudio's pardon.
+  messenger. my lord hath sent you this note; and by me this
+further
+    charge, that you swerve not from the smallest article of it,
+    neither in time, matter, or other circumstance. good morrow;
+for
+    as i take it, it is almost day.
+  provost. i shall obey him.                      exit messenger
+  duke. [aside] this is his pardon, purchas'd by such sin
+    for which the pardoner himself is in;
+    hence hath offence his quick celerity,
+    when it is borne in high authority.
+    when vice makes mercy, mercy's so extended
+    that for the fault's love is th' offender friended.
+    now, sir, what news?
+  provost. i told you: lord angelo, belike thinking me remiss in
+mine
+    office, awakens me with this unwonted putting-on;
+ 
+ ___________________________
+ 
+ methinks
+    strangely, for he hath not us'd it before.
+  duke. pray you, let's hear.
+  provost. [reads] 'whatsoever you may hear to the contrary, let
+    claudio be executed by four of the clock, and, in the
+afternoon,
+    barnardine. for my better satisfaction, let me have claudio's
+    head sent me by five. let this be duly performed, with a
+thought
+    that more depends on it than we must yet deliver. thus fail
+not
+    to do your office, as you will answer it at your peril.'
+    what say you to this, sir?
+  duke. what is that barnardine who is to be executed in th'
+    afte
+ 
+ ___________________________
+ 
+rnoon?
+  provost. a bohemian born; but here nurs'd up and bred.
+    one that is a prisoner nine years old.
+  duke. how came it that the absent duke had not either deliver'd
+him
+    to his liberty or executed him? i have heard it was ever his
+    manner to do so.
+  provost. his friends still wrought reprieves for him; and,
+indeed,
+    his fact, till now in the government of lord angelo, came not
+to
+    an undoubted proof.
+  duke. it is now apparent?
+  provost. most manifest, and not denied by himself.
+  duke. hath he borne himself penitently in prison? how seems he
+to
+    be touch'd?
+  provost. a man that apprehends death no more dreadfully but as
+a
+    drunken sleep; careless, reckless, and fearless, of what's
+past,
+    present, or to come; insensible of mortality and desperately
+    mortal.
+  duke. he wants advice.
+  provost. he will hear none. he hath evermore had the liberty of
+the
+    prison; give him leave to escape hence, he woul
+ 
+ ___________________________
+ 
+d not; drunk
+many
+    times a day, if not many days entirely drunk. we have very
+oft
+    awak'd him, as if to carry him to execution, and show'd him a
+    seeming warrant for it; it hath not moved him at all.
+  duke. more of him anon. there is written in your brow, provost,
+    honesty and constancy. if i read it not truly, my ancient
+skill
+    beguiles me; but in the boldness of my cunning i will lay
+myself
+    in hazard. claudio, whom here you have warrant to execute, is
+no
+    greater forfeit to the law than angelo who hath sentenc'd
+him. to
+    make you understand this in a manifested effect, i crave but
+four
+    days' respite; for the which you are to do me both a present
+and
+    a dangerous courtesy.
+  provost. pray, sir, in what?
+  duke. in 
+ 
+ ___________________________
+ 
+the delaying death.
+  provost. alack! how may i do it, having the hour limited, and
+an
+    express command, under penalty, to deliver his head in the
+view
+    of angelo? i may make my case as claudio's, to cross this in
+the
+    smallest.
+  duke. by the vow of mine order, i warrant you, if my
+instructions
+    may be your guide. let this barnardine be this morning
+executed,
+    and his head borne to angelo.
+  provost. angelo hath seen them both, and will discover the
+favour.
+  duke. o, death's a great disguiser; and you may add to it.
+shave
+    the head and tie the beard; and say it was the desire of the
+    penitent to be so bar'd before his death. you know the course
+is
+    common. if anything fall to you upon this more than thanks
+and
+    good fortune, by the saint whom i profess, i will plead
+against
+    it with my life.
+  provost. pardon me, good father; it is against my oath.
+  duke. were
+ 
+ ___________________________
+ 
+ you sworn to the duke, or to the deputy?
+  provost. to him and to his substitutes.
+  duke. you will think you have made no offence if the duke
+avouch
+    the justice of your dealing?
+  provost. but what likelihood is in that?
+  duke. not a resemblance, but a certainty. yet since i see you
+    fearful, that neither my coat, integrity, nor persuasion, can
+    with ease attempt you, i will go further than i meant, to
+pluck
+    all fears out of you. look you, sir, here is the hand and
+seal of
+    the duke. you know the character, i doubt not; and the signet
+is
+    not strange to you.
+  provost. i know them both.
+  duke. the contents of this is the return of the duke; you shall
+ 
+ ___________________________
+ 
+erefore i beseech you
+    look forward on the journey you shall go.
+  barnardine. i swear i will not die to-day for any man's
+persuasion.
+  duke. but hear you-
+  barnardine. not a word; if you have anything to say to me, come
+to
+    my ward; for thence will not i to-day.                  exit
+  duke. unfit to live or die. o gravel heart!
+    after him, fellows; bring him to the block.
+                                      exeunt abhorson and pompey
+
+                            enter provost
+
+  provost. now, sir, how do you find the prisoner?
+  duke. a creature unprepar'd, unmeet for death;
+    and to transport him in the mind he is
+    were damnable.
+  provost. here in the prison, father,
+    there died this morning of a cruel fever
+    one ragozine, a most notorious pirate,
+    a man of claudio's years; his beard and head
+    just of his colour. what if we do omit
+    this reprobate till he were well inclin'd,
+    and satisfy the deputy with the visage
+    of ragozin
+ 
+ ___________________________
+ 
+e, more like to claudio?
+  duke. o, 'tis an accident that heaven provides!
+    dispatch it presently; the hour draws on
+    prefix'd by angelo. see this be done,
+    and sent according to command; whiles i
+    persuade this rude wretch willingly to die.
+  provost. this shall be done, good father, presently.
+    but barnardine must die this afternoon;
+    and how shall we continue claudio,
+    to save me from the danger that might come
+    if he were known alive?
+  duke. let this be done:
+    put them in secret holds, both barnardine and claudio.
+    ere twice the sun hath made his journal greeting
+    to the under generation, you shall find
+    your safety manifested.
+  provost. i am your free dependant.
+  duke. quick, dispatch, and send the 
+ 
+ ___________________________
+ 
+head to angelo.
+                                                    exit provost
+    now will i write letters to angelo-
+    the provost, he shall bear them- whose contents
+    shall witness to him i am near at home,
+    and that, by great injunctions, i am bound
+    to enter publicly. him i'll desire
+    to meet me at the consecrated fount,
+    a league below the city; and from thence,
+    by cold gradation and well-balanc'd form.
+    we shall proceed with angelo.
+
+                         re-enter provost
+
+  provost. here is the head; i'll carry it myself.
+  duke. convenient is it. make a swift return;
+    for i w
+ 
+ ___________________________
+ 
+ould commune with you of such things
+    that want no ear but yours.
+  provost. i'll make all speed.                             exit
+  isabella. [ within ] peace, ho, be here!
+  duke. the tongue of isabel. she's come to know
+    if yet her brother's pardon be come hither;
+    but i will keep her ignorant of her good,
+    to make her heavenly comforts of despair
+    when it is least expected.
+
+                           enter isabella
+
+  isabella. ho, by your leave!
+  duke. good morning to you, fair and gracious daughter.
+  isabella. the better, given me by so
+ 
+ ___________________________
+ 
+use to-night. her cause and yours
+    i'll perfect him withal; and he shall bring you
+    before the duke; and to the head of angelo
+    accuse him home and home. for my poor self,
+    i am combined by a sacred vow,
+    and shall be absent. wend you with this letter.
+    command these fretting waters from your eyes
+    with a light heart; trust not my holy order,
+    if i pervert your course. who's here?
+
+                           enter lucio
+
+  lucio. good even. friar, where's the provost?
+  duke. not within, sir.
+  lucio. o pretty isabella, i am pale at mine heart to see thine
+eyes
+    so red. thou must be patient. i am fain to dine and sup with
+    water and bran; i dare not for my head fill my belly; one
+    fruitful meal would set me to't. but they say the duke will
+be
+    here to-morrow. by my troth, isabel, i lov'd thy brother. if
+the
+    old fantastical duke of dark corners had been at home, he had
+
+    lived.                                         exit isabe
+ 
+ ___________________________
+ 
+d have liv'd,
+    save that his riotous youth, with dangerous sense,
+    might in the times to come have ta'en revenge,
+    by so receiving a dishonour'd life
+    with ransom of such shame. would yet he had liv'd!
+    alack, when once our grace we have forgot,
+    nothing goes right; we would, and we would not.         exit
+
+
+
+
+scene v.
+fields without the town
+
+enter duke in his own habit, and friar peter
+
+  duke. these letters at fit time deliver me.   [giving letters]
+    the provost knows our purpose and our plot.
+    the matter being afoot, keep your instruction
+    and hold you ever to our special drift;
+    though sometimes you do blench from this to that
+    as cause doth minister. go, call at flavius' house,
+    and tell him where i stay; give the like notice
+    to valentinus, rowland, and to crassus,
+    and bid them bring the trumpets to the gate;
+    but send me flavius first.
+    peter. it shall be speeded well.                  exit friar
+
+           
+ 
+ ___________________________
+ 
+, and is
+provided by project gutenberg etext of carnegie mellon university
+with permission.  electronic and machine readable copies may be
+distributed so long as such copies (1) are for your or others
+personal use only, and (2) are not distributed or used
+commercially.  prohibited commercial distribution includes by any
+service that charges for download time or for membership.>>
+
+
+
+act v. scene i.
+the city gate
+
+enter at several doors duke, varrius, lords; angelo, escalus,
+lucio,
+provost, officers, and citizens
+
+  duke. my very worthy cousin, fairly met!
+    our old and faithful friend, we are glad to see you.
+  angelo, escalus. happy return be to your royal grace!
+  duke. many and hearty thankings to you both.
+    we have made inquiry of you, and we hear
+    such goodness of your justice that our soul
+    cannot but yield you forth to public thanks,
+    forerunning more requital.
+  angelo. you make my bonds still greater.
+  duke. o, your desert speaks loud; and i sh
+ 
+ ___________________________
+ 
+compact with her that's gone, think'st thou thy oaths,
+    though they would swear down each particular saint,
+    were testimonies against his worth and credit,
+    that's seal'd in approbation? you, lord escalus,
+    sit with my cousin; lend him your kind pains
+    to find out this abuse, whence 'tis deriv'd.
+    there is another friar that set them on;
+    let him be sent for.
+  peter. would lie were here, my lord! for he indeed
+    hath set the women on to this complaint.
+    your provost knows the place where he abides,
+    and he may fetch him.
+  duke. go, do it instantly.                        exit provost
+    and you, my noble and well-warranted cousin,
+    whom it concerns to hear this matter forth,
+    do with your injuries as seems you best
+    in any chastisement. i for a while will leave you;
+    but stir not you till you have well determin'd
+    upon these slanderers.
+  escalus. my lord, we'll do it throughly.             exit duke
+    signior lucio, did not
+ 
+ ___________________________
+ 
+a notable
+    fellow.
+  lucio. as any in vienna, on my word.
+  escalus. call that same isabel here once again; i would speak
+with
+    her. [exit an attendant] pray you, my lord, give me leave to
+    question; you shall see how i'll handle her.
+  lucio. not better than he, by her own report.
+  escalus. say you?
+  lucio. marry, sir, i think, if you handled her privately, she
+would
+    sooner confess; perchance, publicly, she'll be asham'd.
+
+       re-enter officers with isabella; and provost with the
+                    duke in his friar's habit
+
+  escalus. i will go darkly to work with her.
+  lucio. that's the way; for women are light at midnight.
+  escalus. come on, mistress; here's a gentlewoman denies all
+that
+    you have said.
+  lucio. my lord, here comes the rascal i spoke of, here with the
+
+    provost.
+  escalus. in very good time. speak not you to him till we call
+upon
+    you.
+  lucio. mum.
+  escalus. come, sir; did you set these women on to slander lord
+
+ 
+ ___________________________
+ 
+ as you then reported him to be?
+  duke. you must, sir, change persons with me ere you make that
+my
+    report; you, indeed, spoke so of him; and much more, much
+worse.
+  lucio. o thou damnable fellow! did not i pluck thee by the nose
+for
+    thy speeches?
+  duke. i protest i love the duke as i love myself.
+  angelo. hark how the villain would close now, after his
+treasonable
+    abuses!
+  escalus. such a fellow is not to be talk'd withal. away with
+him to
+    prison! where is the provost? away with him to prison! lay
+bolts
+    enough upon him; let him speak no more. away with those
+giglets
+    too, and with the other confederate companion!
+                            [the provost lays bands on the duke]
+  duke. stay, sir; stay awhile.
+  angelo. what, resists he? help him, lucio.
+  lucio. come, sir; come, sir; come, sir; foh, sir! why, you
+    bald-pated lying rascal, you must be hooded, must you? show
+your
+    knave's visage, with a pox to you! show your sheep-biting
+ 
+ ___________________________
+ 
+
+face,
+    and be hang'd an hour! will't not off?
+             [pulls off the friar's bood and discovers the duke]
+  duke. thou art the first knave that e'er mad'st a duke.
+    first, provost, let me bail these gentle three.
+    [to lucio] sneak not away, sir, for the friar and you
+    must have a word anon. lay hold on him.
+  lucio. this may prove worse than hanging.
+  duke. [to escalus] what you have spoke i pardon; sit you down.
+    we'll borrow place of him. [to angelo] sir, by your leave.
+    hast thou or word, or wit, or impudence,
+    that yet can do thee office? if thou hast,
+    rely upon it till my tale be heard,
+    and hold no longer out.
+  angelo. o my dread l
+ 
+ ___________________________
+ 
+ur grace, like pow'r divine,
+    hath look'd upon my passes. then, good prince,
+    no longer session hold upon my shame,
+    but let my trial be mine own confession;
+    immediate sentence then, and sequent death,
+    is all the grace i beg.
+  duke. come hither, mariana.
+    say, wast thou e'er contracted to this woman?
+  angelo. i was, my lord.
+  duke. go, take her hence and marry her instantly.
+    do you the office, friar; which consummate,
+    return him here again. go with him, provost.
+                exeunt angelo, mariana, friar peter, and provost
+  escalus. my lord, i am more amaz'd at his dishonour
+    than at the strangeness of it.
+  duke. come hither, isabel.
+    your friar is now your prince. as i was then
+    advertising and holy to your business,
+    not changing heart with habit, i am still
+    attorney'd at your service.
+  isabella. o, give me pardon,
+    that i, your vassal have employ'd and pain'd
+    your unknown sovereignty.
+  duke. you are pardon'
+ 
+ ___________________________
+ 
+ save his life, and would not rather
+    make rash remonstrance of my hidden pow'r
+    than let him so be lost. o most kind maid,
+    it was the swift celerity of his death,
+    which i did think with slower foot came on,
+    that brain'd my purpose. but peace be with him!
+    that life is better life, past fearing death,
+    than that which lives to fear. make it your comfort,
+    so happy is your brother.
+  isabella. i do, my lord.
+
+       re-enter angelo, mariana, friar peter, and provost
+
+  duke. for this new-married man approaching here,
+    whose salt imagination yet hath wrong'd
+    your well-defended honour, you must pardon
+    for mariana's sake; but as he adjudg'd your brother-
+    being criminal in double violation
+    of sacred chastity and of promise-breach,
+    thereon dependent, for your brother's life-
+    the very mercy of the law cries out
+    most audible, even from his proper tongue,
+    'an angelo for claudio, death for death!'
+    haste still pays 
+ 
+ ___________________________
+ 
+ue sincerity govern'd his deeds
+    till he did look on me; since it is so,
+    let him not die. my brother had but justice,
+    in that he did the thing for which he died;
+    for angelo,
+    his act did not o'ertake his bad intent,
+    and must be buried but as an intent
+    that perish'd by the way. thoughts are no subjects;
+    intents but merely thoughts.
+  mariana. merely, my lord.
+  duke. your suit's unprofitable; stand up, i say.
+    i have bethought me of another fault.
+    provost, how came it claudio was beheaded
+    at an unusual hour?
+  provost. it was commanded so.
+  duke. had you a special warrant for the deed?
+  provost. no, my good lord; it was by private message.
+  duke. for which i do discharge you of your office;
+    give up your keys.
+  provost. pardon me, noble lord;
+    i thought it was a fault, but knew it not;
+    yet did repent me, after more advice;
+    for testimony whereof, one in the prison,
+    that should by private order else have died,
+ 
+ ___________________________
+ 
+
+    i have reserv'd alive.
+  duke. what's he?
+  provost. his name is barnardine.
+  duke. i would thou hadst done so by claudio.
+    go fetch him hither; let me look upon him.      exit provost
+  escalus. i am sorry one so learned and so wise
+    as you, lord angelo, have still appear'd,
+    should slip so grossly, both in the heat of blood
+    and lack of temper'd judgment afterward.
+  angelo. i am sorry that such sorrow i procure;
+    and so deep sticks it in my penitent heart
+    that i crave death more willingly than mercy;
+    'tis my deserving, and i do entreat it.
+
+       re-enter provost, with barnardine, claudio (muffled)
+                            and juliet
+
+ 
+ 
+ ___________________________
+ 
+ duke. which is that barnardine?
+  provost. this, my lord.
+  duke. there was a friar told me of this man.
+    sirrah, thou art said to have a stubborn soul,
+    that apprehends no further than this world,
+    and squar'st thy life according. thou'rt condemn'd;
+    but, for those earthly faults, i quit them all,
+    and pray thee take this mercy to provide
+    for better times to come. friar, advise him;
+    i leave him to your hand. what muffl'd fellow's that?
+  provost. this is another prisoner that i sav'd,
+    who should have died when claudio lost his head;
+    as like almost to claudio as himself.    [unmuffles claudio]
+  duke. [to isabella] if he be like your brother, for his sake
+    is he pardon'd; and for your lovely sake,
+    give me your hand and say you will be mine,
+    he is my brother too. but fitter time for that.
+    by this lord angelo perceives he's safe;
+    methinks i see a quick'ning in his eye.
+    well, angelo, your evil quits 
+ 
+ ___________________________
+ 
+ours.
+    i find an apt remission in myself;
+    and yet here's one in place i cannot pardon.
+    to lucio] you, sirrah, that knew me for a fool, a coward,
+    one all of luxury, an ass, a madman!
+    wherein have i so deserv'd of you
+    that you extol me thus?
+  lucio. faith, my lord, i spoke it but according to the trick.
+    if you will hang me for it, you may; but i had rather it
+would
+    please you i might be whipt.
+  duke. whipt first, sir, and hang'd after.
+    proclaim it, provost, round about the city,
+    if any woman wrong'd by this lewd fellow-
+    as i have heard him swear himself there's one
+    whom he begot with child, let her appear,
+    and he shall marry her. the nuptial finish'd,
+    let him be whipt and hang'd.
+  lucio. i beseech your highness, do not marry me to a whore.
+your
+    highness said even now i made you a duke; good my lord, do
+not
+    recompense me in making me a cuckold.
+  duke. upon mine honour, thou shalt marry her.
+    thy slander
+ 
+ ___________________________
+ 
+nd see our pleasure herein executed.
+  lucio. marrying a punk, my lord, is pressing to death,
+whipping,
+    and hanging.
+  duke. slandering a prince deserves it.
+                                      exeunt officers with lucio
+    she, claudio, that you wrong'd, look you restore.
+    joy to you, mariana! love her, angelo;
+    i have confess'd her, and i know her virtue.
+    thanks, good friend escalus, for thy much goodness;
+    there's more behind that is more gratulate.
+    thanks, provost, for thy care and secrecy;
+    we shall employ thee in a worthier place.
+    forgive him, angelo, that brought you home
+    the head of ragozine for claudio's:
+    th' offence pardons itself. dear isabel,
+    i have a motion much imports your good;
+    whereto if you'll a willing ear incline,
+    what's mine is yours, and what is yours is mine.
+    so, bring us to our palace, where we'll show
+    what's yet behind that's meet you all should know.
+                                      

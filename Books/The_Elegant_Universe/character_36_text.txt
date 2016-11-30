@@ -1,0 +1,45 @@
+r still. following the pathbreaking and ultimately
+nobel  prize–winning  work  of  glashow,  salam,  and  weinberg  that  established  a  deep  connection
+between the electromagnetic and weak forces (discussed in chapter 5), in 1974 glashow, together
+
+with his harvard colleague howard georgi, suggested that an analogous connection might be forged
+with the strong force. their work, which proposed a "grand unification" of three of the four forces,
+differed in one essential way from that of the electroweak theory: whereas the electromagnetic and
+weak forces crystallized out of a more symmetric union when the temperature of the universe dropped
+to about a million billion degrees above absolute zero (1015 kelvin), georgi and glashow showed
+that the union with the strong force would have been apparent only at a temperature some ten trillion
+times higher—around ten billion billion billion degrees above absolute zero (1028 kelvin). from the
+point of view of energy, this is about a million billion times the
+ 
+ ___________________________
+ 
+trophobia. see quantum fluctuations.
+quantum determinism.  property  of quantum mechanics  that  knowledge  of  the  quantum  state  of  a
+system at one moment completely determines its quantum state at future and past moments. knowledge
+of the quantum state, however, determines only the probability that one or another future will actually
+ensue.
+quantum electrodynamics (qed). relativistic quantum field theory of the electromagnetic force
+and electrons, incorporating special relativity.
+quantum electroweak theory. see electroweak theory.
+quantum field theory. see relativistic quantum field theory.
+quantum fluctuation. turbulent behavior of a system on microscopic scales due to the uncertainty
+principle.
+quantum foam. see spacetime foam.
+quantum  geometry.  modification  of riemannian  geometry  required  to  describe  accurately  the
+physics of space on ultramicroscopic scales, where quantum effects become important.
+quantum gravity. a  theory  that  successfully  mergers quantum  mechanics  and general
+ 
+ ___________________________
+ 
+r  or  half  a  whole  number  (in  multiples  of
+planck's constant), and which never changes.
+standard  model  of  cosmology.  big  bang  theory  together  with  an  understanding  of  the  three
+nongravitational forces as summarized by the standard model of particle physics.
+standard model of particle physics, standard model, standard theory. an enormously successful
+theory of the three nongravitational forces and their action on matter. effectively the union of quantum
+chromodynamics and the electroweak theory.
+string. fundamental one-dimensional object that is the essential ingredient in string theory.
+string coupling constant. a (positive) number that governs how likely it is for a given string to split
+apart  into  two  strings  or  for  two  strings  to  join  together  into  one—the  basic  processes  in string
+theory.  each string  theory  has  its  own  string  coupling  constant,  the  value  of  which  should  be
+determined  by  an  equation;  currently  such  equations  are  not  understo

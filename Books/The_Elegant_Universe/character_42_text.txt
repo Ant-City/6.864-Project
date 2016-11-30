@@ -1,0 +1,71 @@
+  influence  objects  by  vigorously  pushing,  pulling,  or  shaking  them;  by  hurling  or
+firing  other  objects  into  them;  by  stretching,  twisting,  or  crushing  them;  or  by  freezing,  heating,  or
+burning them. during the past hundred years physicists have accumulated mounting evidence that all
+of  these  interactions  between  various  objects  and  materials,  as  well  as  any  of  the  millions  upon
+millions of others encountered daily, can be reduced to combinations of four fundamental forces. one
+of these is the gravitational force. the other three are the electromagnetic force, the weak force, and
+the strong force.
+
+gravity is the most familiar of the forces, being responsible for keeping us in orbit around the
+sun as well as for keeping our feet firmly planted on earth. the mass of an object measures how much
+gravitational force it can exert as well as feel. the electromagnetic force is the next most familiar of
+the  four.  it  is  the  force  driving  all  of  the  conveniences
+ 
+ ___________________________
+ 
+s
+graviton
+
+mass
+0
+0
+86,
+97
+0
+
+table 1.2 the four forces of nature, together with their associated force particles and their masses in
+multiples  of  the  proton  mass.  (the  weak  force  particles  come  in  varieties  with  the  two  possible
+masses listed. theoretical studies show that the graviton should be massless.)
+
+notwithstanding  their  common  features,  an  examination  of  the  fundamental  forces  themselves
+serves only to compound the questions. why, for instance, are there four fundamental forces? why not
+five or three or perhaps only one? why do the forces have such different properties? why are the
+strong  and  weak  forces  confined  to  operate  on  microscopic  scales  while  gravity  and  the
+electromagnetic  force  have  an  unlimited  range  of  influence? and  why  is  there  such  an  enormous
+spread in the intrinsic strength of these forces?
+
+to  appreciate  this  last  question,  imagine  holding  an  electron  in  your  left  hand  and  another
+electron  in  your  right  h
+ 
+ ___________________________
+ 
+the  masses  they  do—on  which  previous  theories  are  completely  silent.  once
+again, though, carrying through with such calculations requires that we know which calabi-yau space
+to take for the extra dimensions.
+
+the  preceding  discussion  gives  some  idea  of  how  string  theory  may  one  day  explain  the
+properties of the matter particles recorded in table 1.1. string theorists believe that a similar story
+will one day also explain the properties of the messenger particles of the fundamental forces, listed in
+table 1.2. that is, as strings twist and vibrate while meandering through the extended and curled-up
+dimensions, a small subset of their vast oscillatory repertoire consists of vibrations with spin equal to
+1 or 2. these are the candidate force-carrying string-vibrational states. regardless of the shape of the
+calabi-yau space, there is always one vibrational pattern that is massless and has spin-2; we identify
+this pattern as the graviton. the precise list of spin-1 messenger parti
+ 
+ ___________________________
+ 
+force charges, shifts that can change from place to place and from moment to
+moment.
+general relativity. einstein's formulation of gravity, which shows that space and time communicate
+the gravitational force through their curvature.
+gluon. smallest bundle of the strong force field; messenger particle of the strong force.
+grand  unification.  class  of  theories  that  merge  all  three  nongravitational  forces  into  a  single
+theoretical framework.
+gravitational force. the weakest of the four fundamental forces of nature. described by newton's
+universal theory of gravity, and subsequently by einstein's general relativity.
+graviton. smallest bundle of the gravitational force field; messenger particle for the gravitational
+force.
+
+heterotic-e string theory (heterotic e8 × e8 string theory). one of the five superstring theories;
+involves  closed  strings  whose  right-moving  vibrations  resemble  those  of  the type  ii  string  and
+whose  left-moving  vibrations  involve  those  of  the bosonic  str

@@ -1,0 +1,613 @@
+ breaks down due to
+quantum fluctuations when pushed to the small.
+
+the  basic  principles  of  general  relativity  and  quantum  mechanics  allow  us  to  calculate  the
+approximate  distance  scales  below  which  one  would  have  to  shrink  in  order  for  the  pernicious
+phenomenon of figure 5.1 to become apparent. the smallness of planck's constant—which governs
+the strength of quantum effects—and the intrinsic weakness of the gravitational force team up to yield
+a result called the planck length, which is small almost beyond imagination: a millionth of a billionth
+of  a  billionth  of  a  billionth  of  a  centimeter  (10-33  centimeter).7  the  fifth  level  in  figure  5.1  thus
+schematically  depicts  the  ultramicroscopic,  sub–planck  length  landscape  of  the  universe.  to  get  a
+sense of scale, if we were to magnify an atom to the size of the known universe, the planck length
+would barely expand to the height of an average tree.
+
+and  so  we  see  that  the  incompatability
+ 
+ ___________________________
+ 
+  between  general  relativity  and  quantum  mechanics
+becomes apparent only in a rather esoteric realm of the universe. for this reason you might well ask
+whether it's worth worrying about. in fact, the physics community does not speak with a unified voice
+when  addressing  this  issue.  there  are  those  physicists  who  are  willing  to  note  the  problem,  but
+happily go about using quantum mechanics and general relativity for problems whose typical lengths
+far exceed the planck length, as their research requires. there are other physicists, however, who are
+deeply unsettled by the fact that the two foundational pillars of physics as we know it are at their core
+fundamentally  incompatible,  regardless  of  the  ultramicroscopic  distances  that  must  be  probed  to
+expose the problem. the incompatibility, they argue, points to an essential flaw in our understanding
+of  the  physical  universe.  this  opinion  rests  on  an  unprovable  but  profoundly  felt  view  that  the
+ 
+ ___________________________
+ 
+at like infinitely thin rubber bands,
+vibrating to and fro. but don't let the name fool you: unlike an ordinary piece of string, which is itself
+composed of molecules and atoms, the strings of string theory are purported to lie deep within the
+heart  of  matter.  the  theory  proposes  that they  are  ultramicroscopic  ingredients  making  up  the
+particles  out  of  which  atoms  themselves  are  made.  the  strings  of  string  theory  are  so  small—on
+average they are about as long as the planck length—that they appear pointlike even when examined
+with our most powerful equipment.
+
+yet  the  simple  replacement  of  point  particles  with  strands  of  string  as  the  fundamental
+ingredients of everything has far-reaching consequences. first and foremost, string theory appears to
+resolve the conflict between general relativity and quantum mechanics. as we shall see, the spatially
+extended nature of a string is the crucial new element allowing for a single harmonious framework
+incorporating
+ 
+ ___________________________
+ 
+ese most recent advances will come in chapters 12 and 13.
+
+the greeks' atoms, again?
+
+as we mentioned at the outset of this chapter and as illustrated in figure 1.1, string theory claims that
+if  the  presumed  point-particles  of  the  standard  model  could  be  examined  with  a  precision
+significantly beyond our present capacity, each would be seen to be made of a single, tiny, oscillating
+loop of string.
+
+for reasons that will become clear, the length of a typical string loop is about the planck length,
+about a hundred billion billion (1020) times smaller than an atomic nucleus. it is no wonder that our
+present-day experiments are unable to resolve the microscopic stringy nature of matter: strings are
+minute even on the scales set by subatomic particles. we would need an accelerator to slam matter
+together with energies some million billion times more powerful than any previously constructed in
+order to reveal directly that a string is not a point-particle.
+
+we will describe shortly the stunn
+ 
+ ___________________________
+ 
+ion  of  their  composition.  although  this  is  a
+possibility, research since the mid-1980s overwhelmingly points toward its being extremely unlikely.
+but history surely has taught us that every time our understanding of the universe deepens, we find yet
+smaller  microscopic  ingredients  constituting  a  finer  level  of  matter.  and  so  another  possibility,
+should strings fail to be the final theory, is that they are one more layer in the cosmic onion, a layer
+that becomes visible at the planck length, although not the final layer. in this case, strings could be
+made up of yet-smaller structures. string theorists have raised and continue to pursue this possibility.
+to date there are intriguing hints in theoretical studies that strings may have further substructure, but
+there is as yet no definitive evidence. only time and intense research will supply the final word on
+this question.
+
+aside  from  a  few  speculations  in  chapters  12  and  15,  for  our  discussion  here  we  approach
+strin
+ 
+ ___________________________
+ 
+pared with more familiar examples. this has three important consequences.
+
+three consequences of stiff strings
+
+first, whereas the ends of a violin or a piano string are pinned down, ensuring that they have a fixed
+length, no analogous constraining frame pins down the size of a fundamental string. instead, the huge
+string tension causes the loops of string theory to contract to a minuscule size. detailed calculation
+reveals that being under planck tension translates into a typical string having planck length—10-33
+centimeters—as previously mentioned.8
+
+second, because of the enormous tension, the typical energy of a vibrating loop in string theory
+is extremely high. to understand this, we note that the greater the tension a string is under, the harder
+it is to get it to vibrate. for instance, it's far easier to pluck a violin string and set it vibrating than it is
+to pluck a piano string. two strings, therefore, that are under different tension and are vibrating in
+precisely the same way will n
+ 
+ ___________________________
+ 
+nt paul mende showed that
+when quantum mechanics is taken into account, continually increasing the energy of a string does not
+continually increase its ability to probe finer structures, in direct contrast with what happens for a
+point particle. they found that when the energy of a string is increased, it is at first able to probe
+shorter-scale structures, just like an energetic point particle. but when its energy is increased beyond
+the value required for probing structures on the scale of the planck length, the additional energy does
+not sharpen the string probe. rather, the energy causes the string to grow in size, thereby diminishing
+its short-distance sensitivity. in fact, although the size of a typical string is the planck length, if we
+pumped enough energy into a string—an amount of energy beyond our wildest imaginings but one that
+would likely have been attained by the big bang—we could cause it to grow to a macroscopic size, a
+clumsy probe of the microcosmos indeed! it's as if a string
+ 
+ ___________________________
+ 
+ry well have
+more dimensions than meet the eye.
+
+how small is "small?" cutting-edge equipment can detect structures as small as a billionth of a
+billionth of a meter. so long as an extra dimension is curled up to a size less than this tiny distance, it
+is too small for us to detect. in 1926 klein combined kaluza's initial suggestion with some ideas from
+the  emerging  field  of  quantum  mechanics.  his  calculations  indicated  that  the  additional  circular
+dimension might be as small as the planck length, far shorter than experimental accessibility. since
+then, physicists have called the possibility of extra tiny space dimensions kaluza-klein theory.2
+
+comings and goings on a garden hose
+
+the tangible example of the garden hose and the illustration in figure 8.3 are meant to give you some
+sense of how it is possible that our universe has extra spatial dimensions. but even for researchers in
+the field, it is quite difficult to visualize a universe with more than three spatial dimensions. for thi
+ 
+ ___________________________
+ 
+tantalizing  and  promising  pebbles  certainly
+have.
+
+the road to experiment
+
+without monumental technological breakthroughs, we will never be able to focus on the tiny length
+scales necessary to see a string directly. physicists can probe down to a billionth of a billionth of a
+meter  with  accelerators  that  are  roughly  a  few  miles  in  size.  probing  smaller  distances  requires
+higher energies and this means larger machines capable of focusing that energy on a single particle.
+as the planck length is some 17 orders of magnitude smaller than what we can currently access, using
+today's technology we would need an accelerator the size of the galaxy to see individual strings. in
+fact,  shmuel  nussinov  of  tel  aviv  university  has  shown  that  this  rough  estimate  based  on
+straightforward  scaling  is  likely  to  be  overly  optimistic;  his  more  careful  study  indicates  that  we
+would require an accelerator the size of the whole universe. (the energy required to probe matter at
+
+ 
+ ___________________________
+ 
+the planck length is roughly equal to a thousand kilowatt-hours—the energy needed to run an average
+air  conditioner  for  about  one  hundred  hours—and  so  is  not  particularly  outlandish.  the  seemingly
+insurmountable technological challenge is to focus all of this energy on a single particle, that is, on a
+single  string.)  as  the  u.s.  congress  ultimately  canceled  funding  for  the  superconducting
+supercollider—an  accelerator  a  "mere"  54  miles  in  circumference—don't  hold  your  bre
+ 
+ ___________________________
+ 
+he planck mass. but should a
+future experiment come across such exotic electric charges, it would constitute very strong evidence
+for string theory.
+
+some longer shots
+
+there are yet other ways in which evidence for string theory might be found. for example, witten has
+pointed out the long-shot possibility that astronomers might one day see a direct signature of string
+theory in the data they collect from observing the heavens. as encountered in chapter 6, the size of a
+string is typically the planck length, but strings that are more energetic can grow substantially larger.
+the energy of the big bang, in fact, would have been high enough to produce a few macroscopically
+large  strings  that,  through  cosmic  expansion,  might  have  grown  to  astronomical  scales.  we  can
+imagine that now or sometime in the future, a string of this sort might sweep across the night sky,
+leaving an unmistakable and measurable imprint on data collected by astronomers (such as a small
+shift in the cosmic microwave
+ 
+ ___________________________
+ 
+nius  lay  in  recognizing  that  this  body  of  mathematics  was  tailor-made  for
+implementing  his  new  view  of  the  gravitational  force.  he  boldly  declared  that  the  mathematics  of
+riemann's geometry aligns perfectly with the physics of gravity.
+
+but  now,  almost  a  century  after  einstein's  tour-de-force,  string  theory  gives  us  a  quantum-
+mechanical description of gravity that, by necessity, modifies general relativity when the distances
+involved become as short as the planck length. since riemannian geometry is the mathematical core
+of  general  relativity,  this  means  that  it  too  must  be  modified  in  order  to  reflect  faithfully  the  new
+short-distance physics of string theory. whereas general relativity asserts that the curved properties
+of the universe are described by riemannian geometry, string theory asserts that this is true only if we
+examine the fabric of the universe on large enough scales. on scales as small as the planck length a
+new kind of geometr
+ 
+ ___________________________
+ 
+o the size of a
+single star, a planet, and down to the size of an orange, a pea, a grain of sand, and further, according
+
+to general relativity, to the size of a molecule, an atom, and in a final inexorable cosmic crunch to no
+size at all. according to conventional theory, the universe began with a bang from an initial state of
+zero size, and if it has enough mass, it will end with a crunch to a similar state of ultimate cosmic
+compression.
+
+but when the distance scales involved are around the planck length or less, quantum mechanics
+invalidates the equations of general relativity, as we are now well aware. we must instead make use
+of  string  theory. and  so,  whereas  einstein's  general  relativity  allows  the  geometrical  form  of  the
+universe  to  get  arbitrarily  small—in  exactly  the  same  way  that  the  mathematics  of  riemannian
+geometry allows an abstract shape to take on as small a size as the intellect can imagine—we are led
+to  ask  how  string  theory  modifies  the  pict
+ 
+ ___________________________
+ 
+ure. as  we  shall  now  see,  there  is  evidence  that  string
+theory once again sets a lower limit to physically accessible distance scales and, in a remarkably
+novel way, proclaims that the universe cannot be squeezed to a size shorter than the planck length in
+any of its spatial dimensions.
+
+based on the familiarity you now have with string theory, you might be tempted to hazard a guess
+as to how this comes about. after all, you might argue that no matter how many points you pile up on
+top of each other—point particles that is—their combined volume is still zero. by contrast, if these
+particles are really strings, collapsed together in completely random orientations, they will fill out a
+nonzero-sized  blob,  roughly  like  a  planck-sized  ba
+ 
+ ___________________________
+ 
+ cataclysmic stages of our variant on the big crunch in the garden-hose
+universe. as  the  radius  of  the  circular  dimension  shrinks  to  the  planck  length  and,  in  the  mold  of
+general  relativity,  continues  to  shrink  to  yet  smaller  lengths,  string  theory  insists  upon  a  radical
+reinterpretation  of  what  actually  happens.  string  theory  claims  that all  physical  processes  in  the
+garden-hose universe in which the radius of the circular dimension is shorter than the planck length
+and is decreasing are absolutely identical to physical processes in which the circular dimension is
+longer  than  the  planck  length  and  increasing!  this  means  that  as  the  circular  dimension  tries  to
+collapse through the planck length and head toward ever smaller size, its attempts are made futile by
+string  theory,  which  turns  the  tables  on  geometry.  string  theory  shows  that  this  evolution  can  be
+rephrased—exactly reinterpreted—as the circular dimension shrinking 
+ 
+ ___________________________
+ 
+down to the planck length and
+then proceeding to expand. string theory rewrites the laws of short-distance geometry so that what
+previously appeared to be complete cosmic collapse is now seen to be a cosmic bounce. the circular
+dimension  can  shrink  to  the  planck-length.  but  because  of  the  winding  modes,  attempts  to  shrink
+further actually result in expansion. let's see why.
+
+the spectrum of string states*
+
+the new possibility of wound-string configurations implies that the energy of a string in the garden-
+ 
+ ___________________________
+ 
+esults.
+
+a debate
+
+george  and  gracie,  after  being  flattened  out  into  two-dimensional  beings,  take  up  residence  as
+physics professors in the garden-hose universe. after setting up their competing laboratories, each
+claims  to  have  determined  the  size  of  the  circular  dimension.  surprisingly,  although  each  has  a
+reputation  for  carrying  out  research  with  great  precision,  their  conclusions  do  not  agree.  george
+claims that the circular radius is r = 10 times the planck length, while gracie claims that the circular
+radius is r = 1/10 times the planck length.
+
+"gracie,"  says  george,  "based  on  my  string  theory  calculations,  i  know  that  if  the  circular
+
+dimension has radius 10, then i should expect to see strings whose energies are listed in table 10.1. i
+have done extensive experiments using the new planck energy accelerator and they have revealed that
+this prediction is precisely confirmed. therefore, with confidence, i claim that the circular dimension
+ 
+ ___________________________
+ 
+three questions
+
+at this point you might say, "look, if i was a little being in the garden-hose universe i would simply
+measure the circumference of the hose with a tape measure and thereby unambiguously determine the
+radius—no ifs, ands, or buts. so what is this nonsense about two indistinguishable possibilities with
+different radii? furthermore, doesn't string theory do away with sub-planck distances, so why are we
+even talking about circular dimensions with radii that are a fraction of the planck length? and finally,
+while we are at it, who really cares about the two-dimensional garden-hose universe—what does all
+this add up to when we include all dimensions?"
+
+let's begin with the last question, as the answer will force us to come face to face with the first
+
+two.
+
+although our discussion has taken place in the garden-hose universe, we restricted ourselves to
+one extended and one curled-up spatial dimension merely for simplicity. if we have three extended
+spatial  dimensions  and  six  circ
+ 
+ ___________________________
+ 
+e really gone
+off the deep end. how can this possibly be true? how can a six-foot tall human being "fit" inside such
+an unbelievably microscopic universe? how can such a speck of a universe be physically identical to
+the great expanse we view in the heavens? furthermore, we are now led forcefully to the second of
+our initial three questions: string theory was supposed to eliminate the ability to probe sub-planck
+distances. but if a circular dimension has radius r whose length is larger than the planck length, its
+reciprocal 1/r is necessarily a fraction of the planck length. so what is going on? the answer, which
+will also address the first of our three questions, highlights an important and subtle aspect of space
+and distance.
+
+two interrelated notions of distance in string theory
+
+distance is such a basic concept in our understanding of the world that it is easy to underestimate the
+depth of its subtlety. with the surprising effects that special and general relativity have had on our
+notions of s
+ 
+ ___________________________
+ 
+ have  seen  that  wound  strings  have  minimum  energy
+proportional  to r;  as  probes  of  distances  the  uncertainty  principle  tells  us  that  they  are  therefore
+sensitive to the reciprocal of this value, 1/r. the mathematical embodiment of this idea shows that if
+each  is  used  to  measure  the  radius  of  a  circular  dimension  of  space,  unwound  string  probes  will
+measure r while wound strings will measure 1/r, where, as before, we are measuring distances in
+multiples of the planck length. the result of each experiment has an equal claim to being the radius of
+the circle—what we learn from string theory is that using different probes to measure distance can
+result in different answers. in fact, this property extends to all measurements of lengths and distances,
+not just to determining the size of a circular dimension. the results obtained by wound and unwound
+string probes will be inversely related to one another.4
+
+if string theory describes our universe, why have we not enco
+ 
+ ___________________________
+ 
+hen  one  of  our
+operational definitions proves extremely difficult to carry out while the other proves extremely easy
+to carry out. in essence, we have always carried out the easy approach, completely unaware of there
+being another possibility.
+
+the discrepancy in difficulty between the two approaches is due to the very different masses of
+the  probes  used—high-winding-energy/low-vibration-energy,  and  vice  versa—if  the  radius r  (and
+hence 1/r as well) differs significantly from the planck length (that is, r = 1). "high" energy here, for
+radii  that  are  vastly  different  from  the  planck  length,  corresponds  to  incredibly  massive  probes—
+billions and billions of times heavier than the proton, for instance—while "low" energy corresponds
+to probe masses at most a speck above zero. in such circumstances, there is a monumental difference
+in difficulty between the two approaches, since even producing the heavy-string configurations is an
+undertaking that, at present, is beyond o
+ 
+ ___________________________
+ 
+nforms and hence meshes with our intuition.
+
+putting  issues  of  practicality  aside,  in  a  universe  governed  by  string  theory  one  is  free  to
+measure  distances  using  either  of  the  two  approaches.  when  astronomers  measure  the  "size  of  the
+universe" they do so by examining photons that have traveled across the cosmos and have happened to
+enter their telescopes. no pun intended, photons are the light string modes in this situation. the result
+obtained is the 1061 times the planck length quoted earlier. if the three familiar spatial dimensions are
+in fact circular and string theory is right, astronomers using vastly different (and currently nonexistent)
+equipment, in principle, should be able to measure the extent of the heavens with heavy wound-string
+modes and find a result that is the reciprocal of this huge distance. it is in this sense that we can think
+of the universe as being either huge, as we normally do, or terribly minute. according to the light
+
+string  modes,  the
+ 
+ ___________________________
+ 
+by the heavy string
+modes is asking a meaningless question—it's comparing apples and oranges. since we now have two
+concepts of distance—using light or heavy string probes—we must compare measurements made in
+the same manner.
+
+a minimum size
+
+it's been a bit of a trek, but we are now set for the key point. if one does stick to measuring distances
+"the easy way"—that is, using the lightest of the string modes instead of the heavy ones—the results
+obtained will always be larger than the planck length. to see this, let's think through the hypothetical
+big crunch for the three extended dimensions, assuming them to be circular. for argument's sake, let's
+say that at the beginning of our thought experiment, unwound string modes are the light ones and by
+using them it is determined that the universe has an enormously large radius and that it is shrinking in
+time. as it shrinks, these unwound modes get heavier and the winding modes get lighter. when the
+radius shrinks all the way to the planck le
+ 
+ ___________________________
+ 
+roaches to measuring distance become equally
+difficult to carry out and, moreover, each would yield the same result since 1 is its own reciprocal.
+
+as the radius continues to shrink, the winding modes become lighter than the unwound modes
+and hence, since we are always opting for the "easier approach," they should now be used to measure
+distances. according to this method of measurement, which yields the reciprocal of that measured by
+the  unwound  modes, the radius is larger than one times the planck length and increasing.  this
+simply reflects that as r—the quantity measured by unwound strings—shrinks to 1 and continues to
+get smaller, 1/r—the quantity measured by wound strings—grows to 1 and gets larger. therefore, if
+one takes care to always use the light string modes—the "easy" approach to measuring distance—the
+minimal value encountered is the planck length.
+
+in  particular,  a  big  crunch  to  zero  size  is  avoided,  as  the  radius  of  the  universe  as  measured
+using light
+ 
+ ___________________________
+ 
+ string-mode probes is always larger than the planck length. rather than heading through the
+planck length on to ever smaller size, the radius, as measured by the lightest string modes, decreases
+to the planck length and then immediately starts to increase. the crunch is replaced by a bounce.
+
+using light string modes to measure distances aligns with our conventional notion of length—the
+one  that  was  around  long  before  the  discovery  of  string  theory.  it  is  according  to this  notion  of
+distance, as seen in chapter 5, that we encountered insurmountable problems with violent quantum
+undulations  if  sub-planck-scale  distances  play  a  physical  role.  we  once  again  see,  from  this
+comple
+ 
+ ___________________________
+ 
+a
+concept  of  distance  that  meshes  with  both  our  intuition  and  with  general  relativity  when  distance
+scales are large, but that differs from them dramatically when distance scales get small. specifically,
+sub-planck-scale distances are inaccessible.
+
+as this discussion is quite subtle, let's re-emphasize one central point. if we were to spurn the
+distinction between "easy" and "hard" approaches to measuring length and, say, continue to use the
+unwound modes as r shrinks through the planck length, it might seem that we would indeed be able to
+encounter a sub-planck-length distance. but the paragraphs above inform us that the word "distance"
+in the last sentence must be carefully interpreted, since it can have two different meanings, only one of
+which conforms to our traditional notion. and in this case, when r shrinks to sub-planck length but
+we continue to use the unwound strings (even though they have now become heavier than the wound
+strings),  we  are  employing  the  "hard"  approa
+ 
+ ___________________________
+ 
+ch  to  measuring  distance,  and  hence  the  meaning  of
+"distance" does not conform to our standard usage. however, the discussion is far more than one of
+semantics  or  even  of  convenience  or  practicality  of  measurement.  even  if  we  choose  to  use  the
+nonstandard notion of distance and thereby describe the radius as being shorter than the planck length,
+the physics we encounter—as discussed in previous sections—will be identical to that of a universe
+in which the radius, in the conventional sense of distance, is larger than the planck length (as attested
+to, for example, by the exact correspondence between tables 10.1 and 10.2). and it is physics, not
+language, that really matters.
+
+brandenberger, vafa, and other physicists have made use of these ideas to suggest a rewriting of
+the laws of cosmology in which both the big bang and the poss
+ 
+ ___________________________
+ 
+ in greater detail.
+
+in the beginning there was a planck-sized nugget
+
+in the late 1980s, robert brandenberger and cumrun vafa made the first important strides toward
+understanding how the application of these string theoretic features modifies the conclusions of the
+standard  cosmological  framework.  they  came  to  two  important  realizations.  first,  as  we  run  the
+clock backward in time toward the beginning, the temperature continues to rise until the size of the
+universe is about the planck length in all directions. but then, the temperature hits a maximum  and
+begins to decrease. the intuitive reason behind this is not hard to come by. imagine for simplicity (as
+brandenberger and vafa did) that all of the space dimensions of the universe are circular. as we run
+the clock backward and the radius of each of these circles shrinks, the temperature of the universe
+increases. but as each of the radii collapses toward and then through the planck length, we know that,
+within string theory, this
+ 
+ ___________________________
+ 
+ is physically identical to the radii shrinking to the planck length and then
+bouncing  back  toward  increasing  size.  since  temperature  goes  down  as  the  universe  expands,  we
+would  expect  that  the  futile  attempt  to  squeeze  the  universe  to  sub-planck  size  means  that  the
+temperature stops rising, hits a maximum, and then begins to decrease. through detailed calculations,
+brandenberger and vafa explicitly verified that indeed this is the case.
+
+this led brandenberger and vafa to the following cosmological picture. in the beginning, all of
+t
+ 
+ ___________________________
+ 
+he spatial dimensions of string theory are tightly curled up to their smallest possible extent, which is
+roughly the planck length. the temperature and energy are high, but not infinite, since string theory has
+avoided  the  conundrums  of  an  infinitely  compressed  zero-size  starting  point.  at  this  beginning
+moment of the universe, all the spatial dimensions of string theory are on completely equal footing—
+they  are  completely  symmetric—all  curled  up  into  a  multidimensional,  planck-sized  nugget.  then,
+according to brandenberger and vafa, the universe goes through its first stage of symmetry reduction
+ 
+ ___________________________
+ 
+hat  takes  over.  studies  with  these  zero-branes
+indicate  that  ordinary  geometry  is  replaced  by  something  known  as noncommutative  geometry,  an
+area  of  mathematics  developed  in  large  part  by  the  french  mathematician alain  connes.4  in  this
+geometrical framework, the conventional notions of space and of distance between points melt away,
+leaving  us  in  a  vastly  different  conceptual  landscape.  nevertheless,  as  we  focus  our  attention  on
+scales larger than the planck length, physicists have shown that our conventional notion of space does
+re-emerge. it is likely that the framework of noncommutative geometry is still some significant steps
+away  from  the  blank-slate  state  anticipated  above,  but  it  does  give  us  a  hint  of  what  the  more
+complete framework for incorporating space and time may involve.
+
+finding the correct mathematical apparatus for formulating string theory without recourse to a
+pre-existing notion of space and time is one of the most i
+ 
+ ___________________________
+ 
+f. who could have
+guessed that the merging of gravity and quantum mechanics into a unified theory of all matter and all
+forces would yield such a revolution in our understanding of how the universe works?
+
+no  doubt,  there  are  even  grander  surprises  in  store  for  us  as  we  continue  to  seek  a  full  and
+calculationally tractable understanding of superstring theory. already, through studies in m-theory,
+we have seen glimpses of a strange new domain of the universe lurking beneath the planck length,
+possibly one in which there is no notion of time or space. at the opposite extreme, we have also seen
+that our universe may merely be one of the innumerable frothing bubbles on the surface of a vast and
+turbulent cosmic ocean called the multiverse. these ideas are at the current edge of speculation, but
+they may presage the next leap in our understanding of the universe.
+
+as we fix our sight on the future and anticipate all the wonders yet in store for us, we should
+also reflect back and marve
+ 
+ ___________________________
+ 
+at schrödinger wrote down—the one incorporating special
+relativity—did not accurately describe the quantum-mechanical properties of electrons in hydrogen
+atoms, it was soon realized to be a valuable equation when appropriately used in other contexts, and,
+in fact, is still in use today. however, by the time schrödinger published his equation he had been
+scooped by oskar klein and walter gordon, and hence his relativistic equation is called the "klein-
+gordon equation."
+
+7. the size of the planck length can be understood based upon simple reasoning rooted in what
+physicists call dimensional analysis. the idea is this. when a theory is formulated as a collection of
+equations, the abstract symbols must be tied to physical features of the world if the theory is to make
+contact with reality. in particular, we must introduce a system of units so that if a symbol, say, is
+meant  to  refer  to  a  length,  we  have  a  scale  by  which  its  value  can  be  interpreted.  after  all,  if
+equations  sh
+ 
+ ___________________________
+ 
+, a
+choice of units emerges naturally, in the following way. there are two constants of nature upon which
+general  relativity  depends:  the  speed  of  light, c,  and  newton's  gravitation  constant, g.  quantum
+. by examining the units of these constants (e.g., c is a
+mechanics depends on one constant of nature 
+velocity, so is expressed as distance divided by time, etc.), one can see that the combination  g/c3
+has the units of a length; in fact, it is 1.616 × 10-33 centimeters. this is the planck length. since it
+
+5.  for  the  mathematically  inclined  reader,  we  note  that  the  symmetry  principles  used  in
+elementary  particle  physics  are  generally  based  on  groups,  most  notably,  lie  groups.  elementary
+particles  are  arranged  in  representations  of  various  groups  and  the  equations  governing  their  time
+evolution are required to respect the associated symmetry transformations. for the strong force, this
+symmetry is called su(3) (the analog of ordinary three-dimensiona
+ 
+ ___________________________
+ 
+ is, in
+principle,  unbounded—the  "ultimate"  or  "final"  theory—physicists  want  to  find  a  theory  in  which
+infinite answers do not crop up, regardless of how extreme the physical system being analyzed might
+be.
+
+involves gravitational and spacetime inputs (g and c) and has a quantum mechanical dependence ( )
+as well, it sets the scale for measurements—the natural unit of length—in any theory that attempts to
+merge general relativity and quantum mechanics. when we use the term "planck length" in the text, it
+is often meant in an approximate sense, indicating a length that is within a few orders of magnitude of
+10–33 centimeters.
+
+8. currently, in addition to string theory, two other approaches for merging general relativity and
+quantum mechanics are being pursued vigorously. one approach is led by roger penrose of oxford
+university and is known as twistor theory. the other approach—inspired in part by penrose's work
+—is  led  by abhay ashtekar  of  pennsylvania  state  univer
+ 
+ ___________________________
+ 
+fact that the energies are of the form v/r +
+
+wr, where v is the vibration number and w is the winding number. this equation is invariant under the
+simultaneous  interchange  of v  and w  as  well  as r and 1/r—i.e., under the interchange of vibration
+and winding numbers and inversion of the radius. in our discussion we are working in planck units,
+but we can work in more conventional units by rewriting the energy formula in terms of  —the so-
+called string scale—whose value is about the planck length, 10-33 centimeter. we can then express
+string energies as v/r + wr/
+/r,
+where the latter two are now expressed in terms of conventional units of distance.
+
+, which is invariant under interchange of v and w as well as r and 
+
+4. you  may  be  wondering  how  it's  possible  for  a  string  that  stretches  all  the  way  around  a
+circular dimension of radius r to nevertheless measure the radius to be 1/r. although a thoroughly
+justifiable concern, its resolution actually lies in the imprecise p
+ 
+ ___________________________
+ 
+l system as features on which it
+depends (temperature, string coupling constant values, form of spacetime, etc.) are varied.
+phase transition. evolution of a physical system from one phase to another.
+photoelectric effect. phenomenon in which electrons are ejected from a metallic surface when light
+is shone upon it.
+photon.  smallest  packet  of 
+electromagnetic force; smallest bundle of light.
+planck energy. about 1,000 kilowatt hours. the energy necessary to probe to distances as small as
+the planck length. the typical energy of a vibrating string in string theory.
+planck length. about 10-33 centimeters. the scale below which quantum fluctuations in the fabric of
+spacetime would become enormous. the size of a typical string in string theory.
+planck  mass.  about  ten  billion  billion  times  the  mass  of  a proton;  about  one-hundredth  of  a
+thousandth  of  a  gram;  about  the  mass  of  a  small  grain  of  dust.  the  typical  mass  equivalent  of  a
+vibrating string in string theory.
+plan
+ 
+ ___________________________
+ 
+noted  by  the  symbol h,  planck's  constant  is  a  fundamental  parameter  in
+quantum mechanics. it determines the size of the discrete units of energy, mass, spin, etc. into which
+the microscopic world is partitioned. its value is 1.05 × 10-27 grams-cm/sec.
+planck tension. about 1039 tons. the tension on a typical string in string theory.
+planck time. about 10-43 seconds. time at which the size of the universe was roughly the planck
+length; more precisely, time it takes light to travel the planck length.
+primordial nucleosynthesis. production of atomic nuclei occurring during the first three minutes after
+the big bang.
+principle of equivalence.  core  principle  of general relativity declaring the indistinguishability of
+accelerated motion and immersion in a gravitational field (over small enough regions of observation).
+generalizes  the principle  of  relativity  by  showing  that  all  observers,  regardless  of  their  state  of
+motion, can claim to be at rest, so long as they acknowledge t
+ 
+ ___________________________
+ 
+ surface of a doughnut.
+two-brane. see brane.
+two-dimensional sphere. see sphere.
+type i string theory. one of the five superstring theories; involves both open and closed strings.
+type iia string theory.  one of the five superstring theories; involves closed strings with left-right
+symmetric vibrational patterns.
+type iib string theory. one of the five superstring theories; involves closed strings with left-right
+asymmetric vibrational patterns.
+ultramicroscopic. length scales shorter than the planck length (and also time scales shorter than the
+planck time).
+uncertainty principle.  principle  of quantum mechanics,  discovered  by  heisenberg,  that  there  are
+features  of  the  universe,  like  the  position  and velocity  of  a  particle,  that  cannot  be  known  with
+complete precision. such uncertain aspects of the microscopic world become ever more severe as the
+distance  and  time  scales  on  which  they  are  considered  become  ever  smaller.  particles  and  fields
+undulate and jump be

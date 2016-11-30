@@ -1,0 +1,107 @@
+l feel the familiar force of the floor on your feet, just as in the scenario of
+upward  acceleration;  this  is  exactly  the  same  equivalence  albert  exploited  in  his  solution  for
+launching the terrorist bomb into space. if your compartment is resting on its back end you will feel
+the force of your seat on your back (preventing you from falling), just as when you were accelerating
+horizontally.  einstein  called  the  indistinguishability  between  accelerated  motion  and  gravity  the
+equivalence principle. it plays a central role in general relativity.2
+
+this  description  shows  that  general  relativity  finishes  a  job  initiated  by  special  relativity.
+through  its  principle  of  relativity,  the  special  theory  of  relativity  declares  a  democracy  of
+observational  vantage  points:  the  laws  of  physics  appear  identical  to  all  observers  undergoing
+
+constant-velocity motion. but this is limited democracy indeed, for it excludes an enormous number
+of other viewpoints—those
+ 
+ ___________________________
+ 
+ question  of  why  a  certain  force
+exists to why nature respects its associated symmetry principle. but this certainly feels like progress,
+especially  when  the  symmetry  in  question  is  one  that  seems  eminently  natural.  for  example,  why
+should  one  observer's  frame  of  reference  be  treated  differently  from  another's?  it  seems  far  more
+natural  for  the  laws  of  the  universe  to  treat  all  observational  vantage  points  equally;  this  is
+accomplished through the equivalence principle and the introduction of gravity into the structure of
+the cosmos. although it requires some mathematical background to appreciate fully, as we indicated
+in  chapter  5,  there  is  a  similar  rationale  behind  the  gauge  symmetries  underlying  the  three
+nongravitational forces.
+
+string theory takes us down another notch on the scale of explanatory depth because all of these
+symmetry  principles,  as  well  as  another—supersymmetry—emerge  from  its  structure.  in  fact,  had
+history 
+ 
+ ___________________________
+ 
+followed a different course—and had physicists come upon string theory some hundred years
+earlier—we can imagine that these symmetry principles would have all been discovered by studying
+its properties. but bear in mind that whereas the equivalence principle gives us some understanding
+of why gravity exists, and the gauge symmetries give us some sense of why the nongravitational forces
+exist, in the context of string theory these symmetries are consequences; although their importance is
+in no way diminished, they are part of the end product of a much larger theoretical structure.
+
+this  discussion  brings  the  following  question  into  sharp  relief:  is  string  theory  itself  an
+inevitable  consequence  of  some  broader  principle—possibly 
+ 
+ ___________________________
+ 
+ but  not  necessarily  a  symmetry
+principle—in much the same way that the equivalence principle inexorably leads to general relativity
+or that gauge symmetries lead to the nongravitational forces? as of this writing, no one has any insight
+into the answer to this question. to appreciate its importance, we need only imagine einstein trying to
+formulate general relativity without having had the happy thought he experienced in the bern patent
+office  in  1907  that  led  him  to  the  principle  of  equivalence.  it  would  not  have  been  impossible  to
+formulate  general  relativity  with
+ 
+ ___________________________
+ 
+out  first  having  this  key  insight,  but  it  certainly  would  have  been
+extremely  difficult.  the  equivalence  principle  provides  a  succinct,  systematic,  and  powerful
+organizational framework for analyzing the gravitational force. the description of general relativity
+we gave in chapter 3, for example, relied centrally on the equivalence principle, and its role in the
+full mathematical formalism of the theory is even more crucial.
+
+currently, string theorists are in a position analogous to an einstein bereft of the equivalence
+principle. since veneziano's insightful guess in 1968, the theory has been pieced together, discovery
+by  discovery,  revolution  by  revolution.  but  a  central  organizing  principle  that  embraces  these
+discoveries and all other features of the theory within one overarching and systematic framework—a
+framew
+ 
+ ___________________________
+ 
+/dt,
+increase in an object's speed through space, 
+the latter being the object's speed through time (the rate at which time elapses on its own clock, dt, as
+compared with that on our stationary clock, dt).
+
+2 + dx2
+
+1 + dx2
+
+chapter 3
+
+1. isaac newton, sir isaac newton's mathematical principle of natural philosophy and his
+system of the world, trans. a. motte and florian cajori (berkeley: university of california press,
+1962), vol. i, p. 634.
+
+2. a bit more precisely, einstein realized that the equivalence principle holds so long as your
+observations are confined to a small enough region of space—that is, so long as your "compartment"
+is  small  enough.  the  reason  is  the  following.  gravitational  fields  can  vary  in  strength  (and  in
+direction) from place to place. but we are imagining that your whole compartment accelerates as a
+single unit and therefore your acceleration simulates a single, uniform gravitational force field. as
+your compartment gets ever smaller, though, there is ever less ro
+ 
+ ___________________________
+ 
+ry.  relativistic  quantum  field  theory  describing 
+electromagnetic force in one unified framework.
+eleven-dimensional supergravity. promising higher-dimensional supergravity theory developed in
+the 1970s, subsequently ignored, and more recently shown to be an important part of string theory.
+entropy.  a  measure  of  the  disorder  of  a  physical  system;  the  number  of  rearrangements  of  the
+
+the weak  force  and  the
+
+ingredients of a system that leave its overall appearance intact.
+equivalence principle. see principle of equivalence.
+event horizon. the one-way surface of a black hole; once penetrated, the laws of gravity ensure that
+there is no turning back, no escaping the powerful gravitational grip of the black hole.
+extended  dimension.  a  space  (and spacetime)  dimension  that  is  large  and  directly  apparent;  a
+dimension with which we are ordinarily familiar, as opposed to a curled-up dimension.
+extremal black holes. black holes endowed with the maximal amount of force charge possi

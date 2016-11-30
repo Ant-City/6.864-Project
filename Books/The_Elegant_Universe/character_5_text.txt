@@ -1,0 +1,11 @@
+med  gabriele  veneziano  was  struggling  to  make  sense  of
+various experimentally observed properties of the strong nuclear force. veneziano, then a research
+fellow at cern, the european accelerator laboratory in geneva, switzerland, had worked on aspects
+of this problem for a number of years, until one day he came upon a striking revelation. much to his
+surprise,  he  realized  that  an  esoteric  formula  concocted  for  purely  mathematical  pursuits  by  the
+renowned swiss mathematician leonhard euler some two hundred years earlier—the so-called euler
+beta-function—seemed to describe numerous properties of strongly interacting particles in one fell
+swoop. veneziano's observation provided a powerful mathematical encapsulation of many features of
+the strong force and it launched an intense flurry of research aimed at using euler's beta-function, and
+various  generalizations,  to  describe  the  surfeit  of  data  being  collected  at  various  atom  smashers
+around the world. nevertheless, 

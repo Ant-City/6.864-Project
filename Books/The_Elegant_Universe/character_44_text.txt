@@ -1,0 +1,309 @@
+tuents  of  weak  and  strong  force  fields  are
+particles  called weak gauge bosons  and gluons.  (the  name gluon is particularly descriptive: you
+can think of gluons as the microscopic ingredient in the strong glue holding atomic nuclei together.)
+by 1984 experimenters had definitively established the existence and the detailed properties of these
+three kinds of force particles, recorded in table 1.2. physicists believe that the gravitational force
+also  has  an  associated  particle—the  graviton—but  its  existence  has  yet  to  be  confirmed
+experimentally.
+
+the second common feature of the forces is that just as mass determines how gravity affects a
+particle,  and  electric  charge  determines  how  the  electromagnetic  force  affects  it,  particles  are
+endowed  with  certain  amounts  of  "strong  charge"  and  "weak  charge"  that  determine  how  they  are
+affected by the strong and weak forces. (these properties are detailed in the table in the endnotes to
+this chapter.1) b
+ 
+ ___________________________
+ 
+ut as with particle masses, beyond the fact that experimental physicists have carefully
+measured  these  properties,  no  one  has  any  explanation  of why  our  universe  is  composed  of  these
+particular particles, with these particular masses and force charges.
+
+force particle
+force
+strong
+gluon
+electromagnetic photon
+weak
+gravity
+
+weak gauge
+bosons
+graviton
+
+mass
+0
+0
+86,
+97
+0
+
+table 1.2 the four forces of nature, together with their associated force particles and their masses in
+multiples  of  the  proton  mass.  (the  weak  force  particles  come  in  varieties  with  the  two  possible
+masses listed. theoretical studies show that the graviton should be massless.)
+
+notwithstanding  their  common  features,  an  examination  of  the  fundamental  forces  themselves
+serves only to compound the questions. why, for instance, are there four fundamenta
+ 
+ ___________________________
+ 
+pletely  overwhelm  gravity  in  the  world
+around  us  is  that  most  things  are  composed  of  an  equal  amount  of  positive  and  negative  electric
+charges whose forces cancel each other out. on the other hand, since gravity is always attractive,
+there are no analogous cancellations—more stuff means greater gravitational force. but fundamentally
+speaking, gravity is an extremely feeble force. (this fact accounts for the difficulty in experimentally
+confirming  the  existence  of  the  graviton.  searching  for  the  smallest  bundle  of  the  feeblest  force  is
+quite a challenge.) experiments also have shown that the strong force is about one hundred times as
+strong as the electromagnetic force and about one hundred thousand times as strong as the weak force.
+but where is the rationale—the raison d'être—for our universe having these features?
+
+this is not a question born of idle philosophizing about why certain details happen to be one
+way instead of another; the universe would
+ 
+ ___________________________
+ 
+at  a  sphere  exemplifies  rotational
+symmetry because it looks the same regardless of how we rotate it around in our hands or how we
+shift the angle from which we view it, we say that the universe exemplifies strong force symmetry:
+physics  is  unchanged  by—it  is  completely  insensitive  to—these  force-charge  shifts.  for  historical
+reasons, physicists also say that the strong force symmetry is an example of a gauge symmetry.5
+
+the smallest bundle of a gravitational force field, the graviton, would be its messenger particle. at
+first sight, as we now note, this suggestion would appear to be particularly apt because the quantum
+field theory of the three nongravitational forces reveals that there is a tantalizing similarity between
+them and an aspect of the gravitational force we encountered in chapter 3.
+
+here  is  the  essential  point.  just  as  the  symmetry  between  all  possible  observational  vantage
+points in general relativity requires the existence of the gravitational f
+ 
+ ___________________________
+ 
+ned additional messenger-like particles that did not appear to have
+any relevance to experimental observations of the strong force. in 1974, schwarz and joël scherk of
+the  ecole  normale  superieure  made  a  bold  leap  that  transformed  this  apparent  vice  into  a  virtue.
+after  studying  the  puzzling  messenger-like  patterns  of  string  vibration,  they  realized  that  their
+properties matched perfectly those of the hypothesized messenger particle of the gravitational force—
+the  graviton. although  these  "smallest  bundles"  of  the  gravitational  force  have,  as  yet,  never  been
+seen, theorists can confidently predict certain basic features that they must possess, and scherk and
+
+schwarz found these properties to be realized exactly by certain vibrational patterns. based on this,
+scherk and schwarz suggested that string theory had failed in its initial attempt because physicists had
+unduly constrained its scope. string theory is not just a theory of the strong force, the
+ 
+ ___________________________
+ 
+ation and its properties vis
+a vis other forces. the electric charge, the weak charge, and the strong charge carried by a particular
+string, for instance, are determined by the precise way it vibrates. moreover, exactly the same idea
+holds for the messenger particles themselves. particles like photons, weak gauge bosons, and gluons
+are yet other resonant patterns of string vibration. and of particular importance, among the vibrational
+string patterns, one matches perfectly the properties of the graviton, ensuring that gravity is an integral
+part of string theory.7
+
+so we see that, according to string theory, the observed properties of each elementary particle
+arise because its internal string undergoes a particular resonant vibrational pattern. this perspective
+differs sharply from that espoused by physicists before the discovery of string theory; in the earlier
+perspective the differences among the fundamental particles were explained by saying that, in effect,
+each  particle  species  was  "
+ 
+ ___________________________
+ 
+rresponding tension on its loops. how is this tension determined? well,
+if we could pluck a fundamental string we would learn about its stiffness, and in this way we could
+measure its tension much as is done to measure the tension of more familiar everyday strings. but
+since fundamental strings are so tiny, this approach cannot be carried out and a more indirect method
+is  called  for.  in  1974,  when  scherk  and  schwarz  proposed  that  one  particular  pattern  of  string
+vibration was the graviton particle, they were able to exploit such an indirect approach and thereby
+predict the tension on the strings of string theory. their calculations revealed that the strength of the
+force transmitted by the proposed graviton pattern of string vibration is inversely proportional to the
+string's tension. and since the graviton is supposed to transmit the gravitational force—a force that is
+intrinsically quite feeble—they found that this implies a colossal tension of a thousand billion billion
+b
+ 
+ ___________________________
+ 
+y vibrations
+—energies whose corresponding mass-equivalents are in the neighborhood of the matter and force
+particle masses shown in tables 1.1 and 1.2. it is these lowest energy vibrational patterns, therefore,
+that  should  provide  contact  between  the  theoretical  description  of  strings  and  the  experimentally
+accessible world of particle physics. as an important example, scherk and schwarz found that for the
+vibrational  pattern  whose  properties  make  it  a  candidate  for  the  graviton  messenger  particle,  the
+energy  cancellations  are perfect,  resulting  in  a  zero-mass  gravitational-force  particle.  this  is
+precisely what is expected for the graviton; the gravitational force is transmitted at light speed and
+only massless particles travel at this maximal velocity. but low-energy vibrational combinations are
+very  much  the  exception  rather  than  the  rule.  the  more  typical  vibrating  fundamental  string
+corresponds to a particle whose mass is billions upon bi
+ 
+ ___________________________
+ 
+lated  when  the  point-particle  paradigm  was  discarded.  for  a  long  time,
+therefore,  it  seemed  impossible  to  find  a  sensible  quantum  theory  based  on  anything  but  point
+particles.  the  truly  impressive  feature  of  string  theory  is  that  more  than  twenty  years  of  exacting
+research has shown that although certain features are unfamiliar, string theory does respect all of the
+requisite properties inherent in any sensible physical theory. and furthermore, through its graviton
+pattern of vibration, string theory is a quantum theory containing gravity.
+
+the more precise answer
+
+the rough answer captures the essence of why string theory prevails where previous point-particle
+theories failed. and so, if you like, you can go on to the next section without losing the logical flow of
+our  discussion.  but  having  developed  the  essential  ideas  of  special  relativity  in  chapter  2,  we
+already have the necessary tools for describing more accurately how string theory 
+ 
+ ___________________________
+ 
+state of motion of the observer.
+
+if we apply exactly the same reasoning to the interaction of point particles, as summarized in
+figure 6.11, we recover the conclusion stated earlier—there is a definite point in space and moment
+in time when the point particles interact. point particles cram all of their interaction into a definite
+point.  when  the  force  involved  in  an  interaction  is  the  gravitational  force—that  is,  when  the
+messenger particle involved in the interaction is the graviton instead of the photon—this complete
+packing of the force's punch into a single point leads to disastrous results, such as the infinite answers
+we alluded to earlier. strings, by contrast, "smear" out the place where interactions occur. because
+different observers perceive that the interaction takes place at various locations along the left part of
+the  surface  of  figure  6.10,  in  a  real  sense  this  means  that  the  interaction  location  is  smeared  out
+among all of them. this spread
+ 
+ ___________________________
+ 
+e supposed catastrophe arising on ultramicroscopic distances is
+summarily done away with.
+
+figure 6.11 observers in relative motion agree on when and where two point particles interact with
+another.
+
+beyond strings?
+
+strings  are  special  for  two  reasons.  first,  even  though  they  are  spatially  extended  they  can  be
+described  consistently  in  the  framework  of  quantum  mechanics.  second,  among  the  resonant
+vibrational patterns there is one that has the exact properties of the graviton, thus ensuring that the
+gravitational  force  is  an  intrinsic  part  of  its  structure.  but  just  as  string  theory  shows  that  the
+conventional notion of zero-dimensional point particles appears to be a mathematical idealization that
+is not realized in the real world, might it also be the case that an infinitely thin one-dimensional strand
+is similarly a mathematical idealization? might it actually be the case that strings have some thickness
+—like the surface of a two-dimensional bi
+ 
+ ___________________________
+ 
+e  the  value  1/2  is,  roughly  speaking,  a  quantum-mechanical
+measure  of  how  quickly  the  particles  rotate.2  moreover,  physicists  have  shown  that  the
+nongravitational force carriers—photons, weak gauge bosons, and gluons—also possess an intrinsic
+spinning characteristic that turns out to be twice that of the matter particles. they all have "spin-1."
+
+what  about  gravity?  well,  even  before  string  theory,  physicists  were  able  to  determine  what
+spin the hypothesized graviton must have to be the transmitter of the gravitational force. the answer:
+twice the spin of photons, weak gauge bosons, and gluons—i.e., "spin-2."
+
+in the context of string theory, spin—just like mass and force charges—is associated with the
+pattern of vibration that a string executes. as with point particles, it's a bit misleading to think of the
+spin carried by a string as arising from its spinning literally around in space, but this image does give
+a loose picture to have in mind. by the
+ 
+ ___________________________
+ 
+ way, we can now clarify an important issue we encountered
+earlier. in 1974, when scherk and schwarz proclaimed that string theory should be thought of as a
+quantum theory incorporating the gravitational force, they did so because they had found that strings
+necessarily  have  a  vibrational  pattern  in  their  repertoire  that  is massless  and  has  spin-2—the
+hallmark features of the graviton. where there is a graviton there is also gravity.
+
+loophole in the coleman-mandula result concerning the possible symmetries of nature, mentioned in
+the preceding section.
+
+supersymmetry and superpartners
+
+as we have emphasized, the concept of spin, although superficially akin to the image of a spinning
+top, differs in substantial ways that are rooted in quantum mechanics. its discovery in 1925 revealed
+that  there  is  another  kind  of  rotational  motion  that  simply  would  not  exist  in  a  purely  classical
+univ
+ 
+ ___________________________
+ 
+  the  remarkable  property  of predicting
+gravity."1 what witten means by this is that both newton and einstein developed theories of gravity
+because their observations of the world clearly showed them that gravity exists, and that, therefore, it
+required an accurate and consistent explanation. on the contrary, a physicist studying string theory—
+even if he or she was completely unaware of general relativity—would be inexorably led to it by the
+string framework. through its massless spin-2 graviton pattern of vibration, string theory has gravity
+thoroughly sewn into its theoretical fabric. as witten has said, "the fact that gravity is a consequence
+of  string  theory  is  one  of  the  greatest  theoretical  insights  ever."2  in  acknowledging  that  this
+"prediction" is more precisely labeled a "postdiction" because physicists had discovered theoretical
+descriptions of gravity before they knew of string theory, witten points out that this is a mere accident
+of history on earth. in other
+ 
+ ___________________________
+ 
+ of the messenger particles of the fundamental forces, listed in
+table 1.2. that is, as strings twist and vibrate while meandering through the extended and curled-up
+dimensions, a small subset of their vast oscillatory repertoire consists of vibrations with spin equal to
+1 or 2. these are the candidate force-carrying string-vibrational states. regardless of the shape of the
+calabi-yau space, there is always one vibrational pattern that is massless and has spin-2; we identify
+this pattern as the graviton. the precise list of spin-1 messenger particles—their number, the strength
+of the force they convey, the gauge symmetries they respect—though, does depend crucially on the
+precise geometrical form of the curled-up dimensions. and so, once again, we come to realize that
+string  theory  provides  a  framework  for  explaining  the  observed  messenger-particle  content  of  our
+universe,  that  is,  for  explaining  the  properties  of  the  fundamental  forces,  but  that  without  knowing
+e
+ 
+ ___________________________
+ 
+ tiny
+minimum  length  since  if  they  didn't,  we  would  be  back  in  the  realm  of  point  particles.  the  same
+reasoning  might  lead  to  the  conclusion  that  even  unwrapped  strings  have  a  minuscule  yet  nonzero
+minimum mass. in a sense this is true, but the quantum-mechanical effects encountered in chapter 6—
+remember the price is right, again—are able to exactly cancel this contribution to the mass. this is
+how, we recall, unwrapped strings can yield the zero-mass photon, graviton, and the other massless
+or near-massless particles, for example. wrapped strings are different in this regard.)
+
+how does the existence of wrapped string configurations affect the geometrical properties of the
+dimension  around  which  the  strings  wind?  the  answer,  first  recognized  in  1984  by  the  japanese
+physicists keiji kikkawa and masami yamasaki, is bizarre and remarkable.
+
+let's consider the last cataclysmic stages of our variant on the big crunch in the garden-hose
+universe. as
+ 
+ ___________________________
+ 
+me. but we can still ask whether the
+geometrical model of spacetime that plays such a pivotal role in general relativity and in string theory
+is solely a convenient shorthand for the spatial and temporal relations between various locations, or
+whether  we  should  view  ourselves  as  truly  being  embedded  in something  when  we  refer  to  our
+immersion within the spacetime fabric.
+
+although we are heading into speculative territory, string theory does suggest an answer to this
+question. the graviton, the smallest bundle of gravitational force, is one particular pattern of string
+vibration. and  just  as  an  electromagnetic  field  such  as  visible  light  is  composed  of  an  enormous
+number of photons, a gravitational field is composed of an enormous number of gravitons—that is, an
+
+enormous number of strings executing the graviton vibrational pattern. gravitational fields, in turn,
+are encoded in the warping of the spacetime fabric, and hence we are led to identify the fabric of
+sp
+ 
+ ___________________________
+ 
+acetime itself with a colossal number of strings all undergoing the same, orderly, graviton pattern
+of vibration. in the language of the field, such an enormous, organized array of similarly vibrating
+strings is known as a coherent state of strings. it's a rather poetic image—the strings of string theory
+as the threads of the spacetime fabric—but we should note that its rigorous meaning has yet to be
+worked out completely.
+
+nevertheless,  describing  the  spacetime  fabric  in  this  string-stitched  form  does  lead  us  to
+contemplate the following question. an ordinary piece of
+ 
+ ___________________________
+ 
+ravity, which shows that space and time communicate
+the gravitational force through their curvature.
+gluon. smallest bundle of the strong force field; messenger particle of the strong force.
+grand  unification.  class  of  theories  that  merge  all  three  nongravitational  forces  into  a  single
+theoretical framework.
+gravitational force. the weakest of the four fundamental forces of nature. described by newton's
+universal theory of gravity, and subsequently by einstein's general relativity.
+graviton. smallest bundle of the gravitational force field; messenger particle for the gravitational
+force.
+
+heterotic-e string theory (heterotic e8 × e8 string theory). one of the five superstring theories;
+involves  closed  strings  whose  right-moving  vibrations  resemble  those  of  the type  ii  string  and
+whose  left-moving  vibrations  involve  those  of  the bosonic  string.  differs  in  important  but  subtle
+ways from the heterotic-o string theory.
+heterotic-o string theory (heterotic o(3

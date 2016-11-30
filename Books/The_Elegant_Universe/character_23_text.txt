@@ -1,0 +1,12 @@
+s no analog of the earth's spinning around on its axis. when any object spins, points
+on the axis of rotation itself—like the central point of a spinning frisbee—do not move. if something
+is truly pointlike, though, it has no "other points" that lie off of any purported spin axis. and so it
+would  appear  that  there  simply  is  no  notion  of  a  point  object  spinning.  many  years  ago,  such
+reasoning fell prey to yet another quantum-mechanical surprise.
+
+in 1925, the dutch physicists george uhlenbeck and samuel goudsmit realized that a wealth of
+puzzling data having to do with properties of light emitted and absorbed by atoms could be explained
+if electrons were assumed to have very particular magnetic properties. some hundred years earlier,
+the  frenchman andre-marie ampère  had  shown  that  magnetism  arises  from  the  motion  of  electric
+charge. uhlenbeck and goudsmit followed this lead and found that only one specific sort of electron
+motion could give rise to the magnetic properties

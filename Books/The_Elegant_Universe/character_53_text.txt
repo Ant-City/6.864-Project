@@ -1,0 +1,167 @@
+ber of peaks and troughs in the particular vibrational pattern), while the whole
+number multiple is determined by the amplitude of the vibrational pattern.
+
+the  key  point  for  the  present  discussion  is  this:  since  the  minimal  energy  denominations  are
+proportional  to  the  string's  tension,  and  since  this  tension  is  enormous,  the  fundamental  minimal
+energies are, on the usual scales of elementary particle physics, similarly huge. they are multiples of
+what is known as the planck energy. to get a sense of scale, if we translate the planck energy into a
+
+mass using einstein's famous conversion formula e = mc2, they correspond to masses that are on the
+order  of  ten  billion  billion  (1019)  times  that  of  a  proton.  this  gargantuan  mass—by  elementary
+particle standards—is known as the planck mass; it's about equal to the mass of a grain of dust or a
+collection of a million average bacteria. and so, the typical mass-equivalent of a vibrating loop in
+string theory is
+ 
+ ___________________________
+ 
+antum vibration. the remarkable thing, as
+originally worked out in the 1970s, is that there can be energy cancellations between these quantum
+jitters and the more intuitive kind of string vibrations discussed above and illustrated in figures 6.2
+and  6.3.  in  effect,  through  the  weirdness  of  quantum  mechanics,  the  energy  associated  with  the
+quantum jitters of a string is negative, and this reduces the overall energy content of a vibrating string
+by an amount that is roughly equal to planck energy. this means that the lowest-energy vibrational
+string patterns, whose energies we would naively expect to be about equal to the planck energy(i.e., 1
+times the planck energy), are largely canceled, thereby yielding relatively low net-energy vibrations
+—energies whose corresponding mass-equivalents are in the neighborhood of the matter and force
+particle masses shown in tables 1.1 and 1.2. it is these lowest energy vibrational patterns, therefore,
+that  should  provide  contact  between  the  
+ 
+ ___________________________
+ 
+int, however, is that the high
+string tension ensures that all but a few of these vibrational patterns will correspond to extremely
+heavy particles (the few being the lowest-energy vibrations that have near-perfect cancellations with
+quantum string jitters). and again, the term "heavy" here means many times heavier than the planck
+mass. as our most powerful particle accelerators can reach energies only on the order of a thousand
+times the proton mass, less than a millionth of a billionth of the planck energy, we are very far from
+being able to search in the laboratory for any of these new particles predicted by string theory.
+
+there are more indirect approaches by which we could search for them, though. for instance,
+the  energies  involved  at  the  birth  of  the  universe  would  have  been  high  enough  to  produce  these
+particles copiously. in general one would not expect them to survive to the present day, as such super-
+heavy particles are usually unstable, relinquishing their enormous mas
+ 
+ ___________________________
+ 
+0 + 20 = 20.2
+2/10 + 30 = 30.2
+2/10 + 40 = 40.2
+3/10 + 10 = 10.3
+3/10 + 20 = 20.3
+3/10 + 30 = 30.3
+3/10 + 40 = 40.3
+4/10 + 10 = 10.4
+4/10 + 20 = 20.4
+4/10 + 30 = 30.4
+4/10 + 40 = 40.4
+
+table 10.1 sample vibration and winding configurations of a string moving in a universe shown in
+figure  10.3,  with  radius r  =  10.  the  vibration  energies  contribute  in  multiples  of  1/10  and  the
+winding energies contribute in multiples of 10, yielding the total energies listed. the energy unit is the
+planck energy, so for example, 10.1 in the last column means 10.1 times the planck energy.
+
+vibration number winding number
+1
+1
+1
+1
+
+1
+2
+3
+4
+
+total energy
+10 + 1/10 = 10.1
+10 + 2/10 = 10.2
+10 + 3/10 = 10.3
+10 + 4/10 = 10.4
+
+2
+2
+2
+2
+3
+3
+3
+3
+4
+4
+4
+4
+
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+
+20 + 1/10 = 20.1
+20 + 2/10 = 20.2
+20 + 3/10 = 20.3
+20 + 4/10 = 20.4
+30 + 1/10 = 30.1
+30 + 2/10 = 30.2
+30 + 3/10 = 30.3
+30 + 4/10 = 30.4
+40 + 1/10 = 40.1
+40 + 2/10 = 40.2
+40 + 3/10 = 40.3
+40 + 4/10 = 40.4
+
+table 10.2 as in table 10.1, exce
+ 
+ ___________________________
+ 
+rrying  out  research  with  great  precision,  their  conclusions  do  not  agree.  george
+claims that the circular radius is r = 10 times the planck length, while gracie claims that the circular
+radius is r = 1/10 times the planck length.
+
+"gracie,"  says  george,  "based  on  my  string  theory  calculations,  i  know  that  if  the  circular
+
+dimension has radius 10, then i should expect to see strings whose energies are listed in table 10.1. i
+have done extensive experiments using the new planck energy accelerator and they have revealed that
+this prediction is precisely confirmed. therefore, with confidence, i claim that the circular dimension
+has radius r = 10." gracie, in defense of her claims, makes exactly the same remarks except for her
+conclusion that the list of energies in table 10.2 is found, confirming that the radius is r = 1/10.
+
+in a flash of insight, gracie shows george that the two tables, although arranged differently, are
+actually  identical.  now  george,  who,  as  is  well
+ 
+ ___________________________
+ 
+ long-lasting features of the world were
+first imprinted. and so, physicists have continued to push onward, trying to explain the universe at
+ever  earlier  times.  since  the  universe  gets  ever  smaller,  hotter,  and  denser  as  we  push  back,  an
+accurate quantum-mechanical description of matter and the forces becomes increasingly important. as
+we have seen from other viewpoints in earlier chapters, point-particle quantum field theory works
+until typical particle energies are around the planck energy. in a cosmological context, this occurred
+when the whole of the known universe fit within a planck-sized nugget, yielding a density so great that
+it strains one's ability to find a fitting metaphor or an enlightening analogy: the density of the universe
+at  the  planck  time  was  simply colossal.  at  such  energies  and  densities  gravity  and  quantum
+mechanics can no longer be treated as two separate entities as they are in point-particle quantum field
+theory. instead, the central message 
+ 
+ ___________________________
+ 
+solid phase, liquid phase, gas
+phase. more generally, refers to the possible descriptions of a physical system as features on which it
+depends (temperature, string coupling constant values, form of spacetime, etc.) are varied.
+phase transition. evolution of a physical system from one phase to another.
+photoelectric effect. phenomenon in which electrons are ejected from a metallic surface when light
+is shone upon it.
+photon.  smallest  packet  of 
+electromagnetic force; smallest bundle of light.
+planck energy. about 1,000 kilowatt hours. the energy necessary to probe to distances as small as
+the planck length. the typical energy of a vibrating string in string theory.
+planck length. about 10-33 centimeters. the scale below which quantum fluctuations in the fabric of
+spacetime would become enormous. the size of a typical string in string theory.
+planck  mass.  about  ten  billion  billion  times  the  mass  of  a proton;  about  one-hundredth  of  a
+thousandth  of  a  gram;  about  the  mass  of  a  

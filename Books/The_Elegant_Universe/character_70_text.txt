@@ -1,0 +1,61 @@
+ patterns with spins differing from a whole number by a half unit. this led to two problems.
+first,  if  string  theory  was  to  describe  all  forces  and  all  matter,  it  would  somehow  have  to
+incorporate  fermionic  vibrational  patterns,  since  the  known  matter  particles  all  have  spin-1/2.
+second, and far more troubling, was the realization that there was one pattern of vibration in bosonic
+string theory whose mass (more precisely, whose mass squared) was negative—a so-called tachyon.
+even before string theory, physicists had studied the possibility that our world might have tachyon
+particles, in addition to the familiar particles that all have positive masses, but their efforts showed
+that it is difficult if not impossible for such a theory to be logically sensible. similarly, in the context
+of  bosonic  string  theory,  physicists  tried  all  sorts  of  fancy  footwork  to  make  sense  of  the  bizarre
+prediction of a tachyon vibrational pattern, but to no avail. these 
+ 
+ ___________________________
+ 
+ndo  gliozzi  of  the  university  of  turin,  scherk,  and  david  olive  of  imperial
+college put this pairing into the proper light. the new string theory incorporated supersymmetry, and
+the  observed  pairing  of  bosonic  and  fermionic  vibrational  patterns  reflected  this  highly  symmetric
+character. supersymmetric string theory—superstring theory, that is—had been born. moreover, the
+work of gliozzi, scherk, and olive had one other crucial result: they showed that the troublesome
+tachyon vibration of the bosonic string does not afflict the superstring. slowly, the pieces of the string
+puzzle were falling into place.
+
+nevertheless, the major initial impact of the work of ramond, and also of neveu and schwarz,
+was not actually in string theory. by 1973, the physicists julius wess and bruno zumino realized that
+supersymmetry—the new symmetry emerging from the reformulation of string theory—was applicable
+even to theories based on point particles. they rapidly made important st
+ 
+ ___________________________
+ 
+n this point-particle theory owes a great debt to string theory.
+
+with the resurgence of superstring theory in the mid-1980s, supersymmetry has re-emerged in the
+context  of  its  original  discovery.  and  in  this  framework,  the  case  for  supersymmetry  goes  well
+beyond that presented in the preceding section. string theory is the only way we know of to merge
+general relativity and quantum mechanics. but it's only the supersymmetric version of string theory
+that  avoids  the  pernicious  tachyon  problem  and  that  has  fermionic  vibrational  patterns  that  can
+account  for  the  matter  particles  constituting  the  world  around  us.  supersymmetry  therefore  comes
+
+hand-in-hand with string theory's proposal for a quantum theory of gravity, as well as with its grand
+claim  of  uniting  all  forces  and  all  of  matter.  if  string  theory  is  right,  physicists  expect  that  so  is
+supersymmetry.
+
+until  the  mid-1990s,  however,  one  particularly  troublesome  aspect  plagu
+ 
+ ___________________________
+ 
+ates the properties of particles with a whole number
+amount of spin (bosons) to those with half a whole (odd) number amount of spin (fermions).
+symmetry. a property of a physical system that does not change when the system is transformed in
+some manner. for instance, a sphere is rotationally symmetrical since its appearance does not change
+if it is rotated.
+symmetry  breaking.  a  reduction  in  the  amount  of symmetry  a  system  appears  to  have,  usually
+associated with a phase transition.
+tachyon.  particle  whose  mass  (squared)  is  negative;  its  presence  in  a  theory  generally  yields
+inconsistencies.
+thermodynamics.  laws  developed  in  the  nineteenth  century  to  describe  aspects  of  heat,  work,
+energy, entropy, and their mutual evolution in a physical system.
+three-brane. see brane.
+three-dimensional sphere. see sphere.
+time dilation. feature emerging from special relativity, in which the flow of time slows down for an
+observer in motion.
+t.o.e. (theory of everything).

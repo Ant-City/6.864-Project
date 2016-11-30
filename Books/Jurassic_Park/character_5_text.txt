@@ -1,0 +1,225 @@
+ar project. i think it's very exciting! 
+looking forward to discussing this with you! hope you can join us!
+regards,
+john
+"i don't get it," grant said. he flipped through the sheets. "these are architectural plans." he
+turned to the top sheet:
+visitor center/lodge
+client
+architects
+york. richard murphy, design partner;
+theodore chen, senior designer;
+sheldon james, administrative partner.
+engineers
+structural; a.t.misikawa, osaka,
+mechanical.
+landscaping
+electrical
+computer c/c
+cambridge, mass. dennis nedry,
+project supervisor.
+isla nublar resort
+ingen inc., palo alto, calif.
+dunning, murphy & associates, new
+harlow, whitney & fields, boston,
+shepperton rogers, london;
+a.ashikiga, h. ieyasu, kanazawa.
+n. v. kobayashi, tokyo. a. r
+makasawa, senior consultant.
+integrated computer systems, inc.,
+grant turned to the plans themselves. they were stamped industrial secrets do not
+copy and confidential work product-not for distribution. each sheet was
+numbered, and at the top: "these plans represent the c
+ 
+ ___________________________
+ 
+ceed to behave in unpredictable fashion. 
+"and you're confident of your theory."
+"ob, yes," malcolm said. "totally confident." he sat back in the chair. "there is a problem with
+that island. it is an accident waiting to happen."
+isla nublar
+with a whine, the rotors began to swing in circles overhead, casting shadows on the runway of
+san jos‚ airport. grant listened to the crackle in his earphones as the pilot talked to the tower.
+they had picked up another passenger in san jos‚, a man named dennis nedry, who had
+flown in to meet them. he was fat and sloppy, eating a candy bar, and there was sticky chocolate
+on his fingers, and flecks of aluminum foil on his shirt. nedry had mumbled something about
+doing computers on the island, and hadn't offered to shake hands.
+through the plexi bubble grant watched the airport concrete drop away beneath his feet, and
+he saw the shadow of the helicopter racing along as they went west, toward the mountains.
+"it's about a forty-minute trip," hammond said, from 
+ 
+ ___________________________
+ 
+id off.
+"actually, dinosaur dna is somewhat easier to extract by this process than mammalian dna.
+the reason is that mammalian red cells have no nuclei, and thus no dna in their red cells. to
+clone a mammal, you must find a white cell, which is much rarer than red cells. but dinosaurs
+had nucleated red cells, as do modern birds. it is one of the many indications we have that
+dinosaurs aren't really reptiles at all. they are big leathery birds."
+tim saw that dr. grant still looked skeptical, and dennis nedry, the messy fat man, appeared
+completely uninterested, as if he knew it all already. nedry kept looking impatiently toward the
+next room.
+"i see mr. nedry has spotted the next phase of our work," wu said. "how we identify the dna
+we have extracted. for that, we use powerful computers."
+they went through sliding doors into a chilled room. there was a loud humming sound. two
+six-foot-tall round towers stood in the center of the room, and along the walls were rows of waisthigh
+stainless-steel boxes
+ 
+ ___________________________
+ 
+na strand?" grant asked.
+"oh no," wu said. "that's impossible. we've come a long way from the sixties, when it took a
+whole laboratory four years to decode a screen like this. now the computers can do it in a couple
+of hours. but, even so, the dna molecule is too big. we look only at the sections of the strand
+that differ from animal to animal, or from contemporary dna. only a few percent of the
+nucleotides differ from one species to the next. that's what we analyze, and it's still a big job." 
+dennis nedry yawned. he'd long ago concluded that ingen must be doing something like this. a
+couple of years earlier, when ingen had hired nedry to design the park control systems, one of
+the initial design parameters called for data records with 3 x 109 fields. nedry just assumed that
+was a mistake, and had called palo alto to verify it. but they had told him the spec was correct.
+three billion fields.
+nedry had worked on a lot of large systems. he'd made a name for himself setting up
+worldwide telephone c
+ 
+ ___________________________
+ 
+ that's all."
+grant frowned. again he felt troubled. he didn't like the idea of dinosaurs being used for an
+amusement park.
+malcolm continued his questions. "you can run the whole park from this control room?"
+"yes," arnold said. "i can run it single-handed, if i have to. we've got that much automation
+built in. the computer by itself can track the animals, feed them, and fill their water troughs for
+forty-eight hours without supervision."
+"this is the system mr. nedry designed?" malcolm asked. dennis nedry was sitting at a
+terminal in the far corner of the room, eating a candy bar and typing.
+"yes, that's right," nedry said, not looking up from the keyboard. "it's
+a hell of a system," arnold said proudly.
+"that's right," nedry said absently. "just one or two minor bugs to fix."
+"now," arnold said, "i see the tour is starting, so unless you have other questions . . ."
+"actually, just one," malcolm said. "just a research question. you showed us that you can
+track the procompsognathids and you can v
+ 
+ ___________________________
+ 
+ gearshifts on the cars are
+acting up! the gearshifts!"
+"let's keep it in perspective," hammond said. "you get the engineering correct and the animals
+will fall into place. after all, they're trainable."
+from the beginning, this had been one of the core beliefs of the planners. the animals,
+however exotic, would fundamentally behave like animals in zoos anywhere. they would learn
+the regularities of their care, and they would respond.
+"meanwhile, how's the computer?" hammond said. he glanced at dennis nedry, who was
+working at a terminal in the corner of the room. "this damn computer has always been a
+headache."
+"we're getting there," nedry said.
+"if you had done it right in the first place," hammond began, but arnold put a restraining band
+on his arm. arnold knew there was no point in antagonizing nedry while he was working.
+"it's a large system," arnold said. "there are bound to be glitches."
+in fact, the bug list now ran to more than 130 items, and included many odd aspects. for
+example:
+the an
+ 
+ ___________________________
+ 
+nate days of the week.
+the automated fecal analysis (called auto poop), designed to check for parasites in the animal
+stools, invariably recorded all specimens as having the parasite phagostomum venulosum,
+although none did. the program then automatically dispensed medication into the animals' food. if
+the handlers dumped the medicine out of the hoppers to prevent its being dispensed, an alarm
+sounded which could not be turned off.
+and so it went, page after page of errors.
+when he had arrived, dennis nedry had been under the impression that he could make all the
+fixes himself over the weekend. he had paled when he saw the full listing. now he was calling his
+office in cambridge, telling his staff programmers they were going to have to cancel their
+weekend plans and work overtime until monday. and he had told john arnold that he would need
+to use every telephone link between isla nublar and the mainland just to transfer program data
+back and forth to his programmers. 
+while nedry worked, arnold pu
+ 
+ ___________________________
+ 
+isting there be no guns
+anywhere on the island. when muldoon threatened to quit, and to take his story to the press, a
+compromise was reached. in the end, two specially built laser-guided missile launchers were kept in
+a locked room in the basement. only muldoon had keys to the room.
+those were the keys muldoon was twirling now. "i'm going downstairs," he said.
+arnold, watching the control screens, nodded. the two land cruisers sat at the top of the hill,
+waiting for the t-rex to appear.
+"hey," dennis nedry called, from the far console. "as long as you're up, get me a coke, okay?"
+grant waited in the car, watching quietly. the bleating of the goat became louder, more insistent.
+the goat tugged frantically at its tether, racing back and forth. over the radio, grant heard lex
+say in alarm, "what's going to happen to the goat? is she going to eat the goat?"
+"i think so," someone said to her, and then ellie turned the radio down. then they smelled the
+odor, a garbage stench of putrefaction and decay t
+ 
+ ___________________________
+ 
+ listen
+to him wheezing."
+"and the other areas?"
+"broadly speaking, the ability of the park to control the spread of life forms. because the history
+of evolution is that life escapes all barriers. life breaks free. life expands to new territories.
+painfully, perhaps even dangerously. but life finds a way." malcolm shook his head. "i don't mean
+to be philosophical, but there it is."
+gennaro looked over. ellie and grant were across the field, waving their arms and shouting.
+"did you get my coke?" dennis nedry asked, as muldoon came back into the control room.
+muldoon didn't bother to answer. he went directly to the monitor and looked at what was
+happening. over the radio he heard harding's voice saying, "-the stego-finally-handle on-now-"
+"what's that about?" muldoon said.
+"they're down by the south point," arnold said. "that's why they're breaking up a little. i'll
+switch them to another channel. but they found out what's wrong with the stegos. eating some
+kind of berry."
+hammond nodded. "i knew we
+ 
+ ___________________________
+ 
+r on the perimeter. everything in this building's working fine. but outside,
+in the park, the power is gone. lights, tv cameras, everything." his remote video monitors had
+gone black.
+"what about the two land cruisers?"
+"stopped somewhere around the tyrannosaur paddock."
+"well," muldoon said, "call maintenance and let's get the power back on. 
+arnold picked up one of his phones and heard hissing: nedry's computers talking to each
+other. "no phones. that damn nedry. nedry! where the hell is he?"
+dennis nedry pushed open the door marked fertilization, with the perimeter power out, all
+the security-card locks were disarmed. every door in the building opened with a touch.
+the problems with the security system were high on jurassic park's bug list. nedry wondered
+if anybody ever imagined that it wasn't a bug-tbat nedry had programmed it that way. he had
+built in a classic trap door. few programmers of large computer systems could resist the
+temptation to leave themselves a secret entrance. partly it wa
+ 
+ ___________________________
+ 
+ck in his bag, zipped it
+shut.
+he went back into the hallway. the theft had taken less than two minutes. he could imagine
+the consternation upstairs in the control room, as they began to realize what had happened. all
+their security codes were scrambled, and all their phone lines were jammed. without his help, it
+would take hours to untangle the mess-but in just a few minutes nedry would he back in the
+control room, setting things right.
+and no one would ever suspect what he had done.
+grinning, dennis nedry walked down to the ground floor, nodded to the guard, and continued
+downstairs to the basement. passing the neat lines of electric land cruisers, he went to the
+gasoline-powered jeep parked against the wall. he climbed into it, noticing some odd gray tubing
+on the passenger seat. it looked almost like a rocket launcher, he thought, as he turned the
+ignition key and started the jeep.
+nedry glanced at his watch. from here, into the park, and three minutes straight to the east
+dock. three minutes 
+ 
+ ___________________________
+ 
+s worth?"
+gennaro shook his head.
+"somewhere between two and ten million," muldoon said. he shook his head. "big stakes."
+as they came closer, gennaro saw the body lying beside the car. the body was indistinct and
+green-but then green shapes scattered away, as the jeep pulled to a stop.
+"compys," muldoon said. "the compys found him,"
+a dozen procompsognathids, delicate little predators no larger than ducks, stood at the edge of
+the jungle, chittering excitedly as the men climbed out of the car.
+dennis nedry lay on his back, the chubby boyish face now red and bloated. flies buzzed
+around the gaping mouth and thick tongue. his body was mangled-the intestines torn open, one
+leg chewed through. gennaro turned away quickly, to look at the little compys, which squatted on
+their hind legs a short distance away and watched the men curiously. the little dinosaurs had
+five-fingered hands, he noticed. they wiped their faces and chins, giving them an eerily human
+quality which-
+"i'll be damned," muldoon said.

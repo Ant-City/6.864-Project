@@ -1,0 +1,42 @@
+ations of the quantum world on short distance scales. on ultramicroscopic scales, the central
+feature of quantum mechanics—the uncertainty principle—is in direct conflict with the central feature
+of general relativity—the smooth geometrical model of space (and of spacetime).
+
+figure  5.1  by  sequentially  magnifying  a  region  of  space,  its  ultramicroscopic  properties  can  be
+probed.  attempts  to  merge  general  relativity  and  quantum  mechanics  run  up  against  the  violent
+quantum foam emerging at the highest level of magnification.
+
+in practice, this conflict rears its head in a very concrete manner. calculations that merge the
+equations  of  general  relativity  and  those  of  quantum  mechanics  typically  yield  one  and  the  same
+ridiculous answer: infinity. like a sharp rap on the wrist from an old-time schoolteacher, an infinite
+answer is nature's way of telling us that we are doing something that is quite wrong.6 the equations of
+general relativity cannot handle the
+ 
+ ___________________________
+ 
+ roiling frenzy of quantum foam.
+
+notice,  however,  that  as  we  recede  to  more  ordinary  distances  (following  the  sequence  of
+drawings in figure 5.1 in reverse), the random, violent small-scale undulations cancel each other out
+—in  much  the  same  way  that,  on  average,  our  compulsive  borrower's  bank  account  shows  no
+evidence of his compulsion—and the concept of a smooth geometry for the fabric of the universe once
+again becomes accurate. it's like what you experience when you look at a dot-matrix pic
+ 
+ ___________________________
+ 
+ past moments. knowledge
+of the quantum state, however, determines only the probability that one or another future will actually
+ensue.
+quantum electrodynamics (qed). relativistic quantum field theory of the electromagnetic force
+and electrons, incorporating special relativity.
+quantum electroweak theory. see electroweak theory.
+quantum field theory. see relativistic quantum field theory.
+quantum fluctuation. turbulent behavior of a system on microscopic scales due to the uncertainty
+principle.
+quantum foam. see spacetime foam.
+quantum  geometry.  modification  of riemannian  geometry  required  to  describe  accurately  the
+physics of space on ultramicroscopic scales, where quantum effects become important.
+quantum gravity. a  theory  that  successfully  mergers quantum  mechanics  and general  relativity,
+possibly involving modifications of one or both. string theory is an example of a theory of quantum
+gravity.
+quantum mechanics. framework of laws governing the universe whose unfamiliar feature

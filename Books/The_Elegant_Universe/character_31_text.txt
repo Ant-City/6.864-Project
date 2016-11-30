@@ -1,0 +1,1165 @@
+nd the eye of the beholder
+3. of warps and ripples
+4. microscopic weirdness
+5. the need for a new theory: general relativity vs. quantum mechanics
+
+part iii: the cosmic symphony
+6. nothing but music: the essentials of superstring theory
+7. the "super" in superstrings
+8. more dimensions than meet the eye
+9. the smoking gun: experimental signatures
+
+part iv: string theory and the fabric of spacetime
+10. quantum geometry
+11. tearing the fabric of space
+12. beyond strings: in search of m-theory
+13. black holes: a string/m-theory perspective
+14. reflections on cosmology
+
+part v: unification in the twenty-first century
+15. prospects
+
+notes
+glossary of scientific terms
+references and suggestions for further reading
+
+preface
+
+during the last thirty years of his life, albert einstein sought relentlessly for a so-called unified field
+theory—a  theory  capable  of  describing  nature's  forces  within  a  single,  all-encompassing,  coherent
+framework. einstein was not motivated by the things we often a
+ 
+ ___________________________
+ 
+g  that  both  quantum  mechanics  and  general  relativity
+simultaneously be brought to bear. for reasons that will become increasingly clear as we proceed,
+the equations of general relativity and quantum mechanics, when combined, begin to shake, rattle, and
+gush  with  steam  like  a  red-lined  automobile.  put  less  figuratively,  well-posed  physical  questions
+elicit nonsensical answers from the unhappy amalgam of these two theories. even if you are willing
+to keep the deep interior of a black hole and the beginning of the universe shrouded in mystery, you
+can't help feeling that the hostility between quantum mechanics and general relativity cries out for a
+deeper  level  of  understanding.  can  it  really  be  that  the  universe  at  its  most  fundamental  level  is
+divided, requiring one set of laws when things are large and a different, incompatible set when things
+are small?
+
+superstring theory, a young upstart compared with the venerable edifices of quantum mechanics
+and  general 
+ 
+ ___________________________
+ 
+f ticking of his clock will be about 99.9998
+percent of gracie's. slower, but not by much.9 if, however, george lowered himself on a cable so that
+he hovered just above the surface of a neutron star whose mass, roughly equal to that of the sun, is
+crushed  to  a  density  some  million  billion  times  that  of  solar  density,  the  larger  gravitational  field
+would cause his clock to tick at about 76 percent of the rate of gracie's. stronger gravitational fields,
+such as those just outside a black hole (as discussed below), cause the flow of time to slow even
+further; stronger gravitational fields cause a more severe warping of time.
+
+experimental verification of general relativity
+
+most people who study general relativity are captivated by its aesthetic elegance. by replacing the
+cold,  mechanistic  newtonian  view  of  space,  time,  and  gravity  with  a  dynamic  and  geometric
+description involving curved spacetime, einstein wove gravity into the basic fabric of the universe.
+rather than
+ 
+ ___________________________
+ 
+  the  trustworthiness  of  the  original  experiment.
+nevertheless, in the last 40 years a variety of experiments making use of technological advancements
+have tested numerous aspects of general relativity with great precision. the predictions of general
+relativity have been uniformly confirmed. there is no longer any doubt that einstein's description of
+gravity is not only compatible with special relativity, but yields predictions closer to experimental
+results than those of newton's theory.
+
+black holes, the big bang, and the expansion of space
+
+whereas special relativity is most manifest when things are moving fast, general relativity comes into
+its own when things are very massive and the warps in space and time are correspondingly severe.
+let's describe two examples.
+
+the  first  is  a  discovery  made  by  the  german  astronomer  karl  schwarzschild  while  studying
+einstein's  revelations  on  gravity  in  between  his  own  calculations  of  artillery  trajectories  at  the
+russian  fr
+ 
+ ___________________________
+ 
+ too close to the star will be unable to escape its gravitational grip. since not
+even  light  can  escape  such  "compressed  stars,"  they  were  initially  called dark  or frozen  stars. a
+more  catchy  name  was  coined  years  later  by  john  wheeler,  who  called  them black  holes—black
+because  they  cannot  emit  light,  holes  because  anything  getting  too  close  falls  into  them,  never  to
+return. the name stuck.
+
+we illustrate schwarzschild's solution in figure 3.7. although black holes have a reputation for
+rapacity, objects that pass by them at a "safe" distance are deflected in much the same way that they
+would be by an ordinary star, and can proceed on their merry way. but objects of any composition
+whatsoever that get too close—closer than what has been termed the black hole's event horizon—are
+doomed: they will be drawn inexorably toward the center of the black hole and subject to an ever
+increasing  and  ultimately  destructive  gravitational  strain.  for  example
+ 
+ ___________________________
+ 
+,  if  you  dropped  feet  first
+through the event horizon, as you approached the black hole's center you would find yourself getting
+increasingly uncomfortable. the gravitational force of the black hole would increase so dramatically
+
+that its pull on your feet would be much stronger than its pull on your head (since in a feet-first fall
+your feet are always a bit closer than your head to the black hole's center); so much stronger, in fact,
+that you would be stretched with a force that would quickly tear your body to shreds.
+
+figure 3.7 a black hole warps the surrounding spacetime fabric so severely that anything that comes
+within its "event horizon"—illustrated by the dark circle—can't escape from its gravitational grip. no
+one knows exactly what happens at the deepest interior point of a black hole.
+
+if, on the contrary, you were more prudent in your wanderings near a black hole and took
+ 
+ ___________________________
+ 
+ great
+care  not  to  trespass  beyond  the  event  horizon,  you  could  make  use  of  the  black  hole  for  a  rather
+amazing feat. imagine, for example, that you were to discover a black hole whose mass was about
+1,000 times the mass of the sun, and that you were to lower yourself on a cable, much as george did
+near  the  sun,  to  about  an  inch  above  the  black  hole's  event  horizon.  as  we  have  discussed,
+gravitational fields cause a warping of time, and this means that your passage through time would
+slow down. in fact, since black holes have such strong gravitational fields, your passage through time
+would  slow way down. your watch would tick about ten thousand times m
+ 
+ ___________________________
+ 
+ore slowly than those of
+your  friends  back  on  earth.  if  you  were  to  hover  just  above  the  black  hole's  event  horizon  in  this
+manner  for  a  year,  and  then  climb  up  the  cable  to  your  waiting  starship  for  a  short,  yet  leisurely,
+journey home, upon arrival at earth you would find that more than ten thousand years had passed since
+your initial departure. you would have successfully used the black hole as a kind of time machine,
+allowing you to travel to earth's distant future.
+
+to get a sense of the extreme scales involved, a star with the mass of the sun would be a black
+hole if its radius were not its actual value (about 450,000 miles), but, instead, just under 2 miles.
+imagine: the whole of the sun squeezed to fit comfortably within upper manhattan. a teaspoonful of
+such a compressed sun would weigh about as much as mount everest. to make a black hole out of the
+earth we would need to cru
+ 
+ ___________________________
+ 
+sh it into a sphere whose radius is less than half an inch. for a long time
+physicists  were  skeptical  about  whether  such  extreme  configurations  of  matter  could  ever  actually
+occur, and many thought that black holes were merely a reflection of an overworked theoretician's
+imagination.
+
+nevertheless, during the last decade, an increasingly convincing body of experimental evidence
+for  the  existence  of  black  holes  has  accumulated.  of  course,  since  they  are  black,  they  cannot  be
+observed directly by scanning the sky with telescopes. instead, astronomers search for black holes by
+seeking anomalous behavior of other more ordinary light-emitting stars that may be positioned just
+outside a black h
+ 
+ ___________________________
+ 
+ole's event horizon. for instance, as dust and gas from the outer layers of nearby
+
+ordinary stars fall toward the event horizon of a black hole, they are accelerated to nearly the speed
+of light. at such speeds, friction within the maelstrom of downward-swirling material generates an
+enormous  amount  of  heat,  causing  the  dust-gas  mixture  to  "glow,"  giving  off  both  ordinary  visible
+light and x rays. since this radiation is produced just outside the event horizon, it can escape the
+black  hole  and  travel  through  space  to  be  observed  and  studied  directly.  general  relativity  makes
+detailed  predictions  about  pro
+ 
+ ___________________________
+ 
+perties  that  such  x  ray  emissions  will  have;  observation  of  these
+predicted  properties  gives  strong,  albeit  indirect,  evidence  for  the  existence  of  black  holes.  for
+example, mounting evidence indicates that there is a very massive black hole, some two and a half
+million times as massive as the sun, sitting in the center of our own milky way galaxy. and even this
+seemingly gargantuan black hole pales in comparison to what astronomers believe to reside in the
+core  of  the  astonishingly  luminous  quasars  that  are  scattered  throughout  the  cosmos:  black  holes
+whose masses may well be billions of times that of the sun.
+
+schwarzschild  died  only  a  few  months  after  finding  his  solution,  from  a  skin  disease  he
+contracted at the russian front. he was 42. his tragically brief encounter with einstein's theory of
+gravity uncovered one of the most striking and mysterious fa
+ 
+ ___________________________
+ 
+onflict  whose
+
+severity  is  on  par  with  that  between  special  relativity  and  newtonian  gravity.  general  relativity
+appears  to  be  fundamentally  incompatible  with  another  extremely  well-tested  theory: quantum
+mechanics.  regarding  the  material  covered  in  this  chapter,  the  conflict  prevents  physicists  from
+understanding  what  really  happens  to  space,  time,  and  matter  when  crushed  together  fully  at  the
+moment of the big bang or at the central point of a black hole. but more generally, the conflict alerts
+us to a fundamental deficiency in our conception of nature. the resolution of this conflict has eluded
+attempts  by  some  of  the  greatest  theoretical  physicists,  giving  it  a  well-deserved  reputation  as the
+central problem of modern theoretical physics. understanding the conflict requires familiarity with
+some basic features of quantum theory, to which we now turn.
+
+chapter 4
+
+microscopic weirdness
+
+a bit worn out from their trans-solar-system
+ 
+ ___________________________
+ 
+yet they have not—it would provide a compelling piece of evidence
+in support of the theory.
+
+an appraisal
+
+the history of physics is filled with ideas that when first presented seemed completely untestable but,
+through various unforeseen developments, were ultimately brought within the realm of experimental
+verifiability. the notion that matter is made of atoms, pauli's hypothesis that there are ghostly neutrino
+particles, and the possibility that the heavens are dotted with neutron stars and black holes are three
+prominent ideas of precisely this sort—ideas that we now embrace fully but that, at their inception,
+seemed more like musings of science fiction than aspects of science fact.
+
+the motivation for introducing string theory is at least as compelling as any of these three ideas
+—in fact, string theory has been hailed as the most important and exciting development in theoretical
+physics since the discovery of quantum mechanics. this comparison is particularly apt because the
+history o
+ 
+ ___________________________
+ 
+start  to
+grow. (c) the two wormhole ends merge together, forming a new bridge—a shortcut—from one end
+of the universe to the other.
+
+do wormholes exist in the universe? no one knows. and if they do, it is far from clear whether
+they would take on only a microscopic form or if they could span vast regions of the universe (as in
+deep  space  nine).  but  one  essential  element  in  assessing  whether  they  are  fact  or  fiction  is
+determining whether or not the fabric of space can tear.
+
+black holes provide another compelling example in which the fabric of space is stretched to its
+limits.  in  figure  3.7,  we  saw  that  the  enormous  gravitational  field  of  a  black  hole  results  in  such
+extreme  curvature  that  the  fabric  of  space appears  to  be  pinched  or  punctured  at  the  black  hole's
+center.  unlike  in  the  case  of  wormholes,  there  is  strong  experimental  evidence  supporting  the
+existence  of  black  holes,  so  the  question  of  what  really  happens  a
+ 
+ ___________________________
+ 
+ions.
+
+with  the  discovery  of  string  theory  and  the  harmonious  merger  of  quantum  mechanics  and
+gravity,  we  are  finally  poised  to  study  these  issues. as  yet,  string  theorists  have  not  been  able  to
+answer  them  fully,  but  during  the  last  few  years  closely  related  issues have  been  solved.  in  this
+chapter  we  discuss  how  string  theory,  for  the  first  time,  definitively  shows  that  there  are  physical
+
+circumstances—differing from wormholes and black holes in certain ways—in which the fabric of
+space can tear.
+
+a tantalizing possibility
+
+in  1987,  shing-tung  yau  and  his  student  gang  tian,  now  at  the  massachusetts  institute  of
+technology,  made  an  interesting  mathematical  observation.  they  found,  using  a  well-known
+mathematical  procedure,  that  certain  calabi-yau  shapes  could  be  transformed  into  others  by
+puncturing their surface and then sewing up the resulting hole according to a precise mathematical
+pattern.2 
+ 
+ ___________________________
+ 
+of these techniques to find the remarkable insights
+alluded to above. but don't worry. the really hard work has already been done by string theorists and
+we will content ourselves here with explaining their results.
+
+nevertheless, as there are many seemingly separate pieces that we must develop and assemble,
+in this chapter it is especially easy to lose the forest for the trees. and so, if at any time in this chapter
+the discussion gets a little too involved and you feel compelled to rush on to black holes (chapter 13)
+or cosmology (chapter 14), take a quick glance back at the following section, which summarizes the
+key insights of the second superstring revolution.
+
+a summary of the second superstring revolution
+
+the primary insight of the second superstring revolution is summarized by figures 12.1 and 12.2. in
+figure 12.1 we see the situation prior to the recent ability to go (partially) beyond the approximation
+methods physicists have traditionally used to analyze string theory. we see that 
+ 
+ ___________________________
+ 
+ose solution will pick out this elusive point on the map, and
+then  understanding  the  corresponding  physics  with  sufficient  precision  to  allow  comparisons  with
+experiment. as witten has said, "understanding what m-theory really is—the physics it embodies—
+would  transform  our  understanding  of  nature  at  least  as  radically  as  occurred  in  any  of  the  major
+scientific upheavals of the past."15 this is the program for unification in the twenty-first century.
+
+chapter 13
+
+black holes: a string/m-theory perspective
+
+the pre–string theory conflict between general relativity and quantum mechanics was an affront to
+our visceral sense that the laws of nature should fit together in a seamless, coherent whole. but this
+antagonism  was  more  than  a  towering  abstract  disjunction.  the  extreme  physical  conditions  that
+occurred  at  the  moment  of  the  big  bang  and  that  prevail  within  black  holes cannot  be  understood
+without  a  quantum  mechanical  formulation 
+ 
+ ___________________________
+ 
+ of  the  gravitational  force.  with  the  discovery  of  string
+theory, we now have a hope of solving these deep mysteries. in this and the next chapter, we describe
+how far string theorists have gone toward understanding black holes and the origin of the universe.
+
+black holes and elementary particles
+
+at  first  sight  it's  hard  to  imagine  any  two  things  more  radically  different  than  black  holes  and
+elementary  particles.  we  usually  picture  black  holes  as  the  most  gargantuan  of  heavenly  bodies,
+whereas elementary particles are the most minute specks of matter. but the research of a number of
+physicists during the late 1960s and early 1970s, including demetrios christodoulou, werner israel,
+richard  price,  brandon  carter,  roy  kerr,  davi
+ 
+ ___________________________
+ 
+d  robinson,  hawking,  and  penrose,  showed  that
+black holes and elementary particles are perhaps not as different as one might think. these physicists
+found  increasingly  persuasive  evidence  for  what  john  wheeler  has  summarized  by  the  statement
+"black holes have no hair." by this, wheeler meant that except for a small number of distinguishing
+features, all black holes appear to be alike. the distinguishing features? one, of course, is the black
+hole's mass. what are the others? research has revealed that they are the electric and certain other
+force charges a black hole can carry, as well as the rate at which it spins. and that's it. any two black
+holes with the same mass, force charges, and spin are completely identical. black holes do not have
+fancy "hairdos"—that is, other intrinsic traits—that distinguish one from another. this should ring a
+loud be
+ 
+ ___________________________
+ 
+ll. recall that it is precisely such properties—mass, force charges, and spin—that distinguish
+one  elementary  particle  from  another.  the  similarity  of  the  defining  traits  has  led  a  number  of
+physicists  over  the  years  to  the  strange  speculation  that  black  holes  might  actually  be  gigantic
+elementary particles.
+
+in fact, according to einstein's theory, there is no minimum mass for a black hole. if we crush a
+chunk of matter of any mass to a small enough size, a straightforward application of general relativity
+shows that it will become a black hole. (the lighter the mass, the smaller we must crush it.) and so,
+we can imagine a thought experiment in which we start with ever-lighter blobs of matter, crush them
+into  ever-smaller  black  holes,  and  compare  the  properties  of  the  resulting  black  holes  with  the
+properties of elementary particles. wheeler's no-hair statement lead
+ 
+ ___________________________
+ 
+s us to conclude that for small
+enough masses the black holes we form in this manner will look very much like elementary particles.
+both will look like tiny bundles characterized completely by their mass, force charges, and spin.
+
+but there is a catch. astrophysical black holes, with masses many times that of the sun, are so
+large  and  heavy  that  quantum  mechanics  is  largely  irrelevant  and  only  the  equations  of  general
+relativity need be used to understand their properties. (we are here discussing the overall structure of
+the black hole, not the singular central point of collapse within a black hole, whose tiny size most
+certainly  requires  a  quantum-mechanical  description.) as  we  try  to  make  ever  less  massive  black
+holes, however, there comes
+ 
+ ___________________________
+ 
+ a point when they are so light and small that quantum mechanics does
+comes into play. this happens if the total mass of the black hole is about the planck mass or less.
+(from the point of view of elementary particle physics, the planck mass is huge—some ten billion
+billion times the mass of a proton. from the point of view of black holes, though, the planck mass,
+being equal to that of an average grain of dust, is quite tiny.) and so, physicists who speculated that
+tiny  black  holes  and  elementary  particles  might  be  closely  related  immediately  ran  up  against  the
+incompatibility  between  general  relativity—the  theoretical  heart  of  black  holes—and  quantum
+mechanics. in the past, the incompatibility stymied all progress in this intriguing direction.
+
+does string theory allow us to go forward?
+
+it  does.  
+ 
+ ___________________________
+ 
+through  a  fairly  unexpected  and  sophisticated  realization  of  black  holes,  string  theory
+provides the first theoretically sound connection between black holes and elementary particles. the
+road  to  this  connection  is  a  bit  circuitous,  but  it  takes  us  through  some  of  the  most  interesting
+developments in string theory, making it a journey well worth taking.
+
+it begins with a seemingly unrelated question that string theorists have kicked around since the
+late  1980s.  mathematicians  and  physicists  have  long  known  that  when  six  spatial  dimensions  are
+curled up into a calabi-yau shape, there are generally two kinds of spheres t
+ 
+ ___________________________
+ 
+to  our  paper  was  enthusiastic.
+among the many e-mail responses was one from plesser, who gave us one of the highest compliments
+one physicist can give another by declaring, "i wish that i had thought of that!" notwithstanding our
+fears the previous night, we had convinced the string theory community that not only can the fabric of
+space undergo the mild tears discovered earlier (chapter 11), but that far more drastic rips, roughly
+illustrated by figure 13.3, can occur as well.
+
+returning to black holes and elementary particles
+
+what does this have to do with black holes and elementary particles? a lot. to see this, we must ask
+ourselves the same question we posed in chapter 11. what are the observable physical consequences
+of such tears in the fabric of space? for flop transitions, as we have seen, the surprising answer to
+this question was that not much happens at all. for conifold transitions—the technical name for the
+drastic space-tearing transitions we had now found—there is, once 
+ 
+ ___________________________
+ 
+ can collapse without an ensuing disaster, because a three-brane
+wrapped  around  it  provides  a  perfect  protective  shield.  but  what  does  such  a  wrapped-brane
+configuration look like? the answer comes from earlier work of horowitz and strominger, which
+showed that to persons such as ourselves who are directly cognizant only of the three extended spatial
+dimensions, the three-brane "smeared" around the three-dimensional sphere will set up a gravitational
+field that looks like that of a black hole.2 this is not obvious and becomes clear only from a detailed
+study  of  the  equations  governing  the  branes.  again,  it's  hard  to  draw  such  higher-dimensional
+configurations accurately on a page, but figure 13.4 conveys the rough idea with a lower-dimensional
+analogy  involving  two-dimensional  spheres.  we  see  that  a  two-dimensional  membrane  can  smear
+itself around a two-dimensional sphere (which itself is sitting inside a calabi-yau space positioned
+at  some  location  in  th
+ 
+ ___________________________
+ 
+ne—the
+mass  of  the  black  hole,  that  is—is  proportional  to  the  volume  of  the  three-dimensional  sphere  it
+wraps:  the  bigger  the  volume  of  the  sphere,  the  bigger  the  three-brane  must  be  in  order  to  wrap
+around  it,  and  the  more  massive  it  becomes.  similarly,  the  smaller  the  volume  of  the  sphere,  the
+smaller the mass of the three-brane that wraps it. as this sphere collapses, then, a three-brane that
+wraps around the sphere, which is perceived as a black hole, appears to become ever lighter. when
+the three-dimensional sphere has collapsed to a pinched point, the corresponding black hole—brace
+yourself—is massless. although it sounds completely mysterious—what in the world is a massless
+black hole?—we will soon connect this enigma with more familiar string physics.
+
+figure 13.4 when a brane wraps around a sphere that is within the curled-up dimensions, it appears
+as a black hole in the familiar extended dimensions.
+
+the second ingredient we 
+ 
+ ___________________________
+ 
+ou to believe that the number of holes—and thus the number of patterns—
+decreases, but this proves to be a misleading property of the lower-dimensional analogy.)
+
+to combine the observations of the preceding two paragraphs, imagine a sequence of snapshots
+of a calabi-yau space in which the size of a particular three-dimensional sphere gets smaller and
+smaller.  the  first  observation  implies  that  a  three-brane  wrapping  around  this  three-dimensional
+sphere—which appears to us as a black hole—will have ever smaller mass until, at the final point of
+collapse, it will be massless. but, as we asked above, what does this mean? the answer became
+clear to us by invoking the second observation. our work showed that the new massless pattern of
+string vibration arising from the space-tearing conifold transition is the microscopic description of a
+massless particle into which the black hole has transmuted.  we  concluded  that  as  a  calabi-yau
+shape goes through a space-tearing conifold t
+ 
+ ___________________________
+ 
+ransition, an initially massive black hole becomes ever
+lighter until it is massless and then it transmutes into a massless particle—such as a massless photon
+—which in string theory is nothing but a single string executing a particular vibrational pattern. in this
+way,  for  the  first  time,  string  theory  explicitly  establishes  a  direct,  concrete,  and  quantitatively
+unassailable connection between black holes and elementary particles.
+
+"melting" black holes
+
+the  connection  between  black  holes  and  elementary  particles  which  we  found  is  closely  akin  to
+something we are all familiar with from day-to-day life, known technically as a phase transition. a
+simple example of a phase transition is the one we mentioned in the last chapter: water can exist as a
+solid (ice), as a liquid (liquid water), and a gas (steam). these are known as the phases of water, and
+the transformation from one form to another is called a phase transition. morrison
+ 
+ ___________________________
+ 
+ticles  are  actually  two  phases  of  the  same
+underlying  stringy  material.  whereas  the  surrounding  temperature  determines  the  phase  in  which
+water will exist, the topological form—the shape—of the extra calabi-yau dimensions determines
+whether  certain  physical  configurations  within  string  theory  appear  as  black  holes  or  elementary
+particles. that is, in the first phase, the initial calabi-yau shape (the analog of the ice phase, say), we
+find that there are certain black holes present. in the second phase, the second calabi-yau shape (the
+analog of the liquid water phase), these black holes have gone through a phase transition—they have
+"melted"  so  to  speak—into  fundamental  vibrational  string  patterns.  the  tearing  of  space  through
+
+conifold transitions takes us from one calabi-yau phase to the other. in so doing, we see that black
+holes and elementary particles, like water and ice, are two sides of the same coin. we see that black
+holes snugly fit w
+ 
+ ___________________________
+ 
+inuously deform one calabi-yau shape into any other. but now we see that the answer is yes:
+through these physically sensible space-tearing conifold transitions, we can continuously change any
+given  calabi-yau  space  into  any  other.  by  varying  coupling  constants  and  curled-up  calabi-yau
+geometry,  we  see  that  all  string  constructions  are,  once  again,  different  phases  of  a  single  theory.
+even after curling up all extra dimensions, the unity of figure 12.11 firmly holds.
+
+black hole entropy
+
+for many years, some of the most accomplished theoretical physicists speculated about the possibility
+of  space-tearing  processes  and  of  a  connection  between  black  holes  and  elementary  particles.
+although such speculations might have sounded like science fiction at first, the discovery of string
+theory, with its ability to merge general relativity and quantum mechanics, has allowed us now to
+plant these possibilities firmly at the forefront of cutting-edge science. this succ
+ 
+ ___________________________
+ 
+ess emboldens us to
+ask  whether  any  of  the  other  mysterious  properties  of  our  universe  that  have  stubbornly  resisted
+resolution for decades might also succumb to the powers of string theory. foremost among these is the
+notion of black hole entropy. this is the arena in which string theory has most impressively flexed its
+muscles, successfully solving a quarter-century-old problem of profound significance.
+
+entropy is a measure of disorder or randomness. for instance, if your desk is cluttered high with
+layer upon layer of open books, half-read articles, old newspapers, and junk mail, it is in a state of
+high disorder, or high entropy. on the other hand, if it is fully organized with articles in alphabetized
+folders, newspapers ne
+ 
+ ___________________________
+ 
+elementary constituents of a
+physical system that do not affect its gross macroscopic properties (such as its energy or pressure).
+the  details  are  not  essential  so  long  as  you  realize  that  entropy  is  a  fully  quantitative  quantum-
+mechanical concept that precisely measures the overall disorder of a physical system.
+
+in  1970,  jacob  bekenstein,  then  a  graduate  student  of  john  wheeler's  at  princeton,  made  an
+audacious suggestion. he put forward the remarkable idea that black holes might have entropy—and a
+huge  amount  of  it.  bekenstein  was  motivated  by  the  venerable  and  well-tested second  law  of
+thermodynamics,  which  declares  that  the  entropy  of  a  system  always  increases:  everything  tends
+toward  greater  disorder.  even  if  you  clean  your  cluttered  desk,  decreasing  its  entropy,  the  total
+entropy, including that of your body and the air in the room, actually increases. you see, to clean your
+desk you have to expend energy; you have to
+ 
+ ___________________________
+ 
+ disrupt some of the orderly molecules of fat in your body
+to create this energy for your muscles, and as you clean, your body gives off heat, which jostles the
+surrounding air molecules into a higher state of agitation and disorder. when all of these effects are
+accounted  for,  they  more  than  compensate  for  your  desk's  decrease  in  entropy,  and  thus  the  total
+entropy increases.
+
+but what happens, bekenstein in effect asked, if you clean your desk near the event horizon of a
+black hole and you set up a vacuum pump to suck all of the newly agitated air molecules from the
+room into the hidden depths of the black hole's interior? we can be even more extreme: what if the
+vacuum pumps all the air, and all the contents on the desk, and even the desk itself into the black hole,
+leaving you in a cold, airless, thoroughly ordered room? since the entropy in your room has certainly
+decreased, bekenstein reasoned that the only way to satisfy the second law of thermodynamics would
+be for 
+ 
+ ___________________________
+ 
+the black hole to have entropy, and for this entropy to sufficiently increase as matter is pumped
+into it to offset the observed entropic decrease outside the black hole's exterior.
+
+in fact, bekenstein was able to draw on a famous result of stephen hawking's to strengthen his
+case. hawking had shown that the area of the event horizon of a black hole—recall, this is the surface
+of no return that enshrouds every black hole—always increases in any physical interaction. hawking
+demonstrated that if an asteroid falls into a black hole, or if some of the surface gas of a nearby star
+accretes onto the black hole, or if two black holes collide and combine—in any of these processes
+and  all  others  as  well,  the  total  area  of  the  event  horizon  of  a  black  hole  always  increases.  to
+bekenstein,  the  inexorable  evolution  to  greater  total  area  suggested  a  link  with  the  inexorable
+evolution to g
+ 
+ ___________________________
+ 
+reater total entropy embodied in the second law of thermodynamics. he proposed that
+the area of the event horizon of a black hole provides a precise measure of its entropy.
+
+on closer inspection, though, there are two reasons why most physicists thought that bekenstein's
+idea could not be right. first, black holes would seem to be among the most ordered and organized
+objects in the whole universe. once one measures the black hole's mass, the force charges it carries,
+and its spin, its identity has been nailed down precisely. with so few defining features, a black hole
+appears to lack sufficient structure to allow for disorder. just as there is little havoc one can wreak
+on a desktop that holds solely a book and a pencil, black holes seem too simple to support disorder.
+the  second  reason  that  bekenstein's  proposal  was  hard  to  swallow  is  that  entropy,  as  we  have
+discussed it here, is a quantum-mechanical co
+ 
+ ___________________________
+ 
+ncept, whereas black holes, until recently, were firmly
+entrenched in the antagonistic camp of classical general relativity. in the early 1970s, without a way
+to  merge  general  relativity  and  quantum  mechanics,  it  seemed  awkward,  at  best,  to  discuss  the
+possible entropy of a black hole.
+
+how black is black?
+
+as it turns out, hawking too had thought of the analogy between his black hole area-increase law and
+the law of inevitable increase of entropy, but he dismissed it as nothing more than a coincidence.
+after  all,  hawking  argued,  based  upon  his  area-increase  law  and  other  results  he  had  found  with
+james bardeen and brandon carter, if one did take the analogy between the laws of black holes and
+the laws of thermodynamics seriously, not only would one be forced to identify the area of the black
+hole's event horizon with entropy, but it turns out that one would a
+ 
+ ___________________________
+ 
+lso have to assign a temperature to
+the black hole (with the precise value determined by the strength of the black hole's gravitational field
+at its event horizon). but if a black hole has a nonzero temperature—no matter how small—the most
+basic  and  well-established  physical  principles  would require  it  to  emit  radiation,  much  like  a
+glowing poker. but black holes, as everyone knows, are black; they supposedly do not emit anything.
+hawking  and  most  everyone  else  agreed  that  this  definitively  ruled  out  bekenstein's  suggestion.
+instead, hawking was willing to accept that if matter carrying entropy is dropped into a black hole,
+this entropy is lost, plain and simple. so much for the second law of thermodynamics.
+
+this  was  the  case  until  hawking,  in  1974,  discovered  something  truly  amazing.  black  holes,
+hawking announced, are not co
+ 
+ ___________________________
+ 
+inally found some six decades previously, black
+holes  certainly  do  not  allow  anything—not  even  light—to  escape  their  gravitational  grip.  but  the
+inclusion of quantum mechanics modifies this conclusion in a profound way. even though he was not
+in possession of a quantum-mechanical version of general relativity, hawking was able to finesse a
+partial union of these two theoretical tools that yielded some limited yet reliable results. and the most
+important result he found was that black holes do emit radiation, quantum mechanically.
+
+the calculations are long and arduous, but hawking's basic idea is simple. we have seen that
+the uncertainty principle ensures that even the vacuum of empty space is a teeming, roiling frenzy of
+virtual particles momentarily erupting into existence and subsequently annihilating one another. this
+jittery quantum behavior also occurs in the region of space just outside the event horizon of a black
+hole. hawking realized, however, that the gravitational m
+ 
+ ___________________________
+ 
+ight of the black hole can inject energy into
+a pair of virtual photons, say, that tears them just far enough apart so that one gets sucked into the
+hole. with its partner having disappeared into the abyss of the hole, the other photon of the pair no
+longer has a partner with which to annihilate. instead, hawking showed that the remaining photon gets
+an energy boost from the gravitational force of the black hole and, as its partner falls inward, it gets
+shot outward, away from the black hole. hawking realized that to someone looking at the black hole
+from the safety of afar, the combined effect of this tearing apart of virtual photon pairs, happening
+over  and  over  again  all  around  the  horizon  of  the  black  hole,  will  appear  as  a  steady  stream  of
+outgoing radiation. black holes glow.
+
+moreover,  hawking  was  able  to  calculate  the  temperature  that  a  far-off  observer  would
+associate with the emitted radiation and found that it is given by the strength of the
+ 
+ ___________________________
+ 
+ gravitational field
+at the black hole's horizon, exactly as the analogy between the laws of black hole physics and the
+laws of thermodynamics suggested.3 bekenstein was right: hawking's results showed that the analogy
+should be taken seriously. in fact, these results showed that it is much more than an analogy—it is an
+identity. a black hole has entropy. a black hole has temperature. and the gravitational laws of black
+hole  physics  are  nothing  but  a  rewriting  of  the  laws  of  thermodynamics  in  an  extremely  exotic
+gravitational context. this was hawking's 1974 bombshell.
+
+to give you a sense of the scales involved, it turns out that when one carefully accounts for all of
+
+the details, a black hole whose mass is about three times that of the sun has a temperature of about a
+hundred-millionth of a degree above absolute zero. it's not zero, but on
+ 
+ ___________________________
+ 
+ly just. black holes are not
+black,  but  only  barely.  unfortunately,  this  makes  a  black  hole's  emitted  radiation  meager,  and
+impossible to detect experimentally. there is, however, an exception. hawking's calculations also
+showed that the less massive a black hole is, the higher its temperature and the greater the radiation it
+emits. for instance, a black hole as light as a small asteroid would emit about as much radiation as a
+million-megaton  hydrogen  bomb,  with  radiation  concentrated  in  the  gamma-ray  part  of  the
+electromagnetic spectrum. astronomers have searched the night sky for such radiation, but except for
+a few long-shot possibilities they have come up empty-handed, a likely indication that such low-mass
+black holes, if they exist, are very rare.4 as hawking often jokingly points out, this is too bad, for if
+the  black  hole  radia
+ 
+ ___________________________
+ 
+tion  that  his  work  predicts  were  to  be  detected,  he  would  undoubtedly  win  a
+nobel prize.5
+
+by contrast with its tiny, sub-millionth of a degree temperature, when one calculates the entropy
+of, say, a three-solar-mass black hole, the result is an absolutely enormous number: a one followed by
+about 78 zeros! and the more massive the hole, the greater the entropy. the success of hawking's
+calculations  unequivocally  established  that  this  truly  reflects  the  enormous  amount  of  disorder
+embodied by a black hole.
+
+but disorder of what? as we have seen, black holes appear to be terribly simple objects, so
+what  is  the  source  of  this  overwhelming  disorder?  on  this  question,  hawking's  calculations  were
+com
+ 
+ ___________________________
+ 
+pletely silent. his partial merger of general relativity and quantum mechanics could be used to
+find the numerical value of a black hole's entropy, but offered no insight into its microscopic meaning.
+for nearly a quarter of a century, some of the greatest physicists tried to understand what possible
+microscopic properties of black holes could account for their entropy. but without a fully trustworthy
+amalgam  of  quantum  mechanics  and  general  relativity,  glimpses  of  an  answer  may  have  been
+uncovered, but the mystery remained unsolved.
+
+enter string theory
+
+or, it did until january 1996, when strominger and vafa—building on earlier insights of susskind and
+sen—released  a  paper  to  the  electronic  physics  archive  entitled  "microscopic  origin  of  the
+beckenstein-hawking entropy." in this work, strominger 
+ 
+ ___________________________
+ 
+and vafa were able to use string theory to
+identify the microscopic constituents of a certain class of black holes and to calculate precisely their
+associated entropy. their work relied on the newfound ability to partially circumvent the perturbative
+approximations in use during the 1980s and early 1990s, and the result they found agreed exactly with
+that predicted by bekenstein and hawking, finally completing a picture partially painted more than
+two decades previously.
+
+strominger and vafa focused on the class of so-called extremal black holes. these are black
+holes that are imbued with charge—you can 
+ 
+ ___________________________
+ 
+ecified  dimensions)  and  binding  them  together  according  to  a  precise  mathematical  blueprint.  in
+much  the  same  way  that  an  atom  can  be  built—theoretically,  again—by  starting  with  a  bunch  of
+
+quarks  and  electrons  and  then  precisely  arranging  them  into  protons  and  neutrons,  surrounded  by
+orbiting  electrons,  strominger  and  vafa  showed  how  some  of  the  newfound  ingredients  in  string
+theory could similarly be molded together to yield particular black holes.
+
+in  actuality,  black  holes  are  one  possible  end  product  of  stellar  evolution.  after  a  star  has
+burned all its nuclear fuel through billions of years of atomic fusion, it no longer has the strength—the
+outward-directed  pressure—to  withstand  the  enormous  inward  force  of  gravity.  under  a  broad
+spectrum  of  conditions,  this  results  in  a  cataclysmic  implosion  of  the  star's  enormous  mass;  it
+violently collapses under its own tremendous weight, forming a bl
+ 
+ ___________________________
+ 
+ack hole. contrary to this realistic
+means of formation, strominger and vafa advocated "designer" black holes. they turned the tables on
+black  hole  formation  by  showing  how  they  could  be  systematically  constructed—in  a  theorist's
+imagination—by carefully, slowly, and meticulously weaving together a precise combination of the
+branes that had emerged from the second superstring revolution.
+
+the power of this approach became immediately clear. by maintaining full theoretical control
+over the microscopic construction of their black holes, strominger and vafa could easily and directly
+count
+ 
+ ___________________________
+ 
+ the number of rearrangements of the black hole's microscopic constituents that would leave its
+overall observable properties, its mass and force charges, unchanged. they could then compare this
+number with the area of the black hole's horizon—the entropy predicted by bekenstein and hawking.
+when strominger and vafa did so, they found perfect agreement. at least for the class of extremal
+black holes, they had succeeded in using string theory to account for the microscopic constituents and
+the associated entropy precisely. a quarter-century-old puzzle had been solved.6
+
+many  string  theorists  view  this  success  as  an  important  and  convincing  piece  of  evidence  in
+support of the theory. our understanding of string theory is still too coarse to be able to make direct
+and precise contact with experimental observations of, say, the mass of a quark or an electron. but we
+now  see  th
+ 
+ ___________________________
+ 
+at  string  theory  has  provided  the  first  fundamental  explanation  of  a  long-established
+property of black holes that has stumped physicists using more conventional theories for many years.
+and  this  property  of  black  holes  is  intimately  tied  up  with  hawking's  prediction  that  they  should
+radiate, a prediction that, in principle, should be experimentally measurable. of course, this requires
+that we definitively find a black hole in the heavens and then construct equipment sensitive enough to
+detect the radiation that it emits. if the black hole were light enough, the latter step is well within the
+reach of current technology. even though this experimental program has not as yet met with success, it
+does re-emphasize that the chasm between string theory and definitive physical statements about the
+natural  world  can  be  bridged.  even  sheldon  glashow—the  archrival  of  string  theory  through  the
+1980s—has sai
+ 
+ ___________________________
+ 
+d recently, "when string theorists talk about black holes they are almost talking about
+observable phenomena—and that is impressive."7
+
+the remaining mysteries of black holes
+
+even  with  these  impressive  developments,  there  are  still  two  central  mysteries  surrounding  black
+holes. the first concerns the impact black holes have on the concept of determinism. in the beginning
+of the nineteenth century the french mathematician pierre-simon de laplace enunciated the strictest
+and most far-reaching consequence of the clockwork universe that followed from newton's laws of
+motion:
+
+an intelligence that, at a given instant, could comprehend all the forces by which nature is
+
+animated and the respective situation of the beings that make it up, if moreover it were vast
+enough  to  submit  these  data  to  analysis,  wou
+ 
+ ___________________________
+ 
+occur  at  some  chosen  time  in  the  future  is  fully
+determined  by  knowledge  of  the  wave  functions  at  any  prior  time.  the  probabilistic  aspect  of
+quantum  mechanics  significantly  softens  laplacian  determinism  by  shifting  inevitability  from
+outcomes  to  outcome-likelihoods,  but  the  latter  are  fully  determined  within  the  conventional
+framework of quantum theory.
+
+in 1976, hawking declared that even this softer form of determinism is violated by the presence
+of black holes. once again, the calculations behind this declaration are formidable, but the essential
+idea is fairly straightforward. when anything falls into a black hole, its wave function gets sucked in
+as  well.  but  this  means  that  in  the  quest  to  work  out  wave  functions  at  all  future  times,  our  "vast
+enough" intelligence will be irreparably shortchanged. to predict the future fully we need to know all
+wave functions fully today. but, if some have escaped down the abyss of black holes,
+ 
+ ___________________________
+ 
+ the information
+they contain is lost.
+
+at first sight, this complication arising from black holes may not seem worth worrying about.
+since everything behind the event horizon of a black hole is cut off from the rest of the universe, can't
+we  just  completely  ignore  anything  that  is  unfortunate  enough  to  have  fallen  in?  philosophically,
+moreover, can't we tell ourselves that the universe has not really lost the information carried by the
+stuff that has fallen into the black hole; it is simply locked within a region of space that we rational
+beings choose to avoid at all costs? prior to hawking's realization that black holes are not completely
+black, the answer to these questions was yes. but once hawking informed the world that black holes
+radiate, the story changed. radiation carries energy and so, as a black hole radiates, its mass slowly
+
+decreases—it slowly evaporates. as it does so, the distance from the center of the hole to the event
+horizon slowly shrinks, a
+ 
+ ___________________________
+ 
+nd as this shroud recedes, regions of space that were previously cut off re-
+enter the cosmic arena. now our philosophical musings must face the music: does the information
+contained in the things swallowed by the black hole—the data we imagined existing within the black
+hole's interior—re-emerge as the black hole evaporates? this is the information required for quantum
+determinism to hold, and so this question goes to the heart of whether black holes imbue the evolution
+of our universe with an even deeper element of happenstance.
+
+as of this writing, there is no consensus among physicists regarding the answer to this question.
+for many years, hawking has strongly claimed that the information does not re-emerge—that black
+holes  destroy  information  thereby  "introducing  a  new  level  of  uncertainty  into  physics,  over  and
+above the usual uncertainty associated with quantum theory."9  in  fact,  hawking,  together  with  kip
+thorne
+ 
+ ___________________________
+ 
+ of the california institute of technology, has a bet with john preskill, also of the california
+institute of technology, regarding what happens to the information captured by a black hole: hawking
+and thorne bet that the information is forever lost, while preskill has taken the opposite position and
+bet that the information re-emerges as the black hole radiates and shrinks. the wager? information
+itself: "the loser(s) will reward the winner(s) with an encyclopedia of the winner's choice."
+
+the  bet  remains  unsettled,  but  hawking  has  recently  acknowledged  that  the  newfound
+understanding of black holes from string theory, as discussed above, shows that there might be a way
+for  the  information  to  re-emerge.10  the  new  idea  is  that  for  the  kind  of  black  holes  studied  by
+strominger and vafa, and by many other physicists s
+ 
+ ___________________________
+ 
+ goal of current research. as hawking has put it,
+
+most physicists want to believe that information is not lost, as this would make the world
+safe and predictable. but i believe that if one takes einstein's general relativity seriously,
+one must allow for the possibility that spacetime ties itself in knots and that information
+gets lost in the folds. determining whether or not information actually does get lost is one
+of the major questions in theoretical physics today.13
+
+the second unresolved black hole mystery concerns the nature of spacetime at the central point
+of  the  hole.14  a  straightforward  application  of  general  relativity,  going  all  the  way  back  to
+schwarzschild in 1916, shows that the enormous mass and energy crushed together at the black hole's
+center causes the fabric of spacetime to suffer a devastating rift, to be radically warped into a state of
+infinite curvature—to be punctured by a spacetime singularity. one conclusion that physicists drew
+from this is that sin
+ 
+ ___________________________
+ 
+ce all of the matter that has crossed the event horizon is inexorably drawn to the
+center of the black hole, and since once there the matter has no future, time itself comes to an end at
+the heart of a black hole. other physicists, who over the years have explored the properties of the
+black hole's core using einstein's equations, revealed the wild possibility that it might be a gateway
+to another universe that tenuously attaches to ours only at a black hole's center. roughly speaking,
+where time in our universe comes to an end, time in the attached universe just begins.
+
+we will take up some of the implications of this mind-boggling possibility in the next chapter,
+
+but for now we want to stress one important point. we must recall the central lesson: extremes of
+huge mass and small size leading to unimaginably large density invalidate the sole use of einstein's
+classical theory and require that quantum mechanics be brought to bear as well. this l
+ 
+ ___________________________
+ 
+eads us to ask,
+what does string theory have to say about the spacetime singularity at the center of a black hole? this
+is a topic of intense current research, but as with the question of information loss, it has not yet been
+settled. string theory deftly deals with a variety of other singularities—the rips and tears in space
+discussed in chapter 11 and in the first part of this chapter. 15 but if you have seen one singularity you
+have not  seen  them  all.  the  fabric  of  our  universe  can  be  ripped,  punctured,  and  torn  in  many
+different  ways.  string  theory  has  given  us  profound  insigh
+ 
+ ___________________________
+ 
+ts  into  some  of  these  singularities,  but
+others,  the  black  hole  singularity  among  them,  have  so  far  eluded  the  string  theorists'  reach.  the
+essential  reason  for  this,  once  again,  is  the  reliance  on  perturbative  tools  in  string  theory  whose
+approximations, in this case, cloud our ability to analyze reliably and fully what happens at the deep
+interior point of a black hole.
+
+however, given the recent tremendous progress in nonperturbative methods and their successful
+application  to  other  aspects  of  black  holes,  string  theorists  have  high  hopes  that  it  won't  be  long
+before the mysteries residing at the center of black holes start to unravel.
+
+chapter 14
+
+reflections on cosmology
+
+humans  throughout  history  have  had  a  passionate  drive  to  understand  the  origin  of  the  universe.
+there is, perhaps, no single question that so transcends cul
+ 
+ ___________________________
+ 
+ill never come into contact with any of them. but by vastly increasing the scope
+of "what's out there"—in a manner that dwarfs hubble's realization that the milky way is but one
+galaxy among many—the concept of the multiverse does at least alert us to the possibility that we may
+be asking too much of an ultimate theory.
+
+a more radical musing comes from a proposal of lee smolin of penn state university, who,
+inspired by the similarity between conditions at the big bang and at the centers of black holes—each
+being characterized by a colossal density of crushed matter—has suggested that every black hole is
+the seed for a new universe that erupts into existence through a big bang–like explosion, but is forever
+
+we should require that our ultimate theory give a quantum-mechanically consistent description
+of  all  forces  and  all  matter.  we  should  require  that  our  ultimate  theory  give  a  cogent  cosmology
+within our universe. however, if the multiverse picture is correct—a huge
+ 
+ ___________________________
+ 
+ings  and  contemplate  ways  in  which  the  apparent  randomness  of  the
+multiverse  can  be  tamed.  for  one  relatively  conservative  musing,  we  can  imagine  that—were  the
+multiverse picture true—we would be able to extend our ultimate theory to its full sprawling expanse,
+and  that  our  "extended  ultimate  theory"  might  tell  us  precisely  why  and  how  the  values  of  the
+fundamental parameters are sprinkled across the constituent universes.
+
+hidden from our view by the black hole's event horizon. beyond proposing another mechanism for
+generating a multiverse, smolin has injected a new element—a cosmic version of genetic mutation—
+that  does  an  end  run  around  the  scientific  limitations  associated  with  the  anthropic  principle.9
+imagine,  he  suggests,  that  when  a  universe  sprouts  from  the  core  of  a  black  hole,  its  physical
+attributes,  such  as  particle  masses  and  force  strengths,  are  close,  but  not  identical,  to  those  of  its
+pa
+ 
+ ___________________________
+ 
+rent universe. since black holes arise from extinguished stars, and star formation depends upon the
+precise values of the particle masses and force strengths, the fecundity of any given universe—the
+number  of  black  hole  progeny  it  can  produce—depends  sensitively  on  these  parameters.  small
+variations in the parameters of the progeny universes will therefore lead to some that are even more
+optimized for black hole production than their parent universe, and have an even greater number of
+offspring universes of their own.10 after many "generations," the descendants of universes optimized
+for producing black holes will thus be so numerous that they will overwhelm the population of the
+multiverse.  and  so,  rather  than  invoking  the  anthropic  principle,  smolin's  suggestion  provides  a
+dynamic  mechanism  that,  on  average,  drives  the  parameters  of  each  next-generation  universe  ever
+closer to
+ 
+ ___________________________
+ 
+ particular values—those that are optimum for black hole production.
+
+this  approach  gives  another  method,  even  in  the  context  of  the  multiverse,  in  which  the
+fundamental matter and force parameters can be explained. if smolin's theory is right, and if we are a
+typical  member  of  a  mature  multiverse  (these  are  big  "ifs"  and  can  be  debated  on  many  fronts,  of
+course), the parameters of the particles and forces that we measure should be optimized for black
+hole production. that is, any fiddling with these parameters of our u
+ 
+ ___________________________
+ 
+l theory is the extent to which it poses serious challenges to
+aspects  of  our  worldview  that  had  previously  seemed  immutable.  by  this  measure,  quantum
+mechanics  and  the  theories  of  relativity  are  deep  beyond  anyone's  wildest  expectations:  wave
+functions, probabilities, quantum tunneling, the ceaseless roiling energy fluctuations of the vacuum,
+the  smearing  together  of  space  and  time,  the  relative  nature  of  simultaneity,  the  warping  of  the
+spacetime fabric, black holes, the big bang. who could have guessed that the intuitive, mechanical,
+clockwork newtonian perspective would turn out to be so thoroughly parochial—that there was a
+whole  new  mind-boggling  world  lying  just  beneath  the  surface  of  things  as  they  are  ordinarily
+experienced?
+
+but even these paradigm-shaking discoveries are only part of a larger, all-encompassing story.
+with  solid  faith  that  laws  of  the  large  and  the  small  should  fit  together  into  a  coherent  whole,
+p
+ 
+ ___________________________
+ 
+ely, planck showed that waves whose minimum energy content exceeds
+their  purported average  energy  contribution  (according  to  nineteenth-century  thermodynamics)  are
+exponentially suppressed. this suppression is increasingly sharp as we examine waves of ever larger
+frequency.
+
+4. planck's constant is 1.05 × 10-27 grams-centimeters2/second.
+5. timothy ferris, coming of age in the milky way (new york: anchor, 1989), p. 286.
+6. stephen hawking, lecture at the amsterdam symposium on gravity, black holes, and string
+
+theory, june 21, 1997.
+
+7. it is worthwhile to note that feynman's approach to quantum mechanics can be used to derive
+the  approach  based  on  wave  functions,  and  vice  versa;  the  two  approaches,  therefore,  are  fully
+equivalent.  nevertheless,  the  concepts,  the  language,  and  the  interpretation  that  each  approach
+emphasizes are rather different, even though the answers each gives are absolutely identical.
+
+8.  richard  feynman, qed:  the  strange  theory  of  l
+ 
+ ___________________________
+ 
+e
+difference, however, is that a mirror rephrasing of this sort results in the antisymmetric tensor field
+bµv—the real part of the complexified kähler form on the mirror calabi-yau space—vanishing, and
+this is a far more drastic sort of singularity than that discussed in chapter 11.
+
+2.  more  precisely,  these  are  examples  of extremal  black  holes:  black  holes  that  have  the
+minimum mass consistent with the force charges they carry, just like the bps states in chapter 12.
+similar black holes will also play a pivotal role in the following discussion on black hole entropy.
+
+3. the radiation emitted from a black hole should be just like that emitted from a hot oven—the
+very problem, discussed at the outset of chapter 4, that played such a pivotal role in the development
+of quantum mechanics.
+
+4.  it  turns  out  that  because  the  black  holes  involved  in  space-tearing  conifold  transitions  are
+
+extremal, they do not hawking radiate, regardless of how light they become.
+
+5. s
+ 
+ ___________________________
+ 
+tephen hawking, lecture at amsterdam symposium on gravity, black holes, and strings,
+
+june 21, 1996.
+
+6. in their initial calculation, strominger and vafa found that the mathematics was made easier
+by working with five—not four—extended spacetime dimensions. surprisingly, after completing their
+calculation of the entropy of such a five-dimensional black hole they realized that no theoretician had
+as yet constructed such hypothetical extremal black holes in the setting of five-dimensional general
+relativity. since only by comparing their answer to the area of the event horizon of such a hypothetical
+black  hole  could  they  confirm  their  results,  strominger  and  vafa  then  set  out  to  mathematically
+construct such a five-dimensional black hole. they succeeded. it was then a simple matter to show
+that the microscopic string theory calculation of the entropy was in agreement with what hawking
+would  have  predicted  based  on  the  area 
+ 
+ ___________________________
+ 
+ of  the  black  hole's  event  horizon.  but  it  is  interesting  to
+realize that because the black hole solution was found later, strominger and vafa did not know the
+answer  they  were  shooting  for  while  undertaking  their  entropy  calculation.  since  their  work,
+
+verlag, 1995).
+
+princeton university press, 1995), p. 41.
+
+strings, june 21, 1997.
+
+9. stephen hawking, in hawking and roger penrose, the nature of space and time (princeton:
+
+10.  stephen  hawking,  lecture  at  the  amsterdam  symposium  on  gravity,  black  holes,  and
+
+numerous  researchers,  led  most  notably  by  princet
+ 
+ ___________________________
+ 
+ephen  hawking,  lecture  at  the  amsterdam  symposium  on  gravity,  black  holes,  and
+
+strings, june 21, 1997.
+
+14. this issue also has some bearing on the information-loss question, as some physicists have
+speculated over the years that there might be a central "nugget" embedded in the depths of a black
+hole that stores all of the information carried by matter that gets trapped within the hole's horizon.
+
+15. in fact, the space-tearing conifold transitions discussed in this chapter involve black holes
+and hence might seem to be tied up with the question of their singularities. but recall that the conifold
+tear  occurs  just  as  the  black  hole  has  shed  all  its  mass,  and  is  therefore  not  directly  related  to
+questions concerning black hole singularities.
+
+chapter 14
+
+1.  more  precisely,  the  universe  should  be  filled  with  photons  conforming  to  the  radiation
+thermally emitted by a perfectly absorbent body—a "black-body" in the language of thermodynamics
+—with  the 
+ 
+ ___________________________
+ 
+ stated  temperature  range.  this  is  the  same  radiation  spectrum  emitted  quantum
+mechanically by black holes, as explained by hawking, and by a hot oven, as explained by planck.
+
+2. the discussion conveys the spirit of the issues involved although we are glossing over some
+subtle features having to do with the motion of light in an expanding universe that affect the detailed
+numerics.  in  particular,  although  special  relativity  declares  that  nothing  can  travel  faster  than  the
+speed of light, this does not preclude two photons carried along on the expanding spatial fabric from
+receeding fr
+ 
+ ___________________________
+ 
+mensional  film,  susskind  and  't
+hooft have suggested that all of the physical happenings we encounter may actually be encoded fully
+through equations defined in a lower-dimensional world. although this may sound as strange as trying
+to draw someone's portrait by viewing only their shadow, we can get a sense of what it means, and
+understand  part  of  susskind's  and  't  hooft's  motivation,  by  thinking  about  black  hole  entropy  as
+discussed in chapter 13. recall that the entropy of a black hole is determined by the surface area of
+its event horizon—and not by the total volume of space that the event horizon bounds. therefore, the
+disorder  of  a  black  hole,  and  correspondingly  the  information  it  can  embody,  is  encoded  in  the
+two-dimensional data of surface area. it is almost as if the event horizon of the black hole acts like a
+hologram  by  capturing  all  the  information  content  of  the  black  hole's  three-dimensional  interior.
+susskind and 't hooft have general
+ 
+ ___________________________
+ 
+ fundamental  building  block  of  matter,  consisting  of  a nucleus  (comprising protons  and
+neutrons) and an orbiting swarm of electrons.
+big bang.  currently  accepted  theory  that  the  expanding  universe  began  some  15  billion  years  ago
+from a state of enormous energy, density, and compression.
+big crunch. one hypothesized future for the universe in which the current expansion stops, reverses,
+and results in all space and all matter collapsing together; a reversal of the big bang.
+black hole. an object whose immense gravitational field entraps anything, even light, that gets too
+close (closer than the black hole's event horizon).
+black-hole entropy the entropy embodied within a black hole.
+boson. a particle, or pattern of string vibration, with a whole number amount of spin; typically a
+messenger particle.
+bosonic string theory. first known string theory; contains vibrational patterns that are all bosons.
+bps states. configurations in a supersymmetric theory whose properties can be
+ 
+ ___________________________
+ 
+ramework.
+eleven-dimensional supergravity. promising higher-dimensional supergravity theory developed in
+the 1970s, subsequently ignored, and more recently shown to be an important part of string theory.
+entropy.  a  measure  of  the  disorder  of  a  physical  system;  the  number  of  rearrangements  of  the
+
+the weak  force  and  the
+
+ingredients of a system that leave its overall appearance intact.
+equivalence principle. see principle of equivalence.
+event horizon. the one-way surface of a black hole; once penetrated, the laws of gravity ensure that
+there is no turning back, no escaping the powerful gravitational grip of the black hole.
+extended  dimension.  a  space  (and spacetime)  dimension  that  is  large  and  directly  apparent;  a
+dimension with which we are ordinarily familiar, as opposed to a curled-up dimension.
+extremal black holes. black holes endowed with the maximal amount of force charge possible for a
+given total mass.
+families. organization of matter particles into three 
+ 
+ ___________________________
+ 
+special relativity, in which a moving object appears
+shortened along its direction of motion.
+macroscopic. refers to scales typically encountered in the everyday world and larger; roughly the
+opposite of microscopic.
+massless  black  hole.  in  string  theory,  a  particular  kind  of black  hole  that  may  have  large  mass
+initially, but that becomes ever lighter as a piece of the calabi-yau portion of space shrinks. when
+the portion of space has shrunk down to a point, the initially massive black hole has no remaining
+mass—it is massless. in this state, it no longer manifests such usual black hole properties as an event
+horizon.
+maxwell's  theory,  maxwell's  electromagnetic  theory.  theory  uniting  electricity  and  magnetism,
+
+based  on  the  concept  of  the electromagnetic  field,  devised  by  maxwell  in  the  1880s;  shows  that
+visible light is an example of an electromagnetic wave.
+messenger particle. smallest bundle of a force field; microscopic conveyer of a force.
+mirror sym
+ 
+ ___________________________
+ 
+rk  for  describing  curved  shapes  of  any  dimension.
+plays a central role in einstein's description of spacetime in general relativity.
+schrödinger  equation.  equation  governing  the  evolution  of  probability  waves  in quantum
+mechanics.
+schwarzschild solution. solution to the equations of general relativity for a spherical distribution of
+
+theory.  quantum-mechanical 
+
+field 
+
+theory  of 
+
+fields,  such  as 
+
+the
+
+matter; one implication of this solution is the possible existence of black holes.
+second law of thermodynamics. law stating that total entropy always increases.
+second superstring revolution. period in the development of string theory beginning around 1995 in
+which some nonperturbative aspects of the theory began to be understood.
+singularity. location where the fabric of space or spacetime suffers a devastating rupture.
+smooth, smooth space. a spatial region in which the fabric of space is flat or gently curved, with no
+pinches, ruptures, or creases of any kind.
+space-tea
+ 
+ ___________________________
+ 
+es the weirdness go? new york: basic books, 1996.
+overbye, dennis, lonely hearts of the cosmos. new york: harpercollins, 1991.
+pais, abraham. subtle is the lord: the science and the life of albert einstein. new york: oxford
+university press, 1982.
+penrose, roger. the emperor's new mind. oxford, eng.: oxford university press, 1989.
+rees, martin j. before the beginning. reading, mass.: addison-wesley, 1997.
+smolin, lee. the life of the cosmos. new york: oxford university press, 1997.
+thorne, kip. black holes and time warps. new york: norton, 1994.
+weinberg, steven. the first three minutes. new york: basic books, 1993.
+———. dreams of a final theory. new york: pantheon, 1992.
+wheeler, john a. a journey into gravity and spacetime. new york: scientific american library,
+1990.
+
+* some of the ideas in this and the next few sections are rather subtle, so don’t be put off if you have
+trouble following every link in the explanatory chain—especially in a single reading.
+
+* those readers who skip

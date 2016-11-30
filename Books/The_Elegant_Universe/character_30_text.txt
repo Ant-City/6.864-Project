@@ -1,0 +1,82 @@
+ the 1920s. let's
+now  use  it  as  a  "cosmological  playground"  to  explore  the  properties  of  string  theory  in  a  simple
+setting;  we  will  shortly  use  the  insights  we  gain  to  better  understand  all  of  the  spatial  dimensions
+string theory requires. toward this end, we imagine that the circular dimension of the garden-hose
+universe starts out nice and plump but then shrinks to shorter and shorter size, approaching the form of
+lineland—a simplified, partial version of the big crunch.
+
+the  question  we  seek  to  answer  is  whether  the  geometrical  and  physical  properties  of  this
+cosmic collapse have features that markedly differ between a universe based on strings and one based
+on point particles.
+
+the essential new feature
+
+we do not have to search far to find the essential new string physics. a point particle moving in this
+two-dimensional  universe  can  execute  the  kinds  of  motion  illustrated  in  figure  10.2:  it  can  move
+along the extended dimension o
+ 
+ ___________________________
+ 
+s can yield the zero-mass photon, graviton, and the other massless
+or near-massless particles, for example. wrapped strings are different in this regard.)
+
+how does the existence of wrapped string configurations affect the geometrical properties of the
+dimension  around  which  the  strings  wind?  the  answer,  first  recognized  in  1984  by  the  japanese
+physicists keiji kikkawa and masami yamasaki, is bizarre and remarkable.
+
+let's consider the last cataclysmic stages of our variant on the big crunch in the garden-hose
+universe. as  the  radius  of  the  circular  dimension  shrinks  to  the  planck  length  and,  in  the  mold  of
+general  relativity,  continues  to  shrink  to  yet  smaller  lengths,  string  theory  insists  upon  a  radical
+reinterpretation  of  what  actually  happens.  string  theory  claims  that all  physical  processes  in  the
+garden-hose universe in which the radius of the circular dimension is shorter than the planck length
+and is decreasing are absolutely ident
+ 
+ ___________________________
+ 
+ comparing apples and oranges. since we now have two
+concepts of distance—using light or heavy string probes—we must compare measurements made in
+the same manner.
+
+a minimum size
+
+it's been a bit of a trek, but we are now set for the key point. if one does stick to measuring distances
+"the easy way"—that is, using the lightest of the string modes instead of the heavy ones—the results
+obtained will always be larger than the planck length. to see this, let's think through the hypothetical
+big crunch for the three extended dimensions, assuming them to be circular. for argument's sake, let's
+say that at the beginning of our thought experiment, unwound string modes are the light ones and by
+using them it is determined that the universe has an enormously large radius and that it is shrinking in
+time. as it shrinks, these unwound modes get heavier and the winding modes get lighter. when the
+radius shrinks all the way to the planck length—that is, when r takes on the value 1—the winding and
+
+ 
+ ___________________________
+ 
+ physics we encounter—as discussed in previous sections—will be identical to that of a universe
+in which the radius, in the conventional sense of distance, is larger than the planck length (as attested
+to, for example, by the exact correspondence between tables 10.1 and 10.2). and it is physics, not
+language, that really matters.
+
+brandenberger, vafa, and other physicists have made use of these ideas to suggest a rewriting of
+the laws of cosmology in which both the big bang and the possible big crunch do not involve a zero-
+size universe, but rather one that is planck-length in all dimensions. this is certainly a very appealing
+proposal for avoiding the mathematical, physical, and logical conundrums of a universe that emanates
+from  or  collapses  to  an  infinitely  dense  point. although  it  is  conceptually  difficult  to  imagine  the
+whole of the universe compressed together into a tiny planck-sized nugget, it is truly beyond the pale
+to imagine it crushed to a point of no size at all.
+ 
+ ___________________________
+ 
+rge as well as opposite nuclear force charges.
+antiparticle. a particle of antimatter.
+atb. acronym for "after the bang"; usually used in reference to time elapsed since the big bang.
+atom.  fundamental  building  block  of  matter,  consisting  of  a nucleus  (comprising protons  and
+neutrons) and an orbiting swarm of electrons.
+big bang.  currently  accepted  theory  that  the  expanding  universe  began  some  15  billion  years  ago
+from a state of enormous energy, density, and compression.
+big crunch. one hypothesized future for the universe in which the current expansion stops, reverses,
+and results in all space and all matter collapsing together; a reversal of the big bang.
+black hole. an object whose immense gravitational field entraps anything, even light, that gets too
+close (closer than the black hole's event horizon).
+black-hole entropy the entropy embodied within a black hole.
+boson. a particle, or pattern of string vibration, with a whole number amount of spin; typically a
+messenge

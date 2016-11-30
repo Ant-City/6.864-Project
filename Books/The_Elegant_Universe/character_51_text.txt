@@ -1,0 +1,1149 @@
+s an electron? why does the top quark
+weigh about 40,200 times as much an up-quark? these are such strange, seemingly random numbers.
+did they occur by chance, by some divine choice, or is there a comprehensible scientific explanation
+for these fundamental features of our universe?
+
+table 1.1 the three families of fundamental particles and their masses (in multiples of the proton
+mass). the values of the neutrino masses have so far eluded experimental determination.
+
+the forces, or, where's the photon?
+
+things only become more complicated when we consider the forces of nature. the world around us is
+replete  with  means  of  exerting  influence:  balls  can  be  hit  with  bats,  bungee  enthusiasts  can  throw
+themselves earthward from high platforms, magnets can keep superfast trains suspended just above
+metallic  tracks,  geiger  counters  can  tick  in  response  to  radioactive  material,  nuclear  bombs  can
+explode.  we  can  influence  objects  by  vigorously  pushing,  pulling,  or 
+ 
+ ___________________________
+ 
+tomic nuclei. the weak force is best known as the force responsible for the radioactive decay
+
+of substances such as uranium and cobalt.
+
+during the past century, physicists have found two features common to all these forces. first, as
+we will discuss in chapter 5, at a microscopic level all the forces have an associated particle that
+you can think of as being the smallest packet or bundle of the force. if you fire a laser beam—an
+"electromagnetic  ray  gun"—you  are  firing  a  stream  of photons,  the  smallest  bundles  of  the
+electromagnetic  force.  similarly,  the  smallest  constituents  of  weak  and  strong  force  fields  are
+particles  called weak gauge bosons  and gluons.  (the  name gluon is particularly descriptive: you
+can think of gluons as the microscopic ingredient in the strong glue holding atomic nuclei together.)
+by 1984 experimenters had definitively established the existence and the detailed properties of these
+three kinds of force particles, recorded in table 1.
+ 
+ ___________________________
+ 
+charge"  and  "weak  charge"  that  determine  how  they  are
+affected by the strong and weak forces. (these properties are detailed in the table in the endnotes to
+this chapter.1) but as with particle masses, beyond the fact that experimental physicists have carefully
+measured  these  properties,  no  one  has  any  explanation  of why  our  universe  is  composed  of  these
+particular particles, with these particular masses and force charges.
+
+force particle
+force
+strong
+gluon
+electromagnetic photon
+weak
+gravity
+
+weak gauge
+bosons
+graviton
+
+mass
+0
+0
+86,
+97
+0
+
+table 1.2 the four forces of nature, together with their associated force particles and their masses in
+multiples  of  the  proton  mass.  (the  weak  force  particles  come  in  varieties  with  the  two  possible
+masses listed. theoretical studies show that the graviton should be massless.)
+
+notwithstanding  their  common  features,  an  examination  of  the  fundamental  forces  themselves
+serves only to compound the questions. why
+ 
+ ___________________________
+ 
+turn and run because this will cause
+the  speed  with  which  the  snow  approaches  you  to  decrease—and  this,  generally,  is  a  good  thing.
+again, a stationary individual perceives the speed of the approaching snow to be greater than that
+perceived by someone in retreat.
+
+now, let's compare these basic observations about baseballs, grenades, and avalanches to those
+about light. to make the comparisons tighter, think about a light beam as composed of tiny "packets"
+or "bundles" known as photons (a feature of light we will discuss more fully in chapter 4). when we
+turn  on  a  flashlight  or  a  laser  beam  we  are,  in  effect,  shooting  a  stream  of  photons  in  whatever
+direction we point the device. as we did for grenades and avalanches, let's consider how the motion
+of a photon appears to someone who is moving. imagine that your crazed friend has swapped her
+grenade  for  a  powerful  laser.  if  she  fires  the  laser  toward  you—and  if  you  had  the  appropriate
+measur
+ 
+ ___________________________
+ 
+ing equipment—you would find that the speed of approach of the photons in the beam is 670
+million miles per hour. but what if you run away, as you did when faced with the prospect of playing
+catch with a hand grenade? what speed will you now measure for the approaching photons? to make
+things more compelling, imagine that you can hitch a ride on the starship enterprise and zip away
+from your friend at, say, 100 million miles per hour. following the reasoning based on the traditional
+newtonian  worldview,  since  you  are  now  speeding  away,  you  would  expect  to  measure  a slower
+speed for the oncoming photons. specifically, you would expect to find them approaching you at (670
+million miles per hour -100 million miles per hour =) 570 million miles per hour.
+
+m
+ 
+ ___________________________
+ 
+ounting evidence from a variety of experiments dating back as far as the 1880s, as well as
+careful analysis and interpretation of maxwell's electromagnetic theory of light, slowly convinced the
+scientific community that, in fact, this is not what you will see. even though you are retreating, you
+will still measure the speed of the approaching photons as 670 million miles per hour, not a bit
+less.  although  at  first  it  sounds  completely  ridiculous,  unlike  what  happens  if  one  runs  from  an
+oncoming baseball, grenade, or avalanche, the speed of approaching photons is always 670 million
+miles per hour. the same is true if you run toward oncoming photons or chase after them—their speed
+of approach or recession is completely unchanged; they still appear to travel at 670 million miles per
+hour. regardless of relative motion between
+ 
+ ___________________________
+ 
+ the source of photons and the observer, the speed of light
+is always the same.2
+
+technological  limitations  are  such  that  the  "experiments"  with  light,  as  described,  cannot
+actually  be  carried  out.  however,  comparable  experiments  can.  for  instance,  in  1913  the  dutch
+physicist willem de sitter suggested that fast-moving binary stars (two stars that orbit one another)
+could be used to measure the effect of a moving source on the speed of light. various experiments of
+this sort over the past eig
+ 
+ ___________________________
+ 
+ realized  that  the  constancy  of  light's  speed
+spelled the downfall of newtonian physics.
+
+truth and consequences
+
+speed is a measure of how far an object can travel in a given duration of time. if we are in a car
+going 65 miles per hour, this means of course that we will travel 65 miles if we persist in this state of
+motion for an hour. phrased in this manner, speed is a rather mundane concept, and you may wonder
+about the fuss we have made regarding the speed of baseballs, snowballs, and photons. however,
+let's note that distance is a notion about space—in particular it is a measure of how much space there
+is  between  two  points.  also  note  that duration  is  a  notion  about  time—how  much  time  elapses
+between two events. speed, therefore, is intimately connected with our notions of space and time.
+when we phrase it this way, we see that any experimental fact that defies our common conception
+about  speed,  such  as  the  constancy  of  the  speed  of  light,  has  the  po
+ 
+ ___________________________
+ 
+etained the essence of einstein's discovery.
+without highbrow mathematics or a convoluted chain of logic, this completely unexpected feature of
+time follows directly from the constancy of the speed of light, as the scenario illustrates. notice that if
+the speed of light were not constant but behaved according to our intuition based on slow-moving
+baseballs  and  snowballs,  the  platform  observers  would  agree  with  those  on  the  train. a  platform
+observer  would  still  claim  that  the  photons  have  to  travel  farther  to  reach  the  president  of
+
+backwardland than they do to reach the president of forwardland. however, usual intuition implies
+that  the  light  approaching  the  president  of  backwardland  would  be  moving  more  quickly,  having
+received a "kick" from the forward-moving train. similarly, these observers would see that the light
+approaching the president of forwardland would be moving more slowly, being "dragged" back by
+the  train's  motion.  when  these  (e
+ 
+ ___________________________
+ 
+ll not be any shaking or jostling at
+all. rather, we are interested in the universal question of how motion affects the passage of time and
+therefore how it fundamentally affects the ticking of any and all clocks regardless of their particular
+design or construction.
+
+for this purpose we introduce the world's conceptually simplest (yet most impractical) clock. it
+is  known  as  a  "light  clock"  and  consists  of  two  small  mirrors  mounted  on  a  bracket  facing  one
+another, with a single photon of light bouncing back and forth between them (see figure 2.1). if the
+mirrors are about six inches apart, it will take the photon about a billionth of a second to complete
+one  round-trip  journey.  "ticks"  on  the  light  clock  may  be  thought  of  as  occurring  every  time  the
+photon completes a round-trip—a billion ticks means that one second has elapsed.
+
+we can use the light clock like a stopwatch to measure the time elapsed between events: we
+simply  count  how  many  ticks  occur
+ 
+ ___________________________
+ 
+  during  the  period  of  interest  and  multiply  by  the  time
+corresponding to one tick. for instance, if we are timing a horse race and count that between the start
+and finish the number of round-trip photon journeys is 55 billion, we can conclude that the race took
+55 seconds.
+
+the reason we use the light clock in our discussion is that its mechanical simplicity pares away
+extraneous  details  and  therefore  provides  us  with  the  clearest  insight  into  how  motion  affects  the
+passage of time. to see this, imagine that we are idly watching the passage of time by looking at a
+ticking light clock placed on a nearby table. then, all of sudden, a second light clock slides by on the
+table, movin
+ 
+ ___________________________
+ 
+g at constant velocity (see figure 2.2) the question we ask is whether the moving light
+clock will tick at the same rate as the stationary light clock?
+
+figure 2.1 a light clock consists of two parallel mirrors with a photon that bounces between them.
+the clock "ticks" each time the photon completes a round-trip journey.
+
+figure 2.2 a stationary light clock in the foreground while a second light clock slides by at constant
+speed.
+
+to  answer  the  question,  let's  consider  the  path,  from  our  perspective,  that  the  photon  in  the
+sliding clock must take in order for it to result in a tick. the photon starts at the base of the sliding
+clock, as in figure 2.2, and first travels to the upper mirror. since, from our perspective, the clock is
+
+moving, the photon must travel a
+ 
+ ___________________________
+ 
+t an angle, as shown in figure 2.3. if the photon did not travel along
+this path, it would miss the upper mirror and fly off into space. as the sliding clock has every right to
+claim that it's stationary and everything else is moving, we know that the photon will hit the upper
+mirror and hence the path we have drawn is correct. the photon bounces off the upper mirror and
+again  travels  a  diagonal  path  to  hit  the  lower  mirror,  and  the  sliding  clock  ticks.  the  simple  but
+essential  point  is  that  the  double  diagonal  path  that  we  see  the  photon  traverse  is longer  than  the
+straight up-and-down path taken by the photon in the stationary clock; in addition to traversing the up-
+and-down distance, the photon in the sliding clock must also travel to the right, from our perspective.
+moreover, the constancy o
+ 
+ ___________________________
+ 
+f the speed of light tells us that the sliding clock's photon travels at exactly
+the same speed as the stationary clock's photon. but since it must travel farther to achieve one tick it
+will  tick less  frequently.  this  simple  argument  establishes  that  the  moving  light  clock,  from  our
+perspective,  ticks  more  slowly  than  the  stationary  light  clock. and  since  we  have  agreed  that  the
+number  of  ticks  directly  reflects  how  much  time  has  passed,  we  see  that  the  passage  of  time  has
+slowed down for the moving clock.
+
+figure 2.3 from our perspective, the photon in the sliding clock travel
+ 
+ ___________________________
+ 
+and so the
+moving  light  clock  and  its  attached  rolex must  still  measure  equal  time  durations;  the  rolex must
+slow  down  in  exactly  the  same  way  that  the  light  clock  does.  regardless  of  brand,  type,  or
+construction, clocks that are moving relative to one another record the passage of time at different
+rates.
+
+the light clock discussion also makes clear that the precise time difference between stationary
+and moving clocks depends on how much farther the sliding clock's photon must travel to complete
+each round-trip journey. this in turn depends on how quickly the sliding clock is moving—from the
+viewpoint of a stationary observer, the faster the clock is sliding, the farther the photon must travel to
+the right. we conclude that in comparison to a stationary clock, the rate of ticking of the sliding clock
+becomes slower and slower as it moves faster and faster.3
+
+to get a sense of scale, note that the photon traverses one round-trip in about a billionth of a
+secon
+ 
+ ___________________________
+ 
+d. for the clock to be able to travel an appreciable distance during the time for one tick it must
+therefore be traveling enormously quickly—that is, some significant fraction of the speed of light. if it
+is traveling at more commonplace speeds like 10 miles per hour, the distance it can move to the right
+before one tick is completed is minuscule—just about 15 billionths of a foot. the extra distance that
+the sliding photon must travel is tiny and it has a correspondingly tiny effect on the rate of ticking of
+the moving clock. and again, by the principle of relativity, this is true for all clocks—that is, for time
+itself. this is why beings such as ourselves who travel relative to one another at such slow speeds
+are generally unaware of the distortions in the passage of time. the effects, although present to be
+sure, are incredibly small. if, on the other hand, we were able to grab hold of the sliding clock and
+
+ 
+ ___________________________
+ 
+ is diverted to light-speed motion through space. but having used up all of its motion
+through  time,  this  is  the fastest  speed  through  space  that  the  object—any  object—can  possibly
+achieve. this is analogous to our car being test-driven directly in the north-south direction. just as the
+car will have no speed left for motion in the east-west dimension, something traveling at light speed
+through space will have no speed left for motion through time. thus light does not get old; a photon
+that emerged from the big bang is the same age today as it was then. there is no passage of time at
+light speed.
+
+what about e=mc2?
+
+although  einstein  did  not  advocate  calling  his  theory  "relativity"  (suggesting  instead  the  name
+"invariance" theory to reflect the unchanging character of the speed of light, among other things), the
+meaning  of  the  term  is  now  clear.  einstein's  work  showed  that  concepts  such  as  space  and  time,
+which  had  previously  seemed  to  be  sep
+ 
+ ___________________________
+ 
+ter hits the ball, the sound reaches you moments after you see the
+ball being hit. a similar thing happens in a thunderstorm. although lightning and thunder are produced
+simultaneously, you see the lightning before hearing the thunder. again, this reflects the substantial
+speed difference between light and sound. the success of special relativity informs us that the reverse
+situation,  in  which  some  signal  reaches  us before  the  light  it  emits,  is  just  not  possible.  nothing
+outruns photons.
+
+here's the rub. in newton's theory of gravity, one body exerts a gravitational pull on another
+with  a  strength  determined  solely  by  the  mass  of  the  objects  involved  and  the  magnitude  of  their
+separation.  the  strength  has  nothing  to  do  with  how  long  the  objects  have  been  in  each  other's
+presence. this means that if their mass or their separation should change, the objects will, according
+to newton, immediately feel a change in their mutual gravitational attract
+ 
+ ___________________________
+ 
+t, it causes a change in the
+distortion of the spacetime fabric that spreads outward at light speed, precisely in keeping with the
+cosmic  speed  limit  of  special  relativity.  thus,  we  on  earth  would  visually  learn  of  the  sun's
+destruction  at  the  same  moment  that  we  would  feel  the  gravitational  consequences—about  eight
+minutes  after  it  explodes.  einstein's  formulation  thereby  resolves  the  conflict;  gravitational
+disturbances keep pace with, but do not outrun, photons.
+
+the warping of time, revisited
+
+illustrations such as those of figures 3.2, 3.4, and 3.6 capture the essence of what "warped space"
+means.  a  warp  distorts  the  shape  of  space.  physicists  have  invented  analogous  images  to  try  to
+convey the meaning of "warped time," but they are significantly more difficult to decipher, so we will
+not introduce them here. instead, let's follow up the example of slim and jim on the tornado ride, and
+try to get a sense of the experience of gravitat
+ 
+ ___________________________
+ 
+whelmed by the light emitted by the sun. during a solar
+eclipse, however, the moon temporarily blocks the light of the sun and distant stars become visible.
+nevertheless, the presence of the sun still has an effect. light from some of the distant stars must pass
+close to the sun on the way to earth. einstein's general relativity predicts that the sun will cause the
+surrounding  space  and  time  to  warp  and  such  distortion will  influence  the  path  taken  by  the
+starlight. after all, the photons of distant origin travel along the fabric of the universe; if the fabric is
+warped, the motion of the photons will be affected much as for a material body. the bending of the
+path of light is greatest for those light signals that just graze the sun on their way to earth. a solar
+eclipse makes it possible to see such sun-grazing starlight without its being completely obscured by
+sunlight itself.
+
+the angle through which the light path is bent can be measured in a simple way. the bending of
+the 
+ 
+ ___________________________
+ 
+ctly 15 cents left after paying the guard. this is true regardless of the total number of
+dollars tossed.
+
+here  is  what  all  this  has  to  do  with  the  photoelectric  effect.  based  on  the  experimental  data
+reviewed above, einstein suggested incorporating planck's lumpy picture of wave energy into a new
+description of light. a light beam, according to einstein, should actually be thought of as a stream of
+tiny  packets—tiny  particles  of  light—which  were  ultimately  christened photons  by  the  chemist
+gilbert lewis (an idea we made use of in our example of the light clock of chapter 2). to get a sense
+of  scale,  according  to  this  particle  view  of  light,  a  typical  one-hundred-watt  bulb  emits  about  a
+hundred  billion  billion  (1020)  photons  per  second.  einstein  used  this  new  conception  to  suggest  a
+
+microscopic  mechanism  underlying  the  photoelectric  effect: an  electron  is  knocked  off  a  metallic
+surface, he proposed, if it gets hit by a s
+ 
+ ___________________________
+ 
+ufficiently energetic photon. and what determines the energy
+of  an  individual  photon?  to  explain  the  experimental  data,  einstein  followed  planck's  lead  and
+proposed that the energy of each photon is proportional to the frequency of the light wave (with the
+proportionality factor being planck's constant).
+
+now, like the children's minimum departure fee, the electrons in a metal must be jostled by a
+photon  posessing  a  certain  minimum  energy  in  order  to  be  kicked  off  the  surface.  (as  with  the
+children fighting for money, it is extremely unlikely that any one electron gets hit by more than one
+photon—most  don't  get  hit  at  all.)  but  if  the  impinging  light  beam's  frequency  is  too  low,  its
+individual photons will lack the punch necessary to eject electrons. just as no children can afford to
+leave  regardless  of  the  huge  total  number  of  coins  the  adults  showe
+ 
+ ___________________________
+ 
+r  upon  them,  no  electrons  are
+jostled free regardless of the huge total energy embodied in the impinging light beam, if its frequency
+(and thus the energy of its individual photons) is too low.
+
+but  just  as  children  are  able  to  leave  the  warehouse  as  soon  as  the  monetary  denomination
+showered  upon  them  gets  large  enough,  electrons  will  be  knocked  off  the  surface  as  soon  as  the
+frequency of the light shone on them—its energy denomination—gets high enough. moreover, just as
+the  dollar-entrusted  adult  increases  the  total  money  thrown  down  by  increasing  the  number  of
+individual  bills  tossed,  the  total  intensity  of  a  lig
+ 
+ ___________________________
+ 
+ht  beam  of  a  chosen  frequency  is  increased  by
+increasing the number of photons it contains. and just as more dollars result in more children being
+able to leave, more photons result in more electrons being hit and knocked clear off the surface. but
+notice that the leftover energy that each of these electrons has after ripping free of the surface depends
+solely on the energy of the photon that hits it—and this is determined by the frequency of the light
+beam, not its total intensity. just as children leave the basement with 15 cents no matter how many
+dollar bills are thrown down, each electron leaves the surface with the same energy—and hence the
+same speed—regardless of the total intensity of the impinging light. more total money simply means
+more  children  can  leave;  more  total  energy  in  the  light  beam  simply  means  more  electrons  are
+knocked  free.  if  we
+ 
+ ___________________________
+ 
+  want  children  to  leave  the  basement  with  more  money,  we  must  increase  the
+monetary denomination tossed down; if we want electrons to leave the surface with greater speed, we
+must  increase  the  frequency  of  the  impinging  light  beam—that  is,  we  must  increase  the  energy
+denomination of the photons we shine on the metallic surface.
+
+this  is  precisely  in  accord  with  the  experimental  data.  the  frequency  of  the  light  (its  color)
+determines the speed of the ejected electrons; the total intensity of the light determines the number of
+ejected  electrons. and  so  einstein  showed  that  planck's  guess  of  lumpy  energy  actually  reflects  a
+fundamental feature of electromagnetic waves: they are composed of particles—photons—that are
+little bundles, or quanta, of light. th
+ 
+ ___________________________
+ 
+e lumpiness of the energy embodied by such waves is due to their
+being composed of lumps.
+
+einstein's insight represented great progress. but, as we shall now see, the story is not as tidy as
+
+it might appear.
+
+is it a wave or is it a particle?
+
+everyone  knows  that  water—and  hence  water  waves—are  composed  of  a  huge  number  of  water
+molecules. so is it really surprising that light waves are also composed of a huge number of particles,
+namely photons? it is. but the surprise is in the details. you see, more than three hundred years ago
+
+newton  proclaimed  that  light  consisted  of  a  stream  of  particles,  so  the  idea  is  not  exactly  new.
+however,  some  of  newton's  colleagues,  most  notably  the  dutch  physicist  christian  huygens,
+disagreed  with  him  and  argued  that  light  is  a  wave.  the  debate  raged  but  ultimately  experiments
+carried  out  by  the  english  physicist  thomas young  in  the  early  1800s  show
+ 
+ ___________________________
+ 
+r view was defeated (although it took quite
+some time before physicists accepted this). the prevailing wave view of light was subsequently put
+on a mathematically firm foundation by maxwell.
+
+figure 4.8 if light is a wave, then when both slits are open there will be interference between the
+portions of the wave emerging from each slit.
+
+but einstein, the man who brought down newton's revered theory of gravity, seems now to have
+resurrected newton's particle model of light by his introduction of photons. of course, we still face
+the  same  question:  how  can  a  particle  perspective  account  for  the  interference  pattern  shown  in
+figure  4.8?  at  first  blush  you  might  make  the  following  suggestion.  water  is  composed  of  h 2o
+molecules—the "particles" of water. nevertheless, when a lot of these molecules stream along with
+one another they can produce water waves, with the attendant interference properties illustrated in
+figure  4.7. and  so,  it  might  seem  reasonable  t
+ 
+ ___________________________
+ 
+o  guess  that  wave  properties,  such  as  interference
+patterns, can arise from a particle picture of light provided a huge number of photons, the particles of
+light, are involved.
+
+in  reality,  though,  the  microscopic  world  is  far  more  subtle.  even  if  the  intensity  of  the  light
+source in figure 4.8 is turned down and down, finally to the point where individual photons are being
+fired one by one at the barrier—say at the rate of one every ten seconds—the resulting photographic
+plate will still look like that in figure 4.8: so long as we wait long enough for a huge number of these
+separate bundles of light to make it through the slits and to each be recorded by a single dot where
+they hit the photographic plate, these dots will build up to form the image of an interference pattern,
+the  image  in  figure  4.8.  this  is  astounding.  how  can individual p
+ 
+ ___________________________
+ 
+hoton particles that sequentially
+pass through the screen and separately hit the photographic plate conspire to produce the bright and
+dark bands of interfering waves? conventional reasoning tells us that each and every photon passes
+through either the left slit or the right slit and we would therefore expect to find the pattern shown in
+figure 4.6. but we don't.
+
+if you are not bowled over by this fact of nature, it means that either you have seen it before and
+have become blase or the description so far has not been sufficiently vivid. so, in case it's the latter,
+let's describe it again, but in a slightly different way. you close off the left slit and fire the photons
+one  by  one  at  the  barrier.  some  get  t
+ 
+ ___________________________
+ 
+hrough,  some  don't.  the  ones  that  do  create  an  image  on  the
+photographic plate, dot by single dot, which looks like that in figure 4.4. you then run the experiment
+again with a new photographic plate, but this time you open both slits. naturally enough, you think that
+this  will  only  increase  the  number  of  photons  that  pass  through  the  slits  in  the  barrier  and  hit  the
+photographic  plate,  thereby  exposing  the  film  to  more  total  light  than  in  your  first  run  of  the
+experiment. but when you later examine the image produced, you find that not only are there places on
+the photographic plate that were dark in the first experiment and are now bright, as expected, there
+are also places on the photographic plate that were bright in your first experiment but are now dark,
+as in figure 4.
+ 
+ ___________________________
+ 
+8. by increasing the number of individual photons that hit the photographic plate you
+ha v e decreased  the  brightness  in  certain  areas.  somehow,  temporally  separated,  individual
+particulate  photons  are  able  to  cancel  each  other  out.  think  about  how  crazy  this  is:  photons  that
+would have passed through the right slit and hit the film in one of the dark bands in figure 4.8 fail to
+do so when the left slit is opened (which is why the band is now dark). but how in the world can a
+tiny bundle of light that passes through one slit be at all affected by whether or not the other slit is
+open? as feynman noted, it's as strange as if you fire a machine gun at the screen, and when both slits
+are open, independent, separately fired bullets somehow cancel one another out,
+ 
+ ___________________________
+ 
+ leaving a pattern of
+unscathed positions on the target—positions that are hit when only one slit in the barrier is open.
+
+such  experiments  show  that  einstein's  particles  of  light  are  quite  different  from  newton's.
+somehow photons—although they are particles—embody wave-like features of light as well. the fact
+that the energy of these particles is determined by a wave-like feature—frequency—is the first clue
+that a strange union is occurring. but the photoelectric effect and the double-slit experiment really
+bring the lesson home. the photoelectric effect shows that light has particle properties. the double-
+slit experiment shows that light manifests the interference properties of waves. together they show
+that 
+ 
+ ___________________________
+ 
+mass  should  have  a  wave-like  incarnation  as  well.  after  carefully  working
+through this line of thought, he suggested that just as light is a wave phenomenon that quantum theory
+shows  to  have  an  equally  valid  particle  description,  an  electron—which  we  normally  think  of  as
+being a particle—might have an equally valid description in terms of waves. einstein immediately
+took to de broglie's idea, as it was a natural outgrowth of his own contributions of relativity and of
+photons. even so, nothing is a substitute for experimental proof. such proof was soon to come from
+the work of clinton davisson and lester germer.
+
+in the mid-1920s, davisson and germer, experimental physicists at the bell telephone company,
+were studying how a beam of electrons bounces off of a chunk of nickel. the only detail that matters
+for  us  is  that  the  nickel  crystals  in  such  an  experiment  act  very  much  like  the  two  slits  in  the
+experiment illustrated by the figures of the la
+ 
+ ___________________________
+ 
+r experiment therefore showed that electrons exhibit interference phenomena, the telltale sign of
+waves. at dark spots on the phosphorescent screen, electrons were somehow "canceling each other
+out" just like the overlapping peak and trough of water waves. even if the beam of fired electrons
+was "thinned" so that, for instance, only one electron was emitted every ten seconds, the individual
+electrons  still  built  up  the  bright  and  dark  bands—one  spot  at  a  time.  somehow,  as  with  photons,
+individual  electrons  "interfere"  with  themselves  in  the  sense  that  individual  electrons,  over  time,
+reconstruct the interference pattern associated with waves. we are inescapably forced to conclude
+that each electron embodies a wave-like character in conjunction with its more familiar depiction as
+a particle.
+
+although  we  have  described  this  in  the  case  of  electrons,  similar  experiments  lead  to  the
+conclusion  that all  matter  has  a  wave-like  character.  but  how
+ 
+ ___________________________
+ 
+e basic classical assumption that each electron
+either goes through the left slit or the right slit. you might think this to be such a basic property of how
+things work that challenging it is fatuous. after all, can't you look in the region between the slits and
+the phosphorescent screen to determine through which slit each electron passes? you can. but now
+you have changed the experiment. to see the electron you must do something to it—for instance, you
+can shine light on it, that is, bounce photons off it. now, on everyday scales photons act as negligible
+little  probes  that  bounce  off  trees,  paintings,  and  people  with  essentially  no  effect  on  the  state  of
+motion  of  these  comparatively  large  material  bodies.  but  electrons  are  little  wisps  of  matter.
+regardless  of  how  gingerly  you  carry  out  your  determination  of  the  slit  through  which  it  passed,
+photons  that  bounce  off  the  electron  necessarily  affect  its  subsequent  motion.  and  this  c
+ 
+ ___________________________
+ 
+mine the
+electron's position with an "ever gentler" light source in order to have an ever decreasing impact on
+its motion? from the standpoint of nineteenth-century physics we can. by using an ever dimmer lamp
+(and an ever more sensitive light detector) we can have a vanishingly small impact on the electron's
+motion.  but  quantum  mechanics  itself  illuminates  a  flaw  in  this  reasoning.  as  we  turn  down  the
+intensity of the light source we now know that we are decreasing the number of photons it emits. once
+we  get  down  to  emitting  individual  photons  we  cannot  dim  the  light  any  further  without  actually
+turning it off. there is a fundamental quantum-mechanical limit to the "gentleness" of our probe. and
+hence,  there  is  always  a  minimal  disruption  that  we  cause  to  the  electron's  velocity  through  our
+measurement of its position.
+
+well,  that's  almost  correct.  planck's  law  tells  us  that  the  energy  of  a  single  photon  is
+proportional to its freq
+ 
+ ___________________________
+ 
+uency (inversely proportional to its wavelength). by using light of lower and
+lower  frequency  (larger  and  larger  wavelength)  we  can  therefore  produce  ever  gentler  individual
+photons. but here's the catch. when we bounce a wave off of an object, the information we receive is
+
+only  enough  to  determine  the  object's  position  to  within  a margin  of  error  equal  to  the  wave's
+wavelength. to get an intuitive feel for this important fact, imagine trying to pinpoint the location of a
+large, slightly submerged rock by the way it affects passing ocean waves. as the waves approach the
+rock,  they  form  a  nice  orderly  train  of  one  up  and-down  wave  cycle  follow
+ 
+ ___________________________
+ 
+rock,  the  individual  wave  cycles  are  distorted—the  telltale  sign  of  the  submerged
+rock's presence. but like the finest set of tick marks on a ruler, the individual up-and-down wave
+cycles are the finest units making up the wave-train, and therefore by examining solely how they are
+disrupted we can determine the rock's location only to within a margin of error equal to the length of
+the  wave  cycles,  that  is,  the  wave's  wavelength.  in  the  case  of  light,  the  constituent  photons  are,
+roughly speaking, the individual wave cycles (with the height of the wave cycles being determined by
+the number of photons); a photon, therefore, can be used to pinpoint an object's location only to within
+a precision of one wavelength.
+
+and so we are faced with a quantum-mechanical balancing act. if we use high-frequency (short
+wavelength) light we can locate an electron with greater precision. but high-frequency photons are
+very energetic and therefore sharply disturb the electron's ve
+ 
+ ___________________________
+ 
+locity. if we use low-frequency (long
+wavelength) light we minimize the impact on the electron's motion, since the constituent photons have
+comparatively  low  energy,  but  we  sacrifice  precision  in  determining  the  electron's  position.
+heisenberg quantified this competition and found a mathematical relationship between the precision
+with  which  one  measures  the  electron's  position  and  the  precision  with  which  one  measures  its
+velocity.  he  found—in  line  with  our  discussion—that  each  is  inversely  proportional  to  the  other:
+greater  precision  in  a  position  measurement  necessarily  entai
+ 
+ ___________________________
+ 
+rinciple tells us that the universe is a frenetic place when examined on smaller
+
+and  smaller  distances  and  shorter  and  shorter  time  scales.  we  saw  some  evidence  of  this  in  our
+attempt, described in the preceding chapter, to pinpoint the location of elementary particles such as
+electrons: by shining light of ever higher frequency on electrons, we measure their position with ever
+greater precision, but at a cost, since our observations become ever more disruptive. high-frequency
+photons have a lot of energy and therefore give the electrons a sharp "kick," significantly changing
+their velocities. like the frenzy in a room full of children all of whose momentary positions you know
+with great accuracy but over whose velocities—the speeds and directions in which they are moving
+—you have almost no control, this inability to know both the positions and velocities of elementary
+particles implies that the microscopic realm is intrinsically turbulent.
+
+although this example conve
+ 
+ ___________________________
+ 
+ys the basic relationship between uncertainty and frenzy, it actually
+reveals only part of the story. it might lead you to think, for instance, that uncertainty arises only when
+we clumsy observers of nature stumble onto the scene. this is not true. the example of an electron
+violently  reacting  to  being  confined  in  a  small  box  by  rattling  around  at  high  speed  takes  us  a  bit
+closer to the truth. even without "direct hits" from an experimenter's disruptive photon, the electron's
+velocity severely and unpredictably changes from one moment to the next. but even this example does
+not fully reveal the stunning microscopic features of nature entailed by heisenberg's discovery. even
+in the most quiescent setting imaginable, such as an empty region of space, the uncertainty principle
+tells  us  that  from  a  microscopic  vantage  point  there  is  a  tremendous  amount  of  activity. and  this
+activity gets increasingly agitated on ever smaller distance and t
+ 
+ ___________________________
+ 
+ of a force
+field—in  this  case,  maxwell's  electromagnetic  field.  and  finally,  it's  relativistic  because  special
+relativity is also incorporated from the outset. (if you'd like a visual metaphor for a quantum field,
+you can pretty much invoke the image of a classical field—say, as an ocean of invisible field lines
+permeating  space—but  you  should  refine  this  image  in  two  ways.  first,  you  should  envision  a
+quantum field as composed of particulate ingredients, such as photons for the electromagnetic field.
+second,  you  should  imagine  energy,  in  the  form  of  particles'  masses  and  their  motion,  endlessly
+shifting back and forth from one quantum field to another as they continually vibrate through space and
+time.)
+
+quantum  electrodynamics  is  arguably  the  most  precise  theory  of  natural  phenomena  ever
+advanced. an illustration of its precision can be found in the work of toichiro kinoshita, a particle
+physicist  from  cornell  university,  who  h
+ 
+ ___________________________
+ 
+usands  of  pages  and  have  ultimately  required  the  most  powerful  computers  in  the  world  to
+complete. but the effort has been well worth it: the calculations yield predictions about electrons that
+have  been  experimentally  verified  to  an  accuracy  of  better  than  one  part  in  a  billion.  this  is  an
+absolutely astonishing agreement between abstract theoretical calculation and the real world. through
+quantum electrodynamics, physicists have been able to solidify the role of photons as the "smallest
+possible bundles of light" and to reveal their interactions with electrically charged particles such as
+electrons, in a mathematically complete, predictive, and convincing framework.
+
+the success of quantum electrodynamics inspired other physicists in the 1960s and 1970s to try
+an analogous approach for developing a quantum-mechanical understanding of the weak, the strong,
+and  the  gravitational  forces.  for  the  weak  and  the  strong  forces,  this  proved  to  be  an  im
+ 
+ ___________________________
+ 
+  agree  spectacularly  with  experimental  results.  this  is  true  up  to  the  energies
+
+capable of pulverizing matter into bits as small as a billionth of a billionth of a meter, the current
+technological limit. for this reason, physicists call the theory of the three nongravitational forces and
+the  three  families  of  matter  particles  the  standard  theory,  or  (more  often)  the standard  model  of
+particle physics.
+
+messenger particles
+
+according to the standard model, just as the photon is the smallest constituent of an electromagnetic
+field, the strong and the weak force fields have smallest constituents as well. as we discussed briefly
+in chapter 1, the smallest bundles of the strong force are known as gluons, and those of the weak
+force are known as weak gauge bosons (or more precisely, the w and z bosons). the standard model
+instructs us to think of these force particles as having no internal structure—in this framework they
+are every bit as elementary as the particles i
+ 
+ ___________________________
+ 
+n the three families of matter.
+
+the  photons,  gluons,  and  weak  gauge  bosons  provide  the  microscopic  mechanism  for
+transmitting  the  forces  they  constitute.  for  example,  when  one  electrically  charged  particle  repels
+another of like electric charge, you can think of it roughly in terms of each particle being surrounded
+by  an  electric  field—a  "cloud"  or  "mist"  of  "electric-essence"—and  the  force  each  particle  feels
+arises  from  the  repulsion  between  their  respective  force  fields.  the  more  prec
+ 
+ ___________________________
+ 
+ise  microscopic
+description of how they repel each other, though, is somewhat different. an electromagnetic field is
+composed of a swarm of photons; the interaction between two charged particles actually arises from
+their "shooting" photons back and forth between themselves. in rough analogy to the way in which you
+can affect a fellow ice-skater's motion and your own by hurling a barrage of bowling balls at him or
+her, two electrically charged particles influence each other by exchanging these smallest bundles of
+light.
+
+an important failing of the ice-skater analogy is that the exchange of bowling balls is always
+"repulsive"—it  always  drives  the  skaters  apart.  on  the  contrary,  two  oppositely  charged  particles
+also 
+ 
+ ___________________________
+ 
+ interact  through  the  exchange  of  photons,  although  the  resulting  electromagnetic  force  is
+attractive.  it's  as  if  the  photon  is  not  so  much  the  transmitter  of  the  force  per  se,  but  rather  the
+transmitter of a message of how the recipient must respond to the force in question. for like-charged
+particles,  the  photon  carries  the  message  "move  apart,"  while  for  oppositely  charged  particles  it
+carries  the  message  "come  together."  for  this  reason  the  photon  is  sometimes  referred  to  as  the
+messenger particle for the electromagnetic force. similarly, the gluons and weak gauge bosons are
+the messenger particles for the strong and weak nuclear forces. the strong force, which keeps quarks
+locked  up  inside  of  protons  and  neutrons,  arises  from  individual  quarks  exchanging  gluons.
+ 
+ ___________________________
+ 
+avitational force.
+although  the  reasoning  involved  is  somewhat  more  abstract,  physicists  have  found  that  a  similar
+alignment exists between other detailed aspects of a string's pattern of vibration and its properties vis
+a vis other forces. the electric charge, the weak charge, and the strong charge carried by a particular
+string, for instance, are determined by the precise way it vibrates. moreover, exactly the same idea
+holds for the messenger particles themselves. particles like photons, weak gauge bosons, and gluons
+are yet other resonant patterns of string vibration. and of particular importance, among the vibrational
+string patterns, one matches perfectly the properties of the graviton, ensuring that gravity is an integral
+part of string theory.7
+
+so we see that, according to string theory, the observed properties of each elementary particle
+arise because its internal string undergoes a particular resonant vibrational pattern. this perspective
+differs sharply from that esp
+ 
+ ___________________________
+ 
+ whole number (1, 2, 3,. . .) times the planck mass. physicists often
+express this by saying that the "natural" or "typical" energy scale (and hence mass scale) of string
+theory is the planck scale.
+
+this raises a crucial question directly related to the goal of reproducing the particle properties
+in tables 1.1 and 1.2: if the "natural" energy scale of string theory is some ten billion billion times
+that of a proton, how can it possibly account for the far-lighter particles—electrons, quarks, photons,
+and so on—making up the world around us?
+
+the answer, once again, comes from quantum mechanics. the uncertainty principle ensures that
+nothing is ever perfectly at rest. all objects undergo quantum jitter, for if they didn't we would know
+where  they  were  and  how  fast  they  were  moving  with  complete  precision,  in  violation  of
+heisenberg's dictum. this holds true for the loops in string theory as well; no matter how placid a
+string appears it will always experience some amount of
+ 
+ ___________________________
+ 
+es of space. there is a rough and a more precise answer to the question of what this really
+means and how it resolves the conflict. we discuss each in turn.
+
+the rough answer
+
+although  it  sounds  unsophisticated,  one  way  that  we  learn  about  the  structure  of  an  object  is  by
+hurling other things at it and observing the precise way in which they are deflected. we are able to
+see  things,  for  example,  because  our  eyes  collect  and  our  brains  decode  information  carried  by
+photons  as  they  bounce  off  of  objects  being  viewed.  particle  accelerators  are  based  on  the  same
+principle: they hurl bits of matter such as electrons and protons at each other as well as at other
+targets, and elaborate detectors analyze the resulting spray of debris to determine the architecture of
+the objects involved.
+
+as a general rule, the size of the probe particle that we use sets a lower limit to the length scale
+to which we are sensitive. to get a feel for what this important st
+ 
+ ___________________________
+ 
+gresses, jim
+becomes increasingly irritated by slim's growing proficiency as an artist and challenges him to an
+unusual contest. he proposes that they each take a peach pit, secure it in a vise, and draw their most
+accurate "still life" renditions. the unusual feature of jim's challenge is that neither he nor slim will
+be  allowed  to  look  at  the  peach  pits.  instead,  each  is  allowed  to  learn  about  the  size,  shape,  and
+features of his peach pit only by shooting things (other than photons!) at the pit and observing how
+they are deflected, as illustrated in figure 6.4. unbeknownst to slim, jim fills slim's "shooter" with
+marbles (as in figure 6.4(a)) but fills his own shooter with far smaller five-millimeter plastic pellets
+(as in figure 6.4(b)). they both turn on their shooters, and the competition begins.
+
+after a while, the best drawing slim can come up with is that in figure 6.4(a). by observing the
+trajectories of the deflected marbles he was able to learn that the pit is a
+ 
+ ___________________________
+ 
+eir  small  size  makes  them  much
+better suited to the task. on subatomic scales, where quantum concepts replace classical reasoning,
+the  most  appropriate  measure  of  a  particle's  probing  sensitivity  is  its  quantum  wavelength,  which
+indicates the window of uncertainty in its position. this fact reflects our discussion of heisenberg's
+uncertainty principle in chapter 4, in which we found that the margin of error incurred when using a
+point  particle  as  a  probe  (we  focused  on  photon  probes  but  the  discussion  applies  to  all  other
+particles) is about equal to the probe particle's quantum wave-length. in somewhat looser language,
+the probing sensitivity of a point particle is smeared out by the jitteriness of quantum mechanics, in
+much the same way that the precision of a surgeon's scalpel is compromised if he or she has hands
+that  shake.  but  recall  that  in  chapter  4  we  also  noted  the  important  fact  that  a  particle's  quantum
+wavelength is inversely pr
+ 
+ ___________________________
+ 
+tary particles collide—they scatter off one another and continue on deflected trajectories—but
+the details are a little different.
+
+figure 6.5 two particles interact—they "slam together"—and cause the path of each to be deflected.
+
+for  concreteness  and  simplicity,  imagine  that  one  of  the  two  particles  is  an  electron  and  the
+other is its antiparticle, the positron. when matter and antimatter collide, they can annihilate in a flash
+of pure energy, producing, for example, a photon.9 to distinguish the ensuing trajectory of the photon
+from the previous trajectories of the electron and positron, we follow a traditional physics convention
+and draw it with a wiggly line. the photon will typically travel for a bit and then release the energy
+derived  from  the  initial  electron-positron  pair  by  producing  another  electron-positron  pair  with
+trajectories as indicated on the far right of figure 6.6. in the end, two particles are fired at each other,
+they interact through
+ 
+ ___________________________
+ 
+ the electromagnetic force, and finally they emerge on deflected trajectories, a
+sequence of events that bears some similarity to our description of colliding billiard balls.
+
+figure  6.6  in  quantum  field  theory,  a  particle  and  its  antiparticle  can  momentarily  annihilate  one
+another,  producing  a  photon.  subsequently,  this  photon  can  give  rise  to  another  particle  and
+antiparticle traveling along different trajectories.
+
+we are concerned with the details of the interaction—specifically, the point where the initial
+electron and positron annihilate and produce the photon. the central fact, as will become apparent, is
+that there is an unambiguous, completely identifiable time and place where this happens: it is marked
+in figure 6.6.
+
+how  does  this  description  change  if,  when  we  closely  examine  the  object
+ 
+ ___________________________
+ 
+ collision course are oscillating loops, as shown in figure 6.7. if
+these loops are vibrating in just the right resonance patterns, they will correspond to an electron and a
+positron on collision course, just as in figure 6.6. only when examined at the most minute distance
+scales, far smaller than anything our present technology can access, is their true stringlike character
+apparent. as in the point-particle case, the two strings collide and again annihilate each other in a
+flash. the flash, a photon, is itself a string in a particular vibrational pattern. thus, the two incoming
+strings interact by merging together and producing a third string, as shown in figure 6.7. just as in our
+point-particle description, this string travels a bit, and then releases the energy derived from the two
+initial  strings  by  dissociating  into  two  strings  that  travel  onward.  again,  from  any  but  the  most
+microscopic perspective, this will look just like the point-particle interaction of figure 6.6.
+ 
+ ___________________________
+ 
+bserver.
+
+if we apply exactly the same reasoning to the interaction of point particles, as summarized in
+figure 6.11, we recover the conclusion stated earlier—there is a definite point in space and moment
+in time when the point particles interact. point particles cram all of their interaction into a definite
+point.  when  the  force  involved  in  an  interaction  is  the  gravitational  force—that  is,  when  the
+messenger particle involved in the interaction is the graviton instead of the photon—this complete
+packing of the force's punch into a single point leads to disastrous results, such as the infinite answers
+we alluded to earlier. strings, by contrast, "smear" out the place where interactions occur. because
+different observers perceive that the interaction takes place at various locations along the left part of
+the  surface  of  figure  6.10,  in  a  real  sense  this  means  that  the  interaction  location  is  smeared  out
+among all of them. this spreads out the force's punc
+ 
+ ___________________________
+ 
+particles that fill out the three families of
+table 1.1. this is true down to the last detail: all of the matter particles (and their antimatter partners
+as well) have spin equal to that of the electron. in the language of the trade, physicists say that matter
+particles  all  have  "spin-1/2,"  where  the  value  1/2  is,  roughly  speaking,  a  quantum-mechanical
+measure  of  how  quickly  the  particles  rotate.2  moreover,  physicists  have  shown  that  the
+nongravitational force carriers—photons, weak gauge bosons, and gluons—also possess an intrinsic
+spinning characteristic that turns out to be twice that of the matter particles. they all have "spin-1."
+
+what  about  gravity?  well,  even  before  string  theory,  physicists  were  able  to  determine  what
+spin the hypothesized graviton must have to be the transmitter of the gravitational force. the answer:
+twice the spin of photons, weak gauge bosons, and gluons—i.e., "spin-2."
+
+in the context of string theory, spin—just like
+ 
+ ___________________________
+ 
+ half  a  unit  less  than  its  known  counterpart.  for  instance,  there  should  be  a  spin-0
+partner  of  the  electron;  this  hypothetical  particle  has  been  named  the selectron  (a  contraction  of
+supersymmetric-electron).  the  same  should  also  be  true  for  the  other  matter  particles,  with,  for
+example, the hypothetical spin-0 superpartners of neutrinos and quarks being called sneutrinos and
+squarks. similarly, the force particles should have spin-1/2 superpartners: for photons there should
+be photinos, for the gluons there should be gluinos, for the w and z bosons there should be winos and
+zinos.
+
+on  closer  inspection,  then,  supersymmetry  seems  to  be  a  terribly  uneconomical  feature;  it
+
+requires  a  whole  slew  of  additional  particles  that  wind  up  doubling  the  list  of  fundamental
+ingredients. since none of the superpartner particles has ever been detected, you would be justified to
+take rabi's remark from chapter 1 regarding the discovery of 
+ 
+ ___________________________
+ 
+o have a tiny
+minimum  length  since  if  they  didn't,  we  would  be  back  in  the  realm  of  point  particles.  the  same
+reasoning  might  lead  to  the  conclusion  that  even  unwrapped  strings  have  a  minuscule  yet  nonzero
+minimum mass. in a sense this is true, but the quantum-mechanical effects encountered in chapter 6—
+remember the price is right, again—are able to exactly cancel this contribution to the mass. this is
+how, we recall, unwrapped strings can yield the zero-mass photon, graviton, and the other massless
+or near-massless particles, for example. wrapped strings are different in this regard.)
+
+how does the existence of wrapped string configurations affect the geometrical properties of the
+dimension  around  which  the  strings  wind?  the  answer,  first  recognized  in  1984  by  the  japanese
+physicists keiji kikkawa and masami yamasaki, is bizarre and remarkable.
+
+let's consider the last cataclysmic stages of our variant on the big crunch in the garden-hose
+un
+ 
+ ___________________________
+ 
+nvolving the lighter of the two types of string
+configurations.  this  is  the  one  used  implicitly  in  all  of  our  discussions  involving  distance
+encountered to this point. this is the one that informs and hence meshes with our intuition.
+
+putting  issues  of  practicality  aside,  in  a  universe  governed  by  string  theory  one  is  free  to
+measure  distances  using  either  of  the  two  approaches.  when  astronomers  measure  the  "size  of  the
+universe" they do so by examining photons that have traveled across the cosmos and have happened to
+enter their telescopes. no pun intended, photons are the light string modes in this situation. the result
+obtained is the 1061 times the planck length quoted earlier. if the three familiar spatial dimensions are
+in fact circular and string theory is right, astronomers using vastly different (and currently nonexistent)
+equipment, in principle, should be able to measure the extent of the heavens with heavy wound-string
+modes and find a re
+ 
+ ___________________________
+ 
+nits  of  electric  charge.  without
+further information, the identity of the contents cannot be determined. it might be three particles of
+charge 1, like positrons or protons; it might be four particles of charge 1 and one particle of charge -1
+(like the electron), as this combination still has a net charge of three; it might be nine particles of
+charge  one-third  (like  the  up-quark)  or  it  might  be  the  same  nine  particles  accompanied  by  any
+number of chargeless particles (such as photons). as was the case with the hidden sequence of letters
+when we only had the clue about the three y's, the possibilities for the contents of the box are endless.
+but let's now imagine that, as in the case of the linguistic puzzle, we are given two further clues:
+the  theory  describing  the  world—and  hence  the  contents  of  the  box—is  supersymmetric,  and  the
+contents of the box has the minimum mass consistent with the first clue of having three units of charge.
+based on the insights 
+ 
+ ___________________________
+ 
+clear to us by invoking the second observation. our work showed that the new massless pattern of
+string vibration arising from the space-tearing conifold transition is the microscopic description of a
+massless particle into which the black hole has transmuted.  we  concluded  that  as  a  calabi-yau
+shape goes through a space-tearing conifold transition, an initially massive black hole becomes ever
+lighter until it is massless and then it transmutes into a massless particle—such as a massless photon
+—which in string theory is nothing but a single string executing a particular vibrational pattern. in this
+way,  for  the  first  time,  string  theory  explicitly  establishes  a  direct,  concrete,  and  quantitatively
+unassailable connection between black holes and elementary particles.
+
+"melting" black holes
+
+the  connection  between  black  holes  and  elementary  particles  which  we  found  is  closely  akin  to
+something we are all familiar with from day-to-day life, known technically
+ 
+ ___________________________
+ 
+ long and arduous, but hawking's basic idea is simple. we have seen that
+the uncertainty principle ensures that even the vacuum of empty space is a teeming, roiling frenzy of
+virtual particles momentarily erupting into existence and subsequently annihilating one another. this
+jittery quantum behavior also occurs in the region of space just outside the event horizon of a black
+hole. hawking realized, however, that the gravitational might of the black hole can inject energy into
+a pair of virtual photons, say, that tears them just far enough apart so that one gets sucked into the
+hole. with its partner having disappeared into the abyss of the hole, the other photon of the pair no
+longer has a partner with which to annihilate. instead, hawking showed that the remaining photon gets
+an energy boost from the gravitational force of the black hole and, as its partner falls inward, it gets
+shot outward, away from the black hole. hawking realized that to someone looking at the black hole
+from the safe
+ 
+ ___________________________
+ 
+ty of afar, the combined effect of this tearing apart of virtual photon pairs, happening
+over  and  over  again  all  around  the  horizon  of  the  black  hole,  will  appear  as  a  steady  stream  of
+outgoing radiation. black holes glow.
+
+moreover,  hawking  was  able  to  calculate  the  temperature  that  a  far-off  observer  would
+associate with the emitted radiation and found that it is given by the strength of the gravitational field
+at the black hole's horizon, exactly as the analogy between the laws of black hole physics and the
+laws of thermodynamics su
+ 
+ ___________________________
+ 
+w thousand degrees, wildly streaming
+electrons slowed down to the point where atomic nuclei, mostly hydrogen and helium, could capture
+them, forming the first electrically neutral atoms. this was a pivotal moment: from this point forward
+the universe, by and large, became transparent. prior to the era of electron capture, the universe was
+filled with a dense plasma of electrically charged particles—some with positive charges like nuclei
+and  others  with  negative  charges,  like  electrons.  photons,  which  interact  only  with  electrically
+charged  objects,  were  bumped  and  jostled  incessantly  by  the  thick  bath  of  charged  particles,
+traversing hardly any distance before being deflected or absorbed. the charged-particle barrier to the
+free motion of photons would have made the universe appear almost completely opaque, much like
+what you may have experienced in a dense morning fog or a blinding, gusty snowstorm. but when
+negatively  charged  electrons  were  brought  into  orb
+ 
+ ___________________________
+ 
+it  around  positively  charged  nuclei,  yielding
+electrically neutral atoms, the charged obstructions disappeared and the dense fog lifted. from that
+time onward, photons from the big bang have traveled unhindered and the full expanse of the universe
+gradually came into view.
+
+about a billion years later, with the universe having substantially calmed down from its frenetic
+beginnings, galaxies, stars, and ultimately planets began to emerge as gravitationally bound clumps of
+the primordial elements. today, some 15 billion or so years after the bang, we can marvel at both the
+magnificence of the cosmos and at our collective ability to have pieced together a reaso
+ 
+ ___________________________
+ 
+ecompress—to  expand—they  cool  down.  air  conditioners  and  refrigerators  rely  on  these
+principles, subjecting substances like freon to repeated cycles of compression and expansion (as well
+as  evaporation  and  condensation)  to  cause  heat  flow  in  the  desired  direction. although  these  are
+simple facts of terrestrial physics, it turns out that they have a profound incarnation in the cosmos as a
+whole.
+
+we saw above that after electrons and nuclei join together to form atoms, photons are free to
+travel  unimpeded  throughout  the  universe.  this  means  that  the  universe  is  filled  with  a  "gas"  of
+photons  traveling  this  way  and  that,  uniformly  distributed  throughout  the  cosmos. as  the  universe
+expands, this gas of freely streaming photons expands as well since, in essence, the universe is its
+container. and  just  as  the  temperature  of  a  more  conventional  gas  (like  the  air  in  a  bicycle  tire)
+decreases as it expands, the temperature of this
+ 
+ ___________________________
+ 
+ photon gas decreases as the universe expands. in fact,
+physicists as far back as george gamow and his students ralph alpher and robert hermann in the
+1950s, and robert dicke and jim peebles in the mid-1960s, realized that the present-day universe
+should be permeated by an almost uniform bath of these primordial photons, which, through the last
+15 billion years of cosmic expansion, have cooled to a mere handful of degrees above absolute zero.1
+in 1965, arno penzias and robert wilson of bell laboratories in new jersey accidentally made one
+of the most important discoveries of our age when they detected this afterglow of the big bang while
+working  on  an  antenna  intended  for  use  with  communication  satellites.  subsequent  research  has
+refined both theory and experiment, culminating in measurements take
+ 
+ ___________________________
+ 
+. with these data, physicists and astronomers have
+confirmed  to  high  precision  that  the  universe is filled with microwave radiation (if our eyes were
+sensitive to microwaves, we would see a diffuse glow in the world around us) whose temperature is
+about 2.7 degrees above absolute zero, exactly in keeping with the expectation of the big bang theory.
+in  concrete  terms,  in every cubic meter of the universe—including the one you now occupy—there
+are,  on  average,  about  400  million  photons  that  collectively  compose  the  vast  cosmic  sea  of
+microwave  radiation,  an  echo  of  creation. a  percentage  of  the  "snow"  you  see  on  your  television
+screen  when  you  disconnect  the  cable  feed  and  tune  to  a  station  that  has  ceased  its  scheduled
+broadcasts is due to this dim aftermath of the big bang. this match between theory and experiment
+confirms the big bang picture of cosmology as far back as the time that photons first moved freely
+through the universe, ab
+ 
+ ___________________________
+ 
+ns between various locations, or
+whether  we  should  view  ourselves  as  truly  being  embedded  in something  when  we  refer  to  our
+immersion within the spacetime fabric.
+
+although we are heading into speculative territory, string theory does suggest an answer to this
+question. the graviton, the smallest bundle of gravitational force, is one particular pattern of string
+vibration. and  just  as  an  electromagnetic  field  such  as  visible  light  is  composed  of  an  enormous
+number of photons, a gravitational field is composed of an enormous number of gravitons—that is, an
+
+enormous number of strings executing the graviton vibrational pattern. gravitational fields, in turn,
+are encoded in the warping of the spacetime fabric, and hence we are led to identify the fabric of
+spacetime itself with a colossal number of strings all undergoing the same, orderly, graviton pattern
+of vibration. in the language of the field, such an enormous, organized array of similarly vibrating
+strings 
+ 
+ ___________________________
+ 
+same way that a rock dropped from a cliff is dragged to a slower speed when it enters a body of
+water.  this  slowing  of  light  relative  to  its  speed  through  a  vacuum  is  of  no  consequence  for  our
+discussion of relativity and is justifiably ignored throughout the text.
+
+3.  for  the  mathematically  inclined  reader,  we  note  that  these  observations  can  be  turned  into
+quantitative statements. for instance, if the moving light clock has speed v and it takes t seconds for
+its photon to complete one round-trip journey (as measured by our stationary light clock), then the
+light clock will have traveled a distance vt when its photon has returned to the lower mirror. we can
+now use the pythagorean theorem to calculate that the length of each of the diagonal paths in figure
+(vt/2)2 + h2, where h is the distance between the two mirrors of a light clock (taken to be six
+2.3 is 
+inches  in  the  text).  the  two  diagonal  paths,  taken  together,  therefore  have  length  2 (vt/2
+ 
+ ___________________________
+ 
+to be the case, there
+is the exciting prospect that many of the remarkable implications of string theory discussed in this and
+the following chapters will be verifiable experimentally within the next decade. but even in the more
+
+"conventional" scenario espoused by string theorists, in which strings are typically on the order of 10-
+33 centimeters in length, there are indirect ways to search for them experimentally, as we will discuss
+in chapter 9.
+
+9. the expert reader will recognize that the photon produced in a collision between an electron
+and a positron is a virtual photon and therefore must shortly relinquish its energy by dissociating into
+a particle-antiparticle pair.
+
+10. of course, a camera works by collecting photons that bounce off the object of interest and
+recording them on a piece of photographic film. our use of a camera in this example is symbolic,
+since we are not imagining bouncing photons off of the colliding strings. rather, we simply want to
+record in figure 6.7(c) the
+ 
+ ___________________________
+ 
+by matter that gets trapped within the hole's horizon.
+
+15. in fact, the space-tearing conifold transitions discussed in this chapter involve black holes
+and hence might seem to be tied up with the question of their singularities. but recall that the conifold
+tear  occurs  just  as  the  black  hole  has  shed  all  its  mass,  and  is  therefore  not  directly  related  to
+questions concerning black hole singularities.
+
+chapter 14
+
+1.  more  precisely,  the  universe  should  be  filled  with  photons  conforming  to  the  radiation
+thermally emitted by a perfectly absorbent body—a "black-body" in the language of thermodynamics
+—with  the  stated  temperature  range.  this  is  the  same  radiation  spectrum  emitted  quantum
+mechanically by black holes, as explained by hawking, and by a hot oven, as explained by planck.
+
+2. the discussion conveys the spirit of the issues involved although we are glossing over some
+subtle features having to do with the motion of light in an expanding un
+ 
+ ___________________________
+ 
+iverse that affect the detailed
+numerics.  in  particular,  although  special  relativity  declares  that  nothing  can  travel  faster  than  the
+speed of light, this does not preclude two photons carried along on the expanding spatial fabric from
+receeding from one another at a speed exceeding that of light. for example, at the time the universe
+first became transparent, about 300,000 years atb, locations in the heavens that were about 900,000
+light-years  apart  would  have  been  able  to  have  influenced  each  other,  even  though  the  distance
+between them exceeds 300,000 light-years. the extra factor of three comes from the expansion of the
+spatial fabric. this means that as we
+ 
+ ___________________________
+ 
+cs.
+kelvin. a temperature scale in which temperatures are quoted relative to absolute zero.
+klein-gordon equation. a fundamental equation of relativistic quantum field theory.
+laplacian determinism. clockwork conception of the universe in which complete knowledge of the
+state of the universe at one moment completely determines its state at all future and past moments.
+light clock. a hypothetical clock that measures elapsed time by counting the number of round-trip
+journeys completed by a single photon between two mirrors.
+lorentz contraction.  feature  emerging  from special relativity, in which a moving object appears
+shortened along its direction of motion.
+macroscopic. refers to scales typically encountered in the everyday world and larger; roughly the
+opposite of microscopic.
+massless  black  hole.  in  string  theory,  a  particular  kind  of black  hole  that  may  have  large  mass
+initially, but that becomes ever lighter as a piece of the calabi-yau portion of space shrinks. when
+the
+ 
+ ___________________________
+ 
+theory.
+phase. when used in reference to matter, describes its possible states: solid phase, liquid phase, gas
+phase. more generally, refers to the possible descriptions of a physical system as features on which it
+depends (temperature, string coupling constant values, form of spacetime, etc.) are varied.
+phase transition. evolution of a physical system from one phase to another.
+photoelectric effect. phenomenon in which electrons are ejected from a metallic surface when light
+is shone upon it.
+photon.  smallest  packet  of 
+electromagnetic force; smallest bundle of light.
+planck energy. about 1,000 kilowatt hours. the energy necessary to probe to distances as small as
+the planck length. the typical energy of a vibrating string in string theory.
+planck length. about 10-33 centimeters. the scale below which quantum fluctuations in the fabric of
+spacetime would become enormous. the size of a typical string in string theory.
+planck  mass.  about  ten  billion  billion  times  the  mass  of  a p
+ 
+ ___________________________
+ 
+, therefore, every constant-velocity
+observer is justified in claiming that he or she is at rest. this principle is generalized by the principle
+of equivalence.
+product. the result of multiplying two numbers.
+proton.  positively  charged  particle,  typically  found  in  the  nucleus  of  an atom,  consisting  of  three
+quarks (two up-quarks and one down-quark).
+quanta. the smallest physical units into which something can be partitioned, according to the laws
+of quantum mechanics. for instance, photons are the quanta of the electromagnetic field.
+
+quantum  chromodynamics  (qcd).  relativistic  quantum  field  theory  of  the strong  force  and
+quarks, incorporating special relativity.
+quantum claustrophobia. see quantum fluctuations.
+quantum determinism.  property  of quantum mechanics  that  knowledge  of  the  quantum  state  of  a
+system at one moment completely determines its quantum state at future and past moments. knowledge
+of the quantum state, however, determines only the probabili

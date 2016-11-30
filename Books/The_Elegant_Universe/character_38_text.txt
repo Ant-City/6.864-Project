@@ -1,0 +1,445 @@
+t when all was said and done these departures would add up to a framework not too
+distant from old ways of thinking. but the uncertainty principle cleanly and definitively undercut any
+attempt to cling to the past.
+
+the uncertainty principle tells us that the universe is a frenetic place when examined on smaller
+
+and  smaller  distances  and  shorter  and  shorter  time  scales.  we  saw  some  evidence  of  this  in  our
+attempt, described in the preceding chapter, to pinpoint the location of elementary particles such as
+electrons: by shining light of ever higher frequency on electrons, we measure their position with ever
+greater precision, but at a cost, since our observations become ever more disruptive. high-frequency
+photons have a lot of energy and therefore give the electrons a sharp "kick," significantly changing
+their velocities. like the frenzy in a room full of children all of whose momentary positions you know
+with great accuracy but over whose velocities—the speeds and directions in which
+ 
+ ___________________________
+ 
+rmulae used by a student who does not understand their meaning or justification,
+euler's  beta-function  seemed  to  work,  but  no  one  knew  why.  it  was  a  formula  in  search  of  an
+explanation. this changed in 1970 when the works of yoichiro nambu of the university of chicago,
+holger nielsen of the niels bohr institute, and leonard susskind of stanford university revealed the
+hitherto-unknown  physics  lurking  behind  euler's  formula.  these  physicists  showed  that  if  one
+modeled elementary particles as little, vibrating, one-dimensional strings, their nuclear interactions
+could  be  described  exactly  by  euler's  function.  if  the  pieces  of  string  were  small  enough,  they
+reasoned, they would still look like point particles, and hence could be consistent with experimental
+observations.
+
+although  this  provided  an  intuitively  simple  and  pleasing  theory,  it  was  not  long  before  the
+string  description  of  the  strong  force  was  shown  to  fail.  during  the  early  1
+ 
+ ___________________________
+ 
+ory,  and  general  relativity,  there  was  a
+pervasive  feeling  among  the  older  graduate  students  that  there  was  little  or  no  future  for  particle
+physics.  the  standard  model  was  in  place  and  its  remarkable  success  at  predicting  experimental
+outcomes indicated that its verification was merely a matter of time and details. going beyond its
+limits  to  include  gravity  and  possibly  to explain the experimental input on which it relies—the 19
+numbers summarizing the elementary particle masses, their force charges, and the relative strengths of
+the  forces,  numbers  that  are  known  from  experiment  but  are  not  understood  theoretically—was  so
+daunting a task that all but the most courageous physicists recoiled at the challenge. but six months
+later  the  mood  had  swung  completely  around.  the  success  of  green  and  schwarz  finally  trickled
+down  even  to  first-year  graduate  students,  and  an  electrifying  sense  of  being  on  the  inside  of  a
+profoun
+ 
+ ___________________________
+ 
+average today can explain your initial investment in stocks ten years ago.
+
+in  fact,  had  experiments  revealed  a  somewhat  different  particle  content  in  the  microscopic
+world,  possibly  interacting  with  somewhat  different  forces,  these  changes  could  have  been  fairly
+easily incorporated in the standard model by providing the theory with different input parameters. the
+structure of the standard model, in this sense, is too flexible to be able to explain the properties of the
+elementary particles, as it could have accommodated a range of possibilities.
+
+string theory is dramatically different. it is a unique and inflexible theoretical edifice. it requires
+no input beyond a single number, described below, that sets the benchmark scale for measurements.
+all properties of the microworld are within the realm of its explanatory power. to understand this,
+let's first think about more familiar strings, such as those on a violin. each such string can undergo a
+huge variety (in fact, infinite i
+ 
+ ___________________________
+ 
+tance, are determined by the precise way it vibrates. moreover, exactly the same idea
+holds for the messenger particles themselves. particles like photons, weak gauge bosons, and gluons
+are yet other resonant patterns of string vibration. and of particular importance, among the vibrational
+string patterns, one matches perfectly the properties of the graviton, ensuring that gravity is an integral
+part of string theory.7
+
+so we see that, according to string theory, the observed properties of each elementary particle
+arise because its internal string undergoes a particular resonant vibrational pattern. this perspective
+differs sharply from that espoused by physicists before the discovery of string theory; in the earlier
+perspective the differences among the fundamental particles were explained by saying that, in effect,
+each  particle  species  was  "cut  from  a  different  fabric."  although  each  particle  was  viewed  as
+elementary,  the  kind  of  "stuff"  each  embodied  was  thought  to  be  differe
+ 
+ ___________________________
+ 
+nt.  electron  "stuff,"  for
+example,  had  negative  electric  charge,  while  neutrino  "stuff"  had  no  electric  charge.  string  theory
+alters this picture radically by declaring that the "stuff" of all matter and all forces is the same. each
+elementary particle is composed of a single string—that is, each particle is a single string—and all
+strings  are  absolutely  identical.  differences  between  the  particles  arise  because  their  respective
+strings  undergo  different  resonant  vibrational  patterns.  what  appear  to  be  different  elementary
+particles are actually different "notes" on a fundamental string. the universe—being composed of an
+enormous number of these vibrating strings—is akin to a cosmic symphony.
+
+figure 6.3 more fra
+ 
+ ___________________________
+ 
+ of vibration is its
+"fingerprint."  because  every  physical  event,  process,  or  occurrence  in  the  universe  is,  at  its  most
+elementary  level,  describable  in  terms  of  forces  acting  between  these  elementary  material
+constituents, string theory provides the promise of a single, all-inclusive, unified description of the
+physical universe: a theory of everything (t.o.e.).
+
+the music of string theory
+
+even though string theory does away with the previous concept of structureless elementary particles,
+old language dies hard, especially when it provides an accurate description of reality down to the
+most  minute  of  distance  scales.  following  the  common  practice  of  the  field  we  shall  therefore
+continue to refer to "elementary particles," yet we will always mean "what appear to be elementary
+particles but are actually tiny pieces of vibrating string." in the preceding section we proposed that
+the masses and the force charges of such elementary particles are the result of the way 
+ 
+ ___________________________
+ 
+in which their
+respective  strings  are  vibrating.  this  leads  us  to  the  following  realization:  if  we  can  work  out
+precisely the allowed resonant vibrational patterns of fundamental strings—the "notes," so to speak,
+that they can play—we should be able to explain the observed properties of the elementary particles.
+for the first time, therefore, string theory sets up a framework for explaining the properties of the
+particles observed in nature.
+
+at  this  stage,  then,  we  should  "grab  hold"  of  a  string  and  "pluck"  it  in  all  sorts  of  ways  to
+determine the possible resonant patterns of vibration. if string theory is right, we should find that the
+possible patterns yield exactly the observed properties of the matter and force particles in tables 1.1
+and 1.2. of course, a string is too small
+ 
+ ___________________________
+ 
+portional  to  the  tension  of  the  string  (and  it  is  also
+proportional to the number of peaks and troughs in the particular vibrational pattern), while the whole
+number multiple is determined by the amplitude of the vibrational pattern.
+
+the  key  point  for  the  present  discussion  is  this:  since  the  minimal  energy  denominations  are
+proportional  to  the  string's  tension,  and  since  this  tension  is  enormous,  the  fundamental  minimal
+energies are, on the usual scales of elementary particle physics, similarly huge. they are multiples of
+what is known as the planck energy. to get a sense of scale, if we translate the planck energy into a
+
+mass using einstein's famous conversion formula e = mc2, they correspond to masses that are on the
+order  of  ten  billion  billion  (1019)  times  that  of  a  proton.  this  gargantuan  mass—by  elementary
+particle standards—is known as the planck mass; it's about equal to the mass of a grain of dust or a
+collection of a million average bac
+ 
+ ___________________________
+ 
+tive to these finest of details can be
+extracted and understood with confidence.
+
+this takes us to the third consequence of the enormous value of the string tension. strings can
+execute an infinite number of different vibrational patterns. for instance, in figure 6.2 we showed the
+beginnings of a never-ending sequence of possibilities characterized by an ever greater number of
+peaks  and  troughs.  doesn't  this  mean  that  there  would  have  to  be  a  corresponding  never-ending
+sequence of elementary particles, seemingly in conflict with the experimental situation summarized in
+tables 1.1 and 1.2?
+
+the answer is yes: if string theory is right, each of the infinitely many resonant patterns of string
+vibration should correspond to an elementary particle. an essential point, however, is that the high
+string tension ensures that all but a few of these vibrational patterns will correspond to extremely
+heavy particles (the few being the lowest-energy vibrations that have near-perfect cancellations with
+qu
+ 
+ ___________________________
+ 
+fluctuations are now seen to have arisen in our theories because we were unaware
+of  these  limits  and  were  thus  led  by  a  point-particle  approach  to  grossly  overstep  the  bounds  of
+
+physical reality.
+
+given  the  apparent  simplicity  of  this  solution  for  overcoming  the  problem  between  general
+relativity and quantum mechanics, you might wonder why it took so long for someone to suggest that
+the point-particle description is merely an idealization and that in the real world elementary particles
+do have some spatial extent. this takes us to our second point. long ago, some of the greatest minds
+in  theoretical  physics,  such  as  pauli,  heisenberg,  dirac,  and  feynman, did  suggest  that  nature's
+constituents might not actually be points but rather small undulating "blobs" or "nuggets." they and
+others found, however, that it is very hard to construct a theory, whose fundamental constituent is not
+a  point  particle,  that  is  nonetheless  consistent  with  the  most  basic  of 
+ 
+ ___________________________
+ 
+consider the way in which point particles would interact, if they were actually to exist,
+and hence how they could be used as physical probes. the most basic interaction is between two
+point particles moving on a collision course so that their trajectories will intersect, as in figure 6.5.
+if these particles were billiard balls they would collide, and each would be deflected onto a new
+trajectory.  point-particle  quantum  field  theory  shows  that  essentially  the  same  thing  happens  when
+elementary particles collide—they scatter off one another and continue on deflected trajectories—but
+the details are a little different.
+
+figure 6.5 two particles interact—they "slam together"—and cause the path of each to be deflected.
+
+for  concreteness  and  simplicity,  imagine  that  one  of  the  two  particles  is  an  electron  and  the
+other is its antiparticle, the positron. when matter and antimatter collide, they can annihilate in a flash
+of pure energy, producing, for example, a photon.9 to d
+ 
+ ___________________________
+ 
+ physicists  sidney  coleman  and  jeffrey  mandula  were  able  to
+prove that no other symmetries associated with space, time, or motion could be combined with those
+just discussed and result in a theory bearing any resemblance to our world.
+
+subsequently,  though,  close  examination  of  this  theorem,  based  on  insights  of  a  number  of
+physicists revealed precisely one subtle loophole: the coleman-mandula result did not exploit fully
+symmetries sensitive to something known as spin.
+
+an elementary particle such as an electron can orbit an atomic nucleus in somewhat the same way that
+the  earth  orbits  the  sun.  but,  in  the  traditional  point-particle  description  of  an  electron,  it  would
+
+spin
+
+appear that there is no analog of the earth's spinning around on its axis. when any object spins, points
+on the axis of rotation itself—like the central point of a spinning frisbee—do not move. if something
+is truly pointlike, though, it has no "other points" that lie off of any purported sp
+ 
+ ___________________________
+ 
+  and  force  charges.  string  theory  also  requires  extra  space
+dimensions that must be curled up to a very small size to be consistent with our never having seen
+them. but a tiny string can probe a tiny space. as a string moves about, oscillating as it travels, the
+geometrical  form  of  the  extra  dimensions  plays  a  critical  role  in  determining  resonant  patterns  of
+vibration.  because  the  patterns  of  string  vibrations  appear  to  us  as  the  masses  and  charges  of  the
+elementary particles, we conclude that these fundamental properties of the universe are determined, in
+large measure, by the geometrical size and shape of the extra dimensions. that's one of the most far-
+reaching insights of string theory.
+
+since the extra dimensions so profoundly influence basic physical properties of the universe, we
+should now seek—with unbridled vigor—an understanding of what these curled-up dimensions look
+like.
+
+what do the curled-up dimensions look like?
+
+the extra spatial dimensions o
+ 
+ ___________________________
+ 
+undbreaking paper, candelas, horowitz, strominger, and witten took the first steps
+toward this goal. they not only found that the extra dimensions in string theory must be curled up into
+a  calabi-yau  shape,  but  they  also  worked  out  some  of  the  implications  this  has  on  the  possible
+patterns  of  string  vibrations.  one  central  result  they  found  highlights  the  amazingly  unexpected
+solutions string theory offers to long-standing particle-physics problems.
+
+recall that the elementary particles that physicists have found fall into three families of identical
+organization, with the particles in each successive family being increasingly massive. the puzzling
+question for which there was no insight prior to string theory is, why families and why three? here is
+string theory's proposal. a typical calabi-yau shape contains  holes that are analogous to those found
+at the center of a phonograph record, or a doughnut, or a "multidoughnut", as shown in figure 9.1. in
+the higher-dimensional ca
+ 
+ ___________________________
+ 
+re are actually a variety of different types of holes that
+can arise—holes which themselves can have a variety of dimensions ("multidimensional holes")—but
+figure 9.1 conveys the basic idea. candelas, horowitz, strominger, and witten closely examined the
+effect that these holes have on the possible patterns of string vibration, and here is what they found.
+
+there is a family of lowest-energy string vibrations associated with each hole in the calabi-yau
+portion of space. because the familiar elementary particles should correspond to the lowest-energy
+oscillatory  patterns,  the  existence  of  multiple  holes—somewhat  like  those  in  the  multidoughnut—
+means that the patterns of string vibrations will fall into multiple families. if the curled-up calabi-
+yau has three holes, then we will find three families of elementary particles. 16 and so, string theory
+proclaims that the family organization observed experimentally, rather than being some unexplainable
+feature of either random or divine orig
+ 
+ ___________________________
+ 
+  the
+prediction  that  each  such  known  particle  will  have  a  superpartner.  we  can  determine  the  force
+charges that each of these superpartner particles should carry, but we do not currently have the ability
+to predict their masses. even so, the prediction that superpartners exist is a generic feature of string
+theory;  it  is  a  property  of  string  theory  that  is  true,  independent  of  those  aspects  of  the  theory  we
+haven't yet figured out.
+
+no superpartners of the known elementary particles have ever been observed. this might mean
+that they do not exist and that string theory is wrong. but many particle physicists feel that it means
+that  the  superpartners  are  very  heavy  and  are  thus  beyond  our  current  capacity  to  observe
+
+experimentally.  physicists  are  now  constructing  a  mammoth  accelerator  in  geneva,  switzerland,
+called the large hadron collider. hopes run high that this machine will be powerful enough to find
+the superpartner particles. the accelerator 
+ 
+ ___________________________
+ 
+matical features of calabi-yau
+shapes, the result—that the fabric of space can tear—is certainly of wider applicability.
+
+second,  could  such  a  topology-changing  tear  happen  today  or  tomorrow?  could  it  have
+happened  in  the  past? yes.  experimental  measurements  of  elementary  particle  masses  show  their
+values to be quite stable over time. but if we head back to the earliest epochs following the big bang,
+even non-string-based theories invoke important periods during which elementary particle masses do
+change over time. these periods, from a string-theoretic perspective, could certainly have involved
+the topology-changing tears discussed in this chapter. closer to the present, the observed stability of
+elementary particle masses implies that if the universe is currently undergoing a topology-changing
+spatial tear, it must be doing it exceedingly slowly—so slowly that its effect on elementary particle
+masses is smaller than our present experimental sensitivity. remarkably, so long 
+ 
+ ___________________________
+ 
+ct  disjunction.  the  extreme  physical  conditions  that
+occurred  at  the  moment  of  the  big  bang  and  that  prevail  within  black  holes cannot  be  understood
+without  a  quantum  mechanical  formulation  of  the  gravitational  force.  with  the  discovery  of  string
+theory, we now have a hope of solving these deep mysteries. in this and the next chapter, we describe
+how far string theorists have gone toward understanding black holes and the origin of the universe.
+
+black holes and elementary particles
+
+at  first  sight  it's  hard  to  imagine  any  two  things  more  radically  different  than  black  holes  and
+elementary  particles.  we  usually  picture  black  holes  as  the  most  gargantuan  of  heavenly  bodies,
+whereas elementary particles are the most minute specks of matter. but the research of a number of
+physicists during the late 1960s and early 1970s, including demetrios christodoulou, werner israel,
+richard  price,  brandon  carter,  roy  kerr,  david  robinson,  hawking,  a
+ 
+ ___________________________
+ 
+nd  penrose,  showed  that
+black holes and elementary particles are perhaps not as different as one might think. these physicists
+found  increasingly  persuasive  evidence  for  what  john  wheeler  has  summarized  by  the  statement
+"black holes have no hair." by this, wheeler meant that except for a small number of distinguishing
+features, all black holes appear to be alike. the distinguishing features? one, of course, is the black
+hole's mass. what are the others? research has revealed that they are the electric and certain other
+force charges a black 
+ 
+ ___________________________
+ 
+arges, and spin are completely identical. black holes do not have
+fancy "hairdos"—that is, other intrinsic traits—that distinguish one from another. this should ring a
+loud bell. recall that it is precisely such properties—mass, force charges, and spin—that distinguish
+one  elementary  particle  from  another.  the  similarity  of  the  defining  traits  has  led  a  number  of
+physicists  over  the  years  to  the  strange  speculation  that  black  holes  might  actually  be  gigantic
+elementary particles.
+
+in fact, according to einstein's theory, there is no minimum mass for a black hole. if we crush a
+chunk of matter of any mass to a small enough size, a straightforward application of general relativity
+shows that it will become a black hole. (the lighter the mass, the smaller we must crush it.) and so,
+we can imagine a thought experiment in which we start with ever-lighter blobs of matter, crush them
+into  ever-smaller  black  holes,  and  compare  the  properties  of  the  resulting  black 
+ 
+ ___________________________
+ 
+ holes  with  the
+properties of elementary particles. wheeler's no-hair statement leads us to conclude that for small
+enough masses the black holes we form in this manner will look very much like elementary particles.
+both will look like tiny bundles characterized completely by their mass, force charges, and spin.
+
+but there is a catch. astrophysical black holes, with masses many times that of the sun, are so
+large  and  heavy  that  quantum  mechanics  is  largely  irrelevant  and  only  the  equations  of  general
+relativity need be used to understand their properties. (we are here discussing the overall structure of
+the black hole, not the singular central point of collapse within a black hole, whose t
+ 
+ ___________________________
+ 
+iny size most
+certainly  requires  a  quantum-mechanical  description.) as  we  try  to  make  ever  less  massive  black
+holes, however, there comes a point when they are so light and small that quantum mechanics does
+comes into play. this happens if the total mass of the black hole is about the planck mass or less.
+(from the point of view of elementary particle physics, the planck mass is huge—some ten billion
+billion times the mass of a proton. from the point of view of black holes, though, the planck mass,
+being equal to that of an average grain of dust, is quite tiny.) and so, physicists who speculated that
+tiny  black  holes  and  elementary  particles  might  be  closely  related  immediately  ran  up  against  the
+incompatibility  between  general  relativity—the  theoretical  heart  of  black  holes—and  quantum
+mechanics. in the past, th
+ 
+ ___________________________
+ 
+e incompatibility stymied all progress in this intriguing direction.
+
+does string theory allow us to go forward?
+
+it  does.  through  a  fairly  unexpected  and  sophisticated  realization  of  black  holes,  string  theory
+provides the first theoretically sound connection between black holes and elementary particles. the
+road  to  this  connection  is  a  bit  circuitous,  but  it  takes  us  through  some  of  the  most  interesting
+developments in string theory, making it a journey well worth taking.
+
+it begins with a seemingly unrelated question that string theorists have kicked around since the
+late  1980s.  mathematicians  and  physicists  have  long  known  that  when  six  spatial  dimensions  are
+curled up into a calabi-yau shape, there are generally two kinds of spheres that are embedded within
+t
+ 
+ ___________________________
+ 
+was  enthusiastic.
+among the many e-mail responses was one from plesser, who gave us one of the highest compliments
+one physicist can give another by declaring, "i wish that i had thought of that!" notwithstanding our
+fears the previous night, we had convinced the string theory community that not only can the fabric of
+space undergo the mild tears discovered earlier (chapter 11), but that far more drastic rips, roughly
+illustrated by figure 13.3, can occur as well.
+
+returning to black holes and elementary particles
+
+what does this have to do with black holes and elementary particles? a lot. to see this, we must ask
+ourselves the same question we posed in chapter 11. what are the observable physical consequences
+of such tears in the fabric of space? for flop transitions, as we have seen, the surprising answer to
+this question was that not much happens at all. for conifold transitions—the technical name for the
+drastic space-tearing transitions we had now found—there is, once again, no physical catast
+ 
+ ___________________________
+ 
+hat  as  a  calabi-yau
+shape goes through a space-tearing conifold transition, an initially massive black hole becomes ever
+lighter until it is massless and then it transmutes into a massless particle—such as a massless photon
+—which in string theory is nothing but a single string executing a particular vibrational pattern. in this
+way,  for  the  first  time,  string  theory  explicitly  establishes  a  direct,  concrete,  and  quantitatively
+unassailable connection between black holes and elementary particles.
+
+"melting" black holes
+
+the  connection  between  black  holes  and  elementary  particles  which  we  found  is  closely  akin  to
+something we are all familiar with from day-to-day life, known technically as a phase transition. a
+simple example of a phase transition is the one we mentioned in the last chapter: water can exist as a
+solid (ice), as a liquid (liquid water), and a gas (steam). these are known as the phases of water, and
+the transformation from one form to another is called a ph
+ 
+ ___________________________
+ 
+se, the initial calabi-yau shape (the analog of the ice phase, say), we
+find that there are certain black holes present. in the second phase, the second calabi-yau shape (the
+analog of the liquid water phase), these black holes have gone through a phase transition—they have
+"melted"  so  to  speak—into  fundamental  vibrational  string  patterns.  the  tearing  of  space  through
+
+conifold transitions takes us from one calabi-yau phase to the other. in so doing, we see that black
+holes and elementary particles, like water and ice, are two sides of the same coin. we see that black
+holes snugly fit within the framework of string theory.
+
+we have purposely used the same water analogy for these drastic space-tearing transmutations
+and for the transmutations from one of the five formulations of string theory to another (chapter 12)
+because they are deeply connected. recall that we expressed through figure 12.11 that the five string
+theories  are  dual  to  one  another  and  thereby  are  unified  under 
+ 
+ ___________________________
+ 
+e might be a thousandth of a percent larger or smaller than in our universe.
+in others, physics may differ in more pronounced ways: the up-quark might weigh ten times what it
+weighs in our universe, or the strength of the electromagnetic force might be ten times the value we
+measure,  with  all  the  profound  implications  that  this  has  on  stars  and  on  life  as  we  know  it  (as
+indicated in chapter 1). and in other universes, physics may differ in still more dramatic ways: the
+list of elementary particles and forces may be completely distinct from ours, or, taking a cue from
+string  theory,  even  the  number  of  extended  dimensions  may  differ,  with  some  cramped  universes
+having as few as zero or one large spatial dimension, while other expansive universes possess eight,
+nine,  or  even  ten  extended  spatial  dimensions.  if  we  let  our  imaginations  run  free,  even  the  laws
+themselves can drastically differ from universe to universe. the range of possibilities is endless.
+
+her
+ 
+ ___________________________
+ 
+ergravity. class of point-particle theories combining general relativity and supersymmetry.
+superpartners. particles whose spins differ by 1/2 unit and that are paired by supersymmetry.
+superstring theory. string theory that incorporates supersymmetry.
+supersymmetric quantum field theory. quantum field theory incorporating supersymmetry.
+supersymmetric  standard  model.  generalization  of  the standard  model  of  particle  physics  to
+incorporate supersymmetry. entails a doubling of the known elementary particle species.
+supersymmetry. a symmetry principle that relates the properties of particles with a whole number
+amount of spin (bosons) to those with half a whole (odd) number amount of spin (fermions).
+symmetry. a property of a physical system that does not change when the system is transformed in
+some manner. for instance, a sphere is rotationally symmetrical since its appearance does not change
+if it is rotated.
+symmetry  breaking.  a  reduction  in  the  amount  of symmetry  a  system  appears  t

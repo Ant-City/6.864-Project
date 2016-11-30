@@ -1,0 +1,276 @@
+y  stretching,  twisting,  or  crushing  them;  or  by  freezing,  heating,  or
+burning them. during the past hundred years physicists have accumulated mounting evidence that all
+of  these  interactions  between  various  objects  and  materials,  as  well  as  any  of  the  millions  upon
+millions of others encountered daily, can be reduced to combinations of four fundamental forces. one
+of these is the gravitational force. the other three are the electromagnetic force, the weak force, and
+the strong force.
+
+gravity is the most familiar of the forces, being responsible for keeping us in orbit around the
+sun as well as for keeping our feet firmly planted on earth. the mass of an object measures how much
+gravitational force it can exert as well as feel. the electromagnetic force is the next most familiar of
+the  four.  it  is  the  force  driving  all  of  the  conveniences  of  modern  life—lights,  computers,  tvs,
+telephones—and  underlies  the  awesome  might  of  lightning  storms  and  th
+ 
+ ___________________________
+ 
+ negative  electric
+charges whose forces cancel each other out. on the other hand, since gravity is always attractive,
+there are no analogous cancellations—more stuff means greater gravitational force. but fundamentally
+speaking, gravity is an extremely feeble force. (this fact accounts for the difficulty in experimentally
+confirming  the  existence  of  the  graviton.  searching  for  the  smallest  bundle  of  the  feeblest  force  is
+quite a challenge.) experiments also have shown that the strong force is about one hundred times as
+strong as the electromagnetic force and about one hundred thousand times as strong as the weak force.
+but where is the rationale—the raison d'être—for our universe having these features?
+
+this is not a question born of idle philosophizing about why certain details happen to be one
+way instead of another; the universe would be a vastly different place if the properties of the matter
+and force particles were even moderately changed. for example, the existence of
+ 
+ ___________________________
+ 
+logical limit. for this reason, physicists call the theory of the three nongravitational forces and
+the  three  families  of  matter  particles  the  standard  theory,  or  (more  often)  the standard  model  of
+particle physics.
+
+messenger particles
+
+according to the standard model, just as the photon is the smallest constituent of an electromagnetic
+field, the strong and the weak force fields have smallest constituents as well. as we discussed briefly
+in chapter 1, the smallest bundles of the strong force are known as gluons, and those of the weak
+force are known as weak gauge bosons (or more precisely, the w and z bosons). the standard model
+instructs us to think of these force particles as having no internal structure—in this framework they
+are every bit as elementary as the particles in the three families of matter.
+
+the  photons,  gluons,  and  weak  gauge  bosons  provide  the  microscopic  mechanism  for
+transmitting  the  forces  they  constitute.  for  example,  when  one  electrically
+ 
+ ___________________________
+ 
+ther  the
+transmitter of a message of how the recipient must respond to the force in question. for like-charged
+particles,  the  photon  carries  the  message  "move  apart,"  while  for  oppositely  charged  particles  it
+carries  the  message  "come  together."  for  this  reason  the  photon  is  sometimes  referred  to  as  the
+messenger particle for the electromagnetic force. similarly, the gluons and weak gauge bosons are
+the messenger particles for the strong and weak nuclear forces. the strong force, which keeps quarks
+locked  up  inside  of  protons  and  neutrons,  arises  from  individual  quarks  exchanging  gluons.  the
+gluons, so to speak, provide the "glue" that keeps these subatomic particles stuck together. the weak
+force, which is responsible for certain kinds of particle transmutations involved in radioactive decay,
+is mediated by the weak gauge bosons.
+
+gauge symmetry
+
+you may have realized that the odd man out in our discussion of the quantum theory of the forces of
+nature is 
+ 
+ ___________________________
+ 
+nected with enforcing
+symmetries, albeit ones that are significantly more abstract than the one associated with gravity.
+
+to  get  a  rough  feel  for  these  rather  subtle  symmetry  principles,  let's  consider  one  important
+example. as we recorded in the table in endnote 1 of chapter 1, each quark comes in three "colors"
+(fancifully called red, green, and blue, although these are merely labels and have no relation to color
+in the usual visual sense), which determine how it responds to the strong force in much the same way
+that its electric charge determines how it responds to the electromagnetic force. all the data that have
+been collected establish that there is a symmetry among the quarks in the sense that the interactions
+between  any  two  like-colored  quarks  (red  with  red,  green  with  green,  or  blue  with  blue)  are  all
+identical,  and  similarly,  the  interactions  between  any  two  unlike-colored  quarks  (red  with  green,
+green with blue, or blue with red) are also ident
+ 
+ ___________________________
+ 
+, and blue
+were shifted, for instance, to yellow, indigo, and violet), and even if the details of this shift were to
+change from moment to moment or from place to place, the interactions between the quarks would be,
+again,  completely  unchanged.  for  this  reason,  just  as  we  say  that  a  sphere  exemplifies  rotational
+symmetry because it looks the same regardless of how we rotate it around in our hands or how we
+shift the angle from which we view it, we say that the universe exemplifies strong force symmetry:
+physics  is  unchanged  by—it  is  completely  insensitive  to—these  force-charge  shifts.  for  historical
+reasons, physicists also say that the strong force symmetry is an example of a gauge symmetry.5
+
+the smallest bundle of a gravitational force field, the graviton, would be its messenger particle. at
+first sight, as we now note, this suggestion would appear to be particularly apt because the quantum
+field theory of the three nongravitational forces reveals that there is a ta
+ 
+ ___________________________
+ 
+al-
+control system that keeps temperature, air pressure, and humidity in an area completely constant by
+compensating perfectly for any exterior influences, certain kinds of force fields, according to yang
+and mills, will provide perfect compensation for shifts in force charges, thereby keeping the physical
+interactions  between  the  particles  completely  unchanged.  for  the  case  of  the  gauge  symmetry
+associated with shifting quark-color charges, the required force is none other than the strong force
+itself.  that  is,  without  the  strong  force,  physics would  change  under  the  kinds  of  shifts  of  color
+charges indicated above. this realization shows that, although the gravitational force and the strong
+force have vastly different properties (recall, for example, that gravity is far feebler than the strong
+force and operates over enormously larger distances), they do have a somewhat similar heritage: they
+are  each  required  in  order  that  the  universe  embody  particular  symm
+ 
+ ___________________________
+ 
+blem for a number of years, until one day he came upon a striking revelation. much to his
+surprise,  he  realized  that  an  esoteric  formula  concocted  for  purely  mathematical  pursuits  by  the
+renowned swiss mathematician leonhard euler some two hundred years earlier—the so-called euler
+beta-function—seemed to describe numerous properties of strongly interacting particles in one fell
+swoop. veneziano's observation provided a powerful mathematical encapsulation of many features of
+the strong force and it launched an intense flurry of research aimed at using euler's beta-function, and
+various  generalizations,  to  describe  the  surfeit  of  data  being  collected  at  various  atom  smashers
+around the world. nevertheless, there was a sense in which veneziano's observation was incomplete.
+like memorized formulae used by a student who does not understand their meaning or justification,
+euler's  beta-function  seemed  to  work,  but  no  one  knew  why.  it  was  a  formula  in  search  o
+ 
+ ___________________________
+ 
+e  and  pleasing  theory,  it  was  not  long  before  the
+string  description  of  the  strong  force  was  shown  to  fail.  during  the  early  1970s,  high-energy
+experiments capable of probing the subatomic world more deeply showed that the string model made
+a number of predictions that were in direct conflict with observations. at the same time, the point-
+particle  quantum  field  theory  of  quantum  chromodynamics  was  being  developed,  and  its
+overwhelming success in describing the strong force led to the dismissal of string theory.
+
+most particle physicists thought that string theory had been relegated to the dustbin of science,
+but a few dedicated researchers kept at it. schwarz, for instance, felt that "the mathematical structure
+of string theory was so beautiful and had so many miraculous properties that it had to be pointing
+toward something deep."2 one of the problems physicists found with string theory was that it seemed
+to have a true embarrassment of riches. the theory contai
+ 
+ ___________________________
+ 
+ned configurations of vibrating string that
+had properties akin to those of gluons, substantiating its early claim of being a theory of the strong
+force. but beyond these it contained additional messenger-like particles that did not appear to have
+any relevance to experimental observations of the strong force. in 1974, schwarz and joël scherk of
+the  ecole  normale  superieure  made  a  bold  leap  that  transformed  this  apparent  vice  into  a  virtue.
+after  studying  the  puzzling  messenger-like  patterns  of  string  vibration,  they  realized  that  their
+properties matched perfectly those of the hypothesized messenger particle of the gravitational force—
+the  graviton. although  these  "smallest  bundles"  of  the  gravitational  force  have,  as  yet,  never  been
+seen, theorists can co
+ 
+ ___________________________
+ 
+nfidently predict certain basic features that they must possess, and scherk and
+
+schwarz found these properties to be realized exactly by certain vibrational patterns. based on this,
+scherk and schwarz suggested that string theory had failed in its initial attempt because physicists had
+unduly constrained its scope. string theory is not just a theory of the strong force, they proclaimed; it
+is a quantum theory that includes gravity as well.3
+
+the  physics  community  did  not  receive  this  suggestion  with  unbridled  enthusiasm.  in  fact,
+schwarz recounts that "our work was universally ignored."4 the path of progress was already littered
+with numerous failed attempts to unite gravity and quantum mechanics. string theory had been shown
+wrong in its initial effort to describe the strong force, and it seemed to many that it was senseless to
+try to use the the
+ 
+ ___________________________
+ 
+s upon the uncomfortably delicate numerical adjustments of the
+ordinary standard model. although this is a highly technical issue, many particle physicists find that
+this realization makes supersymmetry very attractive.
+
+the third piece of circumstantial evidence for supersymmetry comes from the notion of grand
+unification. one of the puzzling features of nature's four forces is the huge range in their intrinsic
+strengths. the electromagnetic force has less than 1 percent of the strength of the strong force, the
+weak  force  is  some  thousand  times  feebler  than  that,  and  the  gravitational  force  is  some  hundred
+million billion billion billion (10-35) times weaker still. following the pathbreaking and ultimately
+nobel  prize–winning  work  of  glashow,  salam,  and  weinberg  that  established  a  deep  connection
+between the electromagnetic and weak forces (discussed in chapter 5), in 1974 glashow, together
+
+with his harvard colleague howard georgi, suggested that an analogous connec
+ 
+ ___________________________
+ 
+tion might be forged
+with the strong force. their work, which proposed a "grand unification" of three of the four forces,
+differed in one essential way from that of the electroweak theory: whereas the electromagnetic and
+weak forces crystallized out of a more symmetric union when the temperature of the universe dropped
+to about a million billion degrees above absolute zero (1015 kelvin), georgi and glashow showed
+that the union with the strong force would have been apparent only at a temperature some ten trillion
+times higher—around ten billion billion billion degrees above absolute zero (1028 kelvin). from the
+point of view of energy, this is about a million billion times the mass of the proton, or about four
+orders of magnitude less than the planck mass. georgi and glashow boldly took theoretical physics
+into  an  energy  realm  many  orders  of  magnitude  beyond  that  which  anyone  had  previously  dared
+explore.
+
+subsequent work a
+ 
+ ___________________________
+ 
+s that whereas in chapter 7 we noted that everything we know points
+toward  a  consistent  and  uniform  physics  throughout  our  universe,  this  may  have  no  bearing  on  the
+physical attributes in these other universes so long as they are separate from us, or at least so far
+away that their light has not had time to reach us. and so we can imagine that physics varies from one
+universe to another. in some, the differences may be subtle: for example, the electron mass or the
+strength of the strong force might be a thousandth of a percent larger or smaller than in our universe.
+in others, physics may differ in more pronounced ways: the up-quark might weigh ten times what it
+weighs in our universe, or the strength of the electromagnetic force might be ten times the value we
+measure,  with  all  the  profound  implications  that  this  has  on  stars  and  on  life  as  we  know  it  (as
+indicated in chapter 1). and in other universes, physics may differ in still more dramatic ways: the
+list of e
+ 
+ ___________________________
+ 
+ts of a length; in fact, it is 1.616 × 10-33 centimeters. this is the planck length. since it
+
+5.  for  the  mathematically  inclined  reader,  we  note  that  the  symmetry  principles  used  in
+elementary  particle  physics  are  generally  based  on  groups,  most  notably,  lie  groups.  elementary
+particles  are  arranged  in  representations  of  various  groups  and  the  equations  governing  their  time
+evolution are required to respect the associated symmetry transformations. for the strong force, this
+symmetry is called su(3) (the analog of ordinary three-dimensional rotations, but acting on a complex
+space), and the three colors of a given quark species transform in a three-dimensional representation.
+the shifting (from red, green, blue to yellow, indigo, violet) mentioned in the text is, more precisely,
+an su(3) transformation acting on the "color coordinates" of a quark. a gauge symmetry is one in
+which the group transformations can have a spacetime dependence: in this case, "rotati
+ 
+ ___________________________
+ 
+h second.
+gauge symmetry. symmetry principle underlying the quantum-mechanical description of the three
+nongravitational  forces;  the  symmetry  involves  the  invariance  of  a  physical  system  under  various
+shifts in the values of force charges, shifts that can change from place to place and from moment to
+moment.
+general relativity. einstein's formulation of gravity, which shows that space and time communicate
+the gravitational force through their curvature.
+gluon. smallest bundle of the strong force field; messenger particle of the strong force.
+grand  unification.  class  of  theories  that  merge  all  three  nongravitational  forces  into  a  single
+theoretical framework.
+gravitational force. the weakest of the four fundamental forces of nature. described by newton's
+universal theory of gravity, and subsequently by einstein's general relativity.
+graviton. smallest bundle of the gravitational force field; messenger particle for the gravitational
+force.
+
+heterotic-e string theory (hetero
+ 
+ ___________________________
+ 
+ample of a theory of quantum
+gravity.
+quantum mechanics. framework of laws governing the universe whose unfamiliar features such as
+uncertainty,  quantum  fluctuations,  and wave-particle  duality  become  most  apparent  on  the
+microscopic scales of atoms and subnuclear particles.
+quantum tunneling. feature of quantum mechanics showing that objects can pass through barriers
+that should be impenetrable according to newton's classical laws of physics.
+quark. a particle that is acted upon by the strong force. quarks exist in six varieties (up, down,
+charm, strange, top, bottom) and three "colors" (red, green, blue).
+radiation. the energy carried by waves or particles.
+reciprocal. the inverse of a number; for example, the reciprocal of 3 is 1/3, the reciprocal of 1/2 is
+2.
+relativistic  quantum 
+electromagnetic field, that incorporates special relativity.
+resonance. one of the natural states of oscillation of a physical system.
+riemannian  geometry.  mathematical  framework  for  describing  curved 
+ 
+ ___________________________
+ 
+oint particles but tiny one-dimensional filaments called strings. string theory
+harmoniously  unites quantum mechanics  and general relativity,  the  previously  known  laws  of  the
+small and the large, that are otherwise incompatible. often short for superstring theory.
+strong  force,  strong  nuclear  force.  strongest  of  the  four  fundamental  forces,  responsible  for
+keeping quarks locked inside protons  and neutrons and for keeping protons and neutrons crammed
+inside of atomic nuclei.
+strong force symmetry. gauge symmetry underlying the strong force, associated with invariance of
+a physical system under shifts in the color charges of quarks.
+strongly coupled. theory whose string coupling constant is larger than 1.
+strong-weak duality. situation in which a strongly coupled theory is dual—physically identical—to
+a different, weakly coupled theory.
+sum-over-paths.  formulation  of quantum  mechanics  in  which  particles  are  envisioned  to  travel
+from one point to another along all p

@@ -1,0 +1,46 @@
+y  of  these  responses.  but  the  case  for  supersymmetry  is  strengthened
+
+immensely when we consider its role in string theory.
+
+supersymmetry in string theory
+
+the original string theory that emerged from veneziano's work in the late 1960s incorporated all of
+the symmetries discussed at the beginning of this chapter, but it did not incorporate supersymmetry
+(which  had  not  yet  been  discovered).  this  first  theory  based  on  the  string  concept  was,  more
+precisely,  called  the bosonic string theory.  the  name bosonic  indicates  that  all  of  the  vibrational
+patterns of the bosonic string have spins that are a whole number—there are no fermionic patterns,
+that is, no patterns with spins differing from a whole number by a half unit. this led to two problems.
+first,  if  string  theory  was  to  describe  all  forces  and  all  matter,  it  would  somehow  have  to
+incorporate  fermionic  vibrational  patterns,  since  the  known  matter  particles  all  have  spin-1/2.
+second, and far
+ 
+ ___________________________
+ 
+ame chirality), whereas in the type iia theory, they spin in both
+directions  (they  have  both  chiralities).  nevertheless,  each  theory  incorporates  supersymmetry.  the
+two  heterotic  theories  differ  in  a  similar  but  more  dramatic  way.  each  of  their  clockwise  string
+vibrations looks like those of the type ii string (when focusing on just the clockwise vibrations, the
+type iia and type iib theories are the same), but their counterclockwise vibrations are those of the
+original bosonic string theory. although the bosonic string has insurmountable problems when chosen
+for  both  clockwise  and  counterclockwise  string  vibrations,  in  1985  david  gross,  jeffrey  harvey,
+emil martinec, and ryan rhom (all then at princeton university and dubbed the "princeton string
+quartet") showed that a perfectly sensible theory emerges if it is used in combination with the type ii
+string.  the  really  odd  feature  of  this  union  is  that  it  has  been  known  since  the  work  of  claude
+lovelace
+ 
+ ___________________________
+ 
+esized future for the universe in which the current expansion stops, reverses,
+and results in all space and all matter collapsing together; a reversal of the big bang.
+black hole. an object whose immense gravitational field entraps anything, even light, that gets too
+close (closer than the black hole's event horizon).
+black-hole entropy the entropy embodied within a black hole.
+boson. a particle, or pattern of string vibration, with a whole number amount of spin; typically a
+messenger particle.
+bosonic string theory. first known string theory; contains vibrational patterns that are all bosons.
+bps states. configurations in a supersymmetric theory whose properties can be determined exactly
+by arguments rooted in symmetry.
+brane. any of the extended objects that arise in string theory. a one-brane is a string, a two-brane
+is a membrane, a three-brane has three extended dimensions, etc. more generally, a p-brane  has p
+spatial dimensions.
+calabi-yau  space,  calabi-yau  shape.   a  space  (shape)  into  which

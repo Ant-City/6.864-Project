@@ -1,0 +1,296 @@
+ryday objects directly subject
+
+to quantum effects, the ice cubes in george's and gracie's drinks frantically rattle around as they too
+suffer  from  quantum  claustrophobia. although  the  h-bar  is  a  fantasyland—in  reality, h  is  terribly
+small—precisely this kind of quantum claustrophobia is a pervasive feature of the microscopic realm.
+the  motion  of  microscopic  particles  becomes  increasingly  wild  when  they  are  examined  and
+confined to ever smaller regions of space.
+
+the uncertainty principle also gives rise to a striking effect known as quantum tunneling. if you
+fire  a  plastic  pellet  against  a  ten-foot-thick  concrete  wall,  classical  physics  confirms  what  your
+instincts tell you will happen: the pellet will bounce back at you. the reason is that the pellet simply
+does not have enough energy to penetrate such a formidable obstacle. but at the level of fundamental
+particles, quantum mechanics shows unequivocally that the wave functions—that is, the probability
+waves—o
+ 
+ ___________________________
+ 
+f the particles making up the pellet all have a tiny piece that spills out through the wall.
+this means that there is a small—but not zero—chance that the pellet actually can penetrate the wall
+and emerge on the other side. how can this be? the reason comes down, once again, to heisenberg's
+uncertainty principle.
+
+the mathematics of quantum mechanics shows that the greater the energy barrier, the lower the
+probability  that  this  creative  microscopic  accounting  will  actually  occur.  but  for  microscopic
+particles  facing  a  concrete  slab,  they  can  and  sometimes  do  borrow  enough  energy  to  do  what  is
+impossible  from  the  standpoint  of  classical  physics—momentarily  penetrate  and  tunnel  through  a
+region  that  they  do  not  initially  have  enough  energy  to  enter.  as  
+ 
+ ___________________________
+ 
+require ever longer durations to carry them out. roughly speaking, this means
+that the energy a particle has can wildly fluctuate so long as this fluctuation is over a short enough
+time scale. so, just as the accounting system of the airline "allows" you to "borrow" the money for a
+plane  ticket  provided  you  pay  it  back  quickly  enough,  quantum  mechanics  allows  a  particle  to
+"borrow"  energy  so  long  as  it  can  relinquish  it  within  a  time  frame  determined  by  heisenberg's
+uncertainty principle.
+
+tunneling is commonplace. but the probability rules of quantum mechanics—and, in particular, the
+actual smallness of h in the real world—show that if you walked into a solid wall every second, you
+would  have  to  wait  longer  than  the  current  age  of  the  universe  to  have  a  good  chance  of  passing
+through it on one of your attempts. with eternal patience (and longevity), though, you could—sooner
+or later—emerge on the other side.
+
+the uncertainty principle captures the he
+ 
+ ___________________________
+ 
+is.
+
+the heart of quantum mechanics
+
+when  heisenberg  discovered  the  uncertainty  principle,  physics  turned  a  sharp  corner,  never  to
+retrace  its  steps.  probabilities,  wave  functions,  interference,  and  quanta  all  involve  radically  new
+ways of seeing reality. nevertheless, a die-hard "classical" physicist might still have hung on to a
+thread of hope that when all was said and done these departures would add up to a framework not too
+distant from old ways of thinking. but the uncertainty principle cleanly and definitively undercut any
+attempt to cling to the past.
+
+the uncertainty principle tells us that the universe is a frenetic place when examined on smaller
+
+and  smaller  distances  and  shorter  and  shorter  time  scales.  we  saw  some  evidence  of  this  in  our
+attempt, described in the preceding chapter, to pinpoint the location of elementary particles such as
+electrons: by shining light of ever higher frequency on electrons, we measure their position with ever
+greater precis
+ 
+ ___________________________
+ 
+ntly  reacting  to  being  confined  in  a  small  box  by  rattling  around  at  high  speed  takes  us  a  bit
+closer to the truth. even without "direct hits" from an experimenter's disruptive photon, the electron's
+velocity severely and unpredictably changes from one moment to the next. but even this example does
+not fully reveal the stunning microscopic features of nature entailed by heisenberg's discovery. even
+in the most quiescent setting imaginable, such as an empty region of space, the uncertainty principle
+tells  us  that  from  a  microscopic  vantage  point  there  is  a  tremendous  amount  of  activity. and  this
+activity gets increasingly agitated on ever smaller distance and time scales.
+
+quantum accounting is essential to understand this. we saw in the preceding chapter that just as
+you might temporarily borrow money to overcome an important financial obstacle, a particle such as
+an electron can temporarily borrow energy to overcome a literal physical barrier. this is true. but
+quantum mec
+ 
+ ___________________________
+ 
+ey,  the  larger  the  loan  he  seeks.  borrow  and  return,  borrow  and
+return—over and over again with unflagging intensity he takes in money only to give it back in short
+order.  like  stock  prices  on  a  wild,  roller-coaster  day  on  wall  street,  the  amount  of  money  the
+compulsive borrower possesses at any given moment goes through extreme fluctuations, but when all
+is said and done, an accounting of his finances shows that he is no better off than when he began.
+
+heisenberg's uncertainty principle asserts that a similar frantic shifting back and forth of energy
+and momentum is occurring perpetually in the universe on microscopic distance and time intervals.
+even in an empty region of space—inside an empty box, for example—the uncertainty principle says
+that the energy and momentum are uncertain: they fluctuate between extremes that get larger as the
+size of the box and the time scale over which it is examined get smaller and smaller. it's as if the
+region  of  space  inside  the  box
+ 
+ ___________________________
+ 
+magnetic-field  oscillations,  weak  and  strong  force-field  fluctuations—
+quantum-mechanical  uncertainty  tells  us  the  universe  is  a  teeming,  chaotic,  frenzied  arena  on
+
+microscopic  scales. as  feynman  once  jested,  "created  and  annihilated,  created  and  annihilated—
+what a waste of time."2 since the borrowing and repaying on average cancel each other out, an empty
+region  of  space  looks  calm  and  placid  when  examined  with  all  but  microscopic  precision.  the
+uncertainty principle, however, reveals that macroscopic averaging obscures a wealth of microscopic
+activity.3 as we will see shortly, this frenzy is the obstacle to merging general relativity and quantum
+mechanics.
+
+quantum field theory
+
+over  the  course  of  the  1930s  and  1940s  theoretical  physicists,  led  by  the  likes  of  paul  dirac,
+wolfgang pauli, julian schwinger, freeman dyson, sin-itiro tomonaga, and feynman, to name a few,
+struggled  relentlessly  to  find  a  mathematical  formalism  capable  of
+ 
+ ___________________________
+ 
+ image of space to persist all the way to arbitrarily small length
+scales.  but  quantum  mechanics  changes  this  conclusion  radically. everything  is  subject  to  the
+quantum  fluctuations  inherent  in  the  uncertainty  principle—even  the  gravitational  field.  although
+classical reasoning implies that empty space has zero gravitational field, quantum mechanics shows
+that on average it is zero, but that its actual value undulates up and down due to quantum fluctuations.
+moreover, the uncertainty principle tells us that the size of the undulations of the gravitational field
+gets  larger  as  we  focus  our  attention  on  smaller  regions  of  space.  quantum  mechanics  shows  that
+nothing likes to be cornered; narrowing the spatial focus leads to ever larger undulations.
+
+as  gravitational  fields  are  reflected  by  curvature,  these  quantum  fluctuations  manifest
+themselves as increasingly violent distortions of the surrounding space. we see the glimmers of such
+distortions emerging in the
+ 
+ ___________________________
+ 
+ons of left and right, back and forth, up and down
+(and even of before and after) lose their meaning. it is on such short distance scales that we encounter
+the fundamental incompatibility between general relativity and quantum mechanics. the notion of a
+smooth  spatial  geometry,  the  central  principle  of  general  relativity,  is  destroyed  by  the  violent
+fluctuations of the quantum world on short distance scales. on ultramicroscopic scales, the central
+feature of quantum mechanics—the uncertainty principle—is in direct conflict with the central feature
+of general relativity—the smooth geometrical model of space (and of spacetime).
+
+figure  5.1  by  sequentially  magnifying  a  region  of  space,  its  ultramicroscopic  properties  can  be
+probed.  attempts  to  merge  general  relativity  and  quantum  mechanics  run  up  against  the  violent
+quantum foam emerging at the highest level of magnification.
+
+in practice, this conflict rears its head in a very concrete manner. calculations that m
+ 
+ ___________________________
+ 
+ or "typical" energy scale (and hence mass scale) of string
+theory is the planck scale.
+
+this raises a crucial question directly related to the goal of reproducing the particle properties
+in tables 1.1 and 1.2: if the "natural" energy scale of string theory is some ten billion billion times
+that of a proton, how can it possibly account for the far-lighter particles—electrons, quarks, photons,
+and so on—making up the world around us?
+
+the answer, once again, comes from quantum mechanics. the uncertainty principle ensures that
+nothing is ever perfectly at rest. all objects undergo quantum jitter, for if they didn't we would know
+where  they  were  and  how  fast  they  were  moving  with  complete  precision,  in  violation  of
+heisenberg's dictum. this holds true for the loops in string theory as well; no matter how placid a
+string appears it will always experience some amount of quantum vibration. the remarkable thing, as
+originally worked out in the 1970s, is that there can be energy cancellations bet
+ 
+ ___________________________
+ 
+too big to have any sensitivity to structure on atomic scales. this is why
+particle  accelerators  use  protons  or  electrons  as  probes,  since  their  small  size  makes  them  much
+better suited to the task. on subatomic scales, where quantum concepts replace classical reasoning,
+the  most  appropriate  measure  of  a  particle's  probing  sensitivity  is  its  quantum  wavelength,  which
+indicates the window of uncertainty in its position. this fact reflects our discussion of heisenberg's
+uncertainty principle in chapter 4, in which we found that the margin of error incurred when using a
+point  particle  as  a  probe  (we  focused  on  photon  probes  but  the  discussion  applies  to  all  other
+particles) is about equal to the probe particle's quantum wave-length. in somewhat looser language,
+the probing sensitivity of a point particle is smeared out by the jitteriness of quantum mechanics, in
+much the same way that the precision of a surgeon's scalpel is compromised if he or she has hands
+that  sh
+ 
+ ___________________________
+ 
+ present
+discussion it is easier to separate them in this manner. in fact, the ordinary vibrations will not play a
+central part in our reasoning, and we will therefore include their effects only after we have finished
+giving the gist of the argument.
+
+here are the two essential observations. first, uniform vibrational excitations of a string have
+energies  that  are inversely  proportional  to  the  radius  of  the  circular  dimension.  this  is  a  direct
+consequence of the quantum-mechanical uncertainty principle: a smaller radius more strictly confines
+
+a string and therefore, through quantum-mechanical claustrophobia, increases the amount of energy in
+its motion. so, as the radius of the circular dimension decreases, the energy of motion of the string
+necessarily  increases—the  hallmark  feature  of  an  inverse  proportionality.  second,  as  found  in  the
+preceding  section,  the  winding  mode  energies  are directly—not  inversely—proportional  to  the
+radius. remember, this is because th
+ 
+ ___________________________
+ 
+nition uses strings that are
+wound. we see that the extended nature of the fundamental probe is responsible for there being two
+natural operational definitions of distance in string theory. in a point-particle theory, for which there
+
+is no notion of winding, there would be only one such definition.
+
+how do the results of each procedure differ? the answer found by brandenberger and vafa is as
+surprising as it is subtle. the rough idea underlying the result can be understood by appealing to the
+uncertainty principle. unwound strings can move around freely and probe the full circumference of
+the circle, a length proportional to r. by the uncertainty principle, their energies are proportional to
+1/r (recall from chapter 6 the inverse relation between the energy of a probe and the distances to
+which  it  is  sensitive).  on  the  other  hand,  we  have  seen  that  wound  strings  have  minimum  energy
+proportional  to r;  as  probes  of  distances  the  uncertainty  principle  tells  us  that  they  are  the
+ 
+ ___________________________
+ 
+athematical formula can be associated with
+the  schematic  portrayal  of  figure  12.3—a  formula  that  expresses  the  influence  that  each  incoming
+string has on the resulting motion of the other. (the details of the formula differ among the five string
+theories,  but  for  the  time  being  we  will  ignore  such  subtle  features.)  if  it  weren't  for  quantum
+mechanics, this formula would be the end of the story of how the strings interact. but the microscopic
+frenzy dictated by the uncertainty principle implies that string/antistring pairs (two strings executing
+opposite  vibrational  patterns)  can  momentarily  erupt  into  existence,  borrowing  energy  from  the
+universe,  so  long  as  they  annihilate  one  another  with  sufficient  haste,  thereby  repaying  the  energy
+loan. such pairs of strings, born of the quantum frenzy but which live on borrowed energy and hence
+must shortly recombine into a single loop, are known as virtual string pairs. and even though it is
+only  momentary,  t
+ 
+ ___________________________
+ 
+  but  the
+inclusion of quantum mechanics modifies this conclusion in a profound way. even though he was not
+in possession of a quantum-mechanical version of general relativity, hawking was able to finesse a
+partial union of these two theoretical tools that yielded some limited yet reliable results. and the most
+important result he found was that black holes do emit radiation, quantum mechanically.
+
+the calculations are long and arduous, but hawking's basic idea is simple. we have seen that
+the uncertainty principle ensures that even the vacuum of empty space is a teeming, roiling frenzy of
+virtual particles momentarily erupting into existence and subsequently annihilating one another. this
+jittery quantum behavior also occurs in the region of space just outside the event horizon of a black
+hole. hawking realized, however, that the gravitational might of the black hole can inject energy into
+a pair of virtual photons, say, that tears them just far enough apart so that one gets sucked into the
+hole. with it
+ 
+ ___________________________
+ 
+solutely identical.
+
+8.  richard  feynman, qed:  the  strange  theory  of  light  and  matter  (princeton:  princeton
+
+university press, 1988).
+
+chapter 5
+
+1. stephen hawking, a brief history of time (new york: bantam books, 1988), p. 175.
+2. richard feynman, as quoted in timothy ferris, the whole shebang (new york: simon &
+
+schuster, 1997), p. 97.
+
+3. in case you are still perplexed about how anything at all can happen within a region of space
+that is empty, it is important to realize that the uncertainty principle places a limit on how "empty" a
+region  of  space  can  actually  be;  it  modifies  what  we  mean  by  empty  space.  for  example,  when
+applied  to  wave  disturbances  in  a  field  (such  as  electromagnetic  waves  traveling  in  the
+electromagnetic  field)  the  uncertainty  principle  shows  that  the  amplitude  of  a  wave  and  the  speed
+with which its amplitude changes are subject to the same inverse relationship as are the position and
+speed of a particle: the more precisely the 
+ 
+ ___________________________
+ 
+e. see sphere.
+type i string theory. one of the five superstring theories; involves both open and closed strings.
+type iia string theory.  one of the five superstring theories; involves closed strings with left-right
+symmetric vibrational patterns.
+type iib string theory. one of the five superstring theories; involves closed strings with left-right
+asymmetric vibrational patterns.
+ultramicroscopic. length scales shorter than the planck length (and also time scales shorter than the
+planck time).
+uncertainty principle.  principle  of quantum mechanics,  discovered  by  heisenberg,  that  there  are
+features  of  the  universe,  like  the  position  and velocity  of  a  particle,  that  cannot  be  known  with
+complete precision. such uncertain aspects of the microscopic world become ever more severe as the
+distance  and  time  scales  on  which  they  are  considered  become  ever  smaller.  particles  and  fields
+undulate and jump between all possible values consistent with the quantum uncertainty. this imp
+ 
+ ___________________________
+ 
+f an object's motion.
+vibrational mode. see vibrational pattern.
+vibrational pattern. the precise number of peaks and troughs as well as their amplitude as a string
+oscillates.
+vibration  number.   whole  number  describing  the  energy  in  the uniform  vibrational  motion  of  a
+string; the energy in its overall motion as opposed to that associated with changes in its shape.
+virtual particles. particles that erupt from the vacuum momentarily; they exist on borrowed energy,
+consistent with the uncertainty principle, and rapidly annihilate, thereby repaying the energy loan.
+wave function. probability waves upon which quantum mechanics is founded.
+wavelength. the distance between successive peaks or troughs of a wave.
+wave-particle duality. basic feature of quantum mechanics that objects manifest both wavelike and
+particle-like properties.
+w bosons. see weak gauge boson.
+
+weak force, weak nuclear force.  one  of  the  four  fundamental  forces,  best  known  for  mediating
+radioactive decay.
+weak gauge bos

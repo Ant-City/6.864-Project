@@ -1,0 +1,377 @@
+
+
+500 fifth avenue, new york, n.y. 10110
+
+www.wwnorton.com
+
+w. w. norton & company ltd.
+
+castle house, 75/76 wells street, london w1t 3qt
+
+contents
+
+preface
+
+part i: the edge of knowledge
+1. tied up with string
+
+part ii: the dilemma of space, time, and the quanta
+2. space, time, and the eye of the beholder
+3. of warps and ripples
+4. microscopic weirdness
+5. the need for a new theory: general relativity vs. quantum mechanics
+
+part iii: the cosmic symphony
+6. nothing but music: the essentials of superstring theory
+7. the "super" in superstrings
+8. more dimensions than meet the eye
+9. the smoking gun: experimental signatures
+
+part iv: string theory and the fabric of spacetime
+10. quantum geometry
+11. tearing the fabric of space
+12. beyond strings: in search of m-theory
+13. black holes: a string/m-theory perspective
+14. reflections on cosmology
+
+part v: unification in the twenty-first century
+15. prospects
+
+notes
+glossary of scientific terms
+references and suggestions for further reading
+
+preface
+
+during 
+ 
+ ___________________________
+ 
+ building steadily on the discoveries of their
+predecessors  to  piece  together  an  ever  fuller  understanding  of  how  the  universe  works. and  now,
+long  after  einstein  articulated  his  quest  for  a  unified  theory  but  came  up  empty-handed,  physicists
+believe  they  have  finally  found  a  framework  for  stitching  these  insights  together  into  a  seamless
+whole—a  single  theory  that,  in  principle,  is  capable  of  describing  all  physical  phenomena.  the
+theory, superstring theory, is the subject of this book.
+
+i wrote the elegant universe in an attempt to make the remarkable insights emerging from the
+forefront  of  physics  research  accessible  to  a  broad  spectrum  of  readers,  especially  those  with  no
+training in mathematics or physics. through public lectures on superstring theory i have given over
+the past few years, i have witnessed a widespread yearning to understand what current research says
+about the fundamental laws of the universe, how these laws requ
+ 
+ ___________________________
+ 
+ contagious excitement of researchers closing in on the long-sought
+unified theory. for the avid reader of popular science, i have tried to explain many of the exhilarating
+advances in our understanding of the cosmos that have come to light during the last decade. and for
+my colleagues in other scientific disciplines, i hope this book will give an honest and balanced sense
+of why string theorists are so enthusiastic about the progress being made in the search for the ultimate
+theory of nature.
+
+superstring theory casts a wide net. it is a broad and deep subject that draws on many of the
+central discoveries in physics. since the theory unifies the laws of the large and of the small, laws
+that govern physics out to the farthest reaches of the cosmos and down to the smallest speck of matter,
+
+there  are  many  avenues  by  which  one  can  approach  the  subject.  i  have  chosen  to  focus  on  our
+evolving understanding of space and time. i find this to be an especially gripping developmental path,
+one 
+ 
+ ___________________________
+ 
+
+u.s.  department  of  energy.  it  is  perhaps  not  surprising  that  my  own  research  has  focused  on  the
+impact  superstring  theory  has  on  our  conception  of  space  and  time,  and  in  a  couple  of  the  later
+chapters i describe some of the discoveries in which i had the fortune to take part. although i hope the
+reader  will  enjoy  reading  these  "inside"  accounts,  i  realize  that  they  may  leave  an  exaggerated
+impression of the role i have played in the development of superstring theory. so let me take this
+opportunity to acknowledge the more than one thousand physicists around the world who are crucial
+and dedicated participants in the effort to fashion the ultimate theory of the universe. i apologize to all
+whose  work  is  not  included  in  this  account;  this  merely  reflects  the  thematic  perspective  i  have
+chosen and the length limitations of a general presentation.
+
+finally,  i  owe  heartfelt  thanks  to  ellen archer  for  her  unwavering  love  and  support,  
+ 
+ ___________________________
+ 
+he unhappy amalgam of these two theories. even if you are willing
+to keep the deep interior of a black hole and the beginning of the universe shrouded in mystery, you
+can't help feeling that the hostility between quantum mechanics and general relativity cries out for a
+deeper  level  of  understanding.  can  it  really  be  that  the  universe  at  its  most  fundamental  level  is
+divided, requiring one set of laws when things are large and a different, incompatible set when things
+are small?
+
+superstring theory, a young upstart compared with the venerable edifices of quantum mechanics
+and  general  relativity,  answers  with  a  resounding  no.  intense  research  over  the  past  decade  by
+physicists and mathematicians around the world has revealed that this new approach to describing
+
+matter  at  its  most  fundamental  level  resolves  the  tension  between  general  relativity  and  quantum
+mechanics. in fact, superstring theory shows more: within this new framework, general relativity and
+quant
+ 
+ ___________________________
+ 
+um  mechanics require  one  another  for  the  theory  to  make  sense.  according  to  superstring
+theory, the marriage of the laws of the large and the small is not only happy but inevitable.
+
+that's part of the good news. but superstring theory—string theory, for short—takes this union
+one giant step further. for three decades, einstein sought a unified theory of physics, one that would
+interweave  all  of  nature's  forces  and  material  constituents  within  a  single  theoretical  tapestry.  he
+failed. now, at the dawn of the new millennium, proponents of string theory claim that the threads of
+this elusive unified tapestry finally have been revealed. string theory has the potential to show that all
+of the wondrous happenings 
+ 
+ ___________________________
+ 
+e that, at rock bottom,
+our  deepest  theoretical  understanding  of  the  universe  will  be  composed  of  a  mathematically
+inconsistent patchwork of two powerful yet conflicting explanatory frameworks.
+
+physicists  have  made  numerous  attempts  at  modifying  either  general  relativity  or  quantum
+mechanics  in  some  manner  so  as  to  avoid  the  conflict,  but  the  attempts,  although  often  bold  and
+ingenious, have met with failure after failure.
+
+that is, until the discovery of superstring theory.8
+
+part iii
+
+the cosmic symphony
+
+chapter 6
+
+nothing but music: the essentials of superstring theory
+
+music has long since provided the metaphors of choice for those puzzling over questions of cosmic
+concern. from the ancient pythagorean "music of the spheres" to the "harmonies of nature" that have
+guided  inquiry  through  the  ages,  we  have  collectively  sought  the  song  of  nature  in  the  gentle
+wanderings  of  celestial  bodies  and  the  riotous  fulminations  of  subatomic  parti
+ 
+ ___________________________
+ 
+cles.  with  the
+discovery of superstring theory, musical metaphors take on a startling reality, for the theory suggests
+that the microscopic landscape is suffused with tiny strings whose vibrational patterns orchestrate the
+evolution  of  the  cosmos.  the  winds  of  change,  according  to  superstring  theory,  gust  through  an
+aeolian universe.
+
+by contrast, the standard model views the elementary constituents of the universe as pointlike
+ingredients  with  no  internal  structure.  as  powerful  as  this  approach  is  (as  we  have  me
+ 
+ ___________________________
+ 
+fact, by diligently following this precise notion of
+symmetry to its mathematical conclusion, physicists during the last few decades have found theories
+in  which  matter  particles  and  messenger  particles  are  far  more  closely  intertwined  than  anyone
+previously  thought  possible.  such  theories,  which  unite  not  only  the  forces  of  nature  but  also  the
+material  constituents,  have  the  greatest  possible  symmetry  and  for  this  reason  have  been  called
+supersymmetric. superstring theory, as we shall see, is both the progenitor and the pinnacle example
+
+of a supersymmetric framework.
+
+the nature of physical law
+
+imagine a universe in which the laws of physics are as ephemeral as the tastes of fashion—changing
+from year to year, from week to week, or even from moment to moment. in such a world, assuming
+that the changes do not disrupt basic life processes, you would never experience a dull moment, to
+say the least. the simplest acts would be an adventure, since random variati
+ 
+ ___________________________
+ 
+ibration of this new theory appeared
+to come in pairs. for each bosonic pattern there was a fermionic pattern, and vice versa. by 1977,
+insights  of  ferdinando  gliozzi  of  the  university  of  turin,  scherk,  and  david  olive  of  imperial
+college put this pairing into the proper light. the new string theory incorporated supersymmetry, and
+the  observed  pairing  of  bosonic  and  fermionic  vibrational  patterns  reflected  this  highly  symmetric
+character. supersymmetric string theory—superstring theory, that is—had been born. moreover, the
+work of gliozzi, scherk, and olive had one other crucial result: they showed that the troublesome
+tachyon vibration of the bosonic string does not afflict the superstring. slowly, the pieces of the string
+puzzle were falling into place.
+
+nevertheless, the major initial impact of the work of ramond, and also of neveu and schwarz,
+was not actually in string theory. by 1973, the physicists julius wess and bruno zumino realized that
+supersymmetry—the new sy
+ 
+ ___________________________
+ 
+th string
+theory increasingly becoming a subject on the fringe—the insights of wess and zumino launched a
+tremendous amount of subsequent research on what has come to be called supersymmetric quantum
+field theory. the supersymmetric standard model, discussed in the preceding section, is one of the
+crowning theoretical achievements of these pursuits; we now see that, through historical twists and
+turns, even this point-particle theory owes a great debt to string theory.
+
+with the resurgence of superstring theory in the mid-1980s, supersymmetry has re-emerged in the
+context  of  its  original  discovery.  and  in  this  framework,  the  case  for  supersymmetry  goes  well
+beyond that presented in the preceding section. string theory is the only way we know of to merge
+general relativity and quantum mechanics. but it's only the supersymmetric version of string theory
+that  avoids  the  pernicious  tachyon  problem  and  that  has  fermionic  vibrational  patterns  that  can
+account  for  the  matter  pa
+ 
+ ___________________________
+ 
+ther string theory or something else—should be the way it is because
+there  simply  is  no  other  possibility.  if  we  were  to  discover  that  there  is  only  one  logically  sound
+theory  incorporating  the  basic  ingredients  of  relativity  and  quantum  mechanics,  many  feel  that  we
+would have reached the deepest understanding of why the universe has the properties it does. in short,
+this would be unified-theory paradise.8
+
+as we will see in chapter 12, recent research has taken superstring theory one giant step closer
+to this unified utopia by showing that the five different theories are, remarkably, actually five different
+ways  of  describing one  and  the  same  overarching  theory.  superstring  theory has  the  uniqueness
+pedigree.
+
+things  seem  to  be  falling  into  place,  but,  as  we  will  discuss  in  the  next  chapter,  unification
+
+through string theory does require one more significant departure from conventional wisdom.
+
+chapter 8
+
+more dimensions than meet the eye
+
+e
+ 
+ ___________________________
+ 
+nd experiment, superstring theorists
+pursue an inner harmony, where elegance, uniqueness and beauty define truth. the theory
+depends  for  its  existence  upon  magical  coincidences,  miraculous  cancellations  and
+relations  among  seemingly  unrelated  (and  possibly  undiscovered)  fields  of  mathematics.
+are  these  properties  reasons  to  accept  the  reality  of  superstrings?  do  mathematics  and
+aesthetics supplant and transcend mere experiment?3
+
+elsewhere, glashow went on to say,
+
+superstring theory is so ambitious that it can only be totally right, or totally wrong. the
+only problem is that the mathematics is so new and difficult that we won't know which for
+decades to come.4
+
+and he even questioned whether string theorists should "be paid by physics departments and allowed
+to pervert impressionable students," warning that string theory was was undermining science, much as
+medieval theology did during the middle ages.5
+
+richard feynman, shortly before he died, made it clear that he did no
+ 
+ ___________________________
+ 
+  so,  the  brief  but
+profound inflationary modification of the standard cosmological model solves the horizon problem
+(as  well  as  a  number  of  other  important  problems  we  have  not  discussed)  and  has  gained  wide
+acceptance among cosmologists.3
+
+we summarize the history of the universe from just after the planck time to the present, according
+
+to the current theory, in figure 14.1.
+
+figure 14.1 a time line denoting a few key moments in the history of the universe.
+
+cosmology and superstring theory
+
+there remains a sliver of figure 14.1, between the big bang and the planck time, that we have not yet
+discussed. by blindly applying the equations of general relativity to that region, physicists have found
+that the universe continues to get ever smaller, ever hotter, and ever denser, as we move backward in
+time toward the bang. at time zero, as the size of the universe vanishes, the temperature and density
+soar to infinity, giving us the most extreme signal that this theoretical model of the 
+ 
+ ___________________________
+ 
+ly on the cosmological accelerator of the big bang, and the relics it has
+left for us throughout the universe, for our experimental data. with luck and perseverance, we may
+finally be able to answer questions such as how the universe began, and why it has evolved to the
+form we behold in the heavens and on earth. there is, of course, much uncharted territory between
+where we are and where full answers to these fundamental questions lie. but the development of a
+quantum theory of gravity through superstring theory lends credence to the hope that we now possess
+theoretical tools for pushing into the vast regions of the unknown, and, no doubt after many a struggle,
+possibly emerging with answers to some of the deepest questions ever posed.
+
+part v
+
+unification in the twenty-first century
+
+chapter 15
+
+prospects
+
+centuries from now, superstring theory, or its evolution within m-theory, may have developed so far
+beyond our current formulation that it might be unrecognizable even to today's leading researche
+ 
+ ___________________________
+ 
+ theory  will  have  progressed  sufficiently  for  detailed  predictions  about  the
+superpartners to be made prior to their hoped-for discovery. confirmation of such predictions would
+be a monumental moment in the history of science.
+
+are there limits to explanation?
+
+explaining everything, even in the circumscribed sense of understanding all aspects of the forces and
+the elementary constituents of the universe, is one of the greatest challenges science has ever faced.
+and for the first time, superstring theory gives us a framework that appears to have sufficient depth to
+meet  the  challenge.  but  will  we  ever  realize  the  promise  of  the  theory  fully  and,  for  example,
+calculate the masses of the quarks or the strength of the electromagnetic force, numbers whose precise
+values dictate so much about the universe? as in the previous sections, we will have to surmount
+numerous theoretical hurdles on the way to these goals—currently, the most prominent is achieving a
+full nonperturbative for
+ 
+ ___________________________
+ 
+e with numerous hidden dimensions capable of undergoing
+extreme contortions in which their spatial fabric tears apart and then repairs itself. who could have
+guessed that the merging of gravity and quantum mechanics into a unified theory of all matter and all
+forces would yield such a revolution in our understanding of how the universe works?
+
+no  doubt,  there  are  even  grander  surprises  in  store  for  us  as  we  continue  to  seek  a  full  and
+calculationally tractable understanding of superstring theory. already, through studies in m-theory,
+we have seen glimpses of a strange new domain of the universe lurking beneath the planck length,
+possibly one in which there is no notion of time or space. at the opposite extreme, we have also seen
+that our universe may merely be one of the innumerable frothing bubbles on the surface of a vast and
+turbulent cosmic ocean called the multiverse. these ideas are at the current edge of speculation, but
+they may presage the next leap in our understanding of the
+ 
+ ___________________________
+ 
+: rutgers university press), 1996, p. 414.
+
+11. interview with sheldon glashow, december 28, 1997.
+12. interview with sheldon glashow, december 28, 1997.
+13.  interview  with  howard  georgi,  december  28,  1997.  during  the  interview,  georgi  also
+
+noted  that  the  experimental  refutation  of  the  prediction  of  proton  decay  that  emerged  from  his  and
+glashow's  first  proposed  grand  unified  theory  (see  chapter  7)  played  a  significant  part  in  his
+reluctance to embrace superstring theory. he noted poignantly that his grand unified theory invoked a
+vastly  higher  energy  realm  than  any  theory  previously  considered,  and  when  its  prediction  was
+proved wrong—when it resulted in his "being slapped down by nature"—his attitude toward studying
+extremely  high  energy  physics  abruptly  changed.  when  i  asked  him  whether  experimental
+confirmation  of  his  grand  unified  theory  might  have  inspired  him  to  lead  the  charge  to  the  planck
+scale, he responded
+ 
+ ___________________________
+ 
+s are valid.
+string mode. a possible configuration (vibrational pattern, winding configuration) that a string can
+assume.
+string theory. unified theory of the universe postulating that fundamental ingredients of nature are
+
+not zero-dimensional point particles but tiny one-dimensional filaments called strings. string theory
+harmoniously  unites quantum mechanics  and general relativity,  the  previously  known  laws  of  the
+small and the large, that are otherwise incompatible. often short for superstring theory.
+strong  force,  strong  nuclear  force.  strongest  of  the  four  fundamental  forces,  responsible  for
+keeping quarks locked inside protons  and neutrons and for keeping protons and neutrons crammed
+inside of atomic nuclei.
+strong force symmetry. gauge symmetry underlying the strong force, associated with invariance of
+a physical system under shifts in the color charges of quarks.
+strongly coupled. theory whose string coupling constant is larger than 1.
+strong-weak duality. situation in whi
+ 
+ ___________________________
+ 
+ch a strongly coupled theory is dual—physically identical—to
+a different, weakly coupled theory.
+sum-over-paths.  formulation  of quantum  mechanics  in  which  particles  are  envisioned  to  travel
+from one point to another along all possible paths between them.
+supergravity. class of point-particle theories combining general relativity and supersymmetry.
+superpartners. particles whose spins differ by 1/2 unit and that are paired by supersymmetry.
+superstring theory. string theory that incorporates supersymmetry.
+supersymmetric quantum field theory. quantum field theory incorporating supersymmetry.
+supersymmetric  standard  model.  generalization  of  the standard  model  of  particle  physics  to
+incorporate supersymmetry. entails a doubling of the known elementary particle species.
+supersymmetry. a symmetry principle that relates the properties of particles with a whole number
+amount of spin (bosons) to those with half a whole (odd) number amount of spin

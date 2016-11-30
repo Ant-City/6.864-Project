@@ -1,0 +1,131 @@
+the ultimate theory / brian r.
+
+greene.
+p. cm.
+
+includes bibliographical references.
+
+isbn: 978-0-393-07134-4
+
+1. superstring theories. 2. cosmology. i. title.
+
+qc794.6.s85g75 1999
+
+539.7'258—dc21 98-25695
+
+cip
+
+w. w. norton & company, inc.
+
+500 fifth avenue, new york, n.y. 10110
+
+www.wwnorton.com
+
+w. w. norton & company ltd.
+
+castle house, 75/76 wells street, london w1t 3qt
+
+contents
+
+preface
+
+part i: the edge of knowledge
+1. tied up with string
+
+part ii: the dilemma of space, time, and the quanta
+2. space, time, and the eye of the beholder
+3. of warps and ripples
+4. microscopic weirdness
+5. the need for a new theory: general relativity vs. quantum mechanics
+
+part iii: the cosmic symphony
+6. nothing but music: the essentials of superstring theory
+7. the "super" in superstrings
+8. more dimensions than meet the eye
+9. the smoking gun: experimental signatures
+
+part iv: string theory and the fabric of spacetime
+10. quantum geometry
+11. tearing the fabric of space
+12. beyond strings: in searc
+ 
+ ___________________________
+ 
+en our present
+level of understanding has allowed us to gain striking new insights into the workings of the universe.
+a central thread in what follows will be those developments that carry forward the revolution in our
+understanding of space and time initiated by einstein's special and general theories of relativity. we
+will see that if string theory is correct, the fabric of our universe has properties that would likely have
+dazzled even einstein.
+
+part ii
+
+the dilemma of space, time, and the quanta
+
+chapter 2
+
+space, time, and the eye of the beholder
+
+in june 1905, twenty-six-year-old albert einstein submitted a technical article to the german annals
+of  physics  in  which  he  came  to  grips  with  a  paradox  about  light  that  had  first  troubled  him  as  a
+teenager, some ten years earlier. upon turning the final page of einstein's manuscript, the editor of the
+journal, max planck, realized that the accepted scientific order had been overthrown. without hoopla
+or fanfare, a patent
+ 
+ ___________________________
+ 
+nation of the photons we shine on the metallic surface.
+
+this  is  precisely  in  accord  with  the  experimental  data.  the  frequency  of  the  light  (its  color)
+determines the speed of the ejected electrons; the total intensity of the light determines the number of
+ejected  electrons. and  so  einstein  showed  that  planck's  guess  of  lumpy  energy  actually  reflects  a
+fundamental feature of electromagnetic waves: they are composed of particles—photons—that are
+little bundles, or quanta, of light. the lumpiness of the energy embodied by such waves is due to their
+being composed of lumps.
+
+einstein's insight represented great progress. but, as we shall now see, the story is not as tidy as
+
+it might appear.
+
+is it a wave or is it a particle?
+
+everyone  knows  that  water—and  hence  water  waves—are  composed  of  a  huge  number  of  water
+molecules. so is it really surprising that light waves are also composed of a huge number of particles,
+namely photons? it is. but the s
+ 
+ ___________________________
+ 
+hat in the world does a probability greater than one mean, let alone one that is
+infinite? we are forced to conclude that there is something seriously wrong. by closely examining the
+basic properties of general relativity and quantum mechanics, we can identify what that something is.
+
+the heart of quantum mechanics
+
+when  heisenberg  discovered  the  uncertainty  principle,  physics  turned  a  sharp  corner,  never  to
+retrace  its  steps.  probabilities,  wave  functions,  interference,  and  quanta  all  involve  radically  new
+ways of seeing reality. nevertheless, a die-hard "classical" physicist might still have hung on to a
+thread of hope that when all was said and done these departures would add up to a framework not too
+distant from old ways of thinking. but the uncertainty principle cleanly and definitively undercut any
+attempt to cling to the past.
+
+the uncertainty principle tells us that the universe is a frenetic place when examined on smaller
+
+and  smaller  distances  and  shor
+ 
+ ___________________________
+ 
+le  of special  relativity  declaring  that  all  constant-velocity
+observers are subject to an identical set of physical laws and that, therefore, every constant-velocity
+observer is justified in claiming that he or she is at rest. this principle is generalized by the principle
+of equivalence.
+product. the result of multiplying two numbers.
+proton.  positively  charged  particle,  typically  found  in  the  nucleus  of  an atom,  consisting  of  three
+quarks (two up-quarks and one down-quark).
+quanta. the smallest physical units into which something can be partitioned, according to the laws
+of quantum mechanics. for instance, photons are the quanta of the electromagnetic field.
+
+quantum  chromodynamics  (qcd).  relativistic  quantum  field  theory  of  the strong  force  and
+quarks, incorporating special relativity.
+quantum claustrophobia. see quantum fluctuations.
+quantum determinism.  property  of quantum mechanics  that  knowledge  of  the  quantum  state  of  a
+system at one moment com

@@ -1,0 +1,183 @@
+ll encounter and explain in
+chapters  11  and  13)  an  isolated  "chunk"  of  space  is  collapsing.  the  general  belief  among  string
+theorists is that, regardless of shape, there is a minimum limiting size, much as in the case of circular
+
+dimensions, so long as we are shrinking a full spatial dimension. establishing this expectation is an
+important goal for further research because it has a direct impact on a number of aspects of string
+theory, including its implications for cosmology.
+
+mirror symmetry
+
+through general relativity, einstein forged a link between the physics of gravity and the geometry of
+spacetime.  at  first  blush,  string  theory  strengthens  and  broadens  the  link  between  physics  and
+geometry, since the properties of vibrating strings—their mass and the force charges they carry—are
+largely determined by the properties of the curled-up component of space. we have just seen, though,
+that  quantum  geometry—the  geometry-physics  association  in  string  theory—
+ 
+ ___________________________
+ 
+recisely by the interchange of the number of even and odd holes. i told him that i was still seated—
+that plesser and i had found the same result. candelas's and our work turned out to be complementary;
+we  had  gone  one  step  further  by  showing  that  all  of  the  resulting  physics  in  a  mirror  pair  was
+identical, whereas candelas and his students had shown that a significantly larger sample of calabi-
+yau shapes fell into mirror pairs. through the two papers, we had discovered the mirror symmetry
+of string theory.7
+
+the physics and the mathematics of mirror symmetry
+
+the loosening of einstein's rigid and unique association between the geometry of space and observed
+physics is one of the striking paradigm shifts of string theory. but these developments entail far more
+than a change in philosophical stance. mirror symmetry, in particular, provides a powerful tool for
+understanding both the physics of string theory and the mathematics of calabi-yau spaces.
+
+mathematicians  working  in  a  
+ 
+ ___________________________
+ 
+in  arild  strømme—happened  to  be  working  on  one  of
+numerous calculations that candelas and his collaborators had successfully conquered with mirror
+symmetry. roughly speaking, it amounted to calculating the number of spheres that could be "packed"
+inside a particular calabi-yau space, somewhat like our analogy of counting oranges in a large bin.
+at a meeting of physicists and mathematicians in berkeley in 1991, candelas announced the result
+reached by his group using string theory and mirror symmetry: 317,206,375. ellingsrud and strømme
+announced  the  result  of  their  very  difficult  mathematical  calculation:  2,682,549,425.  for  days,
+mathematicians and physicists debated: who was right? the question turned into a real litmus test of
+the quantitative reliability of string theory. a number of people even commented—somewhat in jest—
+that  this  test  was  the  next  best  thing  to  being  able  to  compare  string  theory  with  experiment.
+moreover, candelas's results went far b
+ 
+ ___________________________
+ 
+the meeting ended
+with a great deal of fruitful exchange between mathematicians and physicists, but no resolution of the
+discrepancy.
+
+about  a  month  later,  an  e-mail  message  was  widely  circulated  among  participants  in  the
+berkeley meeting with the subject heading physics wins! ellingsrud and strømme had found an error
+in their computer code that, when corrected, confirmed candelas's result. since then, there have been
+many mathematical checks on the quantitative reliability of the mirror symmetry of string theory: it has
+passed all with flying colors. even more recently, almost a decade after physicists discovered mirror
+symmetry,  mathematicians  have  made  great  progress  in  revealing  its  inherent  mathematical
+foundations.  by  utilizing  substantial  contributions  of  the  mathematicians  maxim  kontsevich,  yuri
+manin, gang tian, jun li, and alexander givental, yau and his collaborators bong lian and kefeng
+liu have finally found a rigorous mathematical proof of the formulas 
+ 
+ ___________________________
+ 
+member of a mirror pair of calabi-yau shapes (if
+selected for the extra dimensions) is identical, but the complexity of the mathematics that a physicist
+
+must employ to extract the physics can differ significantly between the two. aspinwall and lütken
+speculated that the mathematically complicated flop transition of figures 11.3 and 11.4 might have a
+far  simpler  mirror  description—one  that  might  give  a  more  transparent  view  on  the  associated
+physics.
+
+at the time of their work, mirror symmetry was not understood at the depth required to answer
+the question they posed. however, aspinwall and lütken noted that there did not seem to be anything
+in the mirror description that would indicate a disastrous physical consequence associated with the
+spatial tears of flop transitions. around the same time, the work plesser and i had done in finding
+mirror  pairs  of  calabi-yau  shapes  (see  chapter  10)  unexpectedly  led  us  to  think  about  flop
+transitions  as  well.  it  is  a  well-kn
+ 
+ ___________________________
+ 
+d, each of us turned to working on other string theory projects.
+
+even  so,  i  found  myself  mulling  over  the  possibility  of  space-tearing  flop  transitions. as  the
+months  went  by,  i  felt  increasingly  sure  that  they  had  to  be  part  and  parcel  of  string  theory.  the
+preliminary  calculations  plesser  and  i  had  done,  together  with  insightful  discussions  with  david
+morrison, a mathematician from duke university, made it seem that this was the only conclusion that
+mirror symmetry naturally supported. in fact, during a visit to duke, morrison and i, together with
+some helpful observations from sheldon katz of oklahoma state university, who was also visiting
+duke at the time, outlined a strategy for proving that flop transitions can occur in string theory. but
+when we sat down to do the required calculations, we found that they were extraordinarily intensive.
+even on the world's fastest computer, they would take more than a century to complete. we had made
+progress,  but 
+ 
+ ___________________________
+ 
+ we  clearly  needed  a  new  idea,  one  that  could  greatly  enhance  the  efficiency  of  our
+calculational  method.  unwittingly,  victor  batyrev,  a  mathematician  from  the  university  of  essen,
+revealed such an idea through a pair of papers released in the spring and summer of 1992.
+
+batyrev had become very interested in mirror symmetry, especially in the wake of the success of
+
+candelas and his collaborators in using it to solve the sphere-counting problem described at the end
+of  chapter  10.  with  a  mathematician's  perspective,  though,  batyrev  was  unsettled  by  the  methods
+plesser and i had invoked to find mirror pairs of calabi-yau spaces. although our approach used
+tools  familiar  to  string  theorists,  batyrev  later  told  me  that  our  paper  seemed  to  him  to  be  "black
+magic." this reflects the large 
+ 
+ ___________________________
+ 
+nt itself. since mirrors interchange left and right, the work of lee, yang, and
+wu established that the universe is not perfectly left-right symmetric—in the language of the field, the
+universe  is chiral.  it  is  this  feature  of  the  standard  model  (the  weak  force,  in  particular)  that
+physicists found nearly impossible to incorporate into a higher-dimensional supergravity framework.
+to avoid confusion, we note that in chapter 10 we will discuss a concept in string theory known as
+"mirror symmetry," but the use of the word "mirror" in that context is completely different from its use
+here.
+
+8.  for  the  mathematically  inclined  reader,  we  note  that  a  calabi-yau  manifold  is  a  complex
+kähler  manifold  with  vanishing  first  chern  class.  in  1957  calabi  conjectured  that  every  such
+manifold admits a ricci-flat metric, and in 1977 yau proved this to be true.
+
+9. this illustration is courtesy of andrew hanson of indiana university, and was made using the
+
+mathematica 3-d g
+ 
+ ___________________________
+ 
+ven-dimensional holes. the conclusion, however, is the same. for
+instance, if two calabi-yau spaces differ by the interchange of their respective h2,1  and h1,1 hodge
+numbers, the number of particle families—and the total number of "holes"—will not change.
+
+6. the name comes from the fact that the "hodge diamonds"—a mathematical summary of the
+holes of various dimensions in a calabi-yau space—for each calabi-yau space of a mirror pair are
+mirror reflections of one another.
+
+7. the term mirror symmetry is also used in other, completely different contexts in physics, such
+as in the question of chirality—that is, whether the universe is left-right symmetric—as discussed in
+note 7 of chapter 8.
+
+chapter 11
+
+1. the mathematically inclined reader will recognize that we are asking whether the topology of
+space  is  dynamical—that  is,  whether  it  can  change.  we  note  that  although  we  will  often  use  the
+language  of  dynamical  topology  change,  in  practice  we  are  usually  cons
+ 
+ ___________________________
+ 
+ys in
+which branes can have an effect on familiar physics. for example, it has been suggested that our three
+extended spatial dimensions might themselves be a three-brane that is large and unfurled. if so, as we
+go  about  our  daily  business  we  would  be  gliding  through  the  interior  of  a  three-dimensional
+membrane. investigations of such possibilities are now being undertaken.
+
+15. interview with edward witten, may 11, 1998.
+
+chapter 13
+
+1. the expert reader will recognize that under mirror symmetry, a collapsing three-dimensional
+sphere on one calabi-yau space gets mapped to a collapsing two-dimensional sphere on the mirror
+calabi-yau space—apparently putting us back in the situation of flops discussed in chapter 11. the
+difference, however, is that a mirror rephrasing of this sort results in the antisymmetric tensor field
+bµv—the real part of the complexified kähler form on the mirror calabi-yau space—vanishing, and
+this is a far more drastic sort of singularity than that discuss
+ 
+ ___________________________
+ 
+black hole has no remaining
+mass—it is massless. in this state, it no longer manifests such usual black hole properties as an event
+horizon.
+maxwell's  theory,  maxwell's  electromagnetic  theory.  theory  uniting  electricity  and  magnetism,
+
+based  on  the  concept  of  the electromagnetic  field,  devised  by  maxwell  in  the  1880s;  shows  that
+visible light is an example of an electromagnetic wave.
+messenger particle. smallest bundle of a force field; microscopic conveyer of a force.
+mirror symmetry. in the context of string theory, a symmetry showing that two different calabi-yau
+shapes,  known  as  a  mirror  pair,  give  rise  to  identical  physics  when  chosen  for  the curled-up
+dimensions of string theory.
+m-theory.  theory  emerging  from  the second  superstring  revolution  that  unites  the  previous  five
+superstring  theories  within  a  single  overarching  framework.  m-theory  appears  to  be  a  theory
+involving  eleven spacetime  dimensions,  although  many  of  its  det

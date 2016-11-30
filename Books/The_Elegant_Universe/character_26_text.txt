@@ -1,0 +1,16 @@
+a huge number of particles,
+namely photons? it is. but the surprise is in the details. you see, more than three hundred years ago
+
+newton  proclaimed  that  light  consisted  of  a  stream  of  particles,  so  the  idea  is  not  exactly  new.
+however,  some  of  newton's  colleagues,  most  notably  the  dutch  physicist  christian  huygens,
+disagreed  with  him  and  argued  that  light  is  a  wave.  the  debate  raged  but  ultimately  experiments
+carried  out  by  the  english  physicist  thomas young  in  the  early  1800s  showed  that  newton  was
+wrong.
+
+a  version  of  young's  experimental  setup—known  as 
+
+the  double-slit  experiment—is
+schematically illustrated in figure 4.3. feynman was fond of saying that all of quantum mechanics can
+be  gleaned  from  carefully  thinking  through  the  implications  of  this  single  experiment,  so  it's  well
+worth discussing. as we see from figure 4.3, light is shone on a thin solid barrier in which two slits
+are  cut.  a  photographic  pl

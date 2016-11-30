@@ -1,0 +1,403 @@
+illars upon
+which modern physics rests. one is albert einstein's general relativity, which provides a theoretical
+framework for understanding the universe on the largest of scales: stars, galaxies, clusters of galaxies,
+and beyond to the immense expanse of the universe itself. the other is quantum mechanics, which
+provides a theoretical framework for understanding the universe on the smallest of scales: molecules,
+atoms,  and  all  the  way  down  to  subatomic  particles  like  electrons  and  quarks.  through  years  of
+research,  physicists  have  experimentally  confirmed  to  almost  unimaginable  accuracy  virtually  all
+predictions  made  by  each  of  these  theories.  but  these  same  theoretical  tools  inexorably  lead  to
+another  disturbing  conclusion:  as  they  are  currently  formulated,  general  relativity  and  quantum
+mechanics cannot  both  be  right.  the  two  theories  underlying  the  tremendous  progress  of  physics
+during  the  last  hundred  years—progress  t
+ 
+ ___________________________
+ 
+nt step further. for three decades, einstein sought a unified theory of physics, one that would
+interweave  all  of  nature's  forces  and  material  constituents  within  a  single  theoretical  tapestry.  he
+failed. now, at the dawn of the new millennium, proponents of string theory claim that the threads of
+this elusive unified tapestry finally have been revealed. string theory has the potential to show that all
+of the wondrous happenings in the universe—from the frantic dance of subatomic quarks to the stately
+waltz of orbiting binary stars, from the primordial fireball of the big bang to the majestic swirl of
+heavenly galaxies—are reflections of one grand physical principle, one master equation.
+
+because these features of string theory require that we drastically change our understanding of
+space, time, and matter, they will take some time to get used to, to sink in at a comfortable level. but
+as shall become clear, when seen in its proper context, string theory emerges as a dramati
+ 
+ ___________________________
+ 
+protons
+and neutrons, that is surrounded by a swarm of orbiting electrons.
+
+for  a  while  many  physicists  thought  that  protons,  neutrons,  and  electrons  were  the  greeks'
+"atoms."  but  in  1968  experimenters  at  the  stanford  linear accelerator  center,  making  use  of  the
+increased capacity of technology to probe the microscopic depths of matter, found that protons and
+neutrons are not fundamental, either. instead they showed that each consists of three smaller particles,
+called quarks—a  whimsical  name  taken  from  a  passage  in  james  joyce's finnegans  wake  by  the
+theoretical  physicist  murray  gell-mann,  who  previously  had  surmised  their  existence.  the
+experimenters confirmed that quarks themselves come in two varieties, which were named, a bit less
+creatively, up and down. a proton consists of two up-quarks and a down-quark; a neutron consists of
+two down-quarks and an up-quark.
+
+everything  you  see  in  the  terrestrial  world  and  the  heavens  above 
+ 
+ ___________________________
+ 
+ appears  to  be  made  from
+
+combinations of electrons, up-quarks, and down-quarks. no experimental evidence indicates that any
+of these three particles is built up from something smaller. but a great deal of evidence indicates that
+the  universe  itself  has  additional  particulate  ingredients.  in  the  mid-1950s,  frederick  reines  and
+clyde cowan found conclusive experimental evidence for a fourth kind of fundamental particle called
+a  neutrino—a  particle  whose  existence  was  predicted  in  the  early  1930s  by  wolfgang  pauli.
+neutrinos proved very difficult t
+ 
+ ___________________________
+ 
+saac  rabi
+greeted the discovery of the muon with a less than enthusiastic "who ordered that?" nevertheless,
+there it was. and more was to follow.
+
+using ever more powerful technology, physicists have continued to slam bits of matter together
+with  ever  increasing  energy,  momentarily  recreating  conditions  unseen  since  the  big  bang.  in  the
+debris they have searched for new fundamental ingredients to add to the growing list of particles.
+here  is  what  they  have  found:  four  more  quarks—charm,  strange,  bottom,  and top—and  another
+even  heavier  cousin  of  the  electron,  called  a tau,  as  well  as  two  other  particles  with  properties
+similar  to  the  neutrino  (called  the muon-neutrino  and tau-neutrino  to  distinguish  them  from  the
+original  neutrino,  now  called  the electron-neutrino).  these  particles  are  produced  through  high-
+energy  collisions  and  exist  only  ephemerally;  they  are  not  constituents  of  anything  we  typically
+encounter.
+ 
+ ___________________________
+ 
+ as an electron, but its electric charge is
++1  whereas  the  electric  charge  of  the  electron  is  -1.  when  in  contact,  matter  and  antimatter  can
+annihilate one another to produce pure energy—that's why there is extremely little naturally occurring
+antimatter in the world around us.
+
+physicists have recognized a pattern among these particles, displayed in table 1.1. the matter
+particles neatly fall into three groups, which are often called families. each family contains two of
+the  quarks,  an  electron  or  one  of  its  cousins,  and  one  of  the  neutrino  species.  the  corresponding
+particle types across the three families have identical properties except for their mass, which grows
+larger in each successive family. the upshot is that physicists have now probed the structure of matter
+to scales of about a billionth of a billionth of a meter and shown that everything encountered to date
+—whether it occurs naturally or is produced artificially with giant atom-smashers—co
+ 
+ ___________________________
+ 
+rticles from these three families and their antimatter partners.
+
+a  glance  at  table  1.1  will  no  doubt  leave  you  with  an  even  stronger  sense  of  rabi's
+bewilderment  at  the  discovery  of  the  muon.  the  arrangement  into  families  at  least  gives  some
+semblance  of  order,  but  innumerable  "whys"  leap  to  the  fore.  why  are  there  so  many  fundamental
+particles, especially when it seems that the great majority of things in the world around us need only
+electrons, up-quarks, and down-quarks? why are there three families? why not one family or four
+families or any other number? why do the particles have a seemingly random spread of masses—
+
+why, for in-
+
+stance, does the tau weigh about 3,520 times as much as an electron? why does the top quark
+weigh about 40,200 times as much an up-quark? these are such strange, seemingly random numbers.
+did they occur by chance, by some divine choice, or is there a comprehensible scientific explanation
+for these fundamental fe
+ 
+ ___________________________
+ 
+ electric charge of a particle plays the same role for the electromagnetic
+force as mass does for gravity: it determines how strongly the particle can exert as well as respond
+electromagnetically.
+
+the strong and the weak forces are less familiar because their strength rapidly diminishes over
+all  but  subatomic  distance  scales;  they  are  the  nuclear  forces.  this  is  why  these  two  forces  were
+discovered  only  much  more  recently.  the  strong  force  is  responsible  for  keeping  quarks  "glued"
+together inside of protons and neutrons and keeping protons and neutrons tightly crammed together
+inside atomic nuclei. the weak force is best known as the force responsible for the radioactive decay
+
+of substances such as uranium and cobalt.
+
+during the past century, physicists have found two features common to all these forces. first, as
+we will discuss in chapter 5, at a microscopic level all the forces have an associated particle that
+you can think of as being the smallest packet 
+ 
+ ___________________________
+ 
+ay instead of another; the universe would be a vastly different place if the properties of the matter
+and force particles were even moderately changed. for example, the existence of the stable nuclei
+forming the hundred or so elements of the periodic table hinges delicately on the ratio between the
+strengths of the strong and electromagnetic forces. the protons crammed together in atomic nuclei all
+repel  one  another  electromagnetically;  the  strong  force  acting  among  their  constituent  quarks,
+thankfully, overcomes this repulsion and tethers the protons tightly together. but a rather small change
+in  the  relative  strengths  of  these  two  forces  would  easily  disrupt  the  balance  between  them,  and
+would cause most atomic nuclei to disintegrate. furthermore, were the mass of the electron a few
+times greater than it is, electrons and protons would tend to combine to form neutrons, gobbling up the
+nuclei of hydrogen (the simplest element in the cosmos, with a nucleus containin
+ 
+ ___________________________
+ 
+ins a vibrating, oscillating, dancing filament that physicists, lacking gell-mann's literary
+flair, have named a string. in figure 1.1 we illustrate this essential idea of string theory by starting
+with  an  ordinary  piece  of  matter,  an  apple,  and  repeatedly  magnifying  its  structure  to  reveal  its
+ingredients on ever smaller scales. string theory adds the new microscopic layer of a vibrating loop
+to the previously known progression from atoms through protons, neutrons, electrons and quarks.2
+
+although it is by no means obvious, we will see in chapter 6 that this simple replacement of
+point-particle  material  constituents  with  strings  resolves  the  incompatibility  between  quantum
+mechanics  and  general  relativity.  string  theory  thereby  unravels  the  central  gordian  knot  of
+contemporary theoretical physics. this is a tremendous achievement, but it is only part of the reason
+string theory has generated such excitement.
+
+figure  1.1  matter  is  composed  of  atoms, 
+ 
+ ___________________________
+ 
+ which  in  turn  are  made  from  quarks  and  electrons.
+according to string theory, all such particles are actually tiny loops of vibrating string.
+
+string theory as the unified theory of everything
+
+in  einstein's  day,  the  strong  and  the  weak  forces  had  not  yet  been  discovered,  but  he  found  the
+existence of even two distinct forces—gravity and electromagnetism—deeply troubling. einstein did
+not accept that nature is founded on such an extravagant design. this launched his thirty-year voyage
+in search of the so-c
+ 
+ ___________________________
+ 
+ in  systems  more  complex  than  individual  particles  truly  represent  new
+physical principles at work, or whether the principles involved are derivative, relying, albeit in a
+terribly  complicated  way,  on  the  physical  principles  governing  the  enormously  large  number  of
+elementary constituents. my own feeling is that they do not represent new and independent laws of
+physics. although it would be hard to explain the properties of a tornado in terms of the physics of
+electrons and quarks, i see this as a matter of calculational impasse, not an indicator of the need for
+new physical laws. but again, there are some who disagree with this view.
+
+what is largely beyond question, and is of primary importance to the journey described in this
+book, is that even if one accepts the debatable reasoning of the staunch reductionist, principle is one
+thing  and  practice  quite  another. almost  everyone  agrees  that  finding  the  t.o.e.  would  in  no  way
+mean that psychology, biology, 
+ 
+ ___________________________
+ 
+ message of how the recipient must respond to the force in question. for like-charged
+particles,  the  photon  carries  the  message  "move  apart,"  while  for  oppositely  charged  particles  it
+carries  the  message  "come  together."  for  this  reason  the  photon  is  sometimes  referred  to  as  the
+messenger particle for the electromagnetic force. similarly, the gluons and weak gauge bosons are
+the messenger particles for the strong and weak nuclear forces. the strong force, which keeps quarks
+locked  up  inside  of  protons  and  neutrons,  arises  from  individual  quarks  exchanging  gluons.  the
+gluons, so to speak, provide the "glue" that keeps these subatomic particles stuck together. the weak
+force, which is responsible for certain kinds of particle transmutations involved in radioactive decay,
+is mediated by the weak gauge bosons.
+
+gauge symmetry
+
+you may have realized that the odd man out in our discussion of the quantum theory of the forces of
+nature is gravity. given the s
+ 
+ ___________________________
+ 
+et's  consider  one  important
+example. as we recorded in the table in endnote 1 of chapter 1, each quark comes in three "colors"
+(fancifully called red, green, and blue, although these are merely labels and have no relation to color
+in the usual visual sense), which determine how it responds to the strong force in much the same way
+that its electric charge determines how it responds to the electromagnetic force. all the data that have
+been collected establish that there is a symmetry among the quarks in the sense that the interactions
+between  any  two  like-colored  quarks  (red  with  red,  green  with  green,  or  blue  with  blue)  are  all
+identical,  and  similarly,  the  interactions  between  any  two  unlike-colored  quarks  (red  with  green,
+green with blue, or blue with red) are also identical. in fact, the data support something even more
+striking. if the three colors—the three different strong charges—that a quark can carry were all shifted
+in a particular manner (roughly 
+ 
+ ___________________________
+ 
+speaking, in our fanciful chromatic language, if red, green, and blue
+were shifted, for instance, to yellow, indigo, and violet), and even if the details of this shift were to
+change from moment to moment or from place to place, the interactions between the quarks would be,
+again,  completely  unchanged.  for  this  reason,  just  as  we  say  that  a  sphere  exemplifies  rotational
+symmetry because it looks the same regardless of how we rotate it around in our hands or how we
+shift the angle from which we view it, we say that the universe exemplifies strong force symmetry:
+physics  is  unchanged  by—it  is  completely  insensitive  to—these  force-charge  shifts.  for  historical
+reasons, physicists also say that the strong force symmetry is an exa
+ 
+ ___________________________
+ 
+lly some whole number (1, 2, 3,. . .) times the planck mass. physicists often
+express this by saying that the "natural" or "typical" energy scale (and hence mass scale) of string
+theory is the planck scale.
+
+this raises a crucial question directly related to the goal of reproducing the particle properties
+in tables 1.1 and 1.2: if the "natural" energy scale of string theory is some ten billion billion times
+that of a proton, how can it possibly account for the far-lighter particles—electrons, quarks, photons,
+and so on—making up the world around us?
+
+the answer, once again, comes from quantum mechanics. the uncertainty principle ensures that
+nothing is ever perfectly at rest. all objects undergo quantum jitter, for if they didn't we would know
+where  they  were  and  how  fast  they  were  moving  with  complete  precision,  in  violation  of
+heisenberg's dictum. this holds true for the loops in string theory as well; no matter how placid a
+string appears it will always experience some a
+ 
+ ___________________________
+ 
+s
+supersymmetry, then every known particle must have an as-yet-undiscovered superpartner particle,
+whose  spin  is  half  a  unit  less  than  its  known  counterpart.  for  instance,  there  should  be  a  spin-0
+partner  of  the  electron;  this  hypothetical  particle  has  been  named  the selectron  (a  contraction  of
+supersymmetric-electron).  the  same  should  also  be  true  for  the  other  matter  particles,  with,  for
+example, the hypothetical spin-0 superpartners of neutrinos and quarks being called sneutrinos and
+squarks. similarly, the force particles should have spin-1/2 superpartners: for photons there should
+be photinos, for the gluons there should be gluinos, for the w and z bosons there should be winos and
+zinos.
+
+on  closer  inspection,  then,  supersymmetry  seems  to  be  a  terribly  uneconomical  feature;  it
+
+requires  a  whole  slew  of  additional  particles  that  wind  up  doubling  the  list  of  fundamental
+ingredients. since none of the superpartner partic
+ 
+ ___________________________
+ 
+he reach of this machine as well.
+
+having said this, if in fact the superpartner particles are found, it will most definitely be strong
+
+and exciting circumstantial evidence for string theory.
+
+fractionally charged particles
+
+another experimental signature of string theory, having to do with electric charge, is somewhat less
+generic  than  superpartner  particles  but  equally  dramatic.  the  elementary  particles  of  the  standard
+model have a very limited assortment of electric charges: the quarks and antiquarks have electric
+charges of one-third or two-thirds, and their negatives, while the other particles have electric charges
+of zero, one, or negative one. combinations of these particles account for all known matter in the
+universe.  in  string  theory,  however,  it  is  possible  for  there  to  be  resonant  vibrational  patterns
+corresponding to particles of significantly different electric charges. for instance, the electric charge
+of a particle can take on exotic fractional valu
+ 
+ ___________________________
+ 
+de  a
+compelling explanation of present and future neutrino data, especially if experiments ultimately show
+that neutrinos do have a tiny but nonzero mass. second, there are certain hypothetical processes that
+are forbidden by the standard model, but that may be allowed by string theory. among these are the
+possible  disintegration  of  the  proton  (don't  worry,  such  disintegration,  if  true,  would  happen  very
+slowly) and the possible transmutations and decays of various combinations of quarks, in violation of
+certain long-established properties of point-particle quantum field theory.20 these kinds of processes
+are  especially  interesting  because  their  absence  from  conventional  theory  makes  them  sensitive
+signals  of  physics  that  cannot  be  accounted  for  without  invoking  new  theoretical  principles.  if
+observed,  any  one  of  these  processes  would  provide  fertile  ground  for  string  theory  to  offer  an
+explanation. third, for certain choices of the calabi
+ 
+ ___________________________
+ 
+ discussed  in  chapter  12.  in  fact,  strominger  and  vafa
+exploited this similarity to the hilt. they showed that they could build—theoretically, of course—
+certain  extremal  black  holes  by  starting  with  a  particular  collection  of  bps  branes  (of  certain
+specified  dimensions)  and  binding  them  together  according  to  a  precise  mathematical  blueprint.  in
+much  the  same  way  that  an  atom  can  be  built—theoretically,  again—by  starting  with  a  bunch  of
+
+quarks  and  electrons  and  then  precisely  arranging  them  into  protons  and  neutrons,  surrounded  by
+orbiting  electrons,  strominger  and  vafa  showed  how  some  of  the  newfound  ingredients  in  string
+theory could similarly be molded together to yield particular black holes.
+
+in  actuality,  black  holes  are  one  possible  end  product  of  stellar  evolution.  after  a  star  has
+burned all its nuclear fuel through billions of years of atomic fusion, it no longer has the strength—t
+ 
+ ___________________________
+ 
+ed  to  have  been  about  1032  kelvin,  some  10  trillion
+trillion  times  hotter  than  the  deep  interior  of  the  sun. as  time  passed,  the  universe  expanded  and
+cooled, and as it did, the initial homogeneous, roiling hot, primordial cosmic plasma began to form
+eddies  and  clumps. at  about  a  hundred-thousandth  of  a  second  after  the  bang,  things  had  cooled
+sufficiently  (to  about  10  trillion  kelvin—about  a  million  times  hotter  than  the  sun's  interior)  for
+quarks to clump together in groups of three, forming protons and neutrons. about a hundredth of a
+second later, conditions were right for the nuclei of some of the lightest elements in the periodic table
+to start congealing out of the cooling plasma of particles. for the next three minutes, as the simmering
+universe  cooled  to  about  a  billion  degrees,  the  predominant  nuclei  that  emerged  were  those  of
+hydrogen and helium, along with trace amounts of deuterium ("heavy" hydrogen) and lithium
+ 
+ ___________________________
+ 
+ory of science.
+
+are there limits to explanation?
+
+explaining everything, even in the circumscribed sense of understanding all aspects of the forces and
+the elementary constituents of the universe, is one of the greatest challenges science has ever faced.
+and for the first time, superstring theory gives us a framework that appears to have sufficient depth to
+meet  the  challenge.  but  will  we  ever  realize  the  promise  of  the  theory  fully  and,  for  example,
+calculate the masses of the quarks or the strength of the electromagnetic force, numbers whose precise
+values dictate so much about the universe? as in the previous sections, we will have to surmount
+numerous theoretical hurdles on the way to these goals—currently, the most prominent is achieving a
+full nonperturbative formulation of string/m-theory.
+
+but is it possible that even if we had an exact understanding of string/-m-theory, framed within a
+new and far more transparent formulation of quantum mechanics, we could still f
+ 
+ ___________________________
+ 
+e  hole  found  in  a  doughnut  to  higher-dimensional
+versions.
+multi-doughnut, multi-handled doughnut. a generalization of a doughnut shape (a torus) that has
+more than one hole.
+multiverse. hypothetical enlargement of the cosmos in which our universe is but one of an enormous
+number of separate and distinct universes.
+neutrino. electrically neutral particle, subject only to the weak force.
+neutron. electrically neutral particle, typically found in the nucleus of an atom, consisting of three
+quarks (two down-quarks, one up-quark).
+newton's  laws  of  motion.  laws  describing  the  motion  of  bodies  based  on  the  conception  of  an
+absolute and immutable space and time; these laws held sway until einstein's discovery of special
+relativity.
+newton's  universal  theory  of  gravity.  theory  of  gravity  declaring  that  the  force  of  attraction
+between two bodies is proportional to the product of their masses and inversely proportional to the
+square of the distance between them. subs
+ 
+ ___________________________
+ 
+.
+principle  of  relativity.  core  principle  of special  relativity  declaring  that  all  constant-velocity
+observers are subject to an identical set of physical laws and that, therefore, every constant-velocity
+observer is justified in claiming that he or she is at rest. this principle is generalized by the principle
+of equivalence.
+product. the result of multiplying two numbers.
+proton.  positively  charged  particle,  typically  found  in  the  nucleus  of  an atom,  consisting  of  three
+quarks (two up-quarks and one down-quark).
+quanta. the smallest physical units into which something can be partitioned, according to the laws
+of quantum mechanics. for instance, photons are the quanta of the electromagnetic field.
+
+quantum  chromodynamics  (qcd).  relativistic  quantum  field  theory  of  the strong  force  and
+quarks, incorporating special relativity.
+quantum claustrophobia. see quantum fluctuations.
+quantum determinism.  property  of quantum mechanics  that  knowledge  of  the  qua
+ 
+ ___________________________
+ 
+ory of quantum
+gravity.
+quantum mechanics. framework of laws governing the universe whose unfamiliar features such as
+uncertainty,  quantum  fluctuations,  and wave-particle  duality  become  most  apparent  on  the
+microscopic scales of atoms and subnuclear particles.
+quantum tunneling. feature of quantum mechanics showing that objects can pass through barriers
+that should be impenetrable according to newton's classical laws of physics.
+quark. a particle that is acted upon by the strong force. quarks exist in six varieties (up, down,
+charm, strange, top, bottom) and three "colors" (red, green, blue).
+radiation. the energy carried by waves or particles.
+reciprocal. the inverse of a number; for example, the reciprocal of 3 is 1/3, the reciprocal of 1/2 is
+2.
+relativistic  quantum 
+electromagnetic field, that incorporates special relativity.
+resonance. one of the natural states of oscillation of a physical system.
+riemannian  geometry.  mathematical  framework  for  describing  curved  shapes 
+ 
+ ___________________________
+ 
+y. unified theory of the universe postulating that fundamental ingredients of nature are
+
+not zero-dimensional point particles but tiny one-dimensional filaments called strings. string theory
+harmoniously  unites quantum mechanics  and general relativity,  the  previously  known  laws  of  the
+small and the large, that are otherwise incompatible. often short for superstring theory.
+strong  force,  strong  nuclear  force.  strongest  of  the  four  fundamental  forces,  responsible  for
+keeping quarks locked inside protons  and neutrons and for keeping protons and neutrons crammed
+inside of atomic nuclei.
+strong force symmetry. gauge symmetry underlying the strong force, associated with invariance of
+a physical system under shifts in the color charges of quarks.
+strongly coupled. theory whose string coupling constant is larger than 1.
+strong-weak duality. situation in which a strongly coupled theory is dual—physically identical—to
+a different, weakly coupled theory.
+sum-over-paths.  form

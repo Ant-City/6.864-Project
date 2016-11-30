@@ -1,0 +1,11 @@
+ibe  the  surfeit  of  data  being  collected  at  various  atom  smashers
+around the world. nevertheless, there was a sense in which veneziano's observation was incomplete.
+like memorized formulae used by a student who does not understand their meaning or justification,
+euler's  beta-function  seemed  to  work,  but  no  one  knew  why.  it  was  a  formula  in  search  of  an
+explanation. this changed in 1970 when the works of yoichiro nambu of the university of chicago,
+holger nielsen of the niels bohr institute, and leonard susskind of stanford university revealed the
+hitherto-unknown  physics  lurking  behind  euler's  formula.  these  physicists  showed  that  if  one
+modeled elementary particles as little, vibrating, one-dimensional strings, their nuclear interactions
+could  be  described  exactly  by  euler's  function.  if  the  pieces  of  string  were  small  enough,  they
+reasoned, they would still look like point particles, and hence could be consistent with experimental
+observations

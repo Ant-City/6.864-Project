@@ -1,0 +1,82 @@
+ stated month.  a
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  to be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+information about project gutenberg (one page)
+
+we produce about two million dollars for each hour we work.  the
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  this
+projected audience is one hundred million readers.  if our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more etex
+ 
+ ___________________________
+ 
+//promo.net/pg).
+
+mac users, do not point and click, typing works better.
+
+example ftp session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+get gutindex.??  [to get a year's listing of books, e.g., gutindex.99]
+get gutindex.all [to get a listing of all books]
+
+***
+
+**information prepared by the project gutenberg legal advisor**
+
+(three pages)
+
+
+***start**the small print!**for public domain etexts**start***
+why is this "small print!" statement here?  you know: lawyers.
+they tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  so, among other things, this "small print!" statement
+disclaims most of our liability to you.  it also tells you how
+you can distribute copies of this etext if you want to
+ 
+ ___________________________
+ 
+ere may
+be differences (other than what i have mentioned above) between
+this and other first folio editions.  this is due to the printer's
+habit of setting the type and running off a number of copies and
+then proofing the printed copy and correcting the type and then
+continuing the printing run.  the proof run wasn't thrown away but
+incorporated into the printed copies.  this is just the way it is.
+the text i have used was a composite of more than 30 different
+first folio editions' best pages.
+
+if you find any scanning errors, out and out typos, punctuation
+errors, or if you disagree with my spelling choices please feel
+free to email me those errors.  i wish to make this the best
+etext possible.  my email address for right now are haradda@aol.com
+and davidr@inconnect.com.  i hope that you enjoy this.
+
+david reed
+
+much adoe about nothing
+
+actus primus, scena prima.
+
+enter leonato gouernour of messina, innogen his wife, hero his
+daughter,
+and beatrice his neece, with 

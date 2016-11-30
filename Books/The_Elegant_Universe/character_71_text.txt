@@ -1,0 +1,175 @@
+alamity that the tear would otherwise create.
+
+figure  11.6  the  world-sheet  swept  out  by  a  string  provides  a  shield  that  cancels  the  potentially
+cataclysmic effects associated with a tear in the fabric of space.
+
+in january 1993, witten and the three of us released our papers simultaneously to the electronic
+internet archive through which physics papers are immediately made available worldwide. the two
+papers described, from our widely different perspectives, the first examples of topology-changing
+transitions—the  technical  name  for  the  space-tearing  processes  we  had  found.  the  long-standing
+question about whether the fabric of space can tear had been settled quantitatively by string theory.
+
+consequences
+
+we have made much of the realization that spatial tears can occur without physical calamity. but what
+does happen when the spatial fabric rips? what are the observable consequences? we have seen that
+many  properties  of  the  world  around  us  depend  upon  the 
+ 
+ ___________________________
+ 
+l dimensions might themselves actually be curled up into the form of a
+giant shape that curves back on itself, way on the other side of the universe, and that therefore even
+the  distinction  between  which  dimensions  are  curled  up  and  which  are  unfurled  is  somewhat
+artificial. although our and witten's analyses did rely on special mathematical features of calabi-yau
+shapes, the result—that the fabric of space can tear—is certainly of wider applicability.
+
+second,  could  such  a  topology-changing  tear  happen  today  or  tomorrow?  could  it  have
+happened  in  the  past? yes.  experimental  measurements  of  elementary  particle  masses  show  their
+values to be quite stable over time. but if we head back to the earliest epochs following the big bang,
+even non-string-based theories invoke important periods during which elementary particle masses do
+change over time. these periods, from a string-theoretic perspective, could certainly have involved
+the topology-changing tears d
+ 
+ ___________________________
+ 
+iscussed in this chapter. closer to the present, the observed stability of
+elementary particle masses implies that if the universe is currently undergoing a topology-changing
+spatial tear, it must be doing it exceedingly slowly—so slowly that its effect on elementary particle
+masses is smaller than our present experimental sensitivity. remarkably, so long as this condition is
+met,  the  universe  could  currently  be  in  the  midst  of  a  spatial  rupture.  if  it  were  occurring  slowly
+enough, we would not even know it was happening. this is one of those rare instances in physics in
+which the lack of a striking observable phenomenon is cause for grea
+ 
+ ___________________________
+ 
+
+symmetry  is  a  second  example.  here  two  different  calabi-yau  shapes  of  the  extra  six  spatial
+dimensions—universes that at first sight would appear to be completely distinct—yield exactly the
+same physical properties. they give dual descriptions of a single universe. of crucial importance,
+unlike the case of english versus chinese, there are important physical insights that follow from using
+these  dual  descriptions,  such  as  a  minimum  size  for  circular  dimensions  and  topology-changing
+processes in string theory.
+
+in his lecture at strings '95, witten gave evidence for a new, profound kind of duality. as briefly
+outlined at the beginning of this chapter, he suggested that the five string theories, although apparently
+different  in  their  basic  construction,  are  all  just  different  ways  of  describing  the  same  underlying
+physics. rather than having five different string theories, then, we would simply have five different
+windows onto this single underlying t
+ 
+ ___________________________
+ 
+inched one-dimensional sphere—the collapsed
+circle—with  a  zero-dimensional  sphere—two  points—plugging  the  holes  in  the  upper  and  lower
+portions of the shape arising from the tear. as shown in figure 13.3, the resulting shape looks like a
+warped banana, which through gentle deformation (non–space tearing) can be reshaped smoothly into
+the surface of a beach ball. we see, therefore, that when a one-dimensional sphere collapses and is
+replaced by a zero-dimensional sphere, the topology of the original doughnut, that is, its fundamental
+shape,  is  drastically  altered.  in  the  context  of  the  curled-up  spatial  dimensions,  the  space-tearing
+progression  of  figure  13.3  would  result  in  the  universe  depicted  in  figure  8.8  evolving  into  that
+depicted in figure 8.7.
+
+figure 13.3 a circular piece of a doughnut (a torus) collapses to a point. the surface tears open,
+yielding  two  puncture  holes. a  zero-dimensional  sphere  (two  points)  is  "glued  in,"  rep
+ 
+ ___________________________
+ 
+pairing  the  torn  surface.  this  allows  a
+transformation to a completely different shape—a beach ball.
+
+although this is a lower-dimensional analogy, it captures the essential features of what morrison
+and  i  foresaw  for  the  second  half  of  strominger's  story. after  the  collapse  of  a  three-dimensional
+sphere inside a calabi-yau space, it seemed to us that space could tear and subsequently repair itself
+by growing a two-dimensional sphere, leading to far more drastic changes in topology than witten
+and we had found in our earlier work (discussed in chapter 11). in this way, one calabi-yau shape
+could,  in  essence,  transform  itself  into  a  completely  different  calabi-yau  shape—much  like  the
+doughnut  transforming  into  the  beach  ball  in  figure  13.3—while  string  physics  remained  perfectly
+well behaved. although a picture was starting to emerge, we knew that there were significant aspects
+that we would need to work out before we could establish that our se
+ 
+ ___________________________
+ 
+nicious and physically unacceptable consequences. we each
+went home that evening with the tentative elation that we were sitting on a major new insight.
+
+a flurry of e-mail
+
+the next morning i received an e-mail from strominger asking me for any comments or reactions to
+his  paper.  he  mentioned  that  "it  should  tie  in  somehow  with  your  work  with  aspinwall  and
+morrison,"  because,  as  it  turned  out,  he  too  had  been  exploring  a  possible  connection  to  the
+phenomenon  of  topology  change.  i  immediately  sent  him  an  e-mail  describing  the  rough  outline
+morrison  and  i  had  come  up  with.  when  he  responded,  it  was  clear  that  his  level  of  excitement
+matched what morrison and i had been riding since the preceding day.
+
+during the next few days a continuous stream of e-mail messages circulated between the three of
+us as we sought feverishly to put quantitative rigor behind our idea of drastic space-tearing topology
+change. slowly but surely, all the det
+ 
+ ___________________________
+ 
+ted. recall that we expressed through figure 12.11 that the five string
+theories  are  dual  to  one  another  and  thereby  are  unified  under  the  rubric  of  a  single  overarching
+theory. but does the ability to move continuously from one description to another—to set sail from
+any  point  on  the  map  of  figure  12.11  and  reach  any  other—persist  even  after  we  allow  the  extra
+dimensions to curl up into some calabi-yau shape or another? prior to the discovery of the drastic
+topology-changing  results,  the  anticipated  answer  was  no,  since  there  was  no  known  way  to
+continuously deform one calabi-yau shape into any other. but now we see that the answer is yes:
+through these physically sensible space-tearing conifold transitions, we can continuously change any
+given  calabi-yau  space  into  any  other.  by  varying  coupling  constants  and  curled-up  calabi-yau
+geometry,  we  see  that  all  string  constructions  are,  once  again,  different  phases  of  a  si
+ 
+ ___________________________
+ 
+t they curve back
+on  themselves  only  beyond  the  range  of  our  current  observational  capacity,  a  circular  shape  is
+consistent with the universe we observe. but for dimensions that stay small, a more realistic scenario
+is one in which they are curled up into a more intricate calabi-yau space. of course, the key question
+is,  which  calabi-yau  space?  how  is  this  particular  space  determined?  no  one  has  been  able  to
+answer  this  question.  but  by  combining  the  drastic  topology-changing  results  described  in  the
+preceding  chapter  with  these  cosmological  insights,  we  can  suggest  a  framework  for  doing  so.
+through the space-tearing conifold transitions, we now know that any calabi-yau shape can evolve
+into any other. so, we can imagine that in the tumultuous, hot moments after the bang, the curled-up
+calabi-yau component of space stays small, but goes through a frenetic dance in which its fabric rips
+apart  and  reconnects  over  and  over  again,  rapidl
+ 
+ ___________________________
+ 
+ diamonds"—a mathematical summary of the
+holes of various dimensions in a calabi-yau space—for each calabi-yau space of a mirror pair are
+mirror reflections of one another.
+
+7. the term mirror symmetry is also used in other, completely different contexts in physics, such
+as in the question of chirality—that is, whether the universe is left-right symmetric—as discussed in
+note 7 of chapter 8.
+
+chapter 11
+
+1. the mathematically inclined reader will recognize that we are asking whether the topology of
+space  is  dynamical—that  is,  whether  it  can  change.  we  note  that  although  we  will  often  use  the
+language  of  dynamical  topology  change,  in  practice  we  are  usually  considering  a  one-parameter
+family  of spacetimes whose topology changes as a function of the parameter. technically speaking,
+this parameter is not time, but in certain limits can essentially be identified with time.
+
+2. for the mathematically inclined reader, the procedure involves blowing down rationa
+ 
+ ___________________________
+ 
+cts  of  heat,  work,
+energy, entropy, and their mutual evolution in a physical system.
+three-brane. see brane.
+three-dimensional sphere. see sphere.
+time dilation. feature emerging from special relativity, in which the flow of time slows down for an
+observer in motion.
+t.o.e. (theory of everything). a quantum-mechanical theory that encompasses all forces and all
+matter.
+topologically distinct. two shapes that cannot be deformed into one another without tearing their
+
+structure in some manner.
+topology. classification of shapes into groups that can be deformed into one another without ripping
+or tearing their structure in any way.
+topology-changing  transition.  evolution  of  spatial  fabric  that  involves  rips  or  tears,  thereby
+changing the topology of space.
+torus. the two-dimensional surface of a doughnut.
+two-brane. see brane.
+two-dimensional sphere. see sphere.
+type i string theory. one of the five superstring theories; involves both open and closed strings.
+type iia string theory.
