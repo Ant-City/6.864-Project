@@ -9,7 +9,7 @@ from Models.SimpleVectorizer import SimpleBookMatrix
 #############################
 
 # generator that uses the basic model
-class Experiment(object):
+class BasicModel(object):
 
 	def __init__(self, root_dir='Books/'):
 		self.root_dir = root_dir
@@ -21,14 +21,14 @@ class Experiment(object):
 				'cleaned_embeddings_all_texts.p')
 
 # raw data
-simple_books = Experiment()
+simple_books = BasicModel()
 basic_model_base = 'basic_model_base.p'
 master_df = build_dataset.build_base_dataframe(None, basic_model_base)
 
 # vector data 
 # this distribution can be tuned
 examples_df = build_dataset.build_examples_dataframe(master_df, number_positive=3500, 
-	number_neg_same_book=3500, number_neg_diff_book=14000)
+	number_neg_same_book=3500, number_neg_diff_book=7000)
 
 # the Y here is simply whether the character is in the book or not
 X, Y = build_dataset.get_numpy_matricies(examples_df, correct_character=False)
