@@ -5,12 +5,12 @@ import gensim
 from Data.Book import Book
 
 
-
-
 WORD_DIM = 100
 MAX_DESC_LENGTH = 200
 MAX_TEXT_LENGTH = 200
-NUM_HIDDEN = 50
+NUM_HIDDEN_RNNS = 55
+NUM_HIDDEN_FINAL_NN = 99
+NUMBER_OF_OUTPUTS = 2
 
 def text_to_vector(list_of_sents, model):
 	res = np.zeros((MAX_DESC_LENGTH, WORD_DIM))
@@ -36,12 +36,13 @@ def bias_variable(shape):
 
 
 # tf Graph input
+Y = tf.placeholder("float", [None, 2])
+
 
 # RNN for processing text
 with tf.variable_scope("RNN1"):
 	x1 = tf.placeholder("float", [None, MAX_TEXT_LENGTH, WORD_DIM])
-	cell1 = tf.nn.rnn_cell.BasicRNNCell(num_units=NUM_HIDDEN)
-
+	cell1 = tf.nn.rnn_cell.BasicRNNCell(num_units=NUM_HIDDEN_RNNS)
 	_ , final_state1 = tf.nn.dynamic_rnn(
 	    cell=cell1,
 	    dtype=tf.float32,
@@ -50,32 +51,37 @@ with tf.variable_scope("RNN1"):
 # RNN for processing description
 with tf.variable_scope("RNN2"):
 	x2 = tf.placeholder("float", [None, MAX_DESC_LENGTH, WORD_DIM])
-	cell2 = tf.nn.rnn_cell.BasicRNNCell(num_units=NUM_HIDDEN)
+	cell2 = tf.nn.rnn_cell.BasicRNNCell(num_units=NUM_HIDDEN_RNNS)
 	_ , final_state2 = tf.nn.dynamic_rnn(
 	    cell=cell2,
 	    dtype=tf.float32,
 	    inputs=x2)
 
-# NN to combine them
-W = tf.Variable(tf.zeros([NUM_HIDDEN+NUM_HIDDEN, 2]))
-b = tf.Variable(tf.zeros([NUM_HIDDEN+NUM_HIDDEN, 1]))
-
-y = tf.nn.softmax(tf.matmul(x, W) + b)
+X = tf.concat(1, [final_state1, final_state2])
 
 
-print [v.name for v in tf.all_variables()]
+# # NN to combine them
+W_hidden = tf.Variable(tf.zeros([NUM_HIDDEN_RNNS*2, NUM_HIDDEN_FINAL_NN]))
+b_hidden = tf.Variable(tf.zeros([1, NUM_HIDDEN_FINAL_NN]))
 
 
-
-final_output = (final_state1, final_state2)
-
+hidden = tf.nn.relu(tf.matmul(X, W_hidden) + b_hidden)
 
 
+W_readout = tf.Variable(tf.zeros([NUM_HIDDEN_FINAL_NN, NUMBER_OF_OUTPUTS]))
+b_readout = tf.Variable(tf.zeros([1, NUMBER_OF_OUTPUTS]))
+
+y = tf.matmul(hidden, W_readout) + b_readout
 
 
+cross_entropy = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(y, Y))
+train_step = tf.train.AdamOptimizer(1e-4).minimize(cross_entropy)
+
+correct_prediction = tf.equal(tf.argmax(y,1), tf.argmax(Y,1))
+accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
 
 
-
+### getting the data, feeding it in, building graph
 
 firstBook = Book.getBook('1984')
 characters =  firstBook.getCharacters()
@@ -89,17 +95,23 @@ for character in characters.keys():
 	X_.append(vec)
 
 X_ = np.array(X_)
+Y_ = np.zeros((X_.shape[0], 2))
+Y_[:, 1] = 1
+print Y_
 
-
-
-print 'input'
-print X_.shape
 
 init = tf.global_variables_initializer()
 sess = tf.Session()
 sess.run(init)
-final_output = sess.run(final_output, feed_dict={x1:X_, x2:X_})
+
+train_accuracy = accuracy.eval(session=sess, feed_dict={x1:X_, x2:X_, Y:Y_})
+print 'initial training accruacy '+ str(train_accuracy)
+train_step.run(session=sess, feed_dict={x1:X_, x2:X_, Y:Y_})
+train_accuracy = accuracy.eval(session=sess, feed_dict={x1:X_, x2:X_, Y:Y_})
+print 'final training accruacy '+ str(train_accuracy)
  
+
+ #out = sess.run(correct_prediction, feed_dict={x1:X_, x2:X_, Y:Y_})
 # print final_output[0].shape
 # print final_output[0]
 # print final_output[1].shape
