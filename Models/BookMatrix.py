@@ -4,7 +4,6 @@ import numpy as np
 from nltk.tokenize import sent_tokenize, word_tokenize
 import Data.corpusreader as corpusreader
 import Data.Book as Book
-from IPython.core.debugger import Tracer
 
 
 class BookMatrixV2(object):
@@ -27,7 +26,7 @@ class BookMatrixV2(object):
 				if key != 'relevant_text':
 					inner_dict[key] = self.docToMatrix(text)
 				else:
-					inner_dict[key] = [self.docToMatrix(doc) for doc in text]
+					inner_dict[key] = np.array([self.docToMatrix(doc) for doc in text])
 			character_vecs[char] = inner_dict
 		return character_vecs
 
@@ -56,6 +55,6 @@ class BookMatrixV2(object):
 
 
 def flattenList(multList):
-	return [item for sublist in multList for item in sublist]
+	return np.array([item for sublist in multList for item in sublist])
 
 
