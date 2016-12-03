@@ -42,7 +42,9 @@ def getCharactersData(book_path):
 			if firstline:
 				firstline = False
 				continue
-			character_data[character] = {'list': readText(list_file), 'analysis': readText(analysis_file)}
+			character_data[character] = {'list': readText(list_file), 
+										'analysis': readText(analysis_file),
+										'relevant_text': getRelevantCharacterText(list_file)}
 	return character_data
 
 def readText(filename):
@@ -55,6 +57,25 @@ def readText(filename):
 def textToSentences(text):
 	sent_tokenize_list = sent_tokenize(text)
 	return [word_tokenize(sent) for sent in sent_tokenize_list]
+
+def getRelevantCharacterText(textPath):
+	filename = translatePathToText(textPath)
+	splitter = '___________________________'
+	with codecs.open(filename, mode='r', encoding='utf-8', errors='ignore') as fp:
+		all_text = fp.read()
+	return [textToSentences(text) for text in all_text.split(splitter)]
+	
+
+def translatePathToText(characterPath):
+	directory = os.path.dirname(characterPath)
+	base = os.path.basename(characterPath)
+	try:
+		character_num = base.split('_')[1]
+		int(character_num)
+	except Exception as e:
+		print e
+	new_base = 'character_' + character_num + '_text.txt'
+	return os.path.join(directory,new_base)
 
 # corpus_generator = EntireCorpus('Books/')
 

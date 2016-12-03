@@ -16,7 +16,7 @@ class SimpleExtractionModel(object):
 		all_names = get_all_character_names(characters_name)
 		# regex is any of the character names
 		combined_regex = re.compile(reduce(lambda x, y: x+'|'+y, all_names))
-		main_text_sentences =self.book.getMainText()
+		main_text_sentences = self.book.getMainText()
 		relevant_sentences = [sent for sent in main_text_sentences if len(re.findall(combined_regex, sent)) > 0]
 		return self.docToVector(relevant_sentences)
 

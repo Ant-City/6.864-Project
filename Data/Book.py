@@ -34,11 +34,11 @@ class Book(object):
 		cPickle.dump(self,open(self.stored_object,'wb'))    
 
 	@classmethod
-	def getBook(cls,directory_name,path='Books/'):
+	def getBook(cls,directory_name,path='Books/',rebuild=False):
 		book_path = os.path.join(path,directory_name) + '/'
 		main_text_path = book_path + 'main_cleaned.txt'
 		stored_object = translate_to_pickle(book_path)
-		if os.path.isfile(stored_object):
+		if os.path.isfile(stored_object) and (not rebuild):
 			print 'loading book object from memory...'
 			return cPickle.load(open(stored_object,'rb'))
 		else:
@@ -53,6 +53,11 @@ def translate_to_pickle(path):
 	return path + picklefile
 
 
-# firstBook = Book.getBook('1984')
-
+def rebuild_all_books(base='Books/'):
+	count = 0
+	total = len(os.listdir(base))
+	for dir_name in os.listdir(base):
+		print 'rebuilding pickle file for', dir_name, '...', count,'/',total
+		count += 1
+		Book.getBook(dir_name,base,True)
 
