@@ -47,6 +47,7 @@ def build_base_dataframe(book_objects, saved_file):
 
 		return training_df
 
+
 """
 Construct a training dataframe of examples with the input number of positive and negative examples
 """
@@ -66,15 +67,15 @@ def build_examples_dataframe(base_df, number_positive=10, number_neg_same_book=1
 	del all_pairs['tmp']
 
 	# get the positive examples from the original dataframe
-	sampled_positives = base_df.sample(n=number_positive)
+	sampled_positives = base_df.sample(n=number_positive, random_state=230)
 
 	# get the negative examples from the same book (so Y_correct_book is True)
 	negative_examples_same_book = all_pairs[(all_pairs['text_book'] == all_pairs['desc_book']) & (all_pairs['text_char'] != all_pairs['desc_char'])]
-	sampled_same_negatives = negative_examples_same_book.sample(n=number_neg_same_book)
+	sampled_same_negatives = negative_examples_same_book.sample(n=number_neg_same_book, random_state=121)
 
 	# get the negative examples from other books (so Y_correct_book is False and Y_correct_character is False)
 	negative_examples_different_book = all_pairs[(all_pairs['text_book'] != all_pairs['desc_book']) & (all_pairs['text_char'] != all_pairs['desc_char'])]
-	sampled_different_negatives = negative_examples_different_book.sample(n=number_neg_diff_book)
+	sampled_different_negatives = negative_examples_different_book.sample(n=number_neg_diff_book, random_state=987)
 
 	# all training and test data
 	final_df = pd.concat([sampled_positives, sampled_same_negatives, sampled_different_negatives], ignore_index=True)
@@ -113,6 +114,7 @@ def get_numpy_matricies(pandas_df, correct_character=True):
 	return X, Y
 
 
+
 """
 Example Usage
 
@@ -123,4 +125,9 @@ X, Y = get_numpy_matricies(examples_df)
 print X
 print Y
 """
+
+
+
+
+
 
