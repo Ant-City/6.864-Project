@@ -26,7 +26,11 @@ class BookMatrixV2(object):
 				if key != 'relevant_text':
 					inner_dict[key] = self.docToMatrix(text)
 				else:
-					inner_dict[key] = np.array([self.docToMatrix(doc) for doc in text])
+					res = np.array([self.docToMatrix(doc) for doc in text])
+					inner_dict[key] = res
+			# if no relevant text simply drop that character entirely
+			if inner_dict['relevant_text'].shape == (1, 0):
+				continue
 			character_vecs[char] = inner_dict
 		return character_vecs
 

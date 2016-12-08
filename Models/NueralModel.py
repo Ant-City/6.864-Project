@@ -2,7 +2,7 @@ import numpy as np
 import tensorflow as tf
 
 # hyper paramaters
-WORD_DIM = 10
+WORD_DIM = 100
 MAX_TEXT_LENGTH = 4
 MAX_DESC_LENGTH = 4
 NUM_HIDDEN_RNNS = 100
@@ -83,4 +83,3 @@ def generate_placeholders():
 	label = tf.placeholder("float", shape=[None, NUMBER_OF_OUTPUTS])
 
 	return text, desc, label
-
