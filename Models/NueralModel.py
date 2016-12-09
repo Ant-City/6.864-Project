@@ -3,8 +3,8 @@ import tensorflow as tf
 
 # hyper paramaters
 WORD_DIM = 100
-MAX_TEXT_LENGTH = 4
-MAX_DESC_LENGTH = 4
+MAX_TEXT_LENGTH = 200
+MAX_DESC_LENGTH = 200
 NUM_HIDDEN_RNNS = 100
 NUM_HIDDEN_FINAL_NN = 10
 NUMBER_OF_OUTPUTS = 2
@@ -24,7 +24,7 @@ logits - [batch_size, NUMBER_OF_OUTPUTS]
 """
 def inference(text, desc):
 	# RNN for processing text
-	with tf.variable_scope("RNN1"):
+	with tf.variable_scope("TextRNN"):
 		cell1 = tf.nn.rnn_cell.BasicRNNCell(num_units=NUM_HIDDEN_RNNS)
 		_ , final_state1 = tf.nn.dynamic_rnn(
 		    cell=cell1,
@@ -32,7 +32,7 @@ def inference(text, desc):
 		    inputs=text)
 
 	# RNN for processing description
-	with tf.variable_scope("RNN2"):
+	with tf.variable_scope("DescRNN"):
 		cell2 = tf.nn.rnn_cell.BasicRNNCell(num_units=NUM_HIDDEN_RNNS)
 		_ , final_state2 = tf.nn.dynamic_rnn(
 		    cell=cell2,
@@ -41,6 +41,8 @@ def inference(text, desc):
 
 	# Concatenate the outputs
 	X = tf.concat(1, [final_state1, final_state2])
+
+	variable_summaries(X)
 
 	# FeedForward NN to learn final classification
 	W_hidden = tf.Variable(tf.truncated_normal([NUM_HIDDEN_RNNS*2, NUM_HIDDEN_FINAL_NN], stddev=0.1), name="W_hidden")
@@ -69,7 +71,7 @@ def evaluate(pred, output):
 
 
 def training(loss):
-	tf.summary.scalar('loss', loss)
+	variable_summaries(loss)
 	optimizer = tf.train.AdamOptimizer(1e-4)
 	global_step = tf.Variable(0, name='global_step', trainable=False)
 	training_step = optimizer.minimize(loss, global_step=global_step)
@@ -83,3 +85,18 @@ def generate_placeholders():
 	label = tf.placeholder("float", shape=[None, NUMBER_OF_OUTPUTS])
 
 	return text, desc, label
+
+
+
+
+def variable_summaries(var):
+  """Attach a lot of summaries to a Tensor (for TensorBoard visualization)."""
+  with tf.name_scope('summaries'):
+    mean = tf.reduce_mean(var)
+    tf.summary.scalar('mean', mean)
+    with tf.name_scope('stddev'):
+      stddev = tf.sqrt(tf.reduce_mean(tf.square(var - mean)))
+    tf.summary.scalar('stddev', stddev)
+    tf.summary.scalar('max', tf.reduce_max(var))
+    tf.summary.scalar('min', tf.reduce_min(var))
+    tf.summary.histogram('histogram', var)

@@ -52,20 +52,22 @@ def run_experiment(train_iterator, test_iterator):
 		text, desc, label = batch
 		feed_dict = {text_placeholder: text, desc_placeholder:desc, label_placeholder:label}
 
-		_, loss_value = sess.run([train_op, loss],
-                               feed_dict=feed_dict)
 
-		# count the number of examples
-		step += label.shape[0]
+		for i in range(1000):
+			_, loss_value = sess.run([train_op, loss],
+	                               feed_dict=feed_dict)
 
-		duration = time.time() - start_time
+			# count the number of examples
+			step += label.shape[0]
 
-		if step % 100 == 0:
-			print('Step %d: loss = %.2f (%.3f sec)' % (step, loss_value, duration))
-	        # Update the events file.
-	        summary_str = sess.run(summary, feed_dict=feed_dict)
-	        summary_writer.add_summary(summary_str, step)
-	        summary_writer.flush()
+			duration = time.time() - start_time
+
+			if step % 100 == 0:
+				print('Step %d: loss = %.2f (%.3f sec)' % (step, loss_value, duration))
+		        # Update the events file.
+		        summary_str = sess.run(summary, feed_dict=feed_dict)
+		        summary_writer.add_summary(summary_str, step)
+		        summary_writer.flush()
 
 	    # save the model every 10000 training examples
 		if ((step+1) % 10000 == 0):
@@ -84,9 +86,11 @@ def run_experiment(train_iterator, test_iterator):
 		text, desc, label = batch
 		feed_dict = {text_placeholder: text, desc_placeholder:desc, label_placeholder:label}
 
-		_, accuracy = sess.run([train_op, eval_op],
+		loss, accuracy = sess.run([loss, eval_op],
                                feed_dict=feed_dict)
 
+		print 'final test loss'
+		print loss
 		correct, incorrect = accuracy
 		total_correct += correct
 		total_incorrect += incorrect
@@ -118,7 +122,7 @@ class NMFeeder(object):
 			try:
 				# debugging feature
 				if self.limit:
-					if self.limit < self.count:
+					if self.limit <= self.count:
 						break
 				print 'now using '+book1+' and '+book2
 				# MAX_TEXT_LENGTH and MAX_DESC_LENGTH are hyperparameters
@@ -150,8 +154,8 @@ class NMFeeder(object):
 # and 2k test book pairings
 # with a 50/50 
 train, test = get_train_test(train_count=10000, test_count=2000)
-train_feeder = NMFeeder(train, limit=2)
-test_feeder = NMFeeder(test, limit=2)
+train_feeder = NMFeeder(train, limit=1)
+test_feeder = NMFeeder(train, limit=1)
 run_experiment(train_feeder, test_feeder)
 
 
