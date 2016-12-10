@@ -4,6 +4,7 @@ import numpy as np
 from nltk.tokenize import sent_tokenize, word_tokenize
 import Data.corpusreader as corpusreader
 import Data.Book as Book
+import utils
 
 
 class BookMatrixV2(object):
@@ -43,7 +44,7 @@ class BookMatrixV2(object):
 		return [self.wordToVector(word) for word in sentence]
 
 	def docToMatrix(self,doc):
-		return flattenList([self.sentenceToMatrix(sent) for sent in doc])
+		return utils.flattenList([self.sentenceToMatrix(sent) for sent in doc])
 
 	@classmethod
 	def getBookMatrix(cls,book_path,embedding_file,rebuild=False):
@@ -55,10 +56,4 @@ class BookMatrixV2(object):
 			print e
 			return None
 		return BookMatrixV2(book, model)
-
-
-
-def flattenList(multList):
-	return np.array([item for sublist in multList for item in sublist])
-
 

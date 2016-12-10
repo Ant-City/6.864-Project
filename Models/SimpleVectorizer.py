@@ -6,6 +6,8 @@ import gensim
 import Data.Book as Book
 
 
+DIMENSION = 100
+
 class SimpleBookMatrix(object):
 	def __init__(self, book, model):
 		self.book = book
@@ -46,6 +48,8 @@ class SimpleBookMatrix(object):
 		return np.average(vectorized,axis=0)
 
 	def docToVector(self,document):
+		if len(document) == 0:
+			return np.zeros(DIMENSION)
 		vectorized = [self.sentenceToVector(sentence) for sentence in document]
 		return np.average(vectorized,axis=0)
 
