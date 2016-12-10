@@ -42,8 +42,6 @@ def inference(text, desc):
 	# Concatenate the outputs
 	X = tf.concat(1, [final_state1, final_state2])
 
-	variable_summaries(X)
-
 	# FeedForward NN to learn final classification
 	W_hidden = tf.Variable(tf.truncated_normal([NUM_HIDDEN_RNNS*2, NUM_HIDDEN_FINAL_NN], stddev=0.1), name="W_hidden")
 	b_hidden = tf.Variable(tf.constant(0.1, shape=[1, NUM_HIDDEN_FINAL_NN]), name="Bias_hidden")
@@ -71,7 +69,6 @@ def evaluate(pred, output):
 
 
 def training(loss):
-	variable_summaries(loss)
 	optimizer = tf.train.AdamOptimizer(1e-4)
 	global_step = tf.Variable(0, name='global_step', trainable=False)
 	training_step = optimizer.minimize(loss, global_step=global_step)
@@ -85,18 +82,3 @@ def generate_placeholders():
 	label = tf.placeholder("float", shape=[None, NUMBER_OF_OUTPUTS])
 
 	return text, desc, label
-
-
-
-
-def variable_summaries(var):
-  """Attach a lot of summaries to a Tensor (for TensorBoard visualization)."""
-  with tf.name_scope('summaries'):
-    mean = tf.reduce_mean(var)
-    tf.summary.scalar('mean', mean)
-    with tf.name_scope('stddev'):
-      stddev = tf.sqrt(tf.reduce_mean(tf.square(var - mean)))
-    tf.summary.scalar('stddev', stddev)
-    tf.summary.scalar('max', tf.reduce_max(var))
-    tf.summary.scalar('min', tf.reduce_min(var))
-    tf.summary.histogram('histogram', var)
