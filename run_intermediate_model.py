@@ -1,33 +1,30 @@
 import os, cPickle, build_dataset
 from sklearn.svm import SVC
-from sklearn.model_selection import train_test_split
+from sklearn.cross_validation import train_test_split
 from Data.Book import Book
-from Models.SimpleVectorizer import SimpleBookMatrix
+from Models.RelevantTextVectorizer import RelevantTextVectorizer
 
+run_intermediate_model = True
 
-run_basic_model = False
+if run_intermediate_model:
 
-
-#############################
-######## Basic Model ########
-#############################
-if run_basic_model:
-	# generator that uses the basic model
 	class BasicModel(object):
 
-		def __init__(self, root_dir='Books/'):
+		def __init__(self, model_path, root_dir='Books/'):
 			self.root_dir = root_dir
+			print 'loading model...'
+			self.model = cPickle.load(open(model_path, 'rb'))
 
 		def __iter__(self):
 			for book_dir_name in os.listdir(self.root_dir):
-				print 'getting base model for '+book_dir_name
-				yield SimpleBookMatrix.getSimpleVectorizer(book_dir_name, 
-					'cleaned_embeddings_all_texts.p')
+				print 'getting base model for '+ book_dir_name
+				yield RelevantTextVectorizer.getRelevantTextVectorizer(book_dir_name, model=self.model)
 
 	# raw data
-	simple_books = BasicModel()
-	basic_model_base = 'basic_model_base.p'
-	master_df = build_dataset.build_base_dataframe(None, basic_model_base)
+	embeddings_path = 'cleaned_embeddings_all_texts.p'
+	simple_books = BasicModel(embeddings_path)
+	basic_model_base = 'intermediate_model_base.p'
+	master_df = build_dataset.build_base_dataframe(simple_books, basic_model_base)
 
 	# vector data 
 	# this distribution can be tuned
@@ -53,11 +50,3 @@ if run_basic_model:
 	# testing 
 	print 'basic model svm performace on test data: '
 	print svm_classifier.score(X_test, Y_test)
-
-
-#############################
-######## Nueral Model ########
-#############################
-
-
-
