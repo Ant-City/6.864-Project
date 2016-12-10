@@ -10,6 +10,8 @@ import pandas as pd
 
 
 def get_batch_for_pair(book1Path, book2Path, model_path, max_text, max_desc, batch_upper=100, negative_proportion=.5):
+	# setting a unique but determinstic seed value for each pair so we draw consistent examples
+	random.seed(book1Path+book2Path)
 	book_matrix1 = BookMatrix.BookMatrixV2.getBookMatrix(book1Path,model_path)
 	book_matrix2 = BookMatrix.BookMatrixV2.getBookMatrix(book2Path,model_path)
 

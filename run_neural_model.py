@@ -9,7 +9,10 @@ from helper_utils.train_valid_test import get_train_test
 LOG_FILE = '/Users/henryaspegren/Dropbox (MIT)/Academics/MIT/Senior Fall (2016)/6.864/Project/6.864-Project/log'
 SAVE_DIR = '/Users/henryaspegren/Dropbox (MIT)/Academics/MIT/Senior Fall (2016)/6.864/Project/6.864-Project/saved'
 
-def run_experiment(train_iterator, test_iterator):
+
+NUM_GRAD_PER_BOOK = 10
+
+def run_experiment(train_iterator, test_iterator, use_saved_model=False):
   
   # Tell TensorFlow that the model will be built into the default Graph.
   with tf.Graph().as_default():
@@ -31,50 +34,61 @@ def run_experiment(train_iterator, test_iterator):
 
 	summary = tf.summary.merge_all()
 
-	# initialize variables
-	init = tf.global_variables_initializer()
-
-	# create a saver
-	saver = tf.train.Saver()
-
 	# start a session
 	sess = tf.Session()
 
 	summary_writer = tf.train.SummaryWriter(LOG_FILE, sess.graph)
 
-	sess.run(init)
-
 	start_time = time.time()
 
 	step = 0
-	print 'beginning training'
-	for batch_count, batch in enumerate(train_iterator):
-		text, desc, label = batch
-		feed_dict = {text_placeholder: text, desc_placeholder:desc, label_placeholder:label}
 
-		_, loss_value = sess.run([train_op, loss],
-                               feed_dict=feed_dict)
+	# use saved weights rather than re-training
+	if use_saved_model:
+		print 'using saved weight values rather than training'
+		loader = tf.train.import_meta_graph(os.path.join(SAVE_DIR,'neural-model-final.meta'))
+		loader.restore(sess, tf.train.latest_checkpoint(SAVE_DIR))
+		for var in tf.all_variables():
+			print var
+   	else:
+   		# initialize variables
+		init = tf.global_variables_initializer()
 
-		# count the number of examples
-		step += label.shape[0]
+   		# if no saved values need to initialize all variables (randomly)
+   		sess.run(init)
 
-		duration = time.time() - start_time
+   		# create a saver
+		saver = tf.train.Saver()
 
-		if step % 100 == 0:
-			print('Step %d: loss = %.2f (%.3f sec)' % (step, loss_value, duration))
-	        # Update the events file.
-	        summary_str = sess.run(summary, feed_dict=feed_dict)
-	        summary_writer.add_summary(summary_str, step)
-	        summary_writer.flush()
+		print 'beginning training'
+		for batch_count, batch in enumerate(train_iterator):
+			text, desc, label = batch
+			feed_dict = {text_placeholder: text, desc_placeholder:desc, label_placeholder:label}
 
-	    # save the model every 10000 training examples
-		if ((step+1) % 10000 == 0):
-			saver.save(sess, os.path.join(SAVE_DIR,'neural-model'), global_step=step)
 
-	print 'training completed'
+			for i in range(NUM_GRAD_PER_BOOK):
+				_, loss_value = sess.run([train_op, loss],
+		                               feed_dict=feed_dict)
 
-	# save the final trained model
-	saver.save(sess, os.path.join(SAVE_DIR, 'neural-model-final'))
+				# count the number of examples
+				step += label.shape[0]
+
+				duration = time.time() - start_time
+
+				if step % 100 == 0:
+					print('Step %d: loss = %.2f (%.3f sec)' % (step, loss_value, duration))
+			        # Update the events file.
+			        summary_str = sess.run(summary, feed_dict=feed_dict)
+			        summary_writer.add_summary(summary_str, step)
+			        summary_writer.flush()
+
+		    # save the model every 10000 training examples
+			if ((step+1) % 10000 == 0):
+				saver.save(sess, os.path.join(SAVE_DIR,'neural-model'), global_step=step)
+
+			print 'training completed'
+			# save the final trained model
+			saver.save(sess, os.path.join(SAVE_DIR, 'neural-model-final'))
 
 	# once it is trained 
 	# test it 
@@ -84,9 +98,11 @@ def run_experiment(train_iterator, test_iterator):
 		text, desc, label = batch
 		feed_dict = {text_placeholder: text, desc_placeholder:desc, label_placeholder:label}
 
-		_, accuracy = sess.run([train_op, eval_op],
+		loss_val, accuracy = sess.run([loss, eval_op],
                                feed_dict=feed_dict)
 
+		print 'final test loss'
+		print loss_val
 		correct, incorrect = accuracy
 		total_correct += correct
 		total_incorrect += incorrect
@@ -118,7 +134,7 @@ class NMFeeder(object):
 			try:
 				# debugging feature
 				if self.limit:
-					if self.limit < self.count:
+					if self.limit <= self.count:
 						break
 				print 'now using '+book1+' and '+book2
 				# MAX_TEXT_LENGTH and MAX_DESC_LENGTH are hyperparameters
@@ -139,7 +155,7 @@ class NMFeeder(object):
 
 
 #############################
-######## Nueral Model ########
+######## Nueral Model #######
 #############################
 
 
@@ -150,8 +166,8 @@ class NMFeeder(object):
 # and 2k test book pairings
 # with a 50/50 
 train, test = get_train_test(train_count=10000, test_count=2000)
-train_feeder = NMFeeder(train, limit=2)
-test_feeder = NMFeeder(test, limit=2)
-run_experiment(train_feeder, test_feeder)
+train_feeder = NMFeeder(train, limit=1)
+test_feeder = NMFeeder(train, limit=1)
+run_experiment(train_feeder, test_feeder, use_saved_model=True)
 
 
