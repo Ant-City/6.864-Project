@@ -51,15 +51,18 @@ class SimpleBookMatrix(object):
 
 
 	@classmethod
-	def getSimpleVectorizer(cls,book_path,embedding_file):
+	def getSimpleVectorizer(cls,book_path,embedding_file=None,model=None):
 		book = Book.Book.getBook(book_path)
-		try:
-			model = cPickle.load(open(embedding_file,'rb'))
-			print 'model loaded...'
-		except Exception as e:
-			print e
-			return None
-		return SimpleBookMatrix(book, model)
+		if model:
+			return SimpleBookMatrix(book,model)
+		else:
+			try:
+				model = cPickle.load(open(embedding_file,'rb'))
+				print 'model loaded...'
+			except Exception as e:
+				print e
+				return None
+			return SimpleBookMatrix(book, model)
 
 
 """
