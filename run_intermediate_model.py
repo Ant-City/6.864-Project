@@ -1,6 +1,7 @@
 import os, cPickle, build_dataset
 from sklearn.svm import SVC
 from sklearn.cross_validation import train_test_split
+from sklearn.metrics import precision_score, recall_score, accuracy_score
 from Data.Book import Book
 from Models.RelevantTextVectorizer import RelevantTextVectorizer
 
@@ -42,11 +43,19 @@ if run_intermediate_model:
 
 	# training 
 	svm_classifier.fit(X_train, Y_train)
+	Y_pred_train = svm_classifier.predict(X_train)
 	print 'basic model svm performance on training data: '
-	print svm_classifier.score(X_train, Y_train)
+	print 'precision - ' + str(precision_score(Y_train, Y_pred_train))
+	print 'recall - ' + str(recall_score(Y_train, Y_pred_train))
+	print 'accuracy - ' + str(accuracy_score(Y_train, Y_pred_train))
 
+	print '\n'
+	print "________________________________________"
 	print '\n'
 
 	# testing 
-	print 'basic model svm performace on test data: '
-	print svm_classifier.score(X_test, Y_test)
+	Y_pred_test = svm_classifier.predict(X_test)
+	print 'basic model svm performance on test data: '
+	print 'precision - ' + str(precision_score(Y_test, Y_pred_test))
+	print 'recall - ' + str(recall_score(Y_test, Y_pred_test))
+	print 'accuracy - ' + str(accuracy_score(Y_test, Y_pred_test))
